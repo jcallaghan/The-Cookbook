@@ -43,12 +43,13 @@ This is a very classic British dish and simply classic. For the best results mak
 4. Prepare the batter by mixing the eggs and flour together
 5. Add the milk, mustard powder, paprika and seasoning to taste
 6. Remove the casserole dish from the oven (ensure it goes on a heat proof surface)
-7. Quickly place the sausages to the dish before pouring the batter around the sizzling hot tray and topping with rosemary
-8. Return back to the oven for 25 minutes
-9. The trick for a cripsy batter is to not open the oven until the batter is cooked
-10. Finely chop the onion and add to a pan with oil or butter to sweat off
-11. Keep stirring them to prevent them from burning
-12. Once the onions have caramelised, add some flour and mix around and then reduce the red wine in a pan
+7. Quickly place the sausages into the casserole dish 
+8. Pour the batter around the sizzling hot tray and topping with rosemary
+9. Return back to the oven for 25 minutes
+10. The trick for a cripsy batter is to not open the oven until the batter is cooked
+11. Finely chop the onion and add to a pan with oil or butter to sweat off
+12. Keep stirring them to prevent them from burning
+13. Once the onions have caramelised, add some flour and mix around and then reduce the red wine in a pan
 14. Add the gravy and bring to a simmer
 15. Ahead of serving bring water in a pan to a boil to cook the peas
 16. Mix in a few splashes of balsamiq vinegar to the gravy
