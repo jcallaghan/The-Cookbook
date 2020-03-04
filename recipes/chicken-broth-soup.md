@@ -46,3 +46,5 @@ If there is any leftover I drain and remove any remaining chicken (freeze for pi
 10. Continue to skim any fat or foam to create a delicate and clear broth
 11. If serving with dumplings then add them approximately 20 minutes ahead of serving
 12. Before serving add the chicken and carrots back to the broth
+
+![Chicken broth variant](../images/chicken-broth-soup-served-variant.jpg)
