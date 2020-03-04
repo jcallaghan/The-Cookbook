@@ -27,7 +27,7 @@ This is great to quickly put together on a weeknight and how hot you make it is 
 
 Some insist on browning the sausages before adding them to the hotpot however I prefer to cook them just in the hotpot as it makes the sausage softer which works well with the hotpot.
 
-![Chicken broth served](../images/chicken-broth-soup-served.jpg)
+![Sausage and Bean Hotpot](../images/sausage-and-bean-hotpot.jpg)
 
 ## Ingredients:
 * Sausages (2-3 Cumberland sausages per serving)
