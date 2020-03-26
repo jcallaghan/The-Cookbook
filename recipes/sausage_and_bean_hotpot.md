@@ -2,10 +2,6 @@
 title: Sausage and Bean Hotpot
 description: null
 date: 03/03/2020
-image: ---
-title: Sausage and Bean Hotpot
-description: null
-date: 03/03/2020
 image: sausage-and-bean-hotpot.jpg
 tags: Casserole
 serves: 4
