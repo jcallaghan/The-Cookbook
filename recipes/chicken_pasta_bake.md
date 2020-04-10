@@ -57,4 +57,4 @@ drained pasta and mix together before adding to an over proof dish (a larger dis
 
 # See also
 * [Mary Berry’s Creamy Chicken Pasta Bake](https://www.mygorgeousrecipes.com/chicken-pasta-bake/)
-* []()
+* [Chicken pasta bake, BBC Good Food](https://www.bbcgoodfood.com/recipes/chicken-pasta-bake)
