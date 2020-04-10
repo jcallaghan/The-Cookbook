@@ -36,7 +36,7 @@ If there is any leftover I drain and remove any remaining chicken (freeze for pi
 ## Method:
 1. Add the onions, carrots, celery and garlic to the pan
 2. Add the whole chicken
-3. Fill the pan with water and add the chicken stock Bring to a boil and then simmer for 1 1/2 hours
+3. Fill the pan with water and add the chicken stock Bring to a boil and then simmer for 1 ½ hours
 4. Skim the fat and any foam from the top into a dish (this fat is great to keep refrigerated and use to cook with roast potatoes)
 5. Drain over sieve into another pan
 6. Place the veg and chicken to one side and return the broth back to the original pan
