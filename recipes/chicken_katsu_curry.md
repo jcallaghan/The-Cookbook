@@ -1,4 +1,4 @@
----*
+---
 title: Chicken Katsu Curry
 description: null
 date: 11/04/2020
