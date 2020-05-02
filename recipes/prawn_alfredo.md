@@ -55,7 +55,6 @@ pinterest: null
 1. Serve topped with some fresh parmesan and fresh parsley.
 
 ## See also:
-* [Prawn Thai Green Curry - Kitchen Garden Recipes]
 * [Bryony Morganna, ONE POT Prawn Alfredo Pasta](https://www.youtube.com/watch?v=ztt-xKhZKrA)
 * [Natashas Kitchen, Creamy Shrimp Alfredo Pasta](https://www.youtube.com/watch?v=5vy9HeL8mOc)
 * [WORLD'S CREAMIEST FETTUCCINE ALFREDO | Eitan Bernath](https://www.youtube.com/watch?v=VGo3ZkremN4)
