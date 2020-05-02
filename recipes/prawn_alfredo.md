@@ -21,7 +21,7 @@ pinterest: null
  This dish could not be easier to make and is ready in no time at all. 
  It has to be one of my favourite pasta dishes and is very popular with amongst my friends. 
 
-![Prawn Alfredo](../images/prawn-alfredo.jpg)
+![Prawn Alfredo](../images/prawn_alfredo.jpg)
 
 ## Ingredients:
 * 200g linguine or fettuccine pasta
