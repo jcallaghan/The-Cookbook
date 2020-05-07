@@ -24,33 +24,35 @@ This is a very classic British dish and simply classic. For the best results mak
 
 ## Ingredients:
 * 6 best butchers sausages (I love using big cumberlands)
-* 2 eggs
-* 75g flour
-* 75ml milk
+* 3 eggs
+* 120g flour
+* 120ml milk
 * 1 tbsp mustard powder
 * 1 tsp smoked paprika
+* 1 tsp dried rosemary
 * 150ml beef gravy stock
 * 2 large white onions
+* Balsamiq vinegar
 * 100ml red wine
 * Garden peas
 * Fresh rosemary
 * Cooking oil
 
 ## Method:
-1. Preheat the over to 225°C
-2. Brown off the sausages in a frying pan
-3. While the sausages are browning, add 3-4 tbsp of oil to a casserole dish and add to the oven to get it smoking hot
-4. Prepare the batter by mixing the eggs and flour together
-5. Add the milk, mustard powder, paprika and seasoning to taste
-6. Remove the casserole dish from the oven (ensure it goes on a heat proof surface)
-7. Quickly place the sausages into the casserole dish 
-8. Pour the batter around the sizzling hot tray and topping with rosemary
-9. Return back to the oven for 25 minutes
-10. The trick for a cripsy batter is to not open the oven until the batter is cooked
-11. Finely chop the onion and add to a pan with oil or butter to sweat off
-12. Keep stirring them to prevent them from burning
-13. Once the onions have caramelised, add some flour and mix around and then reduce the red wine in a pan
-14. Add the gravy and bring to a simmer
-15. Ahead of serving bring water in a pan to a boil to cook the peas
-16. Mix in a few splashes of balsamiq vinegar to the gravy
-17. Serve with gravy and peas
+1. Preheat the over to 225°C.
+1. Brown off the sausages in a frying pan.
+1. While the sausages are browning, add 3-4 tbsp of oil to a casserole dish and add to the oven to get it smoking hot.
+1. Prepare the batter by mixing the eggs and flour together.
+1. Add the milk, mustard powder, rosemary, paprika and seasoning to taste.
+1. Remove the casserole dish from the oven (ensure it goes on a heat proof surface).
+1. Quickly place the sausages into the casserole dish.
+1. Pour the batter around the sizzling hot tray and topping with rosemary.
+1. Return back to the oven for 25 minutes.
+1. The trick for a cripsy batter is to not open the oven until the batter is cooked.
+1. Finely chop the onion and add to a pan with some oil or butter to sweat off.
+1. Keep stirring them to prevent them from burning.
+1. Once the onions have caramelised, add some flour and mix around and then reduce the red wine in a pan.
+1. Add the gravy and bring to a simmer.
+1. Mix in a few splashes of balsamiq vinegar to the gravy.
+1. Ahead of serving bring water in a pan to a boil to cook the peas.
+17. Serve with gravy and peas.
