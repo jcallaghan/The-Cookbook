@@ -20,7 +20,7 @@ pinterest: null
 
 This is an instant winner with friends. The ratatouille is full of flavour, particularly if you chargrill the courgette and aubergine sufficently. It is also a great dish to present at a dinner party and the steak can be combined or swapped out with vegetarian options. It is full of colour and aromatic smells. 
 
-![image](https://user-images.githubusercontent.com/7449908/87287879-89b9b400-c4f2-11ea-9f00-f7f048a2cfb8.jpeg)
+![image](../images/grilled_steak_ratatouille_and_saffron_rice_1.jpeg)
 
 ## Ingredients
 
@@ -60,4 +60,4 @@ This is an instant winner with friends. The ratatouille is full of flavour, part
 1. Tear the basil into the ratatouille.
 1. Serve with yoghurt and saffron rice.
 
-![image](https://user-images.githubusercontent.com/7449908/87287941-9c33ed80-c4f2-11ea-8ae5-6ddde4435548.jpeg)
+![image](../images/grilled_steak_ratatouille_and_saffron_rice_2.jpeg)
