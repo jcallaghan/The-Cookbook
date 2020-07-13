@@ -1,3 +1,5 @@
+This is a list of some of my favourite and regular dishes. Over time I will write these up but for now they are helpful for inspiration when creating my meal planner for the week.
+
 1. Arrabiata pasta with mozzarella and chorizo
 1. Baked fish
 1. Bang bang cauliflower
