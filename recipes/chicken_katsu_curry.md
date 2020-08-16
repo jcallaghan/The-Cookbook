@@ -40,7 +40,7 @@ This recipe is one of my favourites, is easy and hits the spot every time. I act
 * 1 tsp garam masala
 
 ### For the breaded chicken
-* 4 chicken breast fillet (cover with cling film and beat flat with a rollling pin)
+* 4 chicken breast fillet (cover with cling film and beat flat with a rolling pin)
 * Salt and pepper to taste
 * 2 tbsp plain flour or corn flour
 * 1 egg, beaten (optional added smoked paprika and chilli flakes in with the egg)
