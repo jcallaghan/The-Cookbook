@@ -18,9 +18,7 @@ pinterest: null
 * Prep Time: 15 minutes
 * Cook Time: 15 minutes
 
-This recipe is one of my favourites, is easy and hits the spot every time. 
-I actually prefer my own recipe than those from restuarants howver I still like to get inspriation from them. 
-[DRAFT] mention the rice mold.
+This recipe is one of my favourites, is easy and hits the spot every time. I actually prefer my own recipe than those from restaurants however I still like to get inspiration from them. [DRAFT] mention the rice mould.
 
 ![Chicken katsu curry](../images/chicken-katsu-curry.jpg)
 
