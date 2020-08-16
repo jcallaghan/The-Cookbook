@@ -18,7 +18,7 @@ pinterest: null
 * Prep Time: 15 minutes
 * Cook Time: 45 minutes
 
-This is an instant winner with friends. The ratatouille is full of flavour, particularly if you chargrill the courgette and aubergine sufficently. It is also a great dish to present at a dinner party and the steak can be combined or swapped out with vegetarian options. It is full of colour and aromatic smells. 
+This is an instant winner with friends. The ratatouille is full of flavour, particularly if you chargrill the courgette and aubergine sufficiently. It is also a great dish to present at a dinner party and the steak can be combined or swapped out with vegetarian options. It is full of colour and aromatic smells. 
 
 ![image](../images/grilled_steak_ratatouille_and_saffron_rice_1.jpeg)
 
