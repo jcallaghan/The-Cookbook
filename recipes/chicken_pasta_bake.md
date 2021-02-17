@@ -20,7 +20,7 @@ pinterest: null
 
 ...
 
-![...](../images/chicken-pasta--bake.jpg)
+![...](../images/chicken-pasta-bake.jpg)
 
 ## Ingredients:
 * 300g penne pasta (75g per person)
