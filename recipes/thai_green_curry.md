@@ -10,6 +10,7 @@ cook: 20 min
 total: 30 min
 blog: null
 pinterest: null
+github: https://github.com/jcallaghan/recipes/issues/47
 ---
 
 # Thai Green Curry
