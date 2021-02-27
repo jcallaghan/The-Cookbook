@@ -29,7 +29,6 @@ Among the countless recipes i've tried this is the one I default to each time I 
 - 1 tsp sesame oil
 - 2 tbsp peanut oil
 - 1 tbsp green curry paste
-- 600g king prawns, shelled
 - 2 tbsp fish sauce
 - 1 can coconut milk
 - 4 kaffir lime leaves
@@ -40,15 +39,20 @@ Among the countless recipes i've tried this is the one I default to each time I 
 - 8 thai basil leaves
 - Sliced aubergine
 - 1 small can of bamboo shoots drained
+- 600g king prawns, shelled
+- Optionally 2 x chicken breasts or thighs
 - Sticky rice
 - Prawn crackers
 
 ## Method:
-- Heat the oils in a large heavy bottom pan and stir in the curry paste for 1-2 minutes.
-- Add the coconut milk, lime leaves, palm sugar, fish sauce, lime juice, zest and simmer for 10-15 minutes.
-- Boil water and add sticky rice.
-- Add the prawns, chilli's, aubergine and bamboo shoots and cook for a further 5 minutes or until the prawns are just cooked through.
-- Throw in the thai basil, stir and serve over sticky rice.
+- Heat the oils in a large heavy bottom pan and stir in the curry paste for 1-2 minutes. Careful the heat is not too hot that it burns the curry paste.
+- Add the coconut milk, lime leaves, palm sugar, fish sauce, lime juice, zest and simmer for 10-15 minutes. This is the points where you can add more green curry paste or coconut milk depending on your preference. If I add more of both I often add a little more palm sugar and lime.
+- Complete the sauce by adding the chilli's, aubergine and bamboo shoots.
+- Boil water and add sticky rice following instructions as per sticky rice cooking guidance.
+- In a seperate pan cook the prawns or chicken breast. Once cooked cut the chicken into slices.
+- Throw in the torn thai basil leaves and stir.
+- Serve the sticky rice (seperately or using the Shimotori mold) before placing the prawn or chicken over the rice or in a bowl.
+- Pour the curry over the prawn or chicken.
 
 ## See also:
 - [Prawn Thai Green Curry - Kitchen Garden Recipes](http://kitchengardenrecipes.wordpress.com/2008/11/28/prawn-thai-green-curry/)
