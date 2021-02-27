@@ -3,7 +3,7 @@ title: Thai Green Curry
 description: null
 date: 20/11/2018
 image: thai-green-king-prawn-curry.jpg
-tags: Curry, Asian
+tags: Curry, Asian, Prawn, Chicken
 serves: 4
 prep: 10 min
 cook: 20 min
@@ -19,7 +19,11 @@ github: https://github.com/jcallaghan/recipes/issues/47
 - Prep Time: 10 minutes
 - Cook Time: 30 minutes
 
-I remember the first time I had a prawn thai green curry like it was yesterday. It was the intensity of the curry paste and chilli, the smoothness of the coconut milk, stickiness of the rice and the aubergine that has stuck with me since. Among the countless recipes this is the one I default to each time I cook a thai green curry. I like it hot but you can make it as hot or mild as you like. Some like it with prawns while others like it with chicken. This and my katsu curry recipe inspired me to track down a utensil that I have seen used in restaurants like Wagamama among others to mould the rice as it is served. After much research I finally found the name of the utensil. It is known as a Shimotori rice mold and I found  one that was sold on Global Kitchen Japan. This adds a lovely little touch to the dish when it is served.
+I remember the first time I had a prawn thai green curry like it was yesterday. With this recipe I'm instantly taken back to the [The Wrestlers](https://www.squaremeal.co.uk/restaurants/the-wrestlers-cambridge_8507) on Newmarket Road in Cambridge. A team of us from the IT department at Marshall Aerospace regularly visitied for lunch at least once a month! For me I'm reminded of the intensity of the curry paste and chilli's, the sweetness and smoothness of the coconut milk, stickiness of the rice served seperately in a bowl and the aubergine that has stuck with me since. They also provided chilli prawn crackers with the dish which were delicious.
+
+![Thai green currry from the Wrestlers, Newmarket Road, Cambridge](https://user-images.githubusercontent.com/7449908/109398180-0ccd3480-7933-11eb-816d-6b9a347f7813.png)
+
+Among the countless recipes i've tried this is the one I default to each time I cook a thai green curry. I like it hot but you can make it as hot or mild as you like. Some like it with prawns while others like it with chicken. This and my katsu curry recipe inspired me to track down a utensil that I have seen used in restaurants like Wagamama among others to mould the stick rice as it is served. After much research I finally found the name of the utensil. It is known as a Shimotori (Omurice) rice mold and I found one sold by [Global Kitchen Japan](https://www.globalkitchenjapan.com/collections/shimotori/products/shimotori-stainless-steel-restaurant-style-rice-mold-omurice). This adds a lovely little touch to the dish when it is served.
 
 # Ingredients:
 - 1 tsp sesame oil
