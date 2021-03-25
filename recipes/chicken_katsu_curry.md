@@ -42,7 +42,7 @@ This recipe is one of my favourites, is easy and hits the spot every time. I act
 ### For the breaded chicken
 * 4 chicken breast fillet (cover with cling film and beat flat with a rolling pin)
 * Salt and pepper to taste
-* 2 tbsp plain flour or corn flour
+* 2 tbsp plain flour or cornflour
 * 1 egg, beaten (optional added smoked paprika and chilli flakes in with the egg)
 * 100g panko breadcrumbs
 * 230ml vegetable oil for frying
@@ -52,16 +52,16 @@ This recipe is one of my favourites, is easy and hits the spot every time. I act
 2. For the sauce. Heat oil in a medium saucepan and add in the chopped onion, garlic and spices until softened and golden brown.
 3. Add the carrots on low heat for 10 minutes.
 4. Add flour cook for 1 minute. 
-5. Gradually pour in stock until combined and then add honey, soy sauce and bay leaf. 
+5. Gradually pour in the stock until combined and then add honey, soy sauce and bay leaf. 
 6. Slowly bring to the boil.
-7. Turn down heat and simmer for 20 minutes or until sauce thickens but is still of pouring consistency. 
+7. Turn down the heat and simmer for 20 minutes or until sauce thickens but is still of pouring consistency. 
 8. Leave to cool slightly, then blend the mixture until smooth (use a sieve if you don't have a hand blender). Keep warm.
 9. For the chicken, add the flour, beaten eggs and panko breadcrumbs into three bowls (place in a line leading to the frying pan.
 10. Heat the oil in a frying pan over a medium-high heat.
-11. Seat the chicken breasts  before covering in flour, then the egg and finally the breadcrumbs. 
-12. Fry the chicken breasts for 2-3 minutes on each side, or until golden-brown. 
-13. Remove from the heat and use kitchen roll to remove any excess oil.
-14. Use a small bowl to serve the rice onto place to create a nice mold. The add a chicken breast and a nice covering of curry sauce.
+11. Seat the chicken breasts before covering in flour, then the egg and finally the breadcrumbs. 
+12. Fry the chicken breasts for 2-3 minutes on each side, or until golden brown. 
+13. Remove from the heat and use kitchen tissue paper to remove any excess oil.
+14. Use a small bowl or mould to serve the rice. Then add a chicken breast and a nice covering of curry sauce.
 
 # See also
 * [Chicken katsu curry - All Recipes](http://allrecipes.co.uk/recipe/29578/chicken-katsu-curry.aspx)
