@@ -24,7 +24,7 @@ This recipe is one of my favourites, is easy and hits the spot every time. I act
 
 ## Ingredients: 
 
-* 260 g basmati rice (90g per person)
+* 260g basmati rice (90g per person)
 
 ### For the curry sauce
 * 2 tablespoons sunflower oil
@@ -33,7 +33,7 @@ This recipe is one of my favourites, is easy and hits the spot every time. I act
 * 3 medium carrots, sliced
 * 2 tbsp plain flour
 * 4 tsp curry powder
-* 600 ml chicken stock
+* 600ml chicken stock
 * 1 tbsp honey
 * 4 tbsp soy sauce
 * 1 bay leaf
@@ -44,8 +44,8 @@ This recipe is one of my favourites, is easy and hits the spot every time. I act
 * Salt and pepper to taste
 * 2 tbsp plain flour or corn flour
 * 1 egg, beaten (optional added smoked paprika and chilli flakes in with the egg)
-* 100 g panko breadcrumbs
-* 230 ml vegetable oil for frying
+* 100g panko breadcrumbs
+* 230ml vegetable oil for frying
 
 ## Method:
 1. Cook the rice and drain once ready.
