@@ -22,7 +22,7 @@ This recipe is one of my favourites, is easy and hits the spot every time. I act
 
 ![Chicken katsu curry](../images/chicken-katsu-curry.jpg)
 
-## Ingredients: 
+## Ingredients:
 
 * 260g basmati rice (90g per person)
 
