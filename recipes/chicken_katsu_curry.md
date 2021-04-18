@@ -8,6 +8,8 @@ serves: 4
 prep: 15 minutes
 cook: 15 minutes
 total: 30 minutes
+issue: 148
+issue_url: https://github.com/jcallaghan/recipes/issues/148
 blog: null
 pinterest: null
 ---
