@@ -3,7 +3,7 @@ title: Thai Green Curry
 description: null
 date: 20/11/2018
 image: thai-green-king-prawn-curry.jpg
-tags: Curry, Asian, Prawn, Chicken
+tags: Curry; Asian; Prawn; Chicken; Rice;
 serves: 4
 prep: 10 min
 cook: 20 min
