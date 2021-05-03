@@ -3,6 +3,9 @@
 ## Recipes
 This is a plan text (well markdown) archive of all my favourite food and drink recipes.
 
+- [🍕 Pizza](https://github.com/jcallaghan/Recipes/projects/4)
+- [🔥 BBQ](https://github.com/jcallaghan/Recipes/projects/7)
+
 ### Background
 For years I have snipped and saved recipes I come across and use. I have old written recipes, recipes saved in OneNote, as well has written blog articles about my recipes but I've never created a single archive of my recipes, from the staple week night dishes to challenging dishses I test myself when hosting dinner parties. The main challenge is being able to find, search and explore my all my recipes really easily.
 
