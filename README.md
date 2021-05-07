@@ -1,3 +1,6 @@
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![GitHub issues](https://img.shields.io/github/issues/jcallaghan/Recipes.svg)](https://github.com/jcallaghan/Recipes/issues/)
+
 # I'm not a chef, I'm a geek who loves to cook great food.
 
 ## Recipes
