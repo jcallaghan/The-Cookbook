@@ -1,12 +1,12 @@
 [
   {
-    "section": "Repair items",
-    "labels": ["incident-repair", "short-term"],
-    "threshold": 10
+    "section": "BBQ",
+    "labels": ["bbq"],
+    "threshold": 100
   },
   {
-    "section": "Another section",
-    "labels": ["bug"],
-    "threshold": 2
+    "section": "Pizza",
+    "labels": ["pizza"],
+    "threshold": 100
   }
 ]
