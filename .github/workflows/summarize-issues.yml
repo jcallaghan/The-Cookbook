@@ -8,7 +8,7 @@ on:
     
 env:
   OUTPUT_FILE_NAME: Recipes.md
-  COMMITTER_EMAIL: 33549821+jcallaghan@users.noreply.github.com
+  COMMITTER_EMAIL: 7449908+jcallaghan@users.noreply.github.com
   COMMITTER_NAME: James Callaghan
   COMMITTER_USERNAME: jcallaghan
 
