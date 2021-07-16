@@ -1,0 +1,12 @@
+[
+  {
+    "section": "Repair items",
+    "labels": ["incident-repair", "short-term"],
+    "threshold": 10
+  },
+  {
+    "section": "Another section",
+    "labels": ["bug"],
+    "threshold": 2
+  }
+]
