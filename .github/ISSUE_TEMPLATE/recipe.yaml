@@ -1,5 +1,5 @@
-name: Recipe
-description: Create a new recipe
+name: "Recipe"
+description: "Create a new recipe"
 labels: ["✅ Needs writing-up","✅ Requires pictures","👋 Haven't cooked"]
 body:
         
