@@ -6,7 +6,7 @@ body:
   - type: textarea
     id: remarks
     attributes:
-      label: 
+      label: "Introduction"
       description: ""
       placeholder: Share background information about this recipe and a example picture.
       value: ""
