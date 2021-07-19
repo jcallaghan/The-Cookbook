@@ -7,9 +7,7 @@ body:
     id: remarks
     attributes:
       label: "Introduction"
-      description: ""
-      placeholder: Share background information about this recipe and a example picture.
-      value: ""
+      description: "Share background information about this recipe and a example picture."
       render: markdown
     validations:
       required: false
@@ -22,25 +20,25 @@ body:
   - type: textarea
     id: ingredients
     attributes:
-      label: 
-      description: ""
-      placeholder: Provide the ingredients.
-      value: "## Ingredients /n -"
+      label: "## Ingredients"
+      description: "Provide a list of the ingredients."
+      value: "- "
     validations:
-      required: false
-      
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+      required: true 
 
+  - type: textarea
+    id: method
+    attributes:
+      label: "## Method"
+      description: "List the steps involved in this recipe."
+      value: "1. "
+    validations:
+      required: true 
+      
   - type: input
     id: source
     attributes:
-      label: Source
+      label: "Source"
       description: "Record any URL to the recipe"
-      placeholder: ""
     validations:
       required: false
