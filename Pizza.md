@@ -7,7 +7,7 @@
 - [Ingredients](#Ingredients)
 - [Recipes](#Recipes)
 
-[Project](https://github.com/jcallaghan/Recipes/projects/4) | [Issues]() | [#Pizza](https://github.com/jcallaghan/Recipes/issues?q=label%3APizza) | [#]()
+[Project](https://github.com/jcallaghan/Recipes/projects/4) | [Issues]() | [#Pizza](https://github.com/jcallaghan/Recipes/issues?q=label%3APizza)
 
 ## Recipes 🤩
 
@@ -32,7 +32,6 @@
 1. [Ooni sourdough frozen dough balls #169](https://github.com/jcallaghan/Recipes/issues/169)
 1. [Same-day pizza dough #180](https://github.com/jcallaghan/Recipes/issues/180)
 1. [Sourdough starter #48](https://github.com/jcallaghan/Recipes/issues/48)
-
 ### Sauce 
 1. [Pizza sauce #145](https://github.com/jcallaghan/Recipes/issues/145)
 
