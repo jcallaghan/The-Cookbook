@@ -1,0 +1,49 @@
+name: Recipe
+description: Create a new recipe
+title: ""
+labels: []
+body:
+
+
+        
+  - type: textarea
+    id: remarks
+    attributes:
+      label: 
+      description: ""
+      placeholder: Share background information about this recipe and a example picture.
+      value: ""
+      render: markdown
+    validations:
+      required: false
+      
+  - type: markdown
+    attributes:
+      value: |
+        ## Ingredients
+        
+  - type: textarea
+    id: ingredients
+    attributes:
+      label: 
+      description: ""
+      placeholder: Provide the ingredients.
+      value: "## Ingredients /n -"
+    validations:
+      required: false
+      
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: "Record any URL to the recipe"
+      placeholder: ""
+    validations:
+      required: false
