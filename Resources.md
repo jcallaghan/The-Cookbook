@@ -1,5 +1,9 @@
 # Resources
 
+## Recipe sites
+* [Cookipedia](https://www.cookipedia.co.uk/recipes_wiki/Welcome_to_Cookipedia)
+* [Best Recipes UK](https://bestrecipesuk.com/)
+
 ## Online food suppliers
 * Fresh pasta delivered to your door by [Pasta Evangelists](https://pastaevangelists.com/)
 * [SMOKESTAK at home (must try there sticky toffee pudding loaf)](https://www.smokestakshop.co.uk/order)
