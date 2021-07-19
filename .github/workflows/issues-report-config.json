@@ -8,5 +8,10 @@
     "section": "Pizza",
     "labels": ["pizza"],
     "threshold": 100
-  }
+  },
+  {
+    "section": "Dessert",
+    "labels": ["Meal ::: Dessert"],
+    "threshold": 100
+  }  
 ]
