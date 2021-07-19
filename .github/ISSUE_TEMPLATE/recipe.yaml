@@ -1,10 +1,7 @@
 name: Recipe
 description: Create a new recipe
-title: ""
-labels: []
+labels: ["✅ Needs writing-up","✅ Requires pictures","👋 Haven't cooked"]
 body:
-
-
         
   - type: textarea
     id: remarks
