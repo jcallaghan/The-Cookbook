@@ -20,7 +20,7 @@ body:
   - type: textarea
     id: ingredients
     attributes:
-      label: "## Ingredients"
+      label: "Ingredients"
       description: "Provide a list of the ingredients."
       value: "- "
     validations:
@@ -29,7 +29,7 @@ body:
   - type: textarea
     id: method
     attributes:
-      label: "## Method"
+      label: "Method"
       description: "List the steps involved in this recipe."
       value: "1. "
     validations:
