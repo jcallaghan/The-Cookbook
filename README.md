@@ -6,6 +6,7 @@
 ## Recipes
 [TLDR] This is a plain text (well, markdown) archive of all my favourite food and drinks recipes. Enjoy!
 
+- [📅 Meal Planner](https://github.com/jcallaghan/Recipes/projects/10)
 - [🍕 Pizza](/Pizza.md)
 - [🔥 BBQ](/BBQ.md)
 - [🔪 Equipment](/Equimpent.md)
