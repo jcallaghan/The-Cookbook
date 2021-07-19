@@ -1,0 +1,9 @@
+# Resources
+
+## Online food suppliers
+* Fresh pasta delivered to your door by [Pasta Evangelists](https://pastaevangelists.com/)
+* [SMOKESTAK at home (must try there sticky toffee pudding loaf)](https://www.smokestakshop.co.uk/order)
+
+## Food events and pop-ups
+* [Online Whiskey Cocktails & Fried Chicken Workshop by Jameson and Mother Clucker](https://feverup.com/m/95661)
+* [The Fat Big Quiz of Easter](https://feverup.com/m/94973)
