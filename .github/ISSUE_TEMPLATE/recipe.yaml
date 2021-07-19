@@ -16,7 +16,6 @@ body:
     attributes:
       label: "Ingredients"
       description: "Provide a list of the ingredients."
-      value: ""
     validations:
       required: true 
 
@@ -25,7 +24,6 @@ body:
     attributes:
       label: "Method"
       description: "List the steps involved in this recipe."
-      value: ""
     validations:
       required: true 
       
