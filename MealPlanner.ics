@@ -1,45 +1,52 @@
 BEGIN:VCALENDAR
-PRODID:https://github.com/jcallaghan/recipes/
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
+UID:20210917T184500Z@jcallaghan.com
+DTSTAMP:20210917T150000Z
 DTSTART:20210917T184500Z
 DTEND:20210917T193000Z
-SUMMARY:Salmon, broccoli and feta lattice bake #166
-DESCRIPTION:Salmon, broccoli and feta lattice bake\n#166\nhttps://github.com/jcallaghan/Recipes/issues/166\n
+SUMMARY:Salmon\, broccoli and feta lattice bake #166
+DESCRIPTION:https://github.com/jcallaghan/Recipes/issues/166
 END:VEVENT
 BEGIN:VEVENT
-UID:11a7fea8-e9f9-4952-8554-f8ce4999977d@jcallaghan.com
+UID:20210918T184500Z@jcallaghan.com
+DTSTAMP:20210917T150000Z
 DTSTART:20210918T184500Z
-DTEND: 20210918T193000Z
+DTEND:20210918T193000Z
 SUMMARY:Thai green curry #47
-DESCRIPTION:Thai green curry\n#47\nhttps://github.com/jcallaghan/Recipes/issues/47\n
+DESCRIPTION:https://github.com/jcallaghan/Recipes/issues/47
 END:VEVENT
 BEGIN:VEVENT
-UID:b35c4e1a-7411-4c5d-9bef-8fdafb7dc9d2@jcallaghan.com
+UID:20210919T184500Z@jcallaghan.com
+DTSTAMP:20210917T150000Z
 DTSTART:20210919T184500Z
 DTEND:20210919T193000Z
 SUMMARY:Beef roast #282
-DESCRIPTION:Beef roast\n#282\nhttps://github.com/jcallaghan/Recipes/issues/282\n
+DESCRIPTION:https://github.com/jcallaghan/Recipes/issues/282
 END:VEVENT
 BEGIN:VEVENT
-UID:eb35cdac-b3c7-486f-84c6-21f18b1f1ada@jcallaghan.com
+UID:20210920T184500Z@jcallaghan.com
+DTSTAMP:20210917T150000Z
 DTSTART:20210920T184500Z
 DTEND:20210920T193000Z
 SUMMARY:Chicken piccata #286
-DESCRIPTION:Chicken piccata\n#286\nhttps://github.com/jcallaghan/Recipes/issues/286\n
+DESCRIPTION:https://github.com/jcallaghan/Recipes/issues/286
 END:VEVENT
 BEGIN:VEVENT
-UID:760ecd3f-4e69-46f7-93ad-e7ebd80132c8@jcallaghan.com
+UID:20210921T184500Z@jcallaghan.com
+DTSTAMP:20210917T150000Z
 DTSTART:20210921T184500Z
 DTEND:20210921T193000Z
 SUMMARY:Pesto #183
-DESCRIPTION:Pesto\n#183\nhttps://github.com/jcallaghan/Recipes/issues/183\n
+DESCRIPTION:https://github.com/jcallaghan/Recipes/issues/183
 END:VEVENT
 BEGIN:VEVENT
-UID:d9b51ed5-8852-477c-ad0f-14b6b5ff3e78@jcallaghan.com
+UID:20210922T184500Z@jcallaghan.com
+DTSTAMP:20210917T150000Z
 DTSTART:20210922T184500Z
 DTEND:20210922T193000Z
 SUMMARY:Cous-cous #117
-DESCRIPTION:Pesto\n#117\nhttps://github.com/jcallaghan/Recipes/issues/117\n
+DESCRIPTION:https://github.com/jcallaghan/Recipes/issues/117
 END:VEVENT
 END:VCALENDAR
