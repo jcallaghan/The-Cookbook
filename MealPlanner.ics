@@ -1,9 +1,4 @@
 BEGIN:VCALENDAR
-X-WR-CALNAME:Meal Planner
-X-WR-CALDESC:Meal Plan provided by GitHub Meal Planner project
-X-PUBLISHED-TTL:PT15M
-PRODID:-//James Callaghan
-VERSION:1.0
 BEGIN:VEVENT
 UID: 6a5f03ef-7de8-45f5-9ace-d4270fb04a27@jcallaghan.com
 DTSTAMP:20210917T130000Z
