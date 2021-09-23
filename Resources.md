@@ -3,6 +3,7 @@
 ## Recipe sites
 * [Cookipedia](https://www.cookipedia.co.uk/recipes_wiki/Welcome_to_Cookipedia)
 * [Best Recipes UK](https://bestrecipesuk.com/)
+* [Co-op](https://www.coop.co.uk/recipes)
 
 ## Online food suppliers
 * Fresh pasta delivered to your door by [Pasta Evangelists](https://pastaevangelists.com/)
