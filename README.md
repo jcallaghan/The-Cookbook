@@ -28,3 +28,14 @@ I hope to integrate this repo with other services such as Search, my calendar an
 ### Made with love 💖
 
 I'll keep you updated with how I progress with all the geeky stuff, but for now, enjoy my recipes and be [nosy at what I'm currently planning to cook this week](https://github.com/jcallaghan/Recipes/projects/10)!
+
+### //TODO
+- Recipes to primary label markdown pages (categorisation)
+- Recipe issue primary comment to markdown recipe file (publish)
+- Create project columns (planning)
+- Project issues to .ical file (schedule)
+- Website front-end (sharing)
+- Power BI 'esque statistics from project recipes (analytics)
+
+### Bugs
+- Cannot search for issue to add to project column. These are typically issues that have been in the project before. They would have been removed by removing the column from the project. After this the issues in these columns are no longer returned when performing an issue search via the adding cards option.
