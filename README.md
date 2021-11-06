@@ -9,6 +9,7 @@
 - [🍸 Cocktails and Drinks](/Cocktails-and-Drinks.md)
 - [🔪 Equipment](/Equimpent.md)
 - [🍕 Pizza](/Pizza.md)
+- [🧑‍🍳 Recipes](/Recipes.md)
 
 ## Background 🍽️
 For years I have snipped and saved recipes I come across and use. I have old written recipes, recipes saved in OneNote, and recipes I've published on my blog. Still, I've never created a single archive of my recipes, from the staple weeknight dishes to challenging dishes I test myself with when hosting dinner parties. The main challenge is being able to find, search and explore all my recipes really easily.
