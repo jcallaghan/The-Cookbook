@@ -1,14 +1,15 @@
 # 🍸 Cocktails and Drinks
 
-- [Recipes](#Recipes)
+- [Cocktails](#cocktails)
+- [Drinks](#drinks)
 - [Equipment](#equipment)
-- [Suppliers](#Suppliers)
-- [Resources](#Resources)
-- [Ingredients](#Ingredients)
+- [Suppliers](#suppliers)
+- [Resources](#resources)
+- [Ingredients](#ingredients)
 
 GitHub: [Project](https://github.com/jcallaghan/Recipes/projects/6) | [Issues](https://github.com/jcallaghan/Recipes/issues?q=cocktails+label%3A%22Drink+%3A%3A%3A+Cocktail+%F0%9F%8D%B8%22)
 
-## Recipes 🤩
+## Cocktails
 
 ### Amaro / Bitters
 None
@@ -33,14 +34,19 @@ None
 1. [Margarita #54](https://github.com/jcallaghan/Recipes/issues/54)
 
 ### Vodka 
-1. [Espresso Martini #130](https://github.com/jcallaghan/Recipes/issues/130)
-2. [Sex on the beach #217](https://github.com/jcallaghan/Recipes/issues/217)
+- [Espresso Martini #130](https://github.com/jcallaghan/Recipes/issues/130)
+- [Sex on the beach #217](https://github.com/jcallaghan/Recipes/issues/217)
 
 ### Whiskey
-1. [Whiskey Sour #310](https://github.com/jcallaghan/Recipes/issues/310)
+- [Whiskey Sour #310](https://github.com/jcallaghan/Recipes/issues/310)
 
 ### Other
 None
+
+## Drinks
+
+### Milkshakes
+- [Banana Milkshake #165](https://github.com/jcallaghan/Recipes/issues/165)
 
 ## Equipment
 - [Cocktail Cards](https://getcocktailcards.com/)
@@ -60,4 +66,4 @@ None
 - None
 
 ### Stock
-- None
+- [AI Whiskey](https://github.com/jcallaghan/Recipes/issues/75)
