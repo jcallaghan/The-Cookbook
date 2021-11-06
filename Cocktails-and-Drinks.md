@@ -1,4 +1,4 @@
-# 🍸 Cocktails
+# 🍸 Cocktails and Drinks
 
 - [Recipes](#Recipes)
 - [Equipment](#equipment)
