@@ -1,0 +1,89 @@
+---
+title: Prawn Pad Thai
+description: null
+date: 27/10/2021
+tags: Thai; Stir-fry; Asian;
+serves: 2
+prep: 15 minutes
+cook: 5 minutes
+total: 20 minutes
+issue: 324
+blog: null
+pinterest: null
+---
+
+# Prawn Pad Thai
+
+* Prep time: 15 min
+* Cook time: 5 min
+* Serves: 2 servings
+
+I worked for a family business that arranged a weekly team lunch where we would all come together once a week and have lunch together. 
+It was a great opportunity to explore different foods but also come together and share dfferent stories.
+One of my all-time favourites was the Thai food from a local restrauant a few minutes away from the office. 
+The chef and restaurant owner cooked this incredible Prawn Pad Thai, while this is not her recipe I always think of her dish and the team lunches when I have eat a Prawn Pad Thai.
+
+# Ingredients
+- 2 eggs, beaten
+- 2 x garlic, finely chopped
+- Prawns, shelled, deveined and heads removed if preferred
+- 1 tbsp sweet radish (or tamarind)
+- 1 handful of bean sprouts
+- 3 spring onions, chopped
+- red chilli, finely chopped
+- 300g rice noodles, soaked in warm water for 8-10 minutes, then drained and dried
+
+### Sauce
+- 2 tbsp oyster sauce
+- 2 tbsp fish sauce
+- 2 tbsp dark soy sauce
+- 1 tbsp light soy sauce
+- 3 tbsp sugar
+- drizzle sesame oil
+- 1 tsp rice vinegar
+- 2 tbsp water
+
+### To serve
+- Chilli powder, to taste
+- 4 tbsp roasted peanuts, crushed
+- 1 tbsp, sugar 
+- Lime quarter
+
+## Method
+
+### Sauce
+1. Mix the oyster sauce, dark and light soy sauce and sugar.
+2. Add the sesame oil, rice vinegar and water and mix together until fully dissolved.
+
+### Pad Thai
+
+1. Soak noodles in hot water for 8-10 minutes then drain.
+2. Run a drizzle of sesame oil over the noodles then dry on a tray with a towel.
+3. Marinade the prawns with a pinch of salt, sugar and a drizzle of sesame oil.
+4. Add cooking oil to the wok over medium high heat.
+5. Add eggs straight in and scramble them up.
+6. Add the garlic and fold the egg over the top.
+6. Add prawns to the half-cooked eggs and cook for about 2-3 minutes until the prawns are cooked through.
+7. Add the noodles and bring the egg over the top of the noodles.
+8. Add the Pad Thai sauce and turn up to high heat. Mix well and cook for about a minute until the noodles take on the golden brown colour.
+9. Turn off the heat and add beansprouts and chives; the heat from the noodles will cook them just right. 
+10. Serve with the garnish.
+
+## Notes
+- Try doubling the ingredients for the sauce and cooking one serving at a time.
+
+## Photos
+
+![image](https://user-images.githubusercontent.com/7449908/147612393-d6c6e0f5-14ba-448a-98f7-a781359a8852.jpeg)
+
+![image](https://user-images.githubusercontent.com/7449908/147612435-9211156d-b236-4906-93b8-be639d8e51d5.jpeg)
+
+![image](https://user-images.githubusercontent.com/7449908/147612460-3eb777a3-5371-4110-8101-f621fac22d77.jpeg)
+
+![image](https://user-images.githubusercontent.com/7449908/147612482-5b32818b-be11-40fa-bfa8-2c4f71dac962.jpeg)
+
+## Reference & Shares
+- [Delicious Thai Pad See Ew Recipe! | Wok Wednesdays](https://www.youtube.com/watch?v=_wDgcueLJvY)
+- [How to Make Classic Pad Thai | Cooking with Poo](https://www.youtube.com/watch?v=m88rF0rwHo8)
+- https://www.instagram.com/p/CWrJ5rBDG2W/
+- https://www.instagram.com/p/CWrGR9KjUKF/
