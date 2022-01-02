@@ -8,7 +8,7 @@ prep: 15 minutes
 cook: 5 minutes
 total: 20 minutes
 issue: 324
-issue_link: [324](/issues/324)
+issue_link: https://github.com/jcallaghan/Recipes/issues/324
 blog: null
 pinterest: null
 ---
