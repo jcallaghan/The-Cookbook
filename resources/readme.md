@@ -1,5 +1,7 @@
 # Resources
 
+## Equipment
+
 ## Recipe sites
 * [Cookipedia](https://www.cookipedia.co.uk/recipes_wiki/Welcome_to_Cookipedia)
 * [Best Recipes UK](https://bestrecipesuk.com/)
