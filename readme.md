@@ -4,7 +4,7 @@
 # I'm not a chef. I'm a geek who loves to cook great food!
 [TLDR] This is a plain text (well, markdown) archive of all my favourite food and drinks recipes. Enjoy!
 
-- [📅 Meal Planner](/projects/10)
+- [📅 Meal Planner](./projects/10)
 - [🧑‍🍳 Recipes](/Recipes.md)
 - [🍥 Baking](/Baing.md)
 - [🔥 BBQ](/BBQ.md)
