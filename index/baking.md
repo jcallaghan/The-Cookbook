@@ -11,6 +11,7 @@
 - Carrot cake #351
 - Cherry loaf cake #163
 - Chocolate fondant #164
+- Cinnamon swirls #352
 - Cupcakes #71
 
 ### J
