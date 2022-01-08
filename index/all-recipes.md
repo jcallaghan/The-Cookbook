@@ -1,4 +1,4 @@
-# All Recipes
+# All Published Recipes
 
 ### C
 - [Chicken broth soup #220](/recipes/chicken_broth_soup.md)
