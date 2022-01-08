@@ -5,14 +5,16 @@
 [TLDR] This is a plain text (well, markdown) archive of all my favourite food and drinks recipes. Enjoy!
 
 - [📅 Meal Planner](../../projects/10)
-- [🧑‍🍳 Recipes](/Recipes.md)
-- [🍥 Baking](/Baing.md)
-- [🔥 BBQ](/BBQ.md)
-- [🍝 Pasta](/Pasta.md)
-- [🍕 Pizza](/Pizza.md)
-- [🍲 Soup](/Soups.md)
-- [🍸 Cocktails and Drinks](/Cocktails-and-Drinks.md)
-- [🔪 Equipment](/Equipent.md)
+- [🧑‍🍳 All Recipes (published)](/index/all-recipes.md)
+- [🍞 Bread](/index/bread.md)
+- [🍥 Baking](/index/baking.md)
+- [🔥 BBQ](/index/bbq.md)
+- [🍝 Pasta](/index/pasta.md)
+- [🍕 Pizza](/index/pizza.md)
+- [🍲 Soup](/index/soups.md)
+- [🍸 Cocktails and Drinks](/index/cocktails-and-drinks.md)
+- [🔪 Equipment](/resources/equipment.md)
+- [📖 Recipe Books](/resources/recipe-books.md)
 
 ## Background 🍽️
 For years I have snipped and saved recipes I come across and use. I have old written recipes, attempts at recipe books, recipes saved in OneNote, recipes I've published on my blog, pictures of pages from recipe books and countless recipe books with page markers. Still, I've never created a single archive of my recipes, from the staple weeknight dishes to challenging dishes I test myself with when hosting dinner parties. The main challenge is being able to find, search and explore all my recipes really easily.
@@ -38,7 +40,7 @@ I hope to integrate this repo with other services such as Search, my calendar an
 
 ## Made with love 💖
 
-I'll keep you updated with how I progress with all the geeky stuff, but for now, enjoy my recipes and be [nosy at what I'm currently planning to cook this week](/projects/10)!
+I'll keep you updated with how I progress with all the geeky stuff, but for now, enjoy my recipes and be [nosy at what I'm currently planning to cook this week](../../projects/10)!
 
 ### //TODO
 - Recipes to primary label markdown pages (indexes or categorisation)
