@@ -10,6 +10,7 @@
 - [🔥 BBQ](/BBQ.md)
 - [🍝 Pasta](/Pasta.md)
 - [🍕 Pizza](/Pizza.md)
+- [🍲 Soup](/Soups.md)
 - [🍸 Cocktails and Drinks](/Cocktails-and-Drinks.md)
 - [🔪 Equipment](/Equipent.md)
 
