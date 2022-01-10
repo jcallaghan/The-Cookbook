@@ -79,9 +79,9 @@ It is always one of my favourites when eating Chinese takeout but this recipe le
 16. Keep adding the sauce until the beef is well glazed but not overglazed.
 17. Serve the beef on top of the rice and finish with a few sesame seeds.
 
-## Photos
+## Pictures
 ![Crispy beef with egg fried rice](./images/crispy-beef-with-egg-fried-rice.jpg)
 
-## Reference & Shares
+## Reference
 - [Easy Crispy Chilli Beef Recipe - Wok Wednesdays - School of Wok](https://www.youtube.com/watch?v=-W1saae425s)
 - [Crispy Chilli Beef - School of Wok](https://schoolofwok.co.uk/tips-and-recipes/crispy-chilli-beef)
