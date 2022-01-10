@@ -1,22 +1,30 @@
 ---
-issue: 102
-recipe: Crispy beef with egg fried rice
-date: 14/01/2021
-tags: Stir-fry; Asian; Wok;
+title: Crispy beef with egg fried rice
+date: 2021-01-14T00:00:00
 serves: 2
-prep: 15 minutes
-cook: 5 minutes
-total: 20 minutes
+prep_time: 15 minutes
+cook_time: 5 minutes
+total_time: 20 minutes
+issue_id: 102
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/102
+thumbnail: crispy-beef-with-egg-fried-rice.jpg
+meal_type:
+- main
+tags:
+- stir-fry
+- asian
+- beef
+- chinese
 ---
 
 # Crispy beef with egg fried rice
 
-* Prep time: 15 min
-* Cook time: 5 min
-* Serves: 2 servings
+- Serves: 2 servings
+- Prep time: 15 minutes
+- Cook time: 5 minutes
+- Total: 20 minutes
 
-This one has taken me a while to perfect. The trick has been getting a professional wok and cooking the beef in hot oil for long enough.
+This one has taken me a while to perfect. The trick for me has been getting a professional wok and cooking the beef in hot oil for long enough in batches.
 It is always one of my favourites when eating Chinese takeout but this recipe leaves you feeling less stodgy.
 
 ## Ingredients
@@ -71,10 +79,8 @@ It is always one of my favourites when eating Chinese takeout but this recipe le
 16. Keep adding the sauce until the beef is well glazed but not overglazed.
 17. Serve the beef on top of the rice and finish with a few sesame seeds.
 
-## Notes
-- None
-
 ## Photos
+![Crispy beef with egg fried rice](./images/crispy-beef-with-egg-fried-rice.jpg)
 
 ## Reference & Shares
 - [Easy Crispy Chilli Beef Recipe - Wok Wednesdays - School of Wok](https://www.youtube.com/watch?v=-W1saae425s)
