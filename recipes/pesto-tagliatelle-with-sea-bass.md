@@ -44,4 +44,4 @@ tags:
 9. Serve the pasta in a bowl with the seabass and tomatoes on top.
 
 ## Pictures
-![image](./image/pesto-tagliatelle-with-sea-bass.jpg
+![Pesto tagliatelle with sea bass](./images/pesto-tagliatelle-with-sea-bass.jpg)
