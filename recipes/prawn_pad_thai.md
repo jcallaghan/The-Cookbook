@@ -7,6 +7,7 @@ cook_time: 5 minutes
 total_time: 20 minutes
 issue_id: 324
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/324
+thumbnail: prawn-pad-thai.jpg
 meal_type:
 - main
 tags: 
@@ -19,9 +20,10 @@ tags:
 
 * Prep time: 15 min
 * Cook time: 5 min
+* Total: 20 minutes
 * Serves: 2 servings
 
-I worked for a family business that arranged a weekly team lunch where we would all come together once a week and have lunch together. 
+I worked at a family run business that arranged a weekly team lunch where we would all come together once a week and have lunch together. 
 It was a great opportunity to explore different foods but also come together and share dfferent stories.
 One of my all-time favourites was the Thai food from a local restrauant a few minutes away from the office. 
 The chef and restaurant owner cooked this incredible Prawn Pad Thai, while this is not her recipe I always think of her dish and the team lunches when I have eat a Prawn Pad Thai.
@@ -77,13 +79,13 @@ The chef and restaurant owner cooked this incredible Prawn Pad Thai, while this 
 
 ## Photos
 
-![image](https://user-images.githubusercontent.com/7449908/147612393-d6c6e0f5-14ba-448a-98f7-a781359a8852.jpeg)
+![image](./images/prawn-pad-thai.jpg)
 
-![image](https://user-images.githubusercontent.com/7449908/147612435-9211156d-b236-4906-93b8-be639d8e51d5.jpeg)
+![image](./images/prawn-pad-thai=3.jpg)
 
-![image](https://user-images.githubusercontent.com/7449908/147612460-3eb777a3-5371-4110-8101-f621fac22d77.jpeg)
+![image](./images/prawn-pad-thai-2.jpg)
 
-![image](https://user-images.githubusercontent.com/7449908/147612482-5b32818b-be11-40fa-bfa8-2c4f71dac962.jpeg)
+![image](./images/prawn-pad-thai-1.jpg)
 
 ## Reference
 - [Delicious Thai Pad See Ew Recipe! | Wok Wednesdays](https://www.youtube.com/watch?v=_wDgcueLJvY)
