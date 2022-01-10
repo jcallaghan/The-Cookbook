@@ -19,9 +19,10 @@ tags:
 
 # Chicken Broth Soup
 
-* Serves: 4
-* Prep Time: 20 minutes
-* Cook Time: 3 hours
+- Serves: 4
+- Prep Time: 20 minutes
+- Cook Time: 3 hours
+- Total 3 hours 20 minutes
 
 My take on a classic. This recipe is inspired by a close family friend (her special Jewish recipe) and a Bosnian variation. 
 It is a trusted favourite when I'm feeling poorly or unwell. Best served with semolina dumplings however I'm still perfecting these.
@@ -50,9 +51,6 @@ If there is any leftover I drain and remove any remaining chicken (freeze for pi
 1. [Optional] Continue to skim any fat or foam to create a delicate and clear broth.
 1. If serving with dumplings then add them approximately 20 minutes ahead of serving.
 1. Before serving, add chicken pieces to a bowl before pouring in the hot chicken broth and finishing with some chopped fresh parsley.
-
-## Notes
-None
 
 ## Pictures
 ![Chicken broth variant](./images/chicken-broth-soup.jpg)
