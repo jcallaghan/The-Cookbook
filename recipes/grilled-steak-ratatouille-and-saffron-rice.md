@@ -65,7 +65,7 @@ This is an instant winner with friends. The ratatouille is full of flavour, part
 1. Tear the basil into the ratatouille.
 1. Serve with yoghurt and saffron rice.
 
-# Pictures
+## Pictures
 ![Grilled steak ratatouille and saffron rice](./images/grilled-steak-ratatouille-and-saffron-rice.jpg)
 
 ![Grilled steak ratatouille and saffron rice](./images/grilled-steak-ratatouille-and-saffron-rice-1.jpg)
