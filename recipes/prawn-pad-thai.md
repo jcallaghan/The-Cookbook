@@ -77,11 +77,11 @@ The chef and restaurant owner cooked this incredible Prawn Pad Thai, while this 
 ## Notes
 - Try doubling the ingredients for the sauce and cooking one serving at a time.
 
-## Photos
+## Pictures
 
 ![image](./images/prawn-pad-thai.jpg)
 
-![image](./images/prawn-pad-thai=3.jpg)
+![image](./images/prawn-pad-thai-3.jpg)
 
 ![image](./images/prawn-pad-thai-2.jpg)
 
