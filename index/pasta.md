@@ -23,7 +23,7 @@
 
 ### P
 - Pesto chicken pasta #137
-- Pesto tagliatelle with sea bass #177
+- [Pesto tagliatelle with sea bass #177](/recipes/pesto-tagliatelle-with-sea-bass.md)
 - Prawn and brie pasta #129
 
 ### S
