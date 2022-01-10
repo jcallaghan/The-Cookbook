@@ -18,10 +18,10 @@ tags:
 
 # Pesto tagliatelle with sea bass
 
+- Serves: 2 servings
 - Prep time: 0 min
 - Cook time:  15 min
 - Total: 15 min
-- Serves: 2 servings
 
 ## Ingredients
 - 2 seabass fillets, butterflied
