@@ -18,17 +18,17 @@ tags:
 
 # Prawn Pad Thai
 
-* Prep time: 15 min
-* Cook time: 5 min
-* Total: 20 minutes
-* Serves: 2 servings
+- Serves: 2 servings
+- Prep time: 15 min
+- Cook time: 5 min
+- Total: 20 minutes
 
 I worked at a family run business that arranged a weekly team lunch where we would all come together once a week and have lunch together. 
 It was a great opportunity to explore different foods but also come together and share dfferent stories.
 One of my all-time favourites was the Thai food from a local restrauant a few minutes away from the office. 
 The chef and restaurant owner cooked this incredible Prawn Pad Thai, while this is not her recipe I always think of her dish and the team lunches when I have eat a Prawn Pad Thai.
 
-# Ingredients
+## Ingredients
 - 2 eggs, beaten
 - 2 x garlic, finely chopped
 - Prawns, shelled, deveined and heads removed if preferred
