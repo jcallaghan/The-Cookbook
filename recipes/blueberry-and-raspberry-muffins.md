@@ -15,6 +15,7 @@ tags:
 - blueberry
 - raspberry
 - baking
+- fruit
 ---
 
 # Blueberry and raspberry muffins
