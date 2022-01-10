@@ -1,28 +1,31 @@
 ---
 title: Grilled steak ratatouille and saffron rice
-description: null
-date: 12/07/2020
-image: grilled-steak-ratatouille-and-saffron-rice.jpg
-tags: dinner party; meat : beef; rice; steak; vegetarian;
+date: 2020-07-12T00:00:00
 serves: 2
-prep: 15 minutes
-cook: 45 minutes
-total: 1 hour
-issue: 58
-issue_url: https://github.com/jcallaghan/recipes/issues/58
-blog: null
-pinterest: null
+prep_time: 15 minutes
+cook_time: 45 minutes
+total_time: 1 hour
+issue_id: 58
+issue_link: https://github.com/jcallaghan/The-Cookbook/issues/58
+thumbnail: grilled-steak-ratatouille-and-saffron-rice.jpg
+meal_type:
+- main
+tags:
+- dinner party
+- beef
+- steak
+- vegetarian
+- rice
 ---
 
 # Grilled steak ratatouille and saffron rice
 
-* Serves: 2
-* Prep Time: 15 minutes
-* Cook Time: 45 minutes
+- Serves: 2
+- Prep Time: 15 minutes
+- Cook Time: 45 minutes
+- Total: 1 hour
 
 This is an instant winner with friends. The ratatouille is full of flavour, particularly if you chargrill the courgette and aubergine sufficiently. It is also a great dish to present at a dinner party and the steak can be combined or swapped out with vegetarian options. It is full of colour and aromatic smells. 
-
-![image](../images/grilled_steak_ratatouille_and_saffron_rice_1.jpeg)
 
 ## Ingredients
 
@@ -36,7 +39,7 @@ This is an instant winner with friends. The ratatouille is full of flavour, part
 * 2-4 cloves of garlic, crushed
 * 700g passata
 * 1 tbsp balsamic vinegar
-* 1/2 bunch of fresh basil, torn
+* 1/2 bunch of fresh basil, torn and roughly chopped
 * 2 tbsp natural yoghurt
 
 ### Rice
@@ -50,7 +53,7 @@ This is an instant winner with friends. The ratatouille is full of flavour, part
 * 1 tbsp olive oil
 * 1 tsp Dijon mustard
 * 1/2 a fresh lemon
-* parsley, finely chopped
+* Parsley, finely chopped
 
 ## Method
 1. Cut the courgette and aubergine and place in a hot griddle pan.
@@ -62,4 +65,7 @@ This is an instant winner with friends. The ratatouille is full of flavour, part
 1. Tear the basil into the ratatouille.
 1. Serve with yoghurt and saffron rice.
 
-![image](../images/grilled_steak_ratatouille_and_saffron_rice_2.jpeg)
+# Pictures
+![Grilled steak ratatouille and saffron rice](./images/grilled-steak-ratatouille-and-saffron-rice.jpg)
+
+![Grilled steak ratatouille and saffron rice](./images/grilled-steak-ratatouille-and-saffron-rice-1.jpg)
