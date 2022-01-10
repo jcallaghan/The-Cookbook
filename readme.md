@@ -1,5 +1,6 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![GitHub issues](https://img.shields.io/github/issues/jcallaghan/The-Cookbook.svg)](https://github.com/jcallaghan/The-Cookbook/issues/)
+[![GitHub Issues](https://img.shields.io/github/issues/jcallaghan/The-Cookbook.svg)](https://github.com/jcallaghan/The-Cookbook/issues/)
+[![Closed Issues](https://img.shields.io/github/issues-closed/jcallaghan/The-Cookbook?label=)](https://github.com/jcallaghan/The-Cookbook/issues/)
 [![Commits](https://img.shields.io/github/last-commit/jcallaghan/The-Cookbook)](https://github.com/jcallaghan/The-Cookbook/commits/)
 ![](https://img.shields.io/github/commit-activity/m/jcallaghan/The-Cookbook?label=activity)
 
