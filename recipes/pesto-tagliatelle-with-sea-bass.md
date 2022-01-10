@@ -1,6 +1,6 @@
 ---
 title: Pesto tagliatelle with sea bass
-date: 28/04/2021-02-12T00:00:00
+date: 2021-04-28T00:00:00
 serves: 2
 prep_time: 0 minutes
 cook_time: 15 minutes
