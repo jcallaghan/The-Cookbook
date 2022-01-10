@@ -1,6 +1,6 @@
 ---
 title: Chicken Broth Soup
-date: 12/02/2020-02-12T00:00:00
+date: 2020-02-12T00:00:00
 serves: 4
 prep_time: 20 minutes
 cook_time: 3 hours
