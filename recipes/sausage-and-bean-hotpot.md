@@ -18,9 +18,10 @@ tags:
 
 # Sausage and Bean Hotpot
 
-* Serves: 4
-* Prep Time: 10 minutes
-* Cook Time: 60 minutes
+- Serves: 4
+- Prep Time: 10 minutes
+- Cook Time: 60 minutes
+- Total: 1 hour 10 minutes
 
 A fabulous one-pot wonder for those Winter months and a recipe I have developed over many years.
 This is great to quickly put together on a weeknight and how hot you make it is up to you!
@@ -61,9 +62,6 @@ Some insist on browning the sausages before adding them to the hotpot however I 
 10. Remove the dish from the oven and deglaze the pan with some water if necessary.
 11. Before serving, add a few drops of balsamic vinegar.
 12. Serve hot with the warm sough dough.
-
-## Notes
-None
 
 ## Pictures
 ![Sausage and Bean Hotpot](./images/sausage-and-bean-hotpot.jpg)
