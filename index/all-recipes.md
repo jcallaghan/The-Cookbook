@@ -17,6 +17,7 @@
 - [Grilled steak ratatouille and saffron rice #58](/recipes/grilled_steak_ratatouille_and_saffron_rice.md)
 
 ### P
+- [Pesto tagliatelle with sea bass #177](/recipes/pesto-tagliatelle-with-sea-bass.md)
 - [Prawn alfredo #347](/recipes/prawn_alfredo.md)
 - [Prawn pad thai #324](/recipes/prawn_pad_thai.md)
 
