@@ -22,7 +22,7 @@
 - Marble cake #170
 - McLaren F1 Brownies #87
 - Mug cakes #114
-- Mums delicious chocolate brownies #76 
+- [Mums delicious chocolate brownies #76](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/mums-delicious-chocolate-brownies.md)
 
 ### V
 - Victoria sponge cake #350
