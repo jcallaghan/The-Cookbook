@@ -22,5 +22,8 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - name: Show date
+      - name: Today date plus 10 days
         run: echo $(date -d "10 days")
+        
+      - name: Today formatted date plus 10 days
+        run: echo $(date "+%a %d-%b" -d "10 days")
