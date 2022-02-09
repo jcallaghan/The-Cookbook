@@ -45,5 +45,5 @@ jobs:
         port: ${{ secrets.blog_sftp_port }}         
         username: ${{ secrets.blog_sftp_username }} 
         password: ${{ secrets.blog_sftp_password }} 
-        localDir: '/resources/MealPlanner.ics'
-        remotePath: './'
+        localDir: "/resources/MealPlanner.ics"
+        remoteDir: "./"
