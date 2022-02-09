@@ -1,5 +1,10 @@
 name: Generate calendar from project
 
+# https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idconcurrency
+# concurrency: 
+#   group: ${{ github.ref }}
+#   cancel-in-progress: true
+
 on:
   workflow_dispatch:
 #   schedule:
@@ -37,8 +42,8 @@ jobs:
       uses: Creepios/sftp-action@v1.0.3     # https://github.com/marketplace/actions/sftp-ssh-action
       with:
         host: ${{ secrets.blog_sftp_address }} 
+        port: ${{ secrets.blog_sftp_port }}         
         username: ${{ secrets.blog_sftp_username }} 
         password: ${{ secrets.blog_sftp_password }} 
-        port: ${{ secrets.blog_sftp_port }} 
         localPath: '/resources/MealPlanner.ics'
         remotePath: './'
