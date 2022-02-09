@@ -11,8 +11,8 @@ def main():
 
     cardsfound = False    # This is updated if columns are found and removed. Allows for message at end if still false.
     commitmsgemoji = "🧑🏼‍🍳 "
-    icsfilepath = "Resources/MealPlanner.ics"    
-    icsevents, icsevent, project, contents = ""
+    icsfilepath = "resources/MealPlanner.ics"    
+    icsevents = icsevent = project = contents = ""
         
     context_dict = json.loads(os.getenv("CONTEXT_GITHUB"))
     g = Github(context_dict["token"])
