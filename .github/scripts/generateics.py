@@ -28,7 +28,7 @@ def main():
 
     for column in project.get_columns():
         if not column.name in columnsToIgnore:
-            recipes, recipesdetail = []
+            recipes = recipesdetail = []
             hasrecipes = False
             cardsfound = True
             for card in column.get_cards():
