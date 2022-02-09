@@ -17,9 +17,11 @@ on:
 jobs:
 
   build:
-    name: Generate ICS file
+    name: Build and Generate ICS file
     runs-on: ubuntu-latest
-    
+    env:
+      ICS_PATH: ${{ github.workspace }}/resources/MealPlanner.ics
+      
     steps:
 
     - name: Check-out repository
@@ -37,16 +39,6 @@ jobs:
       run: python .github/scripts/generateics.py
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}
-
-  publish:
-  
-    name: Upload ICS file
-    runs-on: ubuntu-latest
-    
-    steps:
-
-    - name: Check-out repository
-      uses: actions/checkout@v2
       
     - name: Upload ICS to blog
       uses: danhendrickson/sftp-transfer-action@v1.23
@@ -55,5 +47,5 @@ jobs:
         user: ${{ secrets.blog_sftp_username }}
         pass: ${{ secrets.blog_sftp_password}}
         port: ${{ secrets.blog_sftp_port }}
-        local-path: "$GITHUB_WORKSPACE/resources/MealPlanner.ics"
+        local-path: ${{ env.ICS_PATH }}
         remote-path: "/MealPlanner.ics"
