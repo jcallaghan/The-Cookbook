@@ -1,4 +1,4 @@
-name: Meal Planner column management
+name: Project column management
 
 on:
   workflow_dispatch:
