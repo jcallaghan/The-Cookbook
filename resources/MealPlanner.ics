@@ -3,8 +3,8 @@ PRODID://James Callaghan
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:1a10e33b-a04d-458a-948b-300ca1a49ced
-DTSTAMP:20220209T200016
+UID:ba0664ad-4112-439e-86be-e181503eb333
+DTSTAMP:20220209T223546
 DTSTART:20220209T184500
 DTEND:20220209T203000
 SUMMARY:Rocket salad #181, Rocket salad #181 - https://github.com/jcallaghan/The-Cookbook/issues/181, Charred onion & whipped feta flatbreads #290, Charred onion & whipped feta flatbreads #290 - https://github.com/jcallaghan/The-Cookbook/issues/290, Grilled Caesar Salad Flatbread #24 and Grilled Caesar Salad Flatbread #24 - https://github.com/jcallaghan/The-Cookbook/issues/24 for dinner
@@ -19,8 +19,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c2b4bf35-32d5-41b3-959f-87b8b8fb1ff1
-DTSTAMP:20220209T200016
+UID:b4b8df3e-e2dd-4c8b-92f4-5a3462a7295c
+DTSTAMP:20220209T223546
 DTSTART:20220210T184500
 DTEND:20220210T203000
 SUMMARY:Beef and broccoli stir-fry #6 and Beef and broccoli stir-fry #6 - https://github.com/jcallaghan/The-Cookbook/issues/6 for dinner
@@ -31,8 +31,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5cc56e25-c6c2-43ea-a041-95e0469f504d
-DTSTAMP:20220209T200017
+UID:9589a9c6-53b2-4db0-afde-34af23aba363
+DTSTAMP:20220209T223546
 DTSTART:20220211T184500
 DTEND:20220211T203000
 SUMMARY:Prawn Pad Thai #324 and Prawn Pad Thai #324 - https://github.com/jcallaghan/The-Cookbook/issues/324 for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:73fd33ad-d1fa-4abe-a142-8e353881e869
-DTSTAMP:20220209T200017
+UID:015310e3-4c20-4e1d-a3db-91541b18d856
+DTSTAMP:20220209T223547
 DTSTART:20220212T184500
 DTEND:20220212T203000
 SUMMARY:Chicken broth soup #220, Chicken broth soup #220 - https://github.com/jcallaghan/The-Cookbook/issues/220, Chilli squid #334, Chilli squid #334 - https://github.com/jcallaghan/The-Cookbook/issues/334, Crispy beef #102 and Crispy beef #102 - https://github.com/jcallaghan/The-Cookbook/issues/102 for dinner
@@ -59,8 +59,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c63da1a5-efb2-4d57-ac58-d1b9ea249a1d
-DTSTAMP:20220209T200017
+UID:e4d0eb3f-807e-4d6a-9219-bb06dc26abf8
+DTSTAMP:20220209T223547
 DTSTART:20220213T184500
 DTEND:20220213T203000
 SUMMARY:Classic duck breast #184 and Classic duck breast #184 - https://github.com/jcallaghan/The-Cookbook/issues/184 for dinner
@@ -71,8 +71,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:78232996-9699-413c-8295-9a03c03e478b
-DTSTAMP:20220209T200018
+UID:03156d71-ba07-4454-b612-48cf6fcff213
+DTSTAMP:20220209T223548
 DTSTART:20220214T184500
 DTEND:20220214T203000
 SUMMARY:Carrot cake #351, Carrot cake #351 - https://github.com/jcallaghan/The-Cookbook/issues/351, Fillet steak #35, Fillet steak #35 - https://github.com/jcallaghan/The-Cookbook/issues/35, Sauté Potatoes #142 and Sauté Potatoes #142 - https://github.com/jcallaghan/The-Cookbook/issues/142 for dinner
@@ -87,8 +87,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7ba73f16-9125-4a5b-b63a-d0ede79beaaf
-DTSTAMP:20220209T200018
+UID:44c712e4-5344-4c77-9b12-1eb8e8316d01
+DTSTAMP:20220209T223548
 DTSTART:20220215T184500
 DTEND:20220215T203000
 SUMMARY:Chicken, greens and potato gratin #57 and Chicken, greens and potato gratin #57 - https://github.com/jcallaghan/The-Cookbook/issues/57 for dinner
@@ -99,8 +99,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8fd9e82e-a7a3-4bc5-a80a-d4920340029d
-DTSTAMP:20220209T200019
+UID:9f90ca3b-b43d-4666-98a8-40a32e25516d
+DTSTAMP:20220209T223548
 DTSTART:20220216T184500
 DTEND:20220216T203000
 SUMMARY:Cacio e Peppe #359 and Cacio e Peppe #359 - https://github.com/jcallaghan/The-Cookbook/issues/359 for dinner
