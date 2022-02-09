@@ -1,0 +1,35 @@
+name: Meal Planner column management
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '1 0 * * *'
+ 
+jobs:
+
+  build:
+  
+    runs-on: ubuntu-latest
+    
+    steps:
+
+    - name: Check-out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9    
+
+    - name: Install Python dependencies
+      run: pip install -Uq PyGithub
+      
+    - name: Remove past columns and their cards
+      run: python .github/scripts/removepastprojectcolumns.py
+      env:
+        CONTEXT_GITHUB: ${{ toJson(github) }}
+        
+    - name: Create future columns
+      run: python .github/scripts/createprojectcolumns.py
+      env:
+        CONTEXT_GITHUB: ${{ toJson(github) }}
