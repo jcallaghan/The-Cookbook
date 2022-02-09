@@ -1,4 +1,4 @@
-name: Generate calendar from project columns and cards
+name: Generate calendar from project
 
 on:
   workflow_dispatch:
