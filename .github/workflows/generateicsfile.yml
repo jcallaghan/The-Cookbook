@@ -39,13 +39,3 @@ jobs:
       run: python .github/scripts/generateics.py
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}
-      
-    - name: Upload ICS to blog
-      uses: danhendrickson/sftp-transfer-action@v1.23
-      with:
-        server: ${{ secrets.blog_sftp_address }}
-        user: ${{ secrets.blog_sftp_username }}
-        pass: ${{ secrets.blog_sftp_password}}
-        port: ${{ secrets.blog_sftp_port }}
-        local-path: ${{ env.ICS_PATH }}
-        remote-path: "/MealPlanner.ics"
