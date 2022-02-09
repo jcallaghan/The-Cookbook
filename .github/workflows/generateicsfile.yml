@@ -1,0 +1,34 @@
+name: Generate calendar from project columns and cards
+
+on:
+  workflow_dispatch:
+#   schedule:
+#     - cron: '1 0 * * *'
+  project_card: 
+    types: [created, moved, converted, edited, deleted]
+  project_column:
+    types: [created, updated, moved, deleted]
+
+jobs:
+
+  build:
+  
+    runs-on: ubuntu-latest
+    
+    steps:
+
+    - name: Check-out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9    
+
+    - name: Install Python dependencies
+      run: pip install -Uq PyGithub
+      
+    - name: Generate ICS file
+      run: python .github/scripts/generateics.py
+      env:
+        CONTEXT_GITHUB: ${{ toJson(github) }}
