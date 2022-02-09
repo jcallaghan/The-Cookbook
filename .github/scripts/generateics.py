@@ -95,7 +95,7 @@ def main():
             repo.create_file(icsfilepath, commitmsgemoji + "Created " + icsfilepath, icsfilecontent, branch="main")
             print(icsfilepath + " created.")
         else:
-            repo.update_file(icsfilepath, commitemoji + "Updated " + icsfilepath, icsfilecontent, contents.sha, branch="main")
+            repo.update_file(icsfilepath, commitmsgemoji + "Updated " + icsfilepath, icsfilecontent, contents.sha, branch="main")
             print(icsfilepath + " updated.")           
         
     if not cardsfound:
