@@ -34,10 +34,11 @@ jobs:
         CONTEXT_GITHUB: ${{ toJson(github) }}
 
     - name: Upload ICS to Blog
-      uses: SamKirkland/FTP-Deploy-Action@4.2.0         # https://github.com/SamKirkland/FTP-Deploy-Action
+      uses: Creepios/sftp-action@v1.0.3     # https://github.com/marketplace/actions/sftp-ssh-action
       with:
-        server: ${{ secrets.blog_sftp_address }} 
+        host: ${{ secrets.blog_sftp_address }} 
         username: ${{ secrets.blog_sftp_username }} 
         password: ${{ secrets.blog_sftp_password }} 
         port: ${{ secrets.blog_sftp_port }} 
-        protocol: ftps
+        localPath: '/resources/MealPlanner.ics'
+        remotePath: './'
