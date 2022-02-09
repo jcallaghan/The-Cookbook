@@ -38,7 +38,7 @@ def main():
                     hasrecipes = True
                     # //TODO consider flag so notes are added to event body and number of notes referenced in note title
                 else:
-                    issue = repo.get_issue((card.content_url).replace(int("https://api.github.com/repos/" + repo.full_name + "/issue"),""))
+                    issue = repo.get_issue(int((card.content_url).replace("https://api.github.com/repos/" + repo.full_name + "/issue","")))
                     recipetitle = issue.title + " #" + str(issue.number)
                     recipemore = issue.title + " #"  + str(issue.number) + " - " + issue.html_url
                     hasrecipes = True
