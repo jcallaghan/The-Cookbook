@@ -4,6 +4,9 @@
 [![Commits](https://img.shields.io/github/last-commit/jcallaghan/The-Cookbook)](https://github.com/jcallaghan/The-Cookbook/commits/)
 ![](https://img.shields.io/github/commit-activity/m/jcallaghan/The-Cookbook?label=activity)
 
+[![Project column management](https://github.com/jcallaghan/The-Cookbook/actions/workflows/projectcolumnmanagement.yml/badge.svg)](https://github.com/jcallaghan/The-Cookbook/actions/workflows/projectcolumnmanagement.yml) 
+[![Export project to ICS file](https://github.com/jcallaghan/The-Cookbook/actions/workflows/generateicsfile.yml/badge.svg)](https://github.com/jcallaghan/The-Cookbook/actions/workflows/generateicsfile.yml)
+
 # I'm not a chef. I'm a geek who loves to cook great food!
 [TLDR] This is a plain text (well, markdown) archive of all my favourite food and drinks recipes. Enjoy!
 
