@@ -9,7 +9,7 @@ project_name = "Meal Planner"
 
 def main():
 
-    cardsfound = False    # This is updated if columns are found and removed. Allows for message at end if still false.
+    cardsfound = hasrecipes = False
     commitmsgemoji = "🧑🏼‍🍳 "
     icsfilepath = "resources/MealPlanner.ics"    
     icsevents = icsevent = project = contents = ""
