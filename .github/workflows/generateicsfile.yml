@@ -45,5 +45,5 @@ jobs:
         user: ${{ secrets.blog_sftp_username }}
         pass: ${{ secrets.blog_sftp_password}}
         port: ${{ secrets.blog_sftp_port }}
-        local-path: "${GITHUB_WORKSPACE}/resources/MealPlanner.ics"
+        local-path: "/resources/MealPlanner.ics"
         remote-path: "/MealPlanner.ics"
