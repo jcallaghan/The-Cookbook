@@ -12,7 +12,7 @@ on:
 jobs:
 
   build:
-  
+    name: Build and Deploy
     runs-on: ubuntu-latest
     
     steps:
@@ -32,3 +32,12 @@ jobs:
       run: python .github/scripts/generateics.py
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}
+
+    - name: Upload ICS to Blog
+      uses: SamKirkland/FTP-Deploy-Action@4.2.0         # https://github.com/SamKirkland/FTP-Deploy-Action
+      with:
+        server: ${{ secrets.blog_sftp_address }} 
+        username: ${{ secrets.blog_sftp_username }} 
+        password: ${{ secrets.blog_sftp_password }} 
+        port: ${{ secrets.blog_sftp_port }} 
+        protocol: ftps
