@@ -38,12 +38,12 @@ jobs:
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}
 
-    - name: Upload ICS to Blog
-      uses: wangyucode/sftp-upload-action@v1.1     # https://github.com/wangyucode/sftp-upload-action
+    - name: Upload ICS to blog
+      uses: danhendrickson/sftp-transfer-action@v1.23
       with:
-        host: ${{ secrets.blog_sftp_address }} 
-        port: ${{ secrets.blog_sftp_port }}         
-        username: ${{ secrets.blog_sftp_username }} 
-        password: ${{ secrets.blog_sftp_password }} 
-        localDir: "/resources/MealPlanner.ics"
-        remoteDir: "./"
+        server: ${{ secrets.blog_sftp_address }}
+        user: ${{ secrets.blog_sftp_username }}
+        pass: ${{ secrets.blog_sftp_password}}
+        port: ${{ secrets.blog_sftp_port }}
+        local-path: "${GITHUB_WORKSPACE}/resources/MealPlanner.ics"
+        remote-path: "/MealPlanner.ics"
