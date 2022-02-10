@@ -49,4 +49,4 @@ jobs:
         username: ${{ secrets.WPE_USERNAME }}
         password: ${{ secrets.WPE_PASSWORD }}
         localPath: ${{ env.ICS_PATH }} 
-        remotePath: './'
+        remotePath: ""
