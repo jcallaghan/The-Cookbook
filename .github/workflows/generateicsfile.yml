@@ -40,11 +40,20 @@ jobs:
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}
 
-    - name: GitHub Action Deploy to WP Engine
-      uses: wpengine/github-action-wpe-site-deploy@v2.3.4
+#     - name: GitHub Action Deploy to WP Engine
+#       uses: wpengine/github-action-wpe-site-deploy@v2.3.4
+#       with:
+#         WPE_SSHG_KEY_PRIVATE: ${{ secrets.WPE_SSHG_KEY_PRIVATE }} 
+#         PRD_BRANCH: main
+#         PRD_ENV: swoldsodev
+#         TPO_SRC_PATH: ${{ env.ICS_PATH }} 
+#         TPO_PATH: "MealPlanner.ics"      
+
+    - name: deploy file
+      uses: wlixcc/SFTP-Deploy-Action@v1.0
       with:
-        WPE_SSHG_KEY_PRIVATE: ${{ secrets.WPE_SSHG_KEY_PRIVATE }} 
-        PRD_BRANCH: main
-        PRD_ENV: swoldsodev
-        TPO_SRC_PATH: ${{ env.ICS_PATH }} 
-        TPO_PATH: "MealPlanner.ics"      
+        username:  ${{ secrets.WPE_USERNAME }}
+        server:  ${{ secrets.WPE_HOSTNAME }}
+        ssh_private_key: ${{ secrets.WPE_SSHG_KEY_PRIVATE }} 
+        local_path: ${{ env.ICS_PATH }} 
+        remote_path: "/"
