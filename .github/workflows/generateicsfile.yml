@@ -54,6 +54,7 @@ jobs:
       with:
         username:  ${{ secrets.WPE_USERNAME }}
         server:  ${{ secrets.WPE_HOSTNAME }}
+        port: ${{ secrets.WPE_PORT }}
         ssh_private_key: ${{ secrets.WPE_SSHG_KEY_PRIVATE }} 
         local_path: ${{ env.ICS_PATH }} 
         remote_path: "/"
