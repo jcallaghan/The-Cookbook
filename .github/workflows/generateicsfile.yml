@@ -46,5 +46,5 @@ jobs:
         WPE_SSHG_KEY_PRIVATE: ${{ secrets.WPE_SSHG_KEY_PRIVATE }} 
         PRD_BRANCH: main
         PRD_ENV: swoldsodev
-        TPO_SRC_PATH: "/resources/MealPlanner.ics"
+        TPO_SRC_PATH: ${{ env.ICS_PATH }} 
         TPO_PATH: "MealPlanner.ics"      
