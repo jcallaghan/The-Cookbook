@@ -3,117 +3,104 @@ PRODID://James Callaghan
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:f8f7c138-539e-4af0-868d-b42637acc8d6
-DTSTAMP:20220210T123856
+UID:ed94265d-ee1c-481a-ac60-4bfaf112e796
+DTSTAMP:20220210T124557
 DTSTART:20220210T184500
 DTEND:20220210T203000
-SUMMARY:Beef and broccoli stir-fry #6 and Beef and broccoli stir-fry #6 - https://github.com/jcallaghan/The-Cookbook/issues/6 for dinner
-DESCRIPTION:Beef and broccoli stir-fry #6
-Beef and broccoli stir-fry #6 - https://github.com/jcallaghan/The-Cookbook/issues/6
+SUMMARY:Beef and broccoli stir-fry #6 for dinner
+DESCRIPTION:Beef and broccoli stir-fry #6 - https://github.com/jcallaghan/The-Cookbook/issues/6
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:69572511-0e9b-4ca2-a296-b6f638cbfc89
-DTSTAMP:20220210T123856
+UID:c825ed4b-2598-42df-8ba2-abac6f59711d
+DTSTAMP:20220210T124557
 DTSTART:20220211T184500
 DTEND:20220211T203000
-SUMMARY:Prawn Pad Thai #324 and Prawn Pad Thai #324 - https://github.com/jcallaghan/The-Cookbook/issues/324 for dinner
-DESCRIPTION:Prawn Pad Thai #324
-Prawn Pad Thai #324 - https://github.com/jcallaghan/The-Cookbook/issues/324
+SUMMARY:Prawn Pad Thai #324 for dinner
+DESCRIPTION:Prawn Pad Thai #324 - https://github.com/jcallaghan/The-Cookbook/issues/324
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7acc5aaa-b8a5-4e94-9589-f092656752ac
-DTSTAMP:20220210T123857
+UID:14c83644-213a-4c73-ad77-962ead0ce111
+DTSTAMP:20220210T124558
 DTSTART:20220212T184500
 DTEND:20220212T203000
-SUMMARY:Chicken broth soup #220, Chicken broth soup #220 - https://github.com/jcallaghan/The-Cookbook/issues/220, Chilli squid #334, Chilli squid #334 - https://github.com/jcallaghan/The-Cookbook/issues/334, Crispy beef #102 and Crispy beef #102 - https://github.com/jcallaghan/The-Cookbook/issues/102 for dinner
-DESCRIPTION:Chicken broth soup #220
-Chicken broth soup #220 - https://github.com/jcallaghan/The-Cookbook/issues/220
-Chilli squid #334
+SUMMARY:Chicken broth soup #220, Chilli squid #334 and Crispy beef #102 for dinner
+DESCRIPTION:Chicken broth soup #220 - https://github.com/jcallaghan/The-Cookbook/issues/220
 Chilli squid #334 - https://github.com/jcallaghan/The-Cookbook/issues/334
-Crispy beef #102
 Crispy beef #102 - https://github.com/jcallaghan/The-Cookbook/issues/102
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9b769f4f-275a-420b-82f9-6c45d43ee9f1
-DTSTAMP:20220210T123857
+UID:662cbb7c-8294-4402-8dee-80b68011278c
+DTSTAMP:20220210T124558
 DTSTART:20220213T184500
 DTEND:20220213T203000
-SUMMARY:Classic duck breast #184 and Classic duck breast #184 - https://github.com/jcallaghan/The-Cookbook/issues/184 for dinner
-DESCRIPTION:Classic duck breast #184
-Classic duck breast #184 - https://github.com/jcallaghan/The-Cookbook/issues/184
+SUMMARY:Classic duck breast #184 for dinner
+DESCRIPTION:Classic duck breast #184 - https://github.com/jcallaghan/The-Cookbook/issues/184
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e0efaefc-a768-4fd0-ba3b-a80ebbf60aff
-DTSTAMP:20220210T123858
+UID:e1462e33-e190-4b9c-a993-ff5fe9500b46
+DTSTAMP:20220210T124558
 DTSTART:20220214T184500
 DTEND:20220214T203000
-SUMMARY:Carrot cake #351, Carrot cake #351 - https://github.com/jcallaghan/The-Cookbook/issues/351, Fillet steak #35, Fillet steak #35 - https://github.com/jcallaghan/The-Cookbook/issues/35, Sauté Potatoes #142 and Sauté Potatoes #142 - https://github.com/jcallaghan/The-Cookbook/issues/142 for dinner
-DESCRIPTION:Carrot cake #351
-Carrot cake #351 - https://github.com/jcallaghan/The-Cookbook/issues/351
-Fillet steak #35
+SUMMARY:Carrot cake #351, Fillet steak #35 and Sauté Potatoes #142 for dinner
+DESCRIPTION:Carrot cake #351 - https://github.com/jcallaghan/The-Cookbook/issues/351
 Fillet steak #35 - https://github.com/jcallaghan/The-Cookbook/issues/35
-Sauté Potatoes #142
 Sauté Potatoes #142 - https://github.com/jcallaghan/The-Cookbook/issues/142
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:67674ec8-5c8b-48e1-be5e-c4d296c48d8a
-DTSTAMP:20220210T123858
+UID:5579bb6b-94a8-4ed1-a514-e5368d88accf
+DTSTAMP:20220210T124559
 DTSTART:20220215T184500
 DTEND:20220215T203000
-SUMMARY:Chicken, greens and potato gratin #57 and Chicken, greens and potato gratin #57 - https://github.com/jcallaghan/The-Cookbook/issues/57 for dinner
-DESCRIPTION:Chicken, greens and potato gratin #57
-Chicken, greens and potato gratin #57 - https://github.com/jcallaghan/The-Cookbook/issues/57
+SUMMARY:Chicken, greens and potato gratin #57 for dinner
+DESCRIPTION:Chicken, greens and potato gratin #57 - https://github.com/jcallaghan/The-Cookbook/issues/57
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:565ec8a2-ddef-4243-bd71-bb7ce5066c25
-DTSTAMP:20220210T123858
+UID:3df795ff-d4c3-41ab-9c49-e706557ae7d4
+DTSTAMP:20220210T124559
 DTSTART:20220216T184500
 DTEND:20220216T203000
-SUMMARY:Cacio e Peppe #359 and Cacio e Peppe #359 - https://github.com/jcallaghan/The-Cookbook/issues/359 for dinner
-DESCRIPTION:Cacio e Peppe #359
-Cacio e Peppe #359 - https://github.com/jcallaghan/The-Cookbook/issues/359
+SUMMARY:Cacio e Peppe #359 for dinner
+DESCRIPTION:Cacio e Peppe #359 - https://github.com/jcallaghan/The-Cookbook/issues/359
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:638a5618-dfd3-42ed-826c-9f43fb9e3df9
-DTSTAMP:20220210T123859
+UID:3ce2b55b-a6c3-41bd-ad50-a8b2ff677620
+DTSTAMP:20220210T124559
 DTSTART:20220218T184500
 DTEND:20220218T203000
-SUMMARY:Cashew chicken #95 and Cashew chicken #95 - https://github.com/jcallaghan/The-Cookbook/issues/95 for dinner
-DESCRIPTION:Cashew chicken #95
-Cashew chicken #95 - https://github.com/jcallaghan/The-Cookbook/issues/95
+SUMMARY:Cashew chicken #95 for dinner
+DESCRIPTION:Cashew chicken #95 - https://github.com/jcallaghan/The-Cookbook/issues/95
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f590d9d0-cb51-4998-a1f0-040145c9094e
-DTSTAMP:20220210T123859
+UID:3bd681bc-2a7b-4e81-9a71-725e221acb7b
+DTSTAMP:20220210T124600
 DTSTART:20220220T184500
 DTEND:20220220T203000
-SUMMARY:Jas parents lunch and Note: Jas parents lunch for dinner
-DESCRIPTION:Jas parents lunch
-Note: Jas parents lunch
+SUMMARY:Jas parents lunch for dinner
+DESCRIPTION:Note: Jas parents lunch
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
