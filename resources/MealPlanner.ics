@@ -3,8 +3,8 @@ PRODID://James Callaghan
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:5aec0e7a-c7be-47c1-8f69-e5b1a1aace2b
-DTSTAMP:20220210T001320
+UID:a0a6270e-e9da-4be6-b63d-ea11a8753af8
+DTSTAMP:20220210T003209
 DTSTART:20220210T184500
 DTEND:20220210T203000
 SUMMARY:Beef and broccoli stir-fry #6 and Beef and broccoli stir-fry #6 - https://github.com/jcallaghan/The-Cookbook/issues/6 for dinner
@@ -15,8 +15,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:253ffd6b-158f-48ed-ba89-ce6a04917987
-DTSTAMP:20220210T001320
+UID:3e06fe7e-f329-4b9d-be65-d3897b4a25d5
+DTSTAMP:20220210T003209
 DTSTART:20220211T184500
 DTEND:20220211T203000
 SUMMARY:Prawn Pad Thai #324 and Prawn Pad Thai #324 - https://github.com/jcallaghan/The-Cookbook/issues/324 for dinner
@@ -27,8 +27,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:aa6d7ca9-87d4-4382-89d4-5c1807caa8ee
-DTSTAMP:20220210T001321
+UID:2ac04c95-45fb-40e6-b97c-fa8572b5c395
+DTSTAMP:20220210T003210
 DTSTART:20220212T184500
 DTEND:20220212T203000
 SUMMARY:Chicken broth soup #220, Chicken broth soup #220 - https://github.com/jcallaghan/The-Cookbook/issues/220, Chilli squid #334, Chilli squid #334 - https://github.com/jcallaghan/The-Cookbook/issues/334, Crispy beef #102 and Crispy beef #102 - https://github.com/jcallaghan/The-Cookbook/issues/102 for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:60c93c9a-31d0-4944-b739-65a32b7661ae
-DTSTAMP:20220210T001321
+UID:f461968c-7646-47e2-8cce-b20208a11ba7
+DTSTAMP:20220210T003210
 DTSTART:20220213T184500
 DTEND:20220213T203000
 SUMMARY:Classic duck breast #184 and Classic duck breast #184 - https://github.com/jcallaghan/The-Cookbook/issues/184 for dinner
@@ -55,8 +55,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:47b0361b-c2d9-4fa9-a924-e840654c07e7
-DTSTAMP:20220210T001322
+UID:2aec8248-7176-422b-9534-cc711e249ea3
+DTSTAMP:20220210T003211
 DTSTART:20220214T184500
 DTEND:20220214T203000
 SUMMARY:Carrot cake #351, Carrot cake #351 - https://github.com/jcallaghan/The-Cookbook/issues/351, Fillet steak #35, Fillet steak #35 - https://github.com/jcallaghan/The-Cookbook/issues/35, Sauté Potatoes #142 and Sauté Potatoes #142 - https://github.com/jcallaghan/The-Cookbook/issues/142 for dinner
@@ -71,8 +71,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:37f0325e-1e42-47b0-ab71-7e97d5922b45
-DTSTAMP:20220210T001322
+UID:20128d7c-7d58-4be5-a56e-1264e12a59f9
+DTSTAMP:20220210T003211
 DTSTART:20220215T184500
 DTEND:20220215T203000
 SUMMARY:Chicken, greens and potato gratin #57 and Chicken, greens and potato gratin #57 - https://github.com/jcallaghan/The-Cookbook/issues/57 for dinner
@@ -83,8 +83,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:97d22846-76c7-4b3d-b451-6dedeea917db
-DTSTAMP:20220210T001322
+UID:1e838f66-2c88-498c-8d0c-a4054f650ce6
+DTSTAMP:20220210T003212
 DTSTART:20220216T184500
 DTEND:20220216T203000
 SUMMARY:Cacio e Peppe #359 and Cacio e Peppe #359 - https://github.com/jcallaghan/The-Cookbook/issues/359 for dinner
