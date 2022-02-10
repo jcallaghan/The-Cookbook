@@ -1,9 +1,9 @@
 name: Generate calendar from project
 
-# https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idconcurrency
-# concurrency: 
-#   group: ${{ github.ref }}
-#   cancel-in-progress: true
+# https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#concurrency
+concurrency: 
+  group: ${{ github.ref }}
+  cancel-in-progress: true
 
 on:
   workflow_dispatch:
@@ -38,16 +38,7 @@ jobs:
     - name: Generate ICS file
       run: python .github/scripts/generateics.py
       env:
-        CONTEXT_GITHUB: ${{ toJson(github) }}
-
-#     - name: GitHub Action Deploy to WP Engine
-#       uses: wpengine/github-action-wpe-site-deploy@v2.3.4
-#       with:
-#         WPE_SSHG_KEY_PRIVATE: ${{ secrets.WPE_SSHG_KEY_PRIVATE }} 
-#         PRD_BRANCH: main
-#         PRD_ENV: swoldsodev
-#         TPO_SRC_PATH: ${{ env.ICS_PATH }} 
-#         TPO_PATH: "MealPlanner.ics"      
+        CONTEXT_GITHUB: ${{ toJson(github) }}    
        
     - name: Upload Files
       id: upload
