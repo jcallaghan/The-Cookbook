@@ -48,13 +48,14 @@ jobs:
 #         PRD_ENV: swoldsodev
 #         TPO_SRC_PATH: ${{ env.ICS_PATH }} 
 #         TPO_PATH: "MealPlanner.ics"      
-
-    - name: deploy file
-      uses: wlixcc/SFTP-Deploy-Action@v1.0
+       
+    - name: Upload Files
+      id: upload
+      uses: Creepios/sftp-action@v1.0.3
       with:
-        username:  ${{ secrets.WPE_USERNAME }}
-        server:  ${{ secrets.WPE_HOSTNAME }}
+        host: ${{ secrets.WPE_HOSTNAME }}
         port: ${{ secrets.WPE_PORT }}
-        ssh_private_key: ${{ secrets.WPE_SSHG_KEY_PRIVATE }} 
-        local_path: ${{ env.ICS_PATH }} 
-        remote_path: "/"
+        username: ${{ secrets.WPE_USERNAME }}
+        password: ${{ secrets.WPE_PASSWORD }}
+        localPath: ${{ env.ICS_PATH }} 
+        remotePath: './'
