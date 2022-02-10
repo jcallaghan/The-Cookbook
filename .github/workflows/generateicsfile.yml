@@ -39,3 +39,12 @@ jobs:
       run: python .github/scripts/generateics.py
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}
+
+    - name: GitHub Action Deploy to WP Engine
+      uses: wpengine/github-action-wpe-site-deploy@v2.3.4
+      with:
+        WPE_SSHG_KEY_PRIVATE: ${{ secrets.WPE_SSHG_KEY_PRIVATE }} 
+        PRD_BRANCH: main
+        PRD_ENV: swoldsodev
+        TPO_SRC_PATH: "/resources/MealPlanner.ics"
+        TPO_PATH: "MealPlanner.ics"      
