@@ -8,7 +8,7 @@
 - Blueberry and raspberry muffins #344
 
 ### C
-- Carrot cake #351
+- [Carrot cake #351](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/carrot-cake.md)
 - Cherry loaf cake #163
 - Chocolate fondant #164
 - Cinnamon swirls #352
