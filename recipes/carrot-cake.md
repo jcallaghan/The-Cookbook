@@ -1,0 +1,83 @@
+---
+title: Carrot Cake
+date: 2022-02-17T19:57:03
+serves: 8
+prep_time: 15 minutes
+cook_time: 35 minutes
+total_time: 50 minutes
+issue_id: 351
+issue_link: https://github.com/jcallaghan/The-Cookbook/issues/351
+thumbnail: carrot-cake.jpg
+meal_type:
+- Cake
+tags: 
+- Baking
+- Cake
+- Frosting
+- Favourite - Jas
+---
+
+# Carrot Cake
+
+- Serves: 8
+- Prep time: 15 minutes
+- Cook time: 35 minutes
+- Total: 50 minutes
+
+## Ingredients
+
+- 225g unsalted butter, melted and cooled
+- 4 medium free-range eggs
+- 175g soft light brown sugar
+- 1 tsp ground cinnamon 
+- ½ tsp fresh nutmeg
+- 1 tsp pumpkin pie spice (optional)
+- 300g self-raising flour
+- 1 tsp baking powder
+- ½ tsp bicarbonate of soda
+- 300g carrots, grated
+- 100g walnuts, chopped, plus extra to decorate
+- 50g pecan nuts, chopped, plus extra to decorate
+- 1-2 tbsp milk
+- 2 tsp vanilla paste
+
+### For the icing
+
+- 200g unsalted butter, softened
+- 350g icing sugar
+- Finely grated zest 1 lemon
+- 150g full-fat cream cheese
+- 1 tsp vanilla paste
+
+## Method
+
+1. Heat the oven to 180°C. 
+2. Grease 2 x 20cm sandwich tins. 
+3. Beat the butter, eggs and sugar until fluffy. 
+4. Fold in the remaining ingredients along with the milk to loosen.
+5. Divide the mix between the two tins. 
+6. Bake for 35-45 minutes until a skewer comes out clean. 
+7. Cool in the tins briefly, then on a cooling rack.
+
+### For the icing
+
+1. Beat the butter and icing sugar with the lemon zest.
+2. Add the cream cheese and continue to beat.
+3. Place icing on the top of one cakes before placing the cake on top to form a cake and icing sandwich.
+4. Top the cake with the remainder of the icing.
+5. Decorate the icing with crushed/chopped walnuts and pecans around the edge in a circular fashion.
+
+## Notes
+- Some recipes include strained pineapple and also raisins but I've next had a carrot cake with these ingredients in the UK. 
+
+## Pictures
+
+![image](./images/carrot-cake.jpeg)
+
+![image](./images/carrot-cake-1.jpeg)
+
+![image](./images/carrot-cake-2.jpeg)
+
+![image](./images/carrot-cake-3.jpeg)
+
+![image](./images/carrot-cake-4.jpeg)
