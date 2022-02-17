@@ -1,6 +1,7 @@
 # All Published Recipes
 
 ### C
+- [Carrot cake #351](/recipes/carrot-cake.md)
 - [Chicken broth soup #220](/recipes/chicken_broth_soup.md)
 - [Chicken katsu curry #148](/recipes/chicken_katsu_curry.md)
 - [Chicken pasta bake #187](/recipes/chicken_pasta_bake.md)
