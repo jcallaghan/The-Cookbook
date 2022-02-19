@@ -2,7 +2,7 @@
 
 
 
-Generated: 19-02-2022 16:47:03
+Generated: 19-02-2022 16:47:38
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -21,7 +21,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
 
 
-## 📃 Shopping List
+## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
