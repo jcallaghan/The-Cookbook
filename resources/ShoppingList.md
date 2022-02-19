@@ -20,7 +20,6 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 01-Mar 2022|[Creamy chicken broccoli pasta #19](https://github.com/jcallaghan/The-Cookbook/issues/19)|
 ||[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
 
-
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
@@ -84,4 +83,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Garam masala, Garlic cloves, Light soy sauce, Plain flour, Sea salt, Seasoning, Sesame oil, Shichimi powder, Soy sauce, Sunflower oil, Vegetable oil and Water.
 
 
-_This shopping list was generated at 19-02-2022 16:56:41._
+_This shopping list was generated at 19-02-2022 16:57:16._
