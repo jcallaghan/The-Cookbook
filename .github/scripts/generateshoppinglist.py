@@ -8,7 +8,14 @@ excludeLinesList = ["http","![image]","[","ingredientsShoppingListDict","#"]
 markdownIngredientLinesList = ["* ","- "]
 measuresList = ["tsp","tbsp","g","kg","ml","l","cup","lb","oz"]
 
-pantryIngredientsList = ["béchamel sauce","bechamel sauce","butter","sesame oil","vegetable oil","sunflower oil","cooking oil","coconut oil","chicken stock","cornflour","plain flour","water","seasoning","sea salt","baking soda","caster sugar","bay leaf","curry powder","cumin","dried basil","dried oregano","fennel seeds","cloves","green cardamon","star anise","mustard seeds","garam masala","turmeric powder","salt","black pepper","white pepper","crushed chillies","smoked paprika","garlic powder","chipotle chilli flakes","garlic cloves","sesame seeds","light brown sugar","tomato purée","tomatoes","vegetable oil","worcestershire sauce","soy sauce","light soy sauce","shichimi powder"]pantryingredientsShoppingListDictUsedList = []
+pantryMisc = ["butter","water","chicken stock","garlic cloves"]
+pantryBaking = ["baking soda","baking powder","caster sugar","cornflour","corn flour","plain flour","self-raising flour","self raising flour","flour","light brown sugar"]
+pantryHerbsSpicesList = ["seasoning","sea salt","salt","black pepper","white pepper","bay leaf","curry powder","cumin","dried basil","dried oregano","fennel seeds","cloves","green cardamon","star anise","mustard seeds","garam masala","turmeric powder","turmeric","crushed chillies","smoked paprika","garlic powder","chipotle chilli flakes","sesame seeds","shichimi powder"]
+pantrySaucesList = ["worcestershire sauce","soy sauce","light soy sauce","tomato purée","tomato puree","tomatoes","béchamel sauce","bechamel sauce"]
+pantryVinegarsOilsList = ["sesame oil","vegetable oil","sunflower oil","cooking oil","coconut oil","olive oil"]
+pantryIngredientsList = pantryMisc + pantryBaking + pantryHerbsSpicesList + pantrySaucesList + pantryVinegarsOilsList
+
+pantryingredientsShoppingListDictUsedList = []
 
 commitMsgEmoji = "🧑🏼‍🍳 "
 exportFilePath = "resources/ShoppingList.md"
