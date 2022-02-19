@@ -6,19 +6,28 @@ This shopping list has been automatically generated with rhe ingredients from re
 
 #### Sat 19-Feb 2022
 
-- Cashew chicken #95#### Sun 20-Feb 2022
+- Cashew chicken #95
+#### Sun 20-Feb 2022
 
-- Chilli squid #334#### Mon 21-Feb 2022
+- Chilli squid #334
+#### Mon 21-Feb 2022
 
-- Classic duck breast #184#### Tue 22-Feb 2022
+- Classic duck breast #184
+#### Tue 22-Feb 2022
 
-- Salmon, broccoli and feta lattice bake #166- Smoked salmon pasta #1#### Sun 27-Feb 2022
+- Salmon, broccoli and feta lattice bake #166
+- Smoked salmon pasta #1
+#### Sun 27-Feb 2022
 
-- Egg fried rice #330#### Mon 28-Feb 2022
+- Egg fried rice #330
+#### Mon 28-Feb 2022
 
-- Chicken Katsu curry #148#### Tue 01-Mar 2022
+- Chicken Katsu curry #148
+#### Tue 01-Mar 2022
 
-- Creamy chicken broccoli pasta #19- Prawn Alfredo #347
+- Creamy chicken broccoli pasta #19
+- Prawn Alfredo #347
+
 
 ## Shopping List
 
@@ -32,4 +41,4 @@ This shopping list has been automatically generated with rhe ingredients from re
 Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Garam masala, Garlic cloves, Light soy sauce, Plain flour, Sea salt, Seasoning, Sesame oil, Shichimi powder, Soy sauce, Sunflower oil, Vegetable oil and Water.
 
 
-Generated: 19-02-2022 16:28:13
+Generated: 19-02-2022 16:29:12
