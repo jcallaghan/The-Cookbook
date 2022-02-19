@@ -8,7 +8,7 @@ concurrency:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '1 0 * * thu'
+    - cron: '0 18 * * thu'
   project_card: 
     types: [created, moved, converted, edited, deleted]
   project_column:
