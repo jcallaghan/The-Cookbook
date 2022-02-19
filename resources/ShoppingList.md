@@ -2,9 +2,9 @@
 
 
 
-Generated: 19-02-2022 16:44:48
+Generated: 19-02-2022 16:45:47
 
-This shopping list has been automatically generated with rhe ingredients from recipes found in the meal planner project.
+This shopping list has been automatically generated with the ingredients from recipes found in the meal planner project.
 
 ## 📅 Meal Planner
 
