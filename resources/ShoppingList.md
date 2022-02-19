@@ -2,7 +2,7 @@
 
 
 
-Generated: 19-02-2022 16:40:15
+Generated: 19-02-2022 16:40:51
 
 This shopping list has been automatically generated with rhe ingredients from recipes found in the meal planner project.
 
@@ -14,11 +14,11 @@ This shopping list has been automatically generated with rhe ingredients from re
 |Sun 20-Feb 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
 |Mon 21-Feb 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Tue 22-Feb 2022|[Salmon, broccoli and feta lattice bake #166](https://github.com/jcallaghan/The-Cookbook/issues/166)|
-||Smoked salmon pasta #1|
+||[Smoked salmon pasta #1](https://github.com/jcallaghan/The-Cookbook/issues/1)|
 |Sun 27-Feb 2022|[Egg fried rice #330](https://github.com/jcallaghan/The-Cookbook/issues/330)|
 |Mon 28-Feb 2022|[Chicken Katsu curry #148](https://github.com/jcallaghan/The-Cookbook/issues/148)|
 |Tue 01-Mar 2022|[Creamy chicken broccoli pasta #19](https://github.com/jcallaghan/The-Cookbook/issues/19)|
-||Prawn Alfredo #347|
+||[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
 
 
 ## Shopping List
