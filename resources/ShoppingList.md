@@ -1,5 +1,9 @@
 # Shopping List
 
+
+
+Generated: 19-02-2022 16:33:53
+
 This shopping list has been automatically generated with rhe ingredients from recipes found in the meal planner project.
 
 ## Meal Planner
@@ -87,6 +91,3 @@ This shopping list has been automatically generated with rhe ingredients from re
 The following items have not been added to the shopping list as they are like in the pantry already.
 
 Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Garam masala, Garlic cloves, Light soy sauce, Plain flour, Sea salt, Seasoning, Sesame oil, Shichimi powder, Soy sauce, Sunflower oil, Vegetable oil and Water.
-
-
-Generated: 19-02-2022 16:32:09
