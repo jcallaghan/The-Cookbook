@@ -2,7 +2,7 @@
 
 
 
-Generated: 19-02-2022 16:41:26
+Generated: 19-02-2022 16:42:08
 
 This shopping list has been automatically generated with rhe ingredients from recipes found in the meal planner project.
 
@@ -23,7 +23,7 @@ This shopping list has been automatically generated with rhe ingredients from re
 
 ## Shopping List
 
-|Ingredient|Measurement|
+| 🍌 Ingredient| ⚖️ easurement|
 |----------|-----------|
 |[Asparagus](https://www.sainsburys.co.uk/gol-ui/SearchResults/Asparagus)|200g|
 |[Broccoli](https://www.sainsburys.co.uk/gol-ui/SearchResults/Broccoli)|300g|
