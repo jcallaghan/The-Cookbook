@@ -2,13 +2,13 @@
 
 
 
-Generated: 19-02-2022 16:40:51
+Generated: 19-02-2022 16:41:26
 
 This shopping list has been automatically generated with rhe ingredients from recipes found in the meal planner project.
 
 ## Meal Planner
 
-|Date|Meal|
+|📅 Date| 🍽️ Meal|
 |----|----|
 |Sat 19-Feb 2022|[Cashew chicken #95](https://github.com/jcallaghan/The-Cookbook/issues/95)|
 |Sun 20-Feb 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
