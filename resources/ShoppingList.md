@@ -141,4 +141,4 @@ This shopping list has been automatically generated with ingredients from recipe
 Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Garam masala, Garlic cloves, Light soy sauce, Plain flour, Sea salt, Seasoning, Sesame oil, Shichimi powder, Soy sauce, Sunflower oil, Vegetable oil and Water.
 
 
-Generated: 19-02-2022 16:22:11
+Generated: 19-02-2022 16:22:46
