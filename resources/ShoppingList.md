@@ -2,11 +2,11 @@
 
 
 
-Generated: 19-02-2022 16:42:08
+Generated: 19-02-2022 16:44:17
 
 This shopping list has been automatically generated with rhe ingredients from recipes found in the meal planner project.
 
-## Meal Planner
+##📅 Meal Planner
 
 |📅 Date| 🍽️ Meal|
 |----|----|
@@ -21,9 +21,9 @@ This shopping list has been automatically generated with rhe ingredients from re
 ||[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
 
 
-## Shopping List
+##📃 Shopping List
 
-| 🍌 Ingredient| ⚖️ easurement|
+| 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
 |[Asparagus](https://www.sainsburys.co.uk/gol-ui/SearchResults/Asparagus)|200g|
 |[Broccoli](https://www.sainsburys.co.uk/gol-ui/SearchResults/Broccoli)|300g|
@@ -77,7 +77,7 @@ This shopping list has been automatically generated with rhe ingredients from re
 
 1. Jas parents lunch
 
-## Pantry ingredients
+##🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
