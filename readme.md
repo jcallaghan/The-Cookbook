@@ -8,7 +8,7 @@
 [![Export project to ICS file](https://github.com/jcallaghan/The-Cookbook/actions/workflows/generateicsfile.yml/badge.svg)](https://github.com/jcallaghan/The-Cookbook/actions/workflows/generateicsfile.yml)
 [![Generate shopping list](https://github.com/jcallaghan/The-Cookbook/actions/workflows/generateshoppinglist.yml/badge.svg)](https://github.com/jcallaghan/The-Cookbook/actions/workflows/generateshoppinglist.yml)
 
-# 👨🏼‍🍳 I'm not a chef. I'm a geek who loves to cook great food!
+# I'm not a chef. I'm a geek who loves to cook great food!
 [TLDR] This is a plain text (well, markdown) archive of all my favourite food and drinks recipes. Enjoy!
 
 - [📅 Meal Planner](../../projects/10)
@@ -24,7 +24,7 @@
 - [🔪 Equipment](/resources/equipment.md)
 - [📖 Recipe Books](/resources/recipe-books.md)
 
-## 🍽️ Background
+## 👨🏼‍🍳 Background
 For years I have snipped and saved recipes I come across and use. I have old written recipes, attempts at recipe books, recipes saved in OneNote, recipes I've published on my blog, pictures of pages from recipe books and countless recipe books with page markers. Still, I've never created a single archive of my recipes, from the staple weeknight dishes to challenging dishes I test myself with when hosting dinner parties. The main challenge is being able to find, search and explore all my recipes really easily.
 
 ## 🧰 Why Github 
