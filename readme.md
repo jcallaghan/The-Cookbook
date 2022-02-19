@@ -12,6 +12,7 @@
 [TLDR] This is a plain text (well, markdown) archive of all my favourite food and drinks recipes. Enjoy!
 
 - [📅 Meal Planner](../../projects/10)
+- [🛒 Shopping List](/resources/ShoppingList.md)
 - [🧑‍🍳 All Recipes (published)](/index/all-recipes.md)
 - [🍞 Bread](/index/bread.md)
 - [🍥 Baking](/index/baking.md)
