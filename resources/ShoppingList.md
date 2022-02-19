@@ -1,8 +1,10 @@
-# Shopping List (Sat 19-Feb 2022 - Tue 01-Mar 2022)
+# Shopping List
 
 
 
-Generated: 19-02-2022 16:53:18
+Valid: Sat 19-Feb 2022 - Tue 01-Mar 2022
+
+Generated: 19-02-2022 16:54:12
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
