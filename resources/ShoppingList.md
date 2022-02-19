@@ -2,7 +2,7 @@
 
 
 
-Valid: Sat 19-Feb 2022 - Tue 01-Mar 2022
+Sat 19-Feb 2022 - Tue 01-Mar 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -84,4 +84,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Garam masala, Garlic cloves, Light soy sauce, Plain flour, Sea salt, Seasoning, Sesame oil, Shichimi powder, Soy sauce, Sunflower oil, Vegetable oil and Water.
 
 
-Generated: 19-02-2022 16:54:41
+Generated: 19-02-2022 16:55:04
