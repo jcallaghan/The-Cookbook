@@ -1,8 +1,9 @@
 # Shopping List
 
 
+\Valid: Sat 19-Feb 2022
 
-Generated: 19-02-2022 16:47:38
+Generated: 19-02-2022 16:52:02
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
