@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Sat 19-Feb 2022|[Cashew chicken #95](https://github.com/jcallaghan/The-Cookbook/issues/95)|
 |Sun 20-Feb 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
 |Mon 21-Feb 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Tue 22-Feb 2022|[Salmon, broccoli and feta lattice bake #166](https://github.com/jcallaghan/The-Cookbook/issues/166)|
@@ -25,29 +24,23 @@ This shopping list has been automatically generated with the ingredients from th
 |[Asparagus](https://www.sainsburys.co.uk/gol-ui/SearchResults/Asparagus)|200g|
 |[Broccoli](https://www.sainsburys.co.uk/gol-ui/SearchResults/Broccoli)|300g|
 |[Chicken breast fillet (cover with cling film and beat flat with a rolling pin)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breast%20fillet%20(cover%20with%20cling%20film%20and%20beat%20flat%20with%20a%20rolling%20pin))|4|
-|[Chicken thigh](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thigh)|500g / 1 lb|
 |[Chillies flakes or paprika (for an optional kick)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20flakes%20or%20paprika%20(for%20an%20optional%20kick))|1 tsp|
-|[Chinese cooking wine or mirin (note 2)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chinese%20cooking%20wine%20or%20mirin%20(note%202))|1 1/2 tbsp|
 |[Coriander sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander%20sprigs)|3|
-|[Dash of white peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dash%20of%20white%20peppers)||
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|100ml|
 |[Duck breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Duck%20breasts)|2|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|1|
 |[Farfalle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Farfalle%20pasta)|250g|
 |[Feta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Feta)|200g|
-|[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)||
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
 |[Freshly grated parmesan cheese (keep some back for serving)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20grated%20parmesan%20cheese%20(keep%20some%20back%20for%20serving))|100g|
 |[Green cabbage](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20cabbage)|200g|
-|[Green capsicum / bell peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20capsicum%20/%20bell%20peppers)|1|
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|1 tbsp|
 |[Linguine or fettuccine pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Linguine%20or%20fettuccine%20pasta)|200g|
 |[Malt vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Malt%20vinegar)|5 tbsp|
 |[Medium carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots)|3|
 |[Medium-sized smoked salmon fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium-sized%20smoked%20salmon%20fillets)|2|
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)||
-|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1/2 + 2|
-|[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|3 tbsp|
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
 |[Panko breadcrumbs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko%20breadcrumbs)|100g|
 |[Parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parsley)||
 |[Pinch nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20nutmeg)||
@@ -57,13 +50,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[Ready-rolled puff pastry sheets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ready-rolled%20puff%20pastry%20sheets)|400g|
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1|
 |[Red wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20wine)||
-|[Rice wine vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20wine%20vinegar)||
-|[Roasted cashews](https://www.sainsburys.co.uk/gol-ui/SearchResults/Roasted%20cashews)|3/4 cup|
 |[Rocket](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rocket)||
 |[Salmon fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salmon%20fillets)|2|
-|[Sesame/peanut oil (or vegetable oil)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sesame/peanut%20oil%20(or%20vegetable%20oil))|2 tbsp|
 |[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|2 + 3|
-|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)||
 |[Squid](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squid)|200g|
 |[Vegetable oil for frying](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20oil%20for%20frying)|230ml|
 |[Whipping cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whipping%20cream)|300ml|
@@ -78,7 +67,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Garam masala, Garlic cloves, Light soy sauce, Plain flour, Sea salt, Seasoning, Sesame oil, Shichimi powder, Soy sauce, Sunflower oil, Vegetable oil and Water.
+Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Garam masala, Garlic cloves, Light soy sauce, Plain flour, Sea salt, Seasoning, Shichimi powder, Soy sauce, Sunflower oil, Vegetable oil and Water.
 
 
-_This shopping list was generated at 19-02-2022 16:59:22._
+_This shopping list was generated at 19-02-2022 17:08:11._
