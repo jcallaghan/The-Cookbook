@@ -1,4 +1,4 @@
-name: Generate calendar from project
+name: Generate shopping list
 
 # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#concurrency
 concurrency: 
