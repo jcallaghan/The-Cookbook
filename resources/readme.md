@@ -1,5 +1,10 @@
 # Resources
 
+## How to
+1. Use GitHub like me.
+2. Create a meal planner calendar.
+3. Generate a shopping list automatically.
+
 ## Meal Planner
 * My automatically generated [ShoppingList.md](./ShoppingList.md) from my meal planner.
 * An automatically generated [ICS file](./MealPlanner.ics) which is published to my website and I subscribe to on my devices.
