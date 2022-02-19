@@ -2,35 +2,23 @@
 
 
 
-Generated: 19-02-2022 16:36:06
+Generated: 19-02-2022 16:40:15
 
 This shopping list has been automatically generated with rhe ingredients from recipes found in the meal planner project.
 
 ## Meal Planner
 
-#### Sat 19-Feb 2022
-
-- Cashew chicken #95
-#### Sun 20-Feb 2022
-
-- Chilli squid #334
-#### Mon 21-Feb 2022
-
-- Classic duck breast #184
-#### Tue 22-Feb 2022
-
-- Salmon, broccoli and feta lattice bake #166
-- Smoked salmon pasta #1
-#### Sun 27-Feb 2022
-
-- Egg fried rice #330
-#### Mon 28-Feb 2022
-
-- Chicken Katsu curry #148
-#### Tue 01-Mar 2022
-
-- Creamy chicken broccoli pasta #19
-- Prawn Alfredo #347
+|Date|Meal|
+|----|----|
+|Sat 19-Feb 2022|[Cashew chicken #95](https://github.com/jcallaghan/The-Cookbook/issues/95)|
+|Sun 20-Feb 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
+|Mon 21-Feb 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
+|Tue 22-Feb 2022|[Salmon, broccoli and feta lattice bake #166](https://github.com/jcallaghan/The-Cookbook/issues/166)|
+||Smoked salmon pasta #1|
+|Sun 27-Feb 2022|[Egg fried rice #330](https://github.com/jcallaghan/The-Cookbook/issues/330)|
+|Mon 28-Feb 2022|[Chicken Katsu curry #148](https://github.com/jcallaghan/The-Cookbook/issues/148)|
+|Tue 01-Mar 2022|[Creamy chicken broccoli pasta #19](https://github.com/jcallaghan/The-Cookbook/issues/19)|
+||Prawn Alfredo #347|
 
 
 ## Shopping List
@@ -90,6 +78,7 @@ This shopping list has been automatically generated with rhe ingredients from re
 1. Jas parents lunch
 
 ## Pantry ingredients
+
 The following items have not been added to the shopping list as they are like in the pantry already.
 
 Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Garam masala, Garlic cloves, Light soy sauce, Plain flour, Sea salt, Seasoning, Sesame oil, Shichimi powder, Soy sauce, Sunflower oil, Vegetable oil and Water.
