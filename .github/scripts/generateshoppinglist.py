@@ -8,8 +8,7 @@ excludeLinesList = ["http","![image]","[","ingredientsShoppingListDict","#"]
 markdownIngredientLinesList = ["* ","- "]
 measuresList = ["tsp","tbsp","g","kg","ml","l","cup","lb","oz"]
 
-pantryIngredientsList = ["béchamel sauce","bechamel sauce","butter","sesame oil","vegetable oil","sunflower oil","cooking oil","chicken stock","cornflour","plain flour","water","seasoning","sea salt","baking soda","caster sugar","bay leaf","curry powder","cumin","dried basil","dried oregano","garam masala","turmeric","crushed chillies","smoked paprika","garlic powder","chipotle chilli flakes","garlic cloves","sesame seeds","light brown sugar","tomato purée","tomatoes","vegetable oil","worcestershire sauce","soy sauce","light soy sauce","shichimi powder"]
-pantryingredientsShoppingListDictUsedList = []
+pantryIngredientsList = ["béchamel sauce","bechamel sauce","butter","sesame oil","vegetable oil","sunflower oil","cooking oil","coconut oil","chicken stock","cornflour","plain flour","water","seasoning","sea salt","baking soda","caster sugar","bay leaf","curry powder","cumin","dried basil","dried oregano","fennel seeds","cloves","green cardamon","star anise","mustard seeds","garam masala","turmeric powder","salt","black pepper","white pepper","crushed chillies","smoked paprika","garlic powder","chipotle chilli flakes","garlic cloves","sesame seeds","light brown sugar","tomato purée","tomatoes","vegetable oil","worcestershire sauce","soy sauce","light soy sauce","shichimi powder"]pantryingredientsShoppingListDictUsedList = []
 
 commitMsgEmoji = "🧑🏼‍🍳 "
 exportFilePath = "resources/ShoppingList.md"
