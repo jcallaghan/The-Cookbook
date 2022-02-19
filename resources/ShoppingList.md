@@ -2,7 +2,7 @@
 
 
 
-Generated: 19-02-2022 16:46:43
+Generated: 19-02-2022 16:47:03
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -25,53 +25,53 @@ This shopping list has been automatically generated with the ingredients from th
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
-|[ ] [Asparagus](https://www.sainsburys.co.uk/gol-ui/SearchResults/Asparagus)|200g|
-|[ ] [Broccoli](https://www.sainsburys.co.uk/gol-ui/SearchResults/Broccoli)|300g|
-|[ ] [Chicken breast fillet (cover with cling film and beat flat with a rolling pin)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breast%20fillet%20(cover%20with%20cling%20film%20and%20beat%20flat%20with%20a%20rolling%20pin))|4|
-|[ ] [Chicken thigh](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thigh)|500g / 1 lb|
-|[ ] [Chillies flakes or paprika (for an optional kick)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20flakes%20or%20paprika%20(for%20an%20optional%20kick))|1 tsp|
-|[ ] [Chinese cooking wine or mirin (note 2)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chinese%20cooking%20wine%20or%20mirin%20(note%202))|1 1/2 tbsp|
-|[ ] [Coriander sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander%20sprigs)|3|
-|[ ] [Dash of white peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dash%20of%20white%20peppers)||
-|[ ] [Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|100ml|
-|[ ] [Duck breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Duck%20breasts)|2|
-|[ ] [Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|1|
-|[ ] [Farfalle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Farfalle%20pasta)|250g|
-|[ ] [Feta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Feta)|200g|
-|[ ] [Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)||
-|[ ] [Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
-|[ ] [Freshly grated parmesan cheese (keep some back for serving)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20grated%20parmesan%20cheese%20(keep%20some%20back%20for%20serving))|100g|
-|[ ] [Green cabbage](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20cabbage)|200g|
-|[ ] [Green capsicum / bell peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20capsicum%20/%20bell%20peppers)|1|
-|[ ] [Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|1 tbsp|
-|[ ] [Linguine or fettuccine pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Linguine%20or%20fettuccine%20pasta)|200g|
-|[ ] [Malt vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Malt%20vinegar)|5 tbsp|
-|[ ] [Medium carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots)|3|
-|[ ] [Medium-sized smoked salmon fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium-sized%20smoked%20salmon%20fillets)|2|
-|[ ] [Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)||
-|[ ] [Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1/2 + 2|
-|[ ] [Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|3 tbsp|
-|[ ] [Panko breadcrumbs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko%20breadcrumbs)|100g|
-|[ ] [Parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parsley)||
-|[ ] [Pinch nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20nutmeg)||
-|[ ] [Plain flour or cornflour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Plain%20flour%20or%20cornflour)|2 tbsp|
-|[ ] [Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|200g|
-|[ ] [Raw king prawns](https://www.sainsburys.co.uk/gol-ui/SearchResults/Raw%20king%20prawns)|300g|
-|[ ] [Ready-rolled puff pastry sheets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ready-rolled%20puff%20pastry%20sheets)|400g|
-|[ ] [Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1|
-|[ ] [Red wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20wine)||
-|[ ] [Rice wine vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20wine%20vinegar)||
-|[ ] [Roasted cashews](https://www.sainsburys.co.uk/gol-ui/SearchResults/Roasted%20cashews)|3/4 cup|
-|[ ] [Rocket](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rocket)||
-|[ ] [Salmon fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salmon%20fillets)|2|
-|[ ] [Sesame/peanut oil (or vegetable oil)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sesame/peanut%20oil%20(or%20vegetable%20oil))|2 tbsp|
-|[ ] [Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|2 + 3|
-|[ ] [Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)||
-|[ ] [Squid](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squid)|200g|
-|[ ] [Vegetable oil for frying](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20oil%20for%20frying)|230ml|
-|[ ] [Whipping cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whipping%20cream)|300ml|
-|[ ] [White wine (riesling or chardonnay)](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine%20(riesling%20or%20chardonnay))|100ml cup|
-|[ ] [Whole grain mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20grain%20mustard)|2 tsp|
+|[Asparagus](https://www.sainsburys.co.uk/gol-ui/SearchResults/Asparagus)|200g|
+|[Broccoli](https://www.sainsburys.co.uk/gol-ui/SearchResults/Broccoli)|300g|
+|[Chicken breast fillet (cover with cling film and beat flat with a rolling pin)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breast%20fillet%20(cover%20with%20cling%20film%20and%20beat%20flat%20with%20a%20rolling%20pin))|4|
+|[Chicken thigh](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thigh)|500g / 1 lb|
+|[Chillies flakes or paprika (for an optional kick)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20flakes%20or%20paprika%20(for%20an%20optional%20kick))|1 tsp|
+|[Chinese cooking wine or mirin (note 2)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chinese%20cooking%20wine%20or%20mirin%20(note%202))|1 1/2 tbsp|
+|[Coriander sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander%20sprigs)|3|
+|[Dash of white peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dash%20of%20white%20peppers)||
+|[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|100ml|
+|[Duck breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Duck%20breasts)|2|
+|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|1|
+|[Farfalle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Farfalle%20pasta)|250g|
+|[Feta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Feta)|200g|
+|[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)||
+|[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
+|[Freshly grated parmesan cheese (keep some back for serving)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20grated%20parmesan%20cheese%20(keep%20some%20back%20for%20serving))|100g|
+|[Green cabbage](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20cabbage)|200g|
+|[Green capsicum / bell peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20capsicum%20/%20bell%20peppers)|1|
+|[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|1 tbsp|
+|[Linguine or fettuccine pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Linguine%20or%20fettuccine%20pasta)|200g|
+|[Malt vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Malt%20vinegar)|5 tbsp|
+|[Medium carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots)|3|
+|[Medium-sized smoked salmon fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium-sized%20smoked%20salmon%20fillets)|2|
+|[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)||
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1/2 + 2|
+|[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|3 tbsp|
+|[Panko breadcrumbs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko%20breadcrumbs)|100g|
+|[Parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parsley)||
+|[Pinch nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20nutmeg)||
+|[Plain flour or cornflour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Plain%20flour%20or%20cornflour)|2 tbsp|
+|[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|200g|
+|[Raw king prawns](https://www.sainsburys.co.uk/gol-ui/SearchResults/Raw%20king%20prawns)|300g|
+|[Ready-rolled puff pastry sheets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ready-rolled%20puff%20pastry%20sheets)|400g|
+|[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1|
+|[Red wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20wine)||
+|[Rice wine vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20wine%20vinegar)||
+|[Roasted cashews](https://www.sainsburys.co.uk/gol-ui/SearchResults/Roasted%20cashews)|3/4 cup|
+|[Rocket](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rocket)||
+|[Salmon fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salmon%20fillets)|2|
+|[Sesame/peanut oil (or vegetable oil)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sesame/peanut%20oil%20(or%20vegetable%20oil))|2 tbsp|
+|[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|2 + 3|
+|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)||
+|[Squid](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squid)|200g|
+|[Vegetable oil for frying](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20oil%20for%20frying)|230ml|
+|[Whipping cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whipping%20cream)|300ml|
+|[White wine (riesling or chardonnay)](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine%20(riesling%20or%20chardonnay))|100ml cup|
+|[Whole grain mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20grain%20mustard)|2 tsp|
 
 ## 🗒️ Notes
 
