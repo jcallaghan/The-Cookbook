@@ -53,7 +53,7 @@ I'll keep you updated with how I progress with all the geeky stuff, but for now,
 
 ### //TODO
 - [ ] Recipes to primary label markdown pages (indexes or categorisation)
-- [ ] Recipe issue primary comment to markdown recipe file (publish markdown file when issue is closed)
+- [x] ~Recipe issue primary comment to markdown recipe file (publish markdown file when issue is closed)~
 - [x] ~Automatically create project columns in the meal planner~
 - [x] ~Publish issues to .ical file~
 - [x] ~Generate shopping list from meal planner~
