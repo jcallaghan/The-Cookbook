@@ -1,4 +1,4 @@
-name: Generate shopping list
+name: Generate shopping list markdown file
 
 # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#concurrency
 # https://docs.github.com/en/actions/using-jobs/using-concurrency#example-only-cancel-in-progress-jobs-or-runs-for-the-current-workflow
@@ -18,7 +18,7 @@ on:
 jobs:
 
   build:
-    name: Generate shopping list markdown file
+    name: Run python script
     runs-on: ubuntu-latest
     
     steps:
