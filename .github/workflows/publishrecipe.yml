@@ -13,9 +13,9 @@ on:
 jobs:
 
   build:
-  
+    name: Run python script
     runs-on: ubuntu-latest
-    
+    if: github.event.label.name == '⚙ ::: Trigger Published ⏱️'
     steps:
 
     - name: Check-out repository
