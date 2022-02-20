@@ -1,10 +1,10 @@
 ---
 title: Test prawn pasta
-date: 2022-02-20T20:45:10
+date: 2022-02-20T20:52:18
 serves: 4
-prep_time: 15
-cook_time: 10
-total_time: 25
+prep_time: 15 minutes
+cook_time: 10 minutes
+total_time: 25 minutes
 issue_id: 365
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/365
 thumbnail: test-prawn-pasta.jpg
