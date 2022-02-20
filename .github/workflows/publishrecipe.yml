@@ -11,7 +11,7 @@ on:
     types: [edited, closed, labeled, unlabeled]
 
 env:
-  label: '⚙ ::: Trigger Published ⏱️'
+  TRIGGER_LABEL: '⚙ ::: Trigger Published ⏱️'
   
 jobs:
 
@@ -19,7 +19,7 @@ jobs:
     name: Run python script
     runs-on: ubuntu-latest
 
-    if: contains(github.event.issue.labels.*.name,${{ label }})
+    if: contains(github.event.issue.labels.*.name,${{ TRIGGER_LABEL }})
     
     steps:
 
