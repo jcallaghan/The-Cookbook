@@ -9,9 +9,6 @@ on:
   workflow_dispatch:
   issues:
     types: [edited, closed, labeled, unlabeled]
-
-env:
-  trigger_label: '⚙ ::: Trigger Published ⏱️'
   
 jobs:
 
@@ -19,7 +16,7 @@ jobs:
     name: Run python script
     runs-on: ubuntu-latest
 
-    if: contains(github.event.issue.labels.*.name,$Env.trigger_label)
+    if: contains(github.event.issue.labels.*.name,'⚙ Trigger Published')
     
     steps:
 
