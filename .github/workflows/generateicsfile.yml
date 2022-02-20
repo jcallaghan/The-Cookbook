@@ -17,7 +17,7 @@ on:
 jobs:
 
   build:
-    name: Build and Generate ICS file
+    name: Run python scripts
     runs-on: ubuntu-latest
     env:
       ICS_PATH: ${{ github.workspace }}/resources/MealPlanner.ics
