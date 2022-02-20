@@ -1,6 +1,6 @@
 ---
 title: Cacio e Peppe
-date: 2022-02-20T23:15:40
+date: 2022-02-20T23:15:42
 serves: 2
 prep_time: 5 minutes
 cook_time: 15 minutes
@@ -16,7 +16,6 @@ labels:
 - Ingredient - Cheese 🧀
 - Style - Italian 🇮🇹
 - Chef 🧑🏼‍🍳 - Alex
-- ⚙ Trigger Published
 ---
 
 # Cacio e Peppe
