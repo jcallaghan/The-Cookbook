@@ -15,7 +15,8 @@ def main():
 
     markdownContent = mealLabels = labels = ""
 
-    issue = repo.get_issue(context_dict["issue"]["number"])
+    workflow_triggered_by_issue = context_dict["issue"]["number"]
+    issue = repo.get_issue(number=workflow_triggered_by_issue)
 
     # //TODO recipe markdown must include N headings (ingredients, method) and N optional headings (notes, pictures, related). Could check that these exist before proceeding.
 
