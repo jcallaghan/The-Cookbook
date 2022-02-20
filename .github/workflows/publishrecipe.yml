@@ -9,13 +9,18 @@ on:
   workflow_dispatch:
   issues:
     types: [edited, closed, labeled, unlabeled]
-    
+
+env:
+  label: '⚙ ::: Trigger Published ⏱️'
+  
 jobs:
 
   build:
     name: Run python script
     runs-on: ubuntu-latest
-    if: contains(github.event.issue.labels.*.name,'Trigger Published')
+
+    if: contains(github.event.issue.labels.*.name,${{ label }})
+    
     steps:
 
     - name: Check-out repository
