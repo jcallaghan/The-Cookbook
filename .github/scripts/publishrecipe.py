@@ -15,7 +15,7 @@ def main():
 
     markdownContent = mealLabels = labels = ""
 
-    issue = repo.get_issue(365)
+    issue = repo.get_issue(context_dict["number"])
 
     # //TODO recipe markdown must include N headings (ingredients, method) and N optional headings (notes, pictures, related). Could check that these exist before proceeding.
 
@@ -97,6 +97,7 @@ def main():
             issueLabels.append(label.name)
 
         # Add the published label to the list of labels.
+        issueLabels.remove("⚙ ::: Trigger Published ⏱️")
         issueLabels.append("⚙ ::: Markdown Published ✅")
 
         # Update issue.
