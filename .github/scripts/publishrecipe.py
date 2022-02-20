@@ -9,7 +9,7 @@ repo = context_dict["repository"]
 repo = g.get_repo(repo)
 
 commitMsgEmoji = "🧑🏼‍🍳 "
-labelsToExcludeList = ["⚙ ::: ","Meal ::: "]
+labelsToExcludeList = ["⚙ ","Meal ::: "]
 
 def main():
 
@@ -104,7 +104,7 @@ def main():
 
         # Add the published label to the list of labels.
         issueLabels.remove("⚙ Trigger Published")
-        issueLabels.append("⚙ ::: Markdown Published ✅")
+        issueLabels.append("⚙ Markdown Published ✅")
 
         # Update issue.
         issue.edit(labels=issueLabels,state='closed')
