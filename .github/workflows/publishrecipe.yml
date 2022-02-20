@@ -1,0 +1,35 @@
+name: Publish recipe
+
+# https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#concurrency
+concurrency: 
+  group: ${{ github.issue }}-${{ github.ref }}
+  cancel-in-progress: true
+  
+on:
+  workflow_dispatch:
+  issues:
+    types: [edited, closed, labeled, unlabeled]
+    
+jobs:
+
+  build:
+  
+    runs-on: ubuntu-latest
+    
+    steps:
+
+    - name: Check-out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9    
+
+    - name: Install Python dependencies
+      run: pip install -Uq PyGithub
+      
+    - name: Generate recipe markdown file
+      run: python .github/scripts/publishrecipe.py
+      env:
+        CONTEXT_GITHUB: ${{ toJson(github) }}
