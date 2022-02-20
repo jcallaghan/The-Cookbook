@@ -33,22 +33,22 @@ def main():
 
         # Use regex to find any reference of serves in the body.
         serves = re.findall("Serves: [+-]?\d+", issue.body)
-        if serves != "":
+        if len(serves) > 0:
             markdownContent = markdownContent + (f"serves: " + serves[-0].replace("Serves: ","") + "\n") 
 
         # Use regex to find any reference of prep time in the body.
         prep_time = re.findall("Prep time: [+-]?\d+ \w+", issue.body)
-        if prep_time != "":
+        if len(prep_time) > 0:
             markdownContent = markdownContent + (f"prep_time: " + prep_time[-0].replace("Prep time: ","") + "\n") 
 
         # Use regex to find any reference of cook time in the body.
         cook_time = re.findall("Cook time: [+-]?\d+ \w+", issue.body)
-        if cook_time != "":
+        if len(cook_time) > 0:
             markdownContent = markdownContent + (f"cook_time: " + cook_time[-0].replace("Cook time: ","") + "\n") 
 
         # Use regex to find any reference of total time in the body.
         total_time = re.findall("Total time: [+-]?\d+ \w+", issue.body)
-        if total_time != "":
+        if len(total_time) > 0:
             markdownContent = markdownContent + (f"total_time: " + total_time[-0].replace("Total time: ","") + "\n") 
 
         # Continue building our markdown content.
