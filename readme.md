@@ -5,8 +5,8 @@
 ![](https://img.shields.io/github/commit-activity/m/jcallaghan/The-Cookbook?label=activity)
 
 [![Project column management](https://github.com/jcallaghan/The-Cookbook/actions/workflows/projectcolumnmanagement.yml/badge.svg)](https://github.com/jcallaghan/The-Cookbook/actions/workflows/projectcolumnmanagement.yml) 
-[![Export project to ICS file](https://github.com/jcallaghan/The-Cookbook/actions/workflows/generateicsfile.yml/badge.svg)](https://github.com/jcallaghan/The-Cookbook/actions/workflows/generateicsfile.yml)
-[![Generate shopping list](https://github.com/jcallaghan/The-Cookbook/actions/workflows/generateshoppinglist.yml/badge.svg)](https://github.com/jcallaghan/The-Cookbook/actions/workflows/generateshoppinglist.yml)
+[![Export project to ICS file](https://github.com/jcallaghan/The-Cookbook/actions/workflows/generateicsfile.yml/badge.svg)](https://github.com/jcallaghan/The-Cookbook/actions/workflows/generateicsfile.yml) 
+[![Generate shopping list](https://github.com/jcallaghan/The-Cookbook/actions/workflows/generateshoppinglist.yml/badge.svg)](https://github.com/jcallaghan/The-Cookbook/actions/workflows/generateshoppinglist.yml) 
 [![Publish recipe](https://github.com/jcallaghan/The-Cookbook/actions/workflows/publishrecipe.yml/badge.svg)](https://github.com/jcallaghan/The-Cookbook/actions/workflows/publishrecipe.yml)
 
 # I'm not a chef. I'm a geek who loves to cook great food!
