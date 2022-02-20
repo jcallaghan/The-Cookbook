@@ -97,7 +97,7 @@ def main():
             issueLabels.append(label.name)
 
         # Add the published label to the list of labels.
-        issueLabels.remove("⚙ ::: Trigger Published ⏱️")
+        issueLabels.remove("⚙ Trigger Published")
         issueLabels.append("⚙ ::: Markdown Published ✅")
 
         # Update issue.
