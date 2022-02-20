@@ -109,6 +109,8 @@ def main():
         # Update issue.
         issue.edit(labels=issueLabels,state='closed')
         #issue.edit(body=issueContent,labels=issueLabels)
+      
+        # //TODO add recipe to index lists. Assume this would be a seperate action.
 
     else:
         print("No issue found.")
