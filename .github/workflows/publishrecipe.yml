@@ -2,7 +2,7 @@ name: Publish recipe
 
 # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#concurrency
 concurrency: 
-  group: ${{ github.issue }}-${{ github.ref }}
+  group: ${{ github.issue.number }}-${{ github.ref }}
   cancel-in-progress: true
   
 on:
@@ -15,7 +15,7 @@ jobs:
   build:
     name: Run python script
     runs-on: ubuntu-latest
-    if: github.event.label.name == '⚙ ::: Trigger Published ⏱️'
+    if: contains(github.event.labels.*.name,'Trigger Published')
     steps:
 
     - name: Check-out repository
