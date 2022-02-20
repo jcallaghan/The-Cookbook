@@ -1,6 +1,6 @@
 ---
 title: Test prawn pasta
-date: 2022-02-20T21:57:01
+date: 2022-02-20T22:55:07
 serves: 4
 prep_time: 15 minutes
 cook_time: 10 minutes
@@ -14,6 +14,7 @@ labels:
 - Style - Pasta 🍝
 - Favourite 🥰
 - Ingredient - Fish 🐟 - Prawn
+- ⚙ Trigger Published
 ---
 
 # Test prawn pasta
@@ -36,6 +37,7 @@ labels:
 - 455g fettuccine, cooked
 - 110g parmesan cheese, grated
 - 20g fresh parsley, chopped
+- 650g something
 
 ## Method
 
