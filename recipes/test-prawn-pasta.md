@@ -1,10 +1,10 @@
 ---
 title: Test prawn pasta
-date: 2022-02-20T20:53:46
-serves: : 4 servings
-prep_time: : 4 servings
-cook_time: : 4 servings
-total_time: : 4 servings
+date: 2022-02-20T20:54:28
+serves: 4 servings
+prep_time: 4 servings
+cook_time: 4 servings
+total_time: 4 servings
 issue_id: 365
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/365
 thumbnail: test-prawn-pasta.jpg
