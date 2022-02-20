@@ -84,7 +84,9 @@ def main():
         markdownContent = markdownContent + (f"" + str(issue.body) + "\n") 
 
         # //TODO replace any issue numbers in the related section with the issue title, issue number and the link to the issue.
-
+        
+        # //TODO consider uploading any image.githubusercontent.com images to the images directory and then replace them with repo/images path.
+        
         # Export the recipe to a markdown file in the repo.
         path = export_to_markdown(issue, markdownContent)
 
