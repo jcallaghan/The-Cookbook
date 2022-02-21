@@ -28,8 +28,14 @@ labels:
 
 ## Notes
 
+1. Cocktail Cards 99 - https://getcocktailcards.com/whiskeysour/
 1. Jameson Black Barrel Summer Sour
+1. Dry shaking without ice helps whip the egg white into a frothy meringue giving the drink a foamy top layer that is very popular in cocktails.
 
 ## Pictures
 
 ![image](https://user-images.githubusercontent.com/7449908/130370182-f93a4a58-42b4-400e-a8a4-f84b51a0e511.jpeg)
+
+## Related
+
+- #328 
