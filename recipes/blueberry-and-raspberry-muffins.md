@@ -2,9 +2,6 @@
 title: Blueberry and raspberry muffins
 date: 2021-12-28T23:31:39
 serves: 12
-prep_time: 5 minutes
-cook_time: 20 minutes
-total_time: 25 minutes
 issue_id: 344
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/344
 thumbnail: blueberry-and-raspberry-muffins.jpg
@@ -20,9 +17,9 @@ labels:
 # Blueberry and raspberry muffins
 
 - Serves: 12 servings
-- Prep time: 5 minutes
-- Cook time: 20 minutes
-- Total time: 25 minutes
+- Prep Time: 5 minutes
+- Cook Time: 20 minutes
+- Total Time: 25 minutes
 
 ## Ingredients
 
