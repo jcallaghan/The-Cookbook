@@ -117,9 +117,14 @@ def main():
         print("No issue found.")
 
 def export_to_markdown(issue, content):
-    
-    # Combine the issue title with the path to where recipes are saved.
-    exportFilePath = "recipes/" + issue.title.replace(" ","-").lower() + ".md"
+        
+    # Remove non-alphanumeric characters.
+    pattern = "[^0-9a-zA-Z\s]+"
+    cleanTitle = re.sub(pattern, "", issue.title)
+
+    # Combine the issue title with the path to where recipes are saved.    
+    exportFilePath = "recipes/" + cleanTitle.lower() + ".md"
+        
     contents = ""
     
     # See if a file exists already.
