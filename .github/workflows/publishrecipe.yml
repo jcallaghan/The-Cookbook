@@ -8,7 +8,7 @@ concurrency:
 on:
   workflow_dispatch:
   issues:
-    types: [edited, closed, labeled, unlabeled]
+    types: [labeled]
   
 jobs:
 
