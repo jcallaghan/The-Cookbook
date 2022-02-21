@@ -16,7 +16,7 @@ jobs:
     name: Run python script
     runs-on: ubuntu-latest
 
-    if: contains(github.event.issue.labels.*.name,'⚙ Trigger Published')
+    if: contains(github.event.issue.labels.*.name,'⚙ Trigger Publishing')
     
     steps:
 
