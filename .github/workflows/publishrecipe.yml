@@ -2,7 +2,7 @@ name: Publish recipe
 
 # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#concurrency
 concurrency: 
-  group: ${{ github.workflow }}-${{ github.ref }}
+  group: ${{ github.event.issue.number }}-${{ github.ref }}
   cancel-in-progress: true
   
 on:
