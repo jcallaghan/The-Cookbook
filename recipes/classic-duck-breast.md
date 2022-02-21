@@ -29,7 +29,7 @@ This is a wonderful dish for a quick week night meal. It doesn't get simpler or 
 6. Turn the fillets and cook the other side for about a 1 minute.
 7. Place skin down and continue cook in the oven (~4 minutes) until the internal temperature of the duck reads 52°C (medium-rare).
 8. Remove the duck from the oven and allow to rest (~5 minutes).
-9. Cut the duck breast at an angle and plate over mash.
+9. Cut the duck breast at an angle and plate over hot mash and a side of creamed greens.
 
 ## Notes
 1. Serve with creamed greens #364 and a buttery mash #280 or alternatively asparagus when in season and a red wine jus #366.
