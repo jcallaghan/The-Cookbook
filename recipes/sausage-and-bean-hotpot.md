@@ -9,8 +9,8 @@ meal_type:
 labels:
 - Ingredient - Meat - Pork
 - Favourite 🥰 - James
-- Meal - Main
 - Ingredient - Sausage
+- Style - Casserole
 ---
 
 # Sausage and Bean Hotpot
