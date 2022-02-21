@@ -1,65 +1,72 @@
 ---
 title: Crispy beef with egg fried rice
-date: 2021-01-14T00:00:00
+date: 2021-01-14T20:27:25
 serves: 2
-prep_time: 15 minutes
-cook_time: 5 minutes
-total_time: 20 minutes
 issue_id: 102
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/102
 thumbnail: crispy-beef-with-egg-fried-rice.jpg
 meal_type:
-- main
-tags:
-- stir-fry
-- asian
-- beef
-- chinese
+- Main
+labels:
+- Ingredient - Meat - Beef
+- Ingredient - Rice
+- Ingredient - Steak
+- Favourite 🥰 - James
+- Style - Asian
+- Style - Chinese
+- Style - Frying
+- ℹ️ Make ahead of time ⏰
+- Style - Wok
 ---
 
 # Crispy beef with egg fried rice
 
-- Serves: 2 servings
-- Prep time: 15 minutes
-- Cook time: 5 minutes
-- Total: 20 minutes
+This one has taken me a while to perfect. The trick for me has been getting a professional steel wok and cooking the beef in batches in hot oil for long enough. My previous wok was cast iron and impossible to wok toss due the weight of it.
 
-This one has taken me a while to perfect. The trick for me has been getting a professional wok and cooking the beef in hot oil for long enough in batches.
-It is always one of my favourites when eating Chinese takeout but this recipe leaves you feeling less stodgy.
+It's always been one of my favourites when ordering Chinese takeout but this version of the recipe leaves me feeling less stodgy and wanting more!
+
+- Serves: 2 servings
+- Prep Time: 15 minutes
+- Cook Time: 5 minutes
+- Total Time: 20 minutes
 
 ## Ingredients
 
 ### Egg Fried Rice
+
 - Day-old cooked rice (100g per person) 
-- Egg whisked in a bowl (one egg per person)
-- Sesame oil
-- Light soy sauce
+- Egg, whisked in a bowl (one egg per person)
+- 1 tbsp sesame oil
+- 1 tbsp soy sauce
 
 ### Beef
+
 - Oil, for frying
 - Sirloin steak, cut into thin strips (freeze the steak ahead of cutting to make it easier to cut into thin strips)
-- Cornflour (the more cornflour you use the better the coating you'll get on the beef)
-- Salt and pepper to taste
+- Cornflour, the more cornflour you use the better the coating you'll get on the beef
+- Seasoning, to taste
 
 ### Sauce
 
-- 1 tbsp dark soy
+- 1 tbsp soy sauce
 - 6 tbsp black rice vinegar
 - 4 tbsp honey
 - 4 tbsp ketchup
 - 1 tsp sesame oil
 - 1 tbsp sugar
-- Sesame seeds, to finish
+- 1 tsp sesame seeds, to garnish
 
 ### Toppings
-- Small piece of ginger, minced or chopped finely
+
+- 2 tbsp fresh ginger, minced or chopped finely
 - 3 garlic cloves, minced or chopped finely
 - 3-4 spring onions, chopped finely
 - 1-2 red chilli, sliced finely
-- Sesame oil
-- Light soy
+- 1 tbsp sesame oil
+- 1 tbsp soy sauce
 
 ## Method
+
 1. Heat the oil, aim for 180°C.
 2. Prep all the ingredients and form a wok clock plate.
 3. Add the salt and pepper seasoning to the cornflour.
@@ -80,8 +87,11 @@ It is always one of my favourites when eating Chinese takeout but this recipe le
 17. Serve the beef on top of the rice and finish with a few sesame seeds.
 
 ## Pictures
-![Crispy beef with egg fried rice](./images/crispy-beef-with-egg-fried-rice.jpg)
+
+![image](https://user-images.githubusercontent.com/7449908/148839657-d6317911-a353-4ce7-88f1-5c12a5417a59.jpeg)
 
 ## Reference
+
 - [Easy Crispy Chilli Beef Recipe - Wok Wednesdays - School of Wok](https://www.youtube.com/watch?v=-W1saae425s)
 - [Crispy Chilli Beef - School of Wok](https://schoolofwok.co.uk/tips-and-recipes/crispy-chilli-beef)
+
