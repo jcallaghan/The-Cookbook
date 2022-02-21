@@ -1,44 +1,44 @@
 ---
 title: Prawn Pad Thai
-date: 2021-10-27T19:57:03
+date: 2021-10-27T17:09:05
 serves: 2
-prep_time: 15 minutes
-cook_time: 5 minutes
-total_time: 20 minutes
 issue_id: 324
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/324
 thumbnail: prawn-pad-thai.jpg
 meal_type:
-- main
-tags: 
-- Thai
-- Stir-fry
-- Asian
+- Main
+labels:
+- Favourite 🥰 - Jas
+- Favourite 🥰 - James
+- Style - Stir-fry
+- Style - Asian
+- Style - Thai
 ---
 
 # Prawn Pad Thai
 
-- Serves: 2 servings
-- Prep time: 15 min
-- Cook time: 5 min
-- Total: 20 minutes
-
-I worked at a family run business that arranged a weekly team lunch where we would all come together once a week and have lunch together. 
-It was a great opportunity to explore different foods but also come together and share dfferent stories.
-One of my all-time favourites was the Thai food from a local restrauant a few minutes away from the office. 
+I worked at a family run business that arranged a weekly team lunch where we would all come together once a week and have lunch together. It was a great opportunity to explore different foods but also come together and share different stories.
+One of my all-time favourites was the Thai food from a local restaurant a few minutes away from the office. 
 The chef and restaurant owner cooked this incredible Prawn Pad Thai, while this is not her recipe I always think of her dish and the team lunches when I have eat a Prawn Pad Thai.
 
+- Serves: 2 servings
+- Prep Time: 15 minutes
+- Cook Time: 5 minutes
+- Total Time: 20 minutes
+
 ## Ingredients
+
 - 2 eggs, beaten
-- 2 x garlic, finely chopped
-- Prawns, shelled, deveined and heads removed if preferred
-- 1 tbsp sweet radish (or tamarind)
-- 1 handful of bean sprouts
+- 2 garlic cloves, finely chopped
+- 200g king prawns, shelled, deveined and heads removed if preferred
+- 1 tbsp sweet radish, or tamarind
+- 150g handful bean sprouts
 - 3 spring onions, chopped
-- red chilli, finely chopped
+- 1 red chilli, finely chopped
 - 300g rice noodles, soaked in warm water for 8-10 minutes, then drained and dried
 
 ### Sauce
+
 - 2 tbsp oyster sauce
 - 2 tbsp fish sauce
 - 2 tbsp dark soy sauce
@@ -49,6 +49,7 @@ The chef and restaurant owner cooked this incredible Prawn Pad Thai, while this 
 - 2 tbsp water
 
 ### To serve
+
 - Chilli powder, to taste
 - 4 tbsp roasted peanuts, crushed
 - 1 tbsp, sugar 
@@ -57,6 +58,7 @@ The chef and restaurant owner cooked this incredible Prawn Pad Thai, while this 
 ## Method
 
 ### Sauce
+
 1. Mix the oyster sauce, dark and light soy sauce and sugar.
 2. Add the sesame oil, rice vinegar and water and mix together until fully dissolved.
 
@@ -75,18 +77,20 @@ The chef and restaurant owner cooked this incredible Prawn Pad Thai, while this 
 10. Serve with the garnish.
 
 ## Notes
-- Try doubling the ingredients for the sauce and cooking one serving at a time.
+
+1. Try doubling the ingredients for the sauce and cooking one serving at a time.
 
 ## Pictures
 
-![image](./images/prawn-pad-thai.jpg)
+![image](https://user-images.githubusercontent.com/7449908/147612393-d6c6e0f5-14ba-448a-98f7-a781359a8852.jpeg)
 
-![image](./images/prawn-pad-thai-3.jpg)
+![image](https://user-images.githubusercontent.com/7449908/147612435-9211156d-b236-4906-93b8-be639d8e51d5.jpeg)
 
-![image](./images/prawn-pad-thai-2.jpg)
+![image](https://user-images.githubusercontent.com/7449908/147612460-3eb777a3-5371-4110-8101-f621fac22d77.jpeg)
 
-![image](./images/prawn-pad-thai-1.jpg)
+![image](https://user-images.githubusercontent.com/7449908/147612482-5b32818b-be11-40fa-bfa8-2c4f71dac962.jpeg)
 
 ## Reference
+
 - [Delicious Thai Pad See Ew Recipe! | Wok Wednesdays](https://www.youtube.com/watch?v=_wDgcueLJvY)
 - [How to Make Classic Pad Thai | Cooking with Poo](https://www.youtube.com/watch?v=m88rF0rwHo8)
