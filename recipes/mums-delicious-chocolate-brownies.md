@@ -26,7 +26,7 @@ tags:
 
 ## Ingredients
 - 140g unsalted butter softened plus a small amount for lining the baking tin
-- 200g quality plain chocolate such as Lindt or Hotel Chocolat
+- 200g quality milk chocolate such as Lindt or Hotel Chocolat
 - 200g caster sugar
 - Pinch of sea salt
 - 2 tsp vanilla extract / vanilla paste
