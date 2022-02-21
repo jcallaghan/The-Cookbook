@@ -29,7 +29,7 @@ def main():
         # Start building our markdown content.
         markdownContent = (f"---\n") 
         markdownContent = markdownContent + (f"title: " + issue.title + "\n") 
-        markdownContent = markdownContent + (f"date: " + datetime.today().strftime('%Y-%m-%dT%H:%M:%S') + "\n")
+        markdownContent = markdownContent + (f"date: " + issue.created_at.strftime('%Y-%m-%dT%H:%M:%S') + "\n")
 
         # Use regex to find any reference of serves in the body.
         serves = re.findall("Serves: [+-]?\d+", issue.body)
@@ -68,6 +68,7 @@ def main():
             markdownContent = markdownContent + mealLabels
 
         # Get the labels applied to the issue excluding those in our exclude list.
+        # //TODO sort labels and remove emoji and parent label?
         labelFound = False
         for label in issue.get_labels():
             if not label.name.startswith(tuple(labelsToExcludeList)):
