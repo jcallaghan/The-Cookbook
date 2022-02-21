@@ -32,6 +32,7 @@ This is a wonderful dish for a quick week night meal. It doesn't get simpler or 
 9. Cut the duck breast at an angle and plate over hot mash and a side of creamed greens.
 
 ## Notes
+
 1. Serve with creamed greens #364 and a buttery mash #280 or alternatively asparagus when in season and a red wine jus #366.
 
 ## Pictures
