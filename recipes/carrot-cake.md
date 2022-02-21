@@ -1,6 +1,6 @@
 ---
-title: Carrot Cake
-date: 2022-02-17T19:57:03
+title: Carrot cake
+date: 2022-01-08T22:40:32
 serves: 8
 prep_time: 15 minutes
 cook_time: 35 minutes
@@ -8,26 +8,25 @@ total_time: 50 minutes
 issue_id: 351
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/351
 thumbnail: carrot-cake.jpg
-meal_type:
-- Cake
-tags: 
-- Baking
-- Cake
-- Frosting
-- Favourite - Jas
+labels:
+- Style - Baking
+- Favourite 🥰 - Jas
+- Baking - Cake
+- Favourite 🥰 - James
+- Baking - Frosting
 ---
 
-# Carrot Cake
+# Carrot cake
 
 - Serves: 8
 - Prep time: 15 minutes
 - Cook time: 35 minutes
-- Total: 50 minutes
+- Total time: 50 minutes
 
 ## Ingredients
 
 - 225g unsalted butter, melted and cooled
-- 4 medium free-range eggs
+- 4 eggs
 - 175g soft light brown sugar
 - 1 tsp ground cinnamon 
 - ½ tsp fresh nutmeg
@@ -68,16 +67,17 @@ tags:
 5. Decorate the icing with crushed/chopped walnuts and pecans around the edge in a circular fashion.
 
 ## Notes
-- Some recipes include strained pineapple and also raisins but I've next had a carrot cake with these ingredients in the UK. 
+
+1. Some recipes include strained pineapple and also raisins but I've next had a carrot cake with these ingredients in the UK. 
 
 ## Pictures
 
-![image](./images/carrot-cake.jpeg)
+![image](https://user-images.githubusercontent.com/7449908/154504137-93aef7a8-3556-4054-ba7e-5a443c9a7dce.jpeg)
 
-![image](./images/carrot-cake-1.jpeg)
+![image](https://user-images.githubusercontent.com/7449908/154504232-42ff9a48-c43b-4aef-98b8-b815c52dcc28.jpeg)
 
-![image](./images/carrot-cake-2.jpeg)
+![image](https://user-images.githubusercontent.com/7449908/154504408-2a4e359f-552c-4adb-8e96-e265514e5156.jpeg)
 
-![image](./images/carrot-cake-3.jpeg)
+![image](https://user-images.githubusercontent.com/7449908/154505968-b42168bf-6e64-4d8e-9de9-803096800867.jpeg)
 
-![image](./images/carrot-cake-4.jpeg)
+![image](https://user-images.githubusercontent.com/7449908/154506280-d37440aa-4568-4350-b7a6-4b2d1ae77479.jpeg)
