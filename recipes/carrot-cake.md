@@ -41,8 +41,8 @@ labels:
 
 - 200g unsalted butter, softened
 - 350g icing sugar
-- Finely grated zest 1 lemon
-- 150g full-fat cream cheese
+- Lemon, zest
+- 150g cream cheese
 - 1 tsp vanilla paste
 
 ## Method
@@ -78,3 +78,7 @@ labels:
 ![image](https://user-images.githubusercontent.com/7449908/154505968-b42168bf-6e64-4d8e-9de9-803096800867.jpeg)
 
 ![image](https://user-images.githubusercontent.com/7449908/154506280-d37440aa-4568-4350-b7a6-4b2d1ae77479.jpeg)
+
+## Reference
+
+- [delicious. magazine carrot cake](https://www.deliciousmagazine.co.uk/recipes/carrot-cake/)
