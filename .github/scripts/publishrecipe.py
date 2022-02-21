@@ -119,8 +119,8 @@ def main():
 def export_to_markdown(issue, content):
         
     # Remove non-alphanumeric characters.
-    pattern = "[^0-9a-zA-Z\s]+"
-    cleanTitle = re.sub(pattern, "", issue.title)
+    pattern = "[^0-9a-zA-Z]+"
+    cleanTitle = re.sub(pattern, "-", issue.title)
 
     # Combine the issue title with the path to where recipes are saved.    
     exportFilePath = "recipes/" + cleanTitle.lower() + ".md"
