@@ -1,10 +1,7 @@
 ---
 title: Smoked haddock risotto
-date: 2022-02-20T23:28:18
+date: 2022-01-27T21:12:27
 serves: 4
-prep_time: 15 minutes
-cook_time: 30 minutes
-total_time: 45 minutes
 issue_id: 356
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/356
 thumbnail: smoked-haddock-risotto.jpg
@@ -12,6 +9,7 @@ meal_type:
 - Main
 labels:
 - Ingredient - Rice
+- Meal - Main
 - Ingredient - Fish 🐟 - Haddock
 - Style - Risotto
 ---
@@ -19,9 +17,9 @@ labels:
 # Smoked haddock risotto
 
 - Serves: 4 servings
-- Prep time: 15 minutes
-- Cook time: 30 minutes
-- Total time: 45 minutes
+- Prep Time: 15 minutes
+- Cook Time: 30 minutes
+- Total Time: 45 minutes
 
 ## Ingredients
 
