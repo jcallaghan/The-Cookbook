@@ -23,20 +23,20 @@ labels:
 
 ## Ingredients
 
-- 245g buttermilk*
-- 110ml canola or vegetable oil
-- 2 large eggs
+- 245g buttermilk, <sup>See note 1</sup>
+- 110ml vegetable oil
+- 2 eggs
 - 200g granulated sugar
 - 2 tsp vanilla extract
 - 125g all-purpose flour
 - 4 tsp baking powder
 - ¼ tsp salt
-- 190g fresh or frozen blueberries do not thaw if using frozen
-- 190g fresh or frozen raspberries do not thaw if using frozen
+- 190g blueberries, fresh or frozen do not thaw if using frozen
+- 190g raspberries, fresh or frozen do not thaw if using frozen
 
 ## Method
 
-1. Preheat oven to 375 degrees. Spray non-stick cooking spray on your muffin tin or you can use liners instead.
+1. Preheat oven to 190°C. Spray non-stick cooking spray on your muffin tin or you can use liners instead.
 2. In a large mixing bowl, combine the buttermilk, oil, and eggs. Mix together.
 3. Add in the sugar and vanilla extract and mix together.
 4. Slowly add in the flour and fold it into the wet batter.
