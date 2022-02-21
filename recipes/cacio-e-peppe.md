@@ -2,9 +2,6 @@
 title: Cacio e Peppe
 date: 2022-02-05T19:13:05
 serves: 2
-prep_time: 5 minutes
-cook_time: 15 minutes
-total_time: 20 minutes
 issue_id: 359
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/359
 thumbnail: cacio-e-peppe.jpg
@@ -13,6 +10,7 @@ meal_type:
 labels:
 - Style - Pasta 🍝
 - Style - Vegetarian
+- Meal - Main
 - Ingredient - Cheese 🧀
 - Style - Italian 🇮🇹
 - Chef 🧑🏼‍🍳 - Alex
@@ -23,9 +21,9 @@ labels:
 This is a beautifully simple yet technical complex pasta dish that tastes absolutely delicious. Watching the videos  I found while researching this dish were real fun to watch.
 
 - Serves: 2
-- Prep time: 5 minutes
-- Cook time: 15 minutes
-- Total time: 20 minutes
+- Prep Time: 5 minutes
+- Cook Time: 15 minutes
+- Total Time: 20 minutes
 
 ## Ingredients
 
