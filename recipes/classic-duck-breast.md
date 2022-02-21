@@ -4,6 +4,8 @@ date: 2021-05-08T08:36:29
 issue_id: 184
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/184
 thumbnail: classic-duck-breast.jpg
+meal_type:
+- Main
 labels:
 - Ingredient - Meat - Duck
 - Style - Dinner Party 🥳
