@@ -105,7 +105,7 @@ def main():
 
         # Add the published label to the list of labels.
         issueLabels.remove("⚙ Trigger Publishing")
-        issueLabels.append("⚙ Markdown Published")
+        issueLabels.append("⚙ Published")
 
         # Update issue.
         issue.edit(labels=issueLabels,state='closed')
