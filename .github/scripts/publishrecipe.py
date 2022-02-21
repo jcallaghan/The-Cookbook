@@ -59,9 +59,9 @@ def main():
         # Get any meal labels applied to the issue.
         mealLabelFound = False
         for label in issue.get_labels():
-            if label.name.startswith("Meal :::"):
+            if label.name.startswith("Meal / "):
                 mealLabelFound = True
-                mealLabels = mealLabels + (f"- " + str(label.name).replace("Meal ::: ","") + "\n") 
+                mealLabels = mealLabels + (f"- " + str(label.name).replace("Meal / ","") + "\n") 
     
         if mealLabelFound:
             markdownContent = markdownContent + (f"meal_type:\n") 
@@ -73,7 +73,7 @@ def main():
         for label in issue.get_labels():
             if not label.name.startswith(tuple(labelsToExcludeList)):
                 labelFound = True
-                labels = labels + (f"- " + str(label.name).replace(" ::: "," - ") + "\n") 
+                labels = labels + (f"- " + str(label.name).replace(" / "," - ") + "\n") 
     
         if labelFound:
             markdownContent = markdownContent + (f"labels:\n") 
