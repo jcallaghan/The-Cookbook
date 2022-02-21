@@ -16,14 +16,12 @@ labels:
 
 # Chicken broth soup
 
-- Serves: 4
-- Prep Time: 20 minutes
-- Cook Time: 3 hours
-- Total 3 hours 20 minutes
+My take on a classic. This recipe is inspired by a close family friend (her special Jewish recipe) and a Bosnian variation. It is a trusted favourite when I'm feeling poorly or unwell. Best served with semolina dumplings however I'm still perfecting these. If there is any leftover I drain and remove any remaining chicken (freeze for pie mix) and discard any veg. This leaves a delicate chicken broth for lunch the following day.
 
-My take on a classic. This recipe is inspired by a close family friend (her special Jewish recipe) and a Bosnian variation. 
-It is a trusted favourite when I'm feeling poorly or unwell. Best served with semolina dumplings however I'm still perfecting these.
-If there is any leftover I drain and remove any remaining chicken (freeze for pie mix) and discard any veg. This leaves a delicate chicken broth for lunch the following day.
+- Serves: 4
+- Prep Time: 15 minutes
+- Cook Time: 45 minutes
+- Total Time: 1 hour
 
 ## Ingredients
 
@@ -39,7 +37,7 @@ If there is any leftover I drain and remove any remaining chicken (freeze for pi
 ## Method
 
 1. Add the onions, carrots, celery, garlic, stock and whole chicken to then pan and then fill with water.
-1. Bring to a boil and then simmer for 1 ½ hours
+1. Bring to a boil and then simmer for 45 hours
 1. [Optional] Skim the fat and any foam from the top into a dish (this fat is great to keep refrigerated and use to cook with roast potatoes).
 1. Drain over sieve into another pan.
 1. Place the veg and chicken in the sieve to one side and return the broth back to the original pan.
