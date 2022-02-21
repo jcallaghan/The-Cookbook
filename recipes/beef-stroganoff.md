@@ -2,9 +2,6 @@
 title: Beef Stroganoff
 date: 2020-04-30T17:19:02
 serves: 4
-prep_time: 10 minutes
-cook_time: 35 minutes
-total_time: 45 minutes
 issue_id: 8
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/8
 thumbnail: beef-stroganoff.jpg
@@ -20,9 +17,9 @@ labels:
 # Beef Stroganoff
 
 - Serves: 4 servings
-- Prep time: 10 minutes
-- Cook time: 35 minutes
-- Total time: 45 minutes
+- Prep Time: 10 minutes
+- Cook Time: 35 minutes
+- Total Time: 45 minutes
 
 ## Ingredients
 
