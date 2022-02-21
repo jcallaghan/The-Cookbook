@@ -1,6 +1,6 @@
 ---
 title: Beef Stroganoff
-date: 2022-02-21T00:08:30
+date: 2020-04-30T17:19:02
 serves: 4
 prep_time: 10 minutes
 cook_time: 35 minutes
