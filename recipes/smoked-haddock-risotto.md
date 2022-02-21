@@ -9,7 +9,6 @@ meal_type:
 - Main
 labels:
 - Ingredient - Rice
-- Meal - Main
 - Ingredient - Fish 🐟 - Haddock
 - Style - Risotto
 ---
@@ -29,10 +28,10 @@ labels:
 - 40g butter
 - 1 small brown onion, finely chopped
 - 3 flatleaf parsley stems, stalks finely chopped, leaves reserved and roughly chopped
-- pinch salt
 - 320g risotto rice
 - 100ml white wine
 - 1 lemon, zest only
+- Season, to taste
 
 ## Method
 
