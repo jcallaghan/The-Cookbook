@@ -10,7 +10,6 @@ meal_type:
 labels:
 - Style - Pasta 🍝
 - Style - Vegetarian
-- Meal - Main
 - Ingredient - Cheese 🧀
 - Style - Italian 🇮🇹
 - Chef 🧑🏼‍🍳 - Alex
