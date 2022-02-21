@@ -5,13 +5,14 @@ serves: 12
 issue_id: 76
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/76
 thumbnail: mums-delicious-chocolate-brownies.jpg
+meal_type:
+- Dessert
 labels:
-- Style / BBQ
-- Baking / Sweets & Treats
-- Style / Dinner Party 🥳
-- Meal / Dessert
-- Ingredient / Chocolate 🍫
-- Baking / Brownies
+- Style - BBQ
+- Baking - Sweets & Treats
+- Style - Dinner Party 🥳
+- Ingredient - Chocolate 🍫
+- Baking - Brownies
 ---
 
 # Mums delicious chocolate brownies
