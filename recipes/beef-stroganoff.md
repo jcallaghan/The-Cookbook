@@ -1,6 +1,6 @@
 ---
 title: Beef Stroganoff
-date: 2020-04-30T00:00:00
+date: 2022-02-21T00:08:30
 serves: 4
 prep_time: 10 minutes
 cook_time: 35 minutes
@@ -9,11 +9,12 @@ issue_id: 8
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/8
 thumbnail: beef-stroganoff.jpg
 meal_type:
-- main
-tags: 
-- Beef
-- Steak
-- Mushroom
+- Main
+labels:
+- Ingredient - Meat - Beef
+- Favourite 🥰 - Jas
+- Ingredient - Steak
+- Ingredient - Vegetable - Mushroom 🍄
 ---
 
 # Beef Stroganoff
@@ -21,13 +22,13 @@ tags:
 - Serves: 4 servings
 - Prep time: 10 minutes
 - Cook time: 35 minutes
-- Total: 45 minutes
+- Total time: 45 minutes
 
 ## Ingredients
 
 - 1 tbsp olive oil
 - 1 onion, sliced
-- 1 clove of garlic
+- 1 garlic clove, crushed
 - 1 tbsp butter
 - 250g mushrooms, sliced
 - 1 tbsp plain flour
@@ -35,7 +36,7 @@ tags:
 - 150g crème fraîche
 - 1 tsp English mustard
 - 100ml beef stock
-- ½ small pack of parsley, chopped
+- Fresh parsley, chopped
 
 ## Method
 
@@ -50,7 +51,9 @@ tags:
 9. Scatter with some chopped parsley, and serve with pappardelle or rice.
 
 ## Pictures
-![image](./images/beef-stroganoff.jpg)
+
+![image](https://user-images.githubusercontent.com/7449908/149017469-1af3263f-53d1-4c11-927b-db3ee74a56c7.png)
 
 ## Reference
+
 - https://www.bbcgoodfood.com/recipes/beef-stroganoff
