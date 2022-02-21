@@ -2,9 +2,6 @@
 title: Carrot cake
 date: 2022-01-08T22:40:32
 serves: 8
-prep_time: 15 minutes
-cook_time: 35 minutes
-total_time: 50 minutes
 issue_id: 351
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/351
 thumbnail: carrot-cake.jpg
@@ -19,9 +16,9 @@ labels:
 # Carrot cake
 
 - Serves: 8
-- Prep time: 15 minutes
-- Cook time: 35 minutes
-- Total time: 50 minutes
+- Prep Time: 15 minutes
+- Cook Time: 35 minutes
+- Total Time: 50 minutes
 
 ## Ingredients
 
