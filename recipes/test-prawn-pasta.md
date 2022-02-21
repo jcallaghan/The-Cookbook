@@ -1,6 +1,6 @@
 ---
 title: Test prawn pasta
-date: 2022-02-20T22:55:07
+date: 2022-02-19T19:49:23
 serves: 4
 prep_time: 15 minutes
 cook_time: 10 minutes
@@ -14,7 +14,7 @@ labels:
 - Style - Pasta 🍝
 - Favourite 🥰
 - Ingredient - Fish 🐟 - Prawn
-- ⚙ Trigger Published
+- Meal - Main
 ---
 
 # Test prawn pasta
