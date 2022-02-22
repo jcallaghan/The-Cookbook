@@ -14,13 +14,16 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 28-Feb 2022|[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
 |Tue 01-Mar 2022|[Chicken Katsu curry #148](https://github.com/jcallaghan/The-Cookbook/issues/148)|
 |Wed 02-Mar 2022|[Creamy garlic chicken #186](https://github.com/jcallaghan/The-Cookbook/issues/186)|
-|Thu 03-Mar 2022|[School fudge tart #258](https://github.com/jcallaghan/The-Cookbook/issues/258)|
+||[Sauté Potatoes #142](https://github.com/jcallaghan/The-Cookbook/issues/142)|
+|Thu 03-Mar 2022|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
+||[School fudge tart #258](https://github.com/jcallaghan/The-Cookbook/issues/258)|
 |Fri 04-Mar 2022|[Prawn Pad Thai #324](https://github.com/jcallaghan/The-Cookbook/issues/324)|
-|Sat 05-Mar 2022|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
+|Sat 05-Mar 2022|[Buttermilk chicken sandwich #304](https://github.com/jcallaghan/The-Cookbook/issues/304)|
+||[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Sun 06-Mar 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
 |Mon 07-Mar 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
 |Tue 08-Mar 2022|[Salmon, broccoli and feta lattice bake #166](https://github.com/jcallaghan/The-Cookbook/issues/166)|
-|Thur 10-Mar 2022|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
+|Sat 12-Mar 2022|[Scotch egg #212](https://github.com/jcallaghan/The-Cookbook/issues/212)|
 |Sun 13-Mar 2022|[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
 ||[Cauliflower cheese #111](https://github.com/jcallaghan/The-Cookbook/issues/111)|
 ||[Yorkshire puddings #294](https://github.com/jcallaghan/The-Cookbook/issues/294)|
@@ -71,9 +74,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Garden peas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garden%20peas)||
 |[Green curry paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20curry%20paste)|1 tbsp|
 |[Handful bean sprouts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20bean%20sprouts)|150g|
+|[Handful fresh flatleaf parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20fresh%20flatleaf%20parsley)|1|
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|1 tbsp + 4 tbsp|
 |[Kaffir lime leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kaffir%20lime%20leaves)|4|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
+|[King edward or lincolnshire potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/King%20edward%20or%20lincolnshire%20potatoes)|4|
 |[King prawns](https://www.sainsburys.co.uk/gol-ui/SearchResults/King%20prawns)|300g + 200g + 600g|
 |[Large cauliflower](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20cauliflower)|1|
 |[Large free-range eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20free-range%20eggs)|2|
@@ -116,7 +121,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Serves: 3](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%203)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Serves: 4 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204%20servings)||
-|[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|2 + 3|
+|[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|1|
 |[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)||
 |[Sliced aubergine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sliced%20aubergine)||
 |[Small brown onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20brown%20onions)|1|
@@ -145,12 +150,13 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Lunch at Jas parents.
+1. Grilled Chicken and cous cous
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Flour, Garam masala, Garlic cloves, Light soy sauce, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Sunflower oil, Vegetable oil and Water.
+Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Flour, Garam masala, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Sunflower oil, Vegetable oil and Water.
 
 
-_This shopping list was generated at 22-02-2022 15:05:08._
+_This shopping list was generated at 22-02-2022 15:11:56._
