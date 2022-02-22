@@ -3,34 +3,35 @@ PRODID://James Callaghan
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:21214836-1b15-4649-8a3f-3720aab7eccb
-DTSTAMP:20220221T000126
-DTSTART:20220220T184500
-DTEND:20220220T203000
-SUMMARY:Jas parents lunch for dinner
-DESCRIPTION:Note: Jas parents lunch
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:9b4b5592-682f-4dca-a972-0dd5b8102e68
-DTSTAMP:20220221T000126
-DTSTART:20220221T184500
-DTEND:20220221T203000
-SUMMARY:Classic duck breast #184 for dinner
-DESCRIPTION:Classic duck breast #184 - https://github.com/jcallaghan/The-Cookbook/issues/184
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:bcdbdfec-85f8-410d-8c10-aed771fce6d8
-DTSTAMP:20220221T000127
+UID:5bc5f4ab-68ae-40ff-a538-bd14543b8f08
+DTSTAMP:20220222T145526
 DTSTART:20220222T184500
 DTEND:20220222T203000
-SUMMARY:Smoked salmon pasta #1 for dinner
-DESCRIPTION:Smoked salmon pasta #1 - https://github.com/jcallaghan/The-Cookbook/issues/1
+SUMMARY:Creamy smoked salmon pasta #1 for dinner
+DESCRIPTION:Creamy smoked salmon pasta #1 - https://github.com/jcallaghan/The-Cookbook/issues/1
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ba1c599e-8028-455b-b766-a252f53f2d1f
+DTSTAMP:20220222T145527
+DTSTART:20220227T184500
+DTEND:20220227T203000
+SUMMARY:Chilli squid #334 and Smoked haddock risotto #356 for dinner
+DESCRIPTION:Chilli squid #334 - https://github.com/jcallaghan/The-Cookbook/issues/334
+Smoked haddock risotto #356 - https://github.com/jcallaghan/The-Cookbook/issues/356
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6a158490-f983-4295-bc67-e4865fac302b
+DTSTAMP:20220222T145529
+DTSTART:20220305T184500
+DTEND:20220305T203000
+SUMMARY:Thai green curry #47 for dinner
+DESCRIPTION:Thai green curry #47 - https://github.com/jcallaghan/The-Cookbook/issues/47
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
