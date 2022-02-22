@@ -11,8 +11,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 22-Feb 2022|[Creamy smoked salmon pasta #1](https://github.com/jcallaghan/The-Cookbook/issues/1)|
 |Sun 27-Feb 2022|[Smoked haddock risotto #356](https://github.com/jcallaghan/The-Cookbook/issues/356)|
 ||[Cherry loaf cake #163](https://github.com/jcallaghan/The-Cookbook/issues/163)|
-|Mon 28-Feb 2022|[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
-|Tue 01-Mar 2022|[Chicken Katsu curry #148](https://github.com/jcallaghan/The-Cookbook/issues/148)|
+|Mon 28-Feb 2022|[Chicken Katsu curry #148](https://github.com/jcallaghan/The-Cookbook/issues/148)|
+|Tue 01-Mar 2022|[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
 |Wed 02-Mar 2022|[Creamy garlic chicken #186](https://github.com/jcallaghan/The-Cookbook/issues/186)|
 ||[Sauté Potatoes #142](https://github.com/jcallaghan/The-Cookbook/issues/142)|
 |Thu 03-Mar 2022|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
@@ -160,4 +160,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Flour, Garam masala, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Sunflower oil, Vegetable oil and Water.
 
 
-_This shopping list was generated at 22-02-2022 15:13:17._
+_This shopping list was generated at 22-02-2022 19:17:09._
