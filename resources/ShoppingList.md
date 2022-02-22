@@ -175,4 +175,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Flour, Garam masala, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Sunflower oil, Vegetable oil and Water.
 
 
-_This shopping list was generated at 22-02-2022 19:17:54._
+_This shopping list was generated at 22-02-2022 19:18:31._
