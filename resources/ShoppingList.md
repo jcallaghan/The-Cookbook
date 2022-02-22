@@ -23,6 +23,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 06-Mar 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
 |Mon 07-Mar 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
 |Tue 08-Mar 2022|[Salmon, broccoli and feta lattice bake #166](https://github.com/jcallaghan/The-Cookbook/issues/166)|
+|Wed 09-Mar 2022|[Chard chilli chicken with chilli rice #255](https://github.com/jcallaghan/The-Cookbook/issues/255)|
 |Sat 12-Mar 2022|[Scotch egg #212](https://github.com/jcallaghan/The-Cookbook/issues/212)|
 |Sun 13-Mar 2022|[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
 ||[Cauliflower cheese #111](https://github.com/jcallaghan/The-Cookbook/issues/111)|
@@ -159,4 +160,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Flour, Garam masala, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Sunflower oil, Vegetable oil and Water.
 
 
-_This shopping list was generated at 22-02-2022 15:11:56._
+_This shopping list was generated at 22-02-2022 15:13:17._
