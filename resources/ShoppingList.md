@@ -24,10 +24,12 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 07-Mar 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
 |Tue 08-Mar 2022|[Salmon, broccoli and feta lattice bake #166](https://github.com/jcallaghan/The-Cookbook/issues/166)|
 |Wed 09-Mar 2022|[Chard chilli chicken with chilli rice #255](https://github.com/jcallaghan/The-Cookbook/issues/255)|
+|Fri 11-Mar 2022|[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
 |Sat 12-Mar 2022|[Scotch egg #212](https://github.com/jcallaghan/The-Cookbook/issues/212)|
 |Sun 13-Mar 2022|[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
 ||[Cauliflower cheese #111](https://github.com/jcallaghan/The-Cookbook/issues/111)|
 ||[Yorkshire puddings #294](https://github.com/jcallaghan/The-Cookbook/issues/294)|
+|Mon 14-Mar 2022|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Tue 15-Mar 2022|[Toad in the hole #349](https://github.com/jcallaghan/The-Cookbook/issues/349)|
 
 ## 🛒 Shopping List
@@ -48,6 +50,8 @@ This shopping list has been automatically generated with the ingredients from th
 |[Chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20flakes)|1 tsp|
 |[Chillies powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20powder)||
 |[Chocolate for grating](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chocolate%20for%20grating)||
+|[Chorizo](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chorizo)|120g|
+|[Cook time: 1 hour 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%201%20hour%2020%20minutes)||
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
@@ -58,6 +62,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Dark soy sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dark%20soy%20sauce)|2 tbsp|
 |[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|100ml|
+|[Dried chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20chillies)|1 tsp|
 |[Dried rosemary](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20rosemary)|1 tsp|
 |[Drizzle sesame oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Drizzle%20sesame%20oil)||
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|1 + 3|
@@ -69,14 +74,17 @@ This shopping list has been automatically generated with the ingredients from th
 |[Fresh chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20chives)||
 |[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)|2 tbsp|
 |[Fresh lemongrass sticks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemongrass%20sticks)||
+|[Fresh oregano](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20oregano)|2 tbsp|
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
 |[Fresh rosemary](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20rosemary)||
 |[Freshly grated parmesan cheese (keep some back for serving)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20grated%20parmesan%20cheese%20(keep%20some%20back%20for%20serving))|100g|
 |[Garden peas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garden%20peas)||
+|[Garlic clovers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20clovers)|2|
 |[Green curry paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20curry%20paste)|1 tbsp|
 |[Handful bean sprouts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20bean%20sprouts)|150g|
 |[Handful fresh flatleaf parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20fresh%20flatleaf%20parsley)|1|
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|1 tbsp + 4 tbsp|
+|[Hot smoked paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20smoked%20paprika)|2 tsp|
 |[Kaffir lime leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kaffir%20lime%20leaves)|4|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
 |[King edward or lincolnshire potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/King%20edward%20or%20lincolnshire%20potatoes)|4|
@@ -93,8 +101,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|150ml + 100ml + 120ml|
 |[Mustard powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mustard%20powder)|1 tbsp|
 |[Nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Nutmeg)||
+|[Of chicken stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20chicken%20stock)|900ml|
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
-|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|2 tbsp|
 |[Palm sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Palm%20sugar)|1 tbsp|
 |[Panko breadcrumbs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko%20breadcrumbs)|100g|
@@ -104,12 +113,13 @@ This shopping list has been automatically generated with the ingredients from th
 |[Plain flour or cornflour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Plain%20flour%20or%20cornflour)|2 tbsp|
 |[Prawn crackers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prawn%20crackers)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
+|[Prep time: 12 hours](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2012%20hours)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
 |[Ready-rolled puff pastry sheets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ready-rolled%20puff%20pastry%20sheets)|400g|
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1|
 |[Red chillies to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies%20to%20taste)||
-|[Red wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20wine)|100ml|
+|[Red wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20wine)|100ml + 100ml|
 |[Rice noodles](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20noodles)|300g|
 |[Rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20vinegar)|1 tsp|
 |[Risotto rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Risotto%20rice)|320g|
@@ -124,6 +134,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Serves: 4 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204%20servings)||
 |[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|1|
 |[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)||
+|[Skinless cod fillet](https://www.sainsburys.co.uk/gol-ui/SearchResults/Skinless%20cod%20fillet)|500g|
 |[Sliced aubergine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sliced%20aubergine)||
 |[Small brown onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20brown%20onions)|1|
 |[Small can of bamboo shoots drained](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20can%20of%20bamboo%20shoots%20drained)|1|
@@ -134,8 +145,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[Sticky rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sticky%20rice)|150g|
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|3 tbsp + 1 tbsp|
 |[Sweet radish](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sweet%20radish)|1 tbsp|
+|[Sweet smoked paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sweet%20smoked%20paprika)|2 tsp|
 |[Tbsp](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tbsp)|1|
 |[Thai basil leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thai%20basil%20leaves)|8|
+|[Tin chopped tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tin%20chopped%20tomatoes)|400g|
+|[Tinned chickpeas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tinned%20chickpeas)|200g|
+|[Total time: 13 hours 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2013%20hours%2020%20minutes)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
 |[Total time: 40 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2040%20minutes)||
@@ -160,4 +175,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Flour, Garam masala, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Sunflower oil, Vegetable oil and Water.
 
 
-_This shopping list was generated at 22-02-2022 19:17:09._
+_This shopping list was generated at 22-02-2022 19:17:54._
