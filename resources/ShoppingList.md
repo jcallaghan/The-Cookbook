@@ -1,6 +1,6 @@
 # Shopping List
 
-Tue 22-Feb 2022 - Tue 15-Mar 2022
+Thu 24-Feb 2022 - Tue 15-Mar 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Tue 22-Feb 2022|[Creamy smoked salmon pasta #1](https://github.com/jcallaghan/The-Cookbook/issues/1)|
 |Sun 27-Feb 2022|[Smoked haddock risotto #356](https://github.com/jcallaghan/The-Cookbook/issues/356)|
 ||[Cherry loaf cake #163](https://github.com/jcallaghan/The-Cookbook/issues/163)|
 |Mon 28-Feb 2022|[Chicken Katsu curry #148](https://github.com/jcallaghan/The-Cookbook/issues/148)|
@@ -61,17 +60,14 @@ This shopping list has been automatically generated with the ingredients from th
 |[Coriander sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander%20sprigs)|3|
 |[Dark soy sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dark%20soy%20sauce)|2 tbsp|
 |[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
-|[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|100ml|
 |[Dried chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20chillies)|1 tsp|
 |[Dried rosemary](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20rosemary)|1 tsp|
 |[Drizzle sesame oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Drizzle%20sesame%20oil)||
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|1 + 3|
 |[Extra virgin olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Extra%20virgin%20olive%20oil)|3 tbsp|
-|[Farfalle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Farfalle%20pasta)|250g|
 |[Feta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Feta)|200g|
 |[Fish sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fish%20sauce)|2 tbsp + 2 tbsp|
 |[Flatleaf parsley stems](https://www.sainsburys.co.uk/gol-ui/SearchResults/Flatleaf%20parsley%20stems)|3|
-|[Fresh chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20chives)||
 |[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)|2 tbsp|
 |[Fresh lemongrass sticks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemongrass%20sticks)||
 |[Fresh oregano](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20oregano)|2 tbsp|
@@ -115,7 +111,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 12 hours](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2012%20hours)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
-|[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
 |[Ready-rolled puff pastry sheets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ready-rolled%20puff%20pastry%20sheets)|400g|
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1|
 |[Red chillies to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies%20to%20taste)||
@@ -139,7 +134,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Small brown onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20brown%20onions)|1|
 |[Small can of bamboo shoots drained](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20can%20of%20bamboo%20shoots%20drained)|1|
 |[Smoked haddock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Smoked%20haddock)|350g|
-|[Smoked salmon fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Smoked%20salmon%20fillets)|2|
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|3 + 3-4|
 |[Squid](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squid)|200g|
 |[Sticky rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sticky%20rice)|150g|
@@ -161,7 +155,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Whipping cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whipping%20cream)|300ml|
 |[White wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine)|100ml|
 |[White wine (riesling or chardonnay)](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine%20(riesling%20or%20chardonnay))|100ml|
-|[Whole grain mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20grain%20mustard)|2 tsp|
 
 ## 🗒️ Notes
 
@@ -175,4 +168,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Flour, Garam masala, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Sunflower oil, Vegetable oil and Water.
 
 
-_This shopping list was generated at 22-02-2022 19:18:31._
+_This shopping list was generated at 24-02-2022 18:02:52._
