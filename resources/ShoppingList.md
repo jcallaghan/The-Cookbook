@@ -10,9 +10,9 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Sun 27-Feb 2022|[Smoked haddock risotto #356](https://github.com/jcallaghan/The-Cookbook/issues/356)|
 |Mon 28-Feb 2022|[Chicken Katsu curry #148](https://github.com/jcallaghan/The-Cookbook/issues/148)|
-|Tue 01-Mar 2022|[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
-|Wed 02-Mar 2022|[Creamy garlic chicken #186](https://github.com/jcallaghan/The-Cookbook/issues/186)|
+|Tue 01-Mar 2022|[Creamy garlic chicken #186](https://github.com/jcallaghan/The-Cookbook/issues/186)|
 ||[Sauté Potatoes #142](https://github.com/jcallaghan/The-Cookbook/issues/142)|
+|Wed 02-Mar 2022|[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
 |Thu 03-Mar 2022|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
 ||[School fudge tart #258](https://github.com/jcallaghan/The-Cookbook/issues/258)|
 |Fri 04-Mar 2022|[Prawn Pad Thai #324](https://github.com/jcallaghan/The-Cookbook/issues/324)|
@@ -47,6 +47,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Chicken breasts or thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts%20or%20thighs)|2|
 |[Chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20flakes)|1 tsp|
 |[Chillies powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20powder)||
+|[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)||
 |[Chocolate for grating](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chocolate%20for%20grating)||
 |[Chorizo](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chorizo)|120g|
 |[Cook time: 1 hour 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%201%20hour%2020%20minutes)||
@@ -88,7 +89,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Large free-range eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20free-range%20eggs)|2|
 |[Large white onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20white%20onions)|2|
 |[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)|1|
-|[Light vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Light%20vegetable%20stock)|1.3l|
 |[Lime](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lime)|1|
 |[Lime quarter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lime%20quarter)||
 |[Linguine pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Linguine%20pasta)|200g|
@@ -116,23 +116,21 @@ This shopping list has been automatically generated with the ingredients from th
 |[Red wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20wine)|100ml + 100ml|
 |[Rice noodles](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20noodles)|300g|
 |[Rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20vinegar)|1 tsp|
-|[Risotto rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Risotto%20rice)|320g|
+|[Risotto rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Risotto%20rice)|300g|
 |[Roasted peanuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Roasted%20peanuts)|4 tbsp|
 |[Rocket](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rocket)||
 |[Salmon fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salmon%20fillets)|2|
-|[Season](https://www.sainsburys.co.uk/gol-ui/SearchResults/Season)||
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Serves: 3](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%203)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Serves: 4 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204%20servings)||
-|[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|1|
+|[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|1 + 3|
 |[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)||
 |[Skinless cod fillet](https://www.sainsburys.co.uk/gol-ui/SearchResults/Skinless%20cod%20fillet)|500g|
 |[Sliced aubergine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sliced%20aubergine)||
-|[Small brown onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20brown%20onions)|1|
 |[Small can of bamboo shoots drained](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20can%20of%20bamboo%20shoots%20drained)|1|
-|[Smoked haddock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Smoked%20haddock)|350g|
+|[Smoked haddock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Smoked%20haddock)|300g|
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|3 + 3-4|
 |[Squid](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squid)|200g|
 |[Sticky rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sticky%20rice)|150g|
@@ -152,7 +150,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Vanilla essence](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vanilla%20essence)||
 |[Vegetable oil for frying](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20oil%20for%20frying)|230ml|
 |[Whipping cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whipping%20cream)|300ml|
-|[White wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine)|100ml|
+|[White wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine)|150ml|
 |[White wine (riesling or chardonnay)](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine%20(riesling%20or%20chardonnay))|100ml|
 
 ## 🗒️ Notes
@@ -167,4 +165,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Flour, Garam masala, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Sunflower oil, Vegetable oil and Water.
 
 
-_This shopping list was generated at 26-02-2022 15:55:24._
+_This shopping list was generated at 26-02-2022 16:13:00._
