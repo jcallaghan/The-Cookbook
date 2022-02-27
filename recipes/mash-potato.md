@@ -14,10 +14,10 @@ labels:
 
 # Mash potato
 
-Serves: 4 servings
-Prep Time: 5-10 minutes
-Cook Time: 10 minutes
-Total Time: 20 minutes
+- Serves: 4 servings
+- Prep Time: 5-10 minutes
+- Cook Time: 10 minutes
+- Total Time: 20 minutes
 
 ## Ingredients
 
