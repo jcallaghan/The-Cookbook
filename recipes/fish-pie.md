@@ -1,6 +1,7 @@
 ---
 title: Fish pie
 date: 2021-04-22T17:47:59
+serves: 3
 issue_id: 171
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/171
 thumbnail: fish-pie.jpg
@@ -13,6 +14,11 @@ labels:
 ---
 
 # Fish pie
+
+- Serves: 3
+- Prep Time: 20 minutes
+- Cook Time: 25 minutes
+- Total Time: 45 minutes
 
 ## Ingredients
 
