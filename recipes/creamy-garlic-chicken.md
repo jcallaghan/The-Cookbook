@@ -37,22 +37,23 @@ labels:
 
 ## Method
 
-1. Tenderise the chicken and season to taste and sprinkle with the garlic powder.
-2. Dredge and coat the chicken with flour.
-3. Warm the olive oil and ½ tbsp of butter in a large skillet over medium-high heat. 
-4. Once the pan has warmed, sauté the chicken for 3-4 minutes per side.
-5. When the chicken is golden brown remove the chicken and set aside on a plate.
-6. Add the remaining butter to the pan.
-7. Add the onion and cook for 3-4 minutes.
-8. Crush ½ the garlic cloves with the side of a knife. Add the crushed cloves with the whole clovers to the pan.
-9. Cook the garlic for 2-3 minutes, until light brown, careful not to burn the garlic..
-10. Add the wine and bring to boil then simmer until reduced by half.
-11. Now stir in the stock, lemon juice, and thyme and deglazing the pan as you go.
-12. Let the sauce simmer for about 4 minutes. It should be noticeably reduced.
-13. Pour in the cream. Bring back to a boil and simmer. 
-14. Add the chicken back in and continue to cook the chicken until cooked through.
-15. Finish by adding the spinach and simmering for a further 1-2 minutes. Toss the spinach with the sauce until wilted.
-16. Serve with the freshly chopped parsley.
+1. Use a rolling pin or meat mallet to flatten the chicken so they cook more evenly,
+2. Season the chicken to taste and sprinkle with the garlic powder.
+3. Dredge and coat the chicken with flour.
+4. Warm the olive oil and ½ tbsp of butter in a large skillet over medium-high heat. 
+5. Once the pan has warmed, sauté the chicken for 3-4 minutes per side.
+6. When the chicken is golden brown remove the chicken and set aside on a plate.
+7. Add the remaining butter to the pan.
+8. Add the onion and cook for 3-4 minutes.
+9. Crush ½ the garlic cloves with the side of a knife. Add the crushed cloves with the whole clovers to the pan.
+10. Cook the garlic for 2-3 minutes, until light brown, careful not to burn the garlic..
+11. Add the wine and bring to boil then simmer until reduced by half.
+12. Now stir in the stock, lemon juice, and thyme and deglazing the pan as you go.
+13. Let the sauce simmer for about 4 minutes. It should be noticeably reduced.
+14. Pour in the cream. Bring back to a boil and simmer. 
+15. Add the chicken back in and continue to cook the chicken until cooked through.
+16. Finish by adding the spinach and simmering for a further 1-2 minutes. Toss the spinach with the sauce until wilted.
+17. Serve with the freshly chopped parsley.
 
 ## Notes
 
