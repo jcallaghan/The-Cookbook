@@ -1,6 +1,6 @@
 # Shopping List
 
-Sat 26-Feb 2022 - Tue 15-Mar 2022
+Sun 27-Feb 2022 - Tue 15-Mar 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,8 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Sun 27-Feb 2022|[Smoked haddock risotto #356](https://github.com/jcallaghan/The-Cookbook/issues/356)|
-|Mon 28-Feb 2022|[Chicken Katsu curry #148](https://github.com/jcallaghan/The-Cookbook/issues/148)|
+|Mon 28-Feb 2022|[Smoked haddock risotto #356](https://github.com/jcallaghan/The-Cookbook/issues/356)|
 |Tue 01-Mar 2022|[Creamy garlic chicken #186](https://github.com/jcallaghan/The-Cookbook/issues/186)|
 ||[Sauté Potatoes #142](https://github.com/jcallaghan/The-Cookbook/issues/142)|
 |Wed 02-Mar 2022|[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
@@ -35,15 +34,12 @@ This shopping list has been automatically generated with the ingredients from th
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
 |[Balsamic vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Balsamic%20vinegar)||
-|[Basmati rice (90g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Basmati%20rice%20(90g%20per%20person))|260g|
 |[Beef gravy stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Beef%20gravy%20stock)|150ml|
 |[Best butchers sausages](https://www.sainsburys.co.uk/gol-ui/SearchResults/Best%20butchers%20sausages)|6|
 |[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
 |[Broccoli](https://www.sainsburys.co.uk/gol-ui/SearchResults/Broccoli)|300g|
 |[Can coconut milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20coconut%20milk)|1|
-|[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|3|
 |[Cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cheese)|150g|
-|[Chicken breasts (cover with cling film and beat flat with a rolling pin)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts%20(cover%20with%20cling%20film%20and%20beat%20flat%20with%20a%20rolling%20pin))|4|
 |[Chicken breasts or thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts%20or%20thighs)|2|
 |[Chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20flakes)|1 tsp|
 |[Chillies powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20powder)||
@@ -52,7 +48,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Chorizo](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chorizo)|120g|
 |[Cook time: 1 hour 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%201%20hour%2020%20minutes)||
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
-|[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
 |[Cook time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2025%20minutes)||
 |[Cook time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2030%20minutes)||
@@ -79,7 +74,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Green curry paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20curry%20paste)|1 tbsp|
 |[Handful bean sprouts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20bean%20sprouts)|150g|
 |[Handful fresh flatleaf parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20fresh%20flatleaf%20parsley)|1|
-|[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|1 tbsp + 4 tbsp|
+|[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
 |[Hot smoked paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20smoked%20paprika)|2 tsp|
 |[Kaffir lime leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kaffir%20lime%20leaves)|4|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
@@ -101,11 +96,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|2 tbsp|
 |[Palm sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Palm%20sugar)|1 tbsp|
-|[Panko breadcrumbs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko%20breadcrumbs)|100g|
 |[Paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Paprika)|1 tsp|
 |[Pastry case](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pastry%20case)||
 |[Pinch of ground nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20ground%20nutmeg)||
-|[Plain flour or cornflour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Plain%20flour%20or%20cornflour)|2 tbsp|
 |[Prawn crackers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prawn%20crackers)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 12 hours](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2012%20hours)||
@@ -148,7 +141,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Total time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2045%20minutes)||
 |[Total: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total:%2020%20minutes)||
 |[Vanilla essence](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vanilla%20essence)||
-|[Vegetable oil for frying](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20oil%20for%20frying)|230ml|
 |[Whipping cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whipping%20cream)|300ml|
 |[White wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine)|150ml|
 |[White wine (riesling or chardonnay)](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine%20(riesling%20or%20chardonnay))|100ml|
@@ -162,7 +154,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Bay leaf, Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Curry powder, Flour, Garam masala, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Sunflower oil, Vegetable oil and Water.
+Butter, Béchamel sauce, Caster sugar, Chicken stock, Cooking oil, Cornflour, Flour, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 26-02-2022 16:13:00._
+_This shopping list was generated at 27-02-2022 18:56:26._
