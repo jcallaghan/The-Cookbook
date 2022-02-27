@@ -7,14 +7,12 @@ issue_link: https://github.com/jcallaghan/The-Cookbook/issues/290
 thumbnail: charred-onion-&-whipped-feta-flatbreads.jpg
 meal_type:
 - Appetiser
-- Side Dish
-- Main
 labels:
 - Style - Vegetarian
 - Favourite 🥰 - Jas
+- Ingredient - Meat - Chicken 🐔
 - Style - Dinner Party 🥳
 - Favourite 🥰 - James
-- Baking - Bread
 - Ingredient - Cheese 🧀 - Feta
 - Baking - Flat Bread
 ---
@@ -48,7 +46,8 @@ labels:
  
 ## Notes
 
-1. Recipe currently based on https://github.com/jcallaghan/Recipes/issues/290#issuecomment-892192710
+1.  Grill off some chicken breast and add this with the onion and whipped feta.
+2. Recipe currently based on https://github.com/jcallaghan/Recipes/issues/290#issuecomment-892192710
 
 ## Pictures
 
