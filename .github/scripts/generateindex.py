@@ -60,8 +60,8 @@ def generate_index(indexName,searchList):
 
     # Add content to the markdown content block.
     outputContent = outputContent + (f"There are " + str(len(issuesList)) + " " + indexName.lower() + " recipes in the cookbook.\n\n")
-    outputContent = outputContent + (f"| |Number|Recipe|Labels|\n")
-    outputContent = outputContent + (f"|-|------|------|------|\n")
+    outputContent = outputContent + (f"| |Number|Recipe|Picture|Labels|\n")
+    outputContent = outputContent + (f"|-|------|------|-------|------|\n")
 
     indexString = ""
     
@@ -82,8 +82,29 @@ def generate_index(indexName,searchList):
 
         # Add content to the markdown content block.
         outputContent = outputContent + (f"||")
-        outputContent = outputContent + (f"[" + str(item["number"]) + "](" + repo.html_url + "/issues/" + str(item["number"]) + ")|")
-        outputContent = outputContent + (f"[" + item["title"] + "](" + repo.html_url + "/blob/main/recipes/" + item["title"].replace(" ","-").lower() + ".md)|")
+
+        issueUrl = repo.html_url + "/issues/" + str(item["number"])
+
+        # Add content to the markdown content block.
+        outputContent = outputContent + (f"[" + str(item["number"]) + "](" + issueUrl + ")|")
+
+        recipeUrl = repo.html_url + "/blob/main/recipes/" + item["title"].replace(" ","-").lower() + ".md"
+        # Check if a recipe markdown file exists.
+        recipeExists = url_checker(recipeUrl)
+        if recipeExists:
+            outputContent = outputContent + (f"[" + item["title"] + "](" + recipeUrl + ")|")
+        else:
+            outputContent = outputContent + (f"[" + item["title"] + "](" + issueUrl + ")|")
+
+        imgUrl = "https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/" + item["title"].replace(" ","-").lower() + "-1.jpg"
+        # Check if an image is available for the recipe.
+        imgExists = url_checker(imgUrl)
+        if imgExists:
+            outputContent = outputContent + (f"<img src='" + imgUrl + "' alt='" + item["title"] + "' width='200'/>|")
+        else:
+            outputContent = outputContent + (f" |")
+
+        # Add content to the markdown content block.
         outputContent = outputContent + (f"" + item["labels"].replace(", ","<br>") + "|")
         outputContent = outputContent + (f"\n")
 
@@ -118,5 +139,18 @@ def export_to_markdown(filename, content):
 
     return(exportFilePath)
 
+def url_checker(url):
+    try:
+        # Get Url
+        get = requests.get(url)
+        # If the request succeeds 
+        if get.status_code == 200:
+            return True
+        else:
+			return False
+
+    except requests.exceptions.RequestException as e:
+		return False
+            
 if __name__ == '__main__':
     main()
