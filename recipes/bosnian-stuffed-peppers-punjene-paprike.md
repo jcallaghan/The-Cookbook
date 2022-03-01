@@ -71,7 +71,7 @@ Punjena paprika ([pûɲenaː pǎprika]) (lit. stuffed pepper) is a Croatian dish
 
 ## Pictures
 
-![image](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/images/bosnian-stuffed-peppers-punjene-paprike--1.jpg)
+![image](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/images/bosnian-stuffed-peppers-punjene-paprike-1.jpg)
 
 ## Reference
 
