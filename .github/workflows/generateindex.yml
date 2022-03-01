@@ -28,16 +28,7 @@ jobs:
     - name: Install Python dependencies
       run: pip install -Uq PyGithub
       
-    - name: Generate pasta index
+    - name: Generate indexrs
       run: python .github/scripts/generateindex.py
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}    
-        INDEXNAME: "Pasta"
-        LABELSEARCH: "Pasta"
-
-    - name: Generate soup index
-      run: python .github/scripts/generateindex.py
-      env:
-        CONTEXT_GITHUB: ${{ toJson(github) }}    
-        INDEXNAME: "Soup"
-        LABELSEARCH: "Soup,Broth"
