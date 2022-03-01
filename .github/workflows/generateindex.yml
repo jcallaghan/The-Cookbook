@@ -1,4 +1,4 @@
-name: Generate index markdown
+name: Generate indexes
 
 concurrency: 
   group: ${{ github.workflow }}-${{ github.ref }}
