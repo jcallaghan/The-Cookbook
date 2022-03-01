@@ -8,15 +8,30 @@ g = Github(context_dict["token"])
 repo = context_dict["repository"]
 repo = g.get_repo(repo)
 
-indexName = json.loads(os.getenv("INDEXNAME"))
-searchList = json.loads(os.getenv("LABELSEARCH"))
+indexes = [
+            {"Title": "All Recipes","Labels":"Published"},
+            {"Title": "BBQ","Labels":"BBQ"},
+            {"Title": "Pasta","Labels":"Pasta"},
+            {"Title": "Soups","Labels":"Soup,Broth"}
+        ]
 
-issuesList = []
-labelsList = []
+# //TODO add baking, cocktails and drinks, pizza. These indexes currently have additional information I want to preserve and move elsewhere.
+
 outputContent = ""
-searchList = searchList.split(",")
 
 def main():
+    
+    # Generate index for each index defined above.
+    for item in indexes:    
+        indexName = item["Title"]
+        searchList = item["Labels"]
+        searchList = searchList.split(",")
+        generate_index(indexName,searchList)
+
+def generate_index(indexName,searchList):
+
+    issuesList = []
+    labelsList = []
 
     print("Generating index for " + indexName.lower() + "...\n")
 
@@ -69,7 +84,8 @@ def main():
         outputContent = outputContent + (f"||")
         outputContent = outputContent + (f"[" + str(item["number"]) + "](" + repo.html_url + "/issues/" + str(item["number"]) + ")|")
         outputContent = outputContent + (f"[" + item["title"] + "](" + repo.html_url + "/blob/main/recipes/" + item["title"].replace(" ","-").lower() + ".md)|")
-        outputContent = outputContent + (f"" + item["labels"] + "|\n")
+        outputContent = outputContent + (f"" + item["labels"].replace(", ","<br>") + "|)
+        outputContent = outputContent + (f"\n")
 
         # Store the first character of the issue title for the next item.
         indexString = firstCharacter
