@@ -141,16 +141,16 @@ def export_to_markdown(filename, content):
 
 def url_checker(url):
     try:
-        # Get Url
+    # Get Url
         get = requests.get(url)
-        # If the request succeeds 
+    # If the request succeeds 
         if get.status_code == 200:
             return True
         else:
-			return False
+            return False
 
     except requests.exceptions.RequestException as e:
-		return False
+        return False
             
 if __name__ == '__main__':
     main()
