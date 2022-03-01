@@ -1,0 +1,43 @@
+name: Generate index markdown
+
+concurrency: 
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '1 0 * * *'
+
+jobs:
+
+  build:
+    name: Run python scripts
+    runs-on: ubuntu-latest
+      
+    steps:
+
+#     - name: Check-out repository
+#       uses: actions/checkout@v2
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9    
+
+    - name: Install Python dependencies
+      run: pip install -Uq PyGithub
+      
+    - name: Generate pasta index
+      run: python .github/scripts/generateindex.py
+      env:
+        CONTEXT_GITHUB: ${{ toJson(github) }}    
+        INDEXNAME: "Pasta"
+        LABELSEARCH: ["Pasta"]
+
+    - name: Generate soup index
+      run: python .github/scripts/generateindex.py
+      env:
+        CONTEXT_GITHUB: ${{ toJson(github) }}    
+        INDEXNAME: "Soup"
+        LABELSEARCH: ["Soup","Broth"]
