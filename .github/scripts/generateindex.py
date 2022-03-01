@@ -1,7 +1,7 @@
 from getopt import getopt
 from github import Github
 from datetime import datetime, timedelta
-import os, json, uuid, re   
+import os, json, uuid, re, requests
 
 context_dict = json.loads(os.getenv("CONTEXT_GITHUB"))
 g = Github(context_dict["token"])
