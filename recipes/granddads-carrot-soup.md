@@ -53,6 +53,6 @@ labels:
 
 ## Pictures
 
-![image](recipes/images/granddads-carrot-soup-1.jpg)
+![image](https://github.com/jcallaghan/The-Cookbookrecipes/images/granddads-carrot-soup-1.jpg)
 
-![image](recipes/images/granddads-carrot-soup-2.jpg)
+![image](https://github.com/jcallaghan/The-Cookbookrecipes/images/granddads-carrot-soup-2.jpg)
