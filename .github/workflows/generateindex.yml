@@ -33,11 +33,11 @@ jobs:
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}    
         INDEXNAME: "Pasta"
-        LABELSEARCH: ["Pasta"]
+        LABELSEARCH: "Pasta"
 
     - name: Generate soup index
       run: python .github/scripts/generateindex.py
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}    
         INDEXNAME: "Soup"
-        LABELSEARCH: ["Soup","Broth"]
+        LABELSEARCH: "Soup,Broth"
