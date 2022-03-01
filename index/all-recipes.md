@@ -1,31 +1,70 @@
-# All Published Recipes
+# All Recipes
 
-### C
-- [Carrot cake #351](/recipes/carrot-cake.md)
-- [Chicken broth soup #220](/recipes/chicken_broth_soup.md)
-- [Chicken katsu curry #148](/recipes/chicken_katsu_curry.md)
-- [Chicken pasta bake #187](/recipes/chicken_pasta_bake.md)
-- [Creamy smoked salmon pasta #1](/recipes/creamy_smoked_salmon_pasta.md)
-- [Crispy beef with egg fried rice #102](/recipes/crispy_beef_with_egg_fried_rice.md)
+There are 49 all recipes recipes in the cookbook.
 
-### H
-- [Homemade beef meatballs #59](/recipes/meatballs.md)
+| |Number|Recipe|Labels|
+|-|------|------|------|
+| B||||
+||[231](https://github.com/jcallaghan/The-Cookbook/issues/231)|[BBQ Halloumi](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/bbq-halloumi.md)|Style / Vegetarian, Style / BBQ, Meal / Appetiser, Meal / Side Dish, Ingredient / Cheese 🧀, ⚙ Needs Pictures ✅, ⚙ Published|
+||[165](https://github.com/jcallaghan/The-Cookbook/issues/165)|[Banana Milkshake](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/banana-milkshake.md)|Favourite 🥰 / Jas, Ingredient / Fruit 🍓 🍌, Drink / Milkshake 🥛🍶, ⚙ Needs Pictures ✅, ⚙ Published|
+||[8](https://github.com/jcallaghan/The-Cookbook/issues/8)|[Beef Stroganoff](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/beef-stroganoff.md)|Ingredient / Meat / Beef, Favourite 🥰 / Jas, Ingredient / Steak, Meal / Main, ⚙ Needs Pictures ✅, Ingredient / Vegetable / Mushroom 🍄, ⚙ Published|
+||[268](https://github.com/jcallaghan/The-Cookbook/issues/268)|[Beef and Guinness stew](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/beef-and-guinness-stew.md)|Ingredient / Meat / Beef, Meal / Main, ℹ️ One Pot Wonder 💪, ℹ️ Friends Recipes 🥰, Style / Stew, ⚙ Published|
+||[6](https://github.com/jcallaghan/The-Cookbook/issues/6)|[Beef and broccoli stir-fry](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/beef-and-broccoli-stir-fry.md)|Ingredient / Meat / Beef, Meal / Main, Style / Stir-fry, Style / Asian, ⚙ Needs Pictures Updating ✅, ℹ️ Make ahead of time ⏰, ⚙ Published|
+||[344](https://github.com/jcallaghan/The-Cookbook/issues/344)|[Blueberry and raspberry muffins](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/blueberry-and-raspberry-muffins.md)|Style / Baking, Favourite 🥰 / Jas, Ingredient / Fruit 🍓 🍌, ⚙ Needs Pictures ✅, Baking / Muffins, ⚙ Published, Ingredient / Fruit / Blueberry, Ingredient / Fruit / Raspberry|
+||[277](https://github.com/jcallaghan/The-Cookbook/issues/277)|[Bosnian Stuffed Peppers (Punjene Paprike)](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/bosnian-stuffed-peppers-(punjene-paprike).md)|Ingredient / Meat / Beef, Favourite 🥰 / James, Meal / Main, ⚙ Needs Writing-up ✅, ⚙ Needs Pictures ✅, Style / Bosnian, Chef 🧑🏼‍🍳 / Mummy Jas, ⚙ Published|
+||[112](https://github.com/jcallaghan/The-Cookbook/issues/112)|[Béchamel sauce](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/béchamel-sauce.md)|Style / Pasta 🍝, Ingredient / Cheese 🧀, ⚙ Needs Pictures Updating ✅, Style / Classic, Style / Sauce, ⚙ Published|
+| C||||
+||[359](https://github.com/jcallaghan/The-Cookbook/issues/359)|[Cacio e Peppe](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/cacio-e-peppe.md)|Style / Pasta 🍝, Style / Vegetarian, Meal / Main, Ingredient / Cheese 🧀, Style / Italian 🇮🇹, Chef 🧑🏼‍🍳 / Alex, ⚙ Published|
+||[351](https://github.com/jcallaghan/The-Cookbook/issues/351)|[Carrot cake](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/carrot-cake.md)|Style / Baking, Favourite 🥰 / Jas, Baking / Cake, Favourite 🥰 / James, Baking / Frosting, ⚙ Published|
+||[111](https://github.com/jcallaghan/The-Cookbook/issues/111)|[Cauliflower cheese](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/cauliflower-cheese.md)|Style / Vegetarian, Meal / Side Dish, Favourite 🥰 / Jas, Favourite 🥰 / Florence, Style / Roast, ⚙ Needs Pictures ✅, ⚙ Published|
+||[290](https://github.com/jcallaghan/The-Cookbook/issues/290)|[Charred onion & whipped feta flatbreads](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/charred-onion-&-whipped-feta-flatbreads.md)|Style / Vegetarian, Meal / Appetiser, Favourite 🥰 / Jas, Ingredient / Meat / Chicken 🐔, Style / Dinner Party 🥳, Favourite 🥰 / James, Ingredient / Cheese 🧀 / Feta, Baking / Flat Bread, ⚙ Published|
+||[162](https://github.com/jcallaghan/The-Cookbook/issues/162)|[Chicken Carbonara](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-carbonara.md)|Style / Pasta 🍝, Ingredient / Meat / Chicken 🐔, ℹ️ Quick & Easy, Favourite 🥰 / James, Meal / Main, Favourite 🥰 / Florence, ⚙ Published|
+||[333](https://github.com/jcallaghan/The-Cookbook/issues/333)|[Chicken Gyoza](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-gyoza.md)|Favourite 🥰 / Jas, Meal / Main, Baking / Dough, Style / Copycat, ℹ️ Make ahead of time ⏰, Style / Japanese, Brand / Wagamama, ⚙ Published|
+||[148](https://github.com/jcallaghan/The-Cookbook/issues/148)|[Chicken Katsu curry](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-katsu-curry.md)|Favourite 🥰 / Jas, Ingredient / Meat / Chicken 🐔, Meal / Main, Style / Asian, Style / Curry, Style / Frying, Style / Japanese, ⚙ Published|
+||[256](https://github.com/jcallaghan/The-Cookbook/issues/256)|[Chicken Schnitzel ](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-schnitzel-.md)|Favourite 🥰 / Jas, Ingredient / Meat / Chicken 🐔, Favourite 🥰 / James, Meal / Main, ⚙ Needs Writing-up ✅, ⚙ Needs Pictures ✅, Style / Frying, Style / Fried, ⚙ Published|
+||[220](https://github.com/jcallaghan/The-Cookbook/issues/220)|[Chicken broth soup](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-broth-soup.md)|Ingredient / Meat / Chicken 🐔, Favourite 🥰 / James, Style / Soup, Equipment / Pressure Cooker, Style / Broth, ⚙ Published, Ingredient / Dumpling|
+||[187](https://github.com/jcallaghan/The-Cookbook/issues/187)|[Chicken pasta bake](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-pasta-bake.md)|Style / Pasta 🍝, Favourite 🥰 / Jas, Ingredient / Meat / Chicken 🐔, Meal / Main, ⚙ Needs Pictures ✅, Style / Pasta 🍝 / Bakes, ⚙ Published|
+||[184](https://github.com/jcallaghan/The-Cookbook/issues/184)|[Classic duck breast](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/classic-duck-breast.md)|Ingredient / Meat / Duck, Style / Dinner Party 🥳, Favourite 🥰 / James, Meal / Main, ⚙ Published|
+||[281](https://github.com/jcallaghan/The-Cookbook/issues/281)|[Clover club](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/clover-club.md)|Drink / Cocktail 🍸, Favourite 🥰 / Jas, Ingredient / Fruit 🍓 🍌, Favourite 🥰 / James, Ingredient / Egg, Drink / Gin, ⚙ Published, Ingredient / Fruit / Raspberry, Drink / Vermouth|
+||[186](https://github.com/jcallaghan/The-Cookbook/issues/186)|[Creamy garlic chicken](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/creamy-garlic-chicken.md)|Ingredient / Meat / Chicken 🐔, ⚙ Needs Pictures ✅, ⚙ Published|
+||[1](https://github.com/jcallaghan/The-Cookbook/issues/1)|[Creamy smoked salmon pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/creamy-smoked-salmon-pasta.md)|Style / Pasta 🍝, Ingredient / Fish 🐟 / Salmon, ℹ️ Quick & Easy, Favourite 🥰 / James, Meal / Main, ℹ️ One Pot Wonder 💪, ℹ️ 30 minutes or less ⏰, ⚙ Needs Pictures ✅, ⚙ Published|
+||[102](https://github.com/jcallaghan/The-Cookbook/issues/102)|[Crispy beef with egg fried rice](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/crispy-beef-with-egg-fried-rice.md)|Ingredient / Meat / Beef, Ingredient / Rice, Ingredient / Steak, Favourite 🥰 / James, Meal / Main, Style / Asian, Style / Chinese, Style / Frying, ℹ️ Make ahead of time ⏰, Style / Wok, ⚙ Published|
+| E||||
+||[130](https://github.com/jcallaghan/The-Cookbook/issues/130)|[Espresso Martini](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/espresso-martini.md)|Drink / Cocktail 🍸, Favourite 🥰 / James, Drink / Vodka, Drink / Espresso, Drink / Cocktail Cards Index, ⚙ Published|
+| F||||
+||[171](https://github.com/jcallaghan/The-Cookbook/issues/171)|[Fish pie](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/fish-pie.md)|Ingredient / Fish 🐟, Favourite 🥰 / James, Meal / Main, Style / Family Meal, ⚙ Published|
+| G||||
+||[233](https://github.com/jcallaghan/The-Cookbook/issues/233)|[Garlic dough balls](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/garlic-dough-balls.md)|Meal / Appetiser, Meal / Side Dish, Pizza 🍕, Pizza 🍕 / Side, Style / Party Food 🥳, Equipment / Pizza Oven 🍕🔥, ⚙ Published|
+||[58](https://github.com/jcallaghan/The-Cookbook/issues/58)|[Grilled steak ratatouille and saffron rice](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/grilled-steak-ratatouille-and-saffron-rice.md)|Style / Vegetarian, Ingredient / Meat / Beef, Ingredient / Rice, Favourite 🥰 / Jas, Ingredient / Steak, Style / Dinner Party 🥳, Favourite 🥰 / James, ⚙ Published|
+| L||||
+||[346](https://github.com/jcallaghan/The-Cookbook/issues/346)|[Lamb Rogan Josh](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/lamb-rogan-josh.md)|Ingredient / Meat / Lamb, Meal / Main, Style / Curry, Style / Marinade, ⚙ Needs Pictures ✅, ℹ️ Make ahead of time ⏰, ⚙ Published|
+| M||||
+||[235](https://github.com/jcallaghan/The-Cookbook/issues/235)|[Margherita pizza](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/margherita-pizza.md)|Style / Vegetarian, Pizza 🍕, ⚙ Needs Pictures ✅, Equipment / Pizza Oven 🍕🔥, ⚙ Published|
+||[280](https://github.com/jcallaghan/The-Cookbook/issues/280)|[Mash potato](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/mash-potato.md)|Style / Vegetarian, Meal / Side Dish, ⚙ Needs Pictures ✅, Ingredient / Vegetable / Potato, ⚙ Published|
+||[59](https://github.com/jcallaghan/The-Cookbook/issues/59)|[Meatballs](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/meatballs.md)|Style / Pasta 🍝, Ingredient / Meat / Beef, Favourite 🥰 / James, Meal / Main, Favourite 🥰 / Florence, ⚙ Needs Pictures ✅, ⚙ Published|
+||[76](https://github.com/jcallaghan/The-Cookbook/issues/76)|[Mums delicious chocolate brownies](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/mums-delicious-chocolate-brownies.md)|Style / BBQ, Baking / Sweets & Treats, Style / Dinner Party 🥳, Meal / Dessert, Ingredient / Chocolate 🍫, Baking / Brownies, ⚙ Published|
+| P||||
+||[177](https://github.com/jcallaghan/The-Cookbook/issues/177)|[Pesto tagliatelle with sea bass](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/pesto-tagliatelle-with-sea-bass.md)|Style / Pasta 🍝, Favourite 🥰 / Jas, Ingredient / Fish 🐟 / Sea Bass, Favourite 🥰 / James, Meal / Main, Ingredient / Pesto, ⚙ Published|
+||[234](https://github.com/jcallaghan/The-Cookbook/issues/234)|[Pizza dogs](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/pizza-dogs.md)|Style / BBQ, Favourite 🥰 / James, Pizza 🍕, Pizza 🍕 / Side, Ingredient / Sausage, Equipment / Pizza Oven 🍕🔥, ⚙ Published|
+||[145](https://github.com/jcallaghan/The-Cookbook/issues/145)|[Pizza sauce](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/pizza-sauce.md)|Style / Italian 🇮🇹, Pizza 🍕, ⚙ Needs Pictures ✅, Style / Sauce, ℹ️ Make ahead of time ⏰, ⚙ Published|
+||[347](https://github.com/jcallaghan/The-Cookbook/issues/347)|[Prawn Alfredo](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/prawn-alfredo.md)|Style / Pasta 🍝, Favourite 🥰 / Jas, Ingredient / Fish 🐟 / Prawn, ℹ️ Quick & Easy, Meal / Main, ⚙ Published|
+||[324](https://github.com/jcallaghan/The-Cookbook/issues/324)|[Prawn Pad Thai](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/prawn-pad-thai.md)|Favourite 🥰 / Jas, Favourite 🥰 / James, Meal / Main, Style / Stir-fry, Style / Asian, Style / Thai, ⚙ Published|
+| R||||
+||[181](https://github.com/jcallaghan/The-Cookbook/issues/181)|[Rocket salad](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/rocket-salad.md)|Style / Pasta 🍝, Style / BBQ, Meal / Side Dish, Favourite 🥰 / James, Ingredient / Cheese 🧀, Style / Salad, Pizza 🍕, Pizza 🍕 / Side, ⚙ Published|
+| S||||
+||[348](https://github.com/jcallaghan/The-Cookbook/issues/348)|[Sausage and Bean Hotpot](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/sausage-and-bean-hotpot.md)|Ingredient / Meat / Pork, Favourite 🥰 / James, Meal / Main, Ingredient / Sausage, ⚙ Published, Style / Casserole|
+||[258](https://github.com/jcallaghan/The-Cookbook/issues/258)|[School fudge tart](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/school-fudge-tart.md)|Meal / Dessert, Ingredient / Chocolate 🍫, Favourite 🥰 / Florence, Baking / Pastry, ⚙ Published, Ingredient / Custard|
+||[356](https://github.com/jcallaghan/The-Cookbook/issues/356)|[Smoked haddock risotto](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/smoked-haddock-risotto.md)|Ingredient / Rice, Meal / Main, ⚙ Needs Pictures ✅, Ingredient / Fish 🐟 / Haddock, Style / Risotto, ⚙ Published|
+||[266](https://github.com/jcallaghan/The-Cookbook/issues/266)|[Stuffed Bell Peppers](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/stuffed-bell-peppers.md)|Ingredient / Meat / Beef, Meal / Main, ⚙ Needs Writing-up ✅, ⚙ Needs Pictures ✅, ⚙ Published|
+| T||||
+||[60](https://github.com/jcallaghan/The-Cookbook/issues/60)|[Tagliatelle with broccoli, cauliflower and blue cheese](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/tagliatelle-with-broccoli,-cauliflower-and-blue-cheese.md)|Style / Pasta 🍝, Style / Vegetarian, ℹ️ Quick & Easy, Meal / Main, Ingredient / Cheese 🧀, ℹ️ One Pot Wonder 💪, ⚙ Published|
+||[261](https://github.com/jcallaghan/The-Cookbook/issues/261)|[Tandoori chicken](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/tandoori-chicken.md)|Ingredient / Meat / Chicken 🐔, Favourite 🥰 / James, Meal / Main, Style / Curry, Brand / Ooni 🍕, Style / Marinade, ℹ️ Make ahead of time ⏰, Equipment / Pizza Oven 🍕🔥, ℹ️ 24 hour prep ⏰, ⚙ Published|
+||[47](https://github.com/jcallaghan/The-Cookbook/issues/47)|[Thai green curry](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/thai-green-curry.md)|Ingredient / Rice, Favourite 🥰 / Jas, Ingredient / Meat / Chicken 🐔, Ingredient / Fish 🐟 / Prawn, Favourite 🥰 / James, Style / Asian, Style / Curry, ⚙ Needs Pictures ✅, Style / Spicy 🌶️, ⚙ Published|
+||[349](https://github.com/jcallaghan/The-Cookbook/issues/349)|[Toad in the hole](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/toad-in-the-hole.md)|Meal / Main, Favourite 🥰 / Florence, ⚙ Needs Pictures ✅, Ingredient / Sausage, ⚙ Published|
+||[297](https://github.com/jcallaghan/The-Cookbook/issues/297)|[Tomato pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/tomato-pasta.md)|Style / Pasta 🍝, Style / Vegetarian, ℹ️ Quick & Easy, Meal / Main, ⚙ Needs Pictures ✅, ⚙ Published|
+| W||||
+||[310](https://github.com/jcallaghan/The-Cookbook/issues/310)|[Whiskey Sour](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/whiskey-sour.md)|Drink / Cocktail 🍸, Favourite 🥰 / James, Ingredient / Egg, Drink / Whiskey, Drink / Cocktail Cards Index, ⚙ Published|
+| Y||||
+||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)|Meal / Side Dish, Style / Roast, ⚙ Needs Pictures ✅, ℹ️ Make ahead of time ⏰, ⚙ Published|
 
-### L
-- [Lamb rogan josh #346](/recipes/lamb_rogan_josh.md)
-
-### G
-- [Grilled steak ratatouille and saffron rice #58](/recipes/grilled_steak_ratatouille_and_saffron_rice.md)
-
-### P
-- [Pesto tagliatelle with sea bass #177](/recipes/pesto-tagliatelle-with-sea-bass.md)
-- [Prawn alfredo #347](/recipes/prawn_alfredo.md)
-- [Prawn pad thai #324](/recipes/prawn_pad_thai.md)
-
-### S
-- [Sausage and bean hotpot #348](/recipes/sausage_and_bean_hotpot.md)
-
-### T
-- [Tagliatelle with broccoli, cauliflower and blue cheese #60](/recipes/tagliatelle_with_broccoli_cauliflower_and_blue_cheese.md)
-- [Thai green curry #47](/recipes/thai_green_curry.md)
-- [Toad in the hole #349](/recipes/toad_in_the_hole.md)
+_This index was automatically generated at 01-03-2022 16:26:56 using a custom Python script and GitHub Action._
