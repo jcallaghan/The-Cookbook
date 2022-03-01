@@ -26,7 +26,7 @@ jobs:
         python-version: 3.9    
 
     - name: Install Python dependencies
-      run: pip install -Uq PyGithub
+      run: pip install -Uq PyGithub requests
       
     - name: Generate indexrs
       run: python .github/scripts/generateindex.py
