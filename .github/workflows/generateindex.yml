@@ -28,7 +28,7 @@ jobs:
     - name: Install Python dependencies
       run: pip install -Uq PyGithub requests
       
-    - name: Generate indexrs
+    - name: Generate indexes
       run: python .github/scripts/generateindex.py
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}    
