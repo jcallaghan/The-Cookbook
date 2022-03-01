@@ -84,7 +84,7 @@ def generate_index(indexName,searchList):
         outputContent = outputContent + (f"||")
         outputContent = outputContent + (f"[" + str(item["number"]) + "](" + repo.html_url + "/issues/" + str(item["number"]) + ")|")
         outputContent = outputContent + (f"[" + item["title"] + "](" + repo.html_url + "/blob/main/recipes/" + item["title"].replace(" ","-").lower() + ".md)|")
-        outputContent = outputContent + (f"" + item["labels"].replace(", ","<br>") + "|)
+        outputContent = outputContent + (f"" + item["labels"].replace(", ","<br>") + "|")
         outputContent = outputContent + (f"\n")
 
         # Store the first character of the issue title for the next item.
