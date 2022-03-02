@@ -9,7 +9,10 @@ labels:
 - Favourite 🥰 - Jas
 - Ingredient - Fruit 🍓 🍌
 - Favourite 🥰 - James
+- Ingredient - Egg
 - Drink - Gin
+- Ingredient - Fruit - Raspberry
+- Drink - Vermouth
 ---
 
 # Clover club
