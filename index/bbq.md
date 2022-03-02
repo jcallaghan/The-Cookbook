@@ -24,7 +24,7 @@ There are 26 bbq recipes in the cookbook.
 | M||||
 ||[76](https://github.com/jcallaghan/The-Cookbook/issues/76)|[Mums delicious chocolate brownies](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/mums-delicious-chocolate-brownies.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/mums-delicious-chocolate-brownies-1.jpg' alt='Mums delicious chocolate brownies' width='200'/>|Style / BBQ<br>Baking / Sweets & Treats<br>Style / Dinner Party 🥳<br>Meal / Dessert<br>Ingredient / Chocolate 🍫<br>Baking / Brownies<br>⚙ Published|
 | P||||
-||[234](https://github.com/jcallaghan/The-Cookbook/issues/234)|[Pizza dogs](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/pizza-dogs.md)| |Style / BBQ<br>Favourite 🥰 / James<br>Pizza 🍕<br>Pizza 🍕 / Side<br>Ingredient / Sausage<br>Equipment / Pizza Oven 🍕🔥<br>⚙ Published|
+||[234](https://github.com/jcallaghan/The-Cookbook/issues/234)|[Pizza dogs](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/pizza-dogs.md)| |Style / BBQ<br>Favourite 🥰 / James<br>Pizza 🍕<br>Pizza 🍕 / Side<br>Ingredient / Sausage<br>Equipment / Pizza Oven 🍕🔥<br>⚙ Trigger Publishing|
 ||[216](https://github.com/jcallaghan/The-Cookbook/issues/216)|[Pork Ribs](https://github.com/jcallaghan/The-Cookbook/issues/216)| |Style / BBQ<br>Ingredient / Meat / Pork<br>⚙ Needs Writing-up ✅|
 ||[36](https://github.com/jcallaghan/The-Cookbook/issues/36)|[Potato salad](https://github.com/jcallaghan/The-Cookbook/issues/36)| |Style / Vegetarian<br>Style / BBQ<br>Meal / Side Dish<br>Favourite 🥰 / Jas<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅|
 | R||||
@@ -39,4 +39,4 @@ There are 26 bbq recipes in the cookbook.
 | T||||
 ||[239](https://github.com/jcallaghan/The-Cookbook/issues/239)|[Texas BBQ Pizza](https://github.com/jcallaghan/The-Cookbook/issues/239)| |Style / BBQ<br>Pizza 🍕<br>Equipment / Pizza Oven 🍕🔥|
 
-_This index was automatically generated at 01-03-2022 18:05:22 using a custom Python script and GitHub Action._
+_This index was automatically generated at 02-03-2022 00:11:57 using a custom Python script and GitHub Action._
