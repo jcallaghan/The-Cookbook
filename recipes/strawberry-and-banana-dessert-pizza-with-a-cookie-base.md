@@ -8,6 +8,7 @@ meal_type:
 - Dessert
 labels:
 - Ingredient - Fruit 🍓 🍌
+- Favourite 🥰 - James
 - Ingredient - Chocolate 🍫
 - Pizza 🍕
 - Pizza 🍕 - Dessert
@@ -38,6 +39,8 @@ This is a dessert pizza I have gradually perfected while learning to cook pizza 
 1. Top with sprinkles of crushed biscuits.
 1. Turn off the flame in the pizza oven ahead of launching.
 1. Allow the base to cook slowly before turning the flame back on to bake the top and crust.
+
+## Pictures
 
 ![image](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/images/strawberry-and-banana-dessert-pizza-with-a-cookie-base-1.jpg)
 
