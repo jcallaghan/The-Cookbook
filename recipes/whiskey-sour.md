@@ -7,6 +7,7 @@ thumbnail: whiskey-sour.jpg
 labels:
 - Drink - Cocktail 🍸
 - Favourite 🥰 - James
+- Ingredient - Egg
 - Drink - Whiskey
 - Drink - Cocktail Cards Index
 ---
