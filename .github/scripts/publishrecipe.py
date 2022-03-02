@@ -1,4 +1,5 @@
 from getopt import getopt
+from tarfile import TarError
 from github import Github
 from datetime import datetime, timedelta
 import os, json, uuid, re, requests
@@ -184,7 +185,10 @@ def upload_image(issue,sourceImageUrl,sequence):
 
     if sha == "":
         sha = get_blob_content(repo,"main",targetImagePath)
-        sha = sha.sha
+        try:
+            sha = sha.sha
+        except:
+            print()
 
     try:
         r = requests.get(sourceImageUrl)
@@ -193,7 +197,7 @@ def upload_image(issue,sourceImageUrl,sequence):
         print("File couldn't be found.")
 
     # Create or update the file accordingly.
-    if sha == "":
+    if sha == None:
         repo.create_file(targetImagePath, "🧑🏼‍🍳 " + issue.title + " image created #" + str(issue.number), sourceImageContent, branch="main")
         print("File " + targetImagePath + " created by markdown publishing automation.")
     else:
