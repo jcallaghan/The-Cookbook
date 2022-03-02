@@ -11,10 +11,10 @@ There are 8 soups recipes in the cookbook.
 ||[220](https://github.com/jcallaghan/The-Cookbook/issues/220)|[Chicken broth soup](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-broth-soup.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-broth-soup-1.jpg' alt='Chicken broth soup' width='200'/>|Ingredient / Meat / Chicken 🐔<br>Favourite 🥰 / James<br>Style / Soup<br>Equipment / Pressure Cooker<br>Style / Broth<br>⚙ Published<br>Ingredient / Dumpling|
 ||[104](https://github.com/jcallaghan/The-Cookbook/issues/104)|[Cream of mushroom soup](https://github.com/jcallaghan/The-Cookbook/issues/104)| |Style / Vegetarian<br>ℹ️ One Pot Wonder 💪<br>Style / Soup<br>Equipment / Pressure Cooker|
 | G||||
-||[79](https://github.com/jcallaghan/The-Cookbook/issues/79)|[Granddads carrot soup](https://github.com/jcallaghan/The-Cookbook/issues/79)| |Style / Vegetarian<br>Style / Soup<br>Ingredient / Vegetable<br>Meal / Starter|
+||[79](https://github.com/jcallaghan/The-Cookbook/issues/79)|[Granddads carrot soup](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/granddads-carrot-soup.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/granddads-carrot-soup-1.jpg' alt='Granddads carrot soup' width='200'/>|Style / Vegetarian<br>Favourite 🥰 / James<br>Style / Soup<br>Favourite 🥰 / Florence<br>Ingredient / Vegetable<br>Meal / Starter<br>⚙ Published|
 | L||||
 ||[260](https://github.com/jcallaghan/The-Cookbook/issues/260)|[Lyonnaise onion soup](https://github.com/jcallaghan/The-Cookbook/issues/260)| |Style / Soup|
 | S||||
 ||[345](https://github.com/jcallaghan/The-Cookbook/issues/345)|[Sweet potato, coconut and Harissa soup](https://github.com/jcallaghan/The-Cookbook/issues/345)| |Style / Soup<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Ingredient / Vegetable|
 
-_This index was automatically generated at 01-03-2022 18:05:51 using a custom Python script and GitHub Action._
+_This index was automatically generated at 02-03-2022 00:12:25 using a custom Python script and GitHub Action._
