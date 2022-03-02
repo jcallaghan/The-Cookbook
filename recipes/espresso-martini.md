@@ -9,6 +9,7 @@ labels:
 - Favourite 🥰 - James
 - Drink - Vodka
 - Drink - Espresso
+- Drink - Cocktail Cards Index
 ---
 
 # Espresso Martini
