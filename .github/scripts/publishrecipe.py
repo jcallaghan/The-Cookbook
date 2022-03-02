@@ -1,7 +1,7 @@
 from getopt import getopt
 from github import Github
 from datetime import datetime, timedelta
-import os, json, uuid, re
+import os, json, uuid, re, requests
 
 context_dict = json.loads(os.getenv("CONTEXT_GITHUB"))
 g = Github(context_dict["token"])
@@ -32,24 +32,24 @@ def main():
         markdownContent = markdownContent + (f"date: " + issue.created_at.strftime('%Y-%m-%dT%H:%M:%S') + "\n")
 
         # Use regex to find any reference of serves in the body.
-        serves = re.findall("Serves: [+-]?\d+", issue.body)
+        serves = re.findall("- Serves: [+-]?\d+", issue.body)
         if len(serves) > 0:
-            markdownContent = markdownContent + (f"serves: " + serves[-0].replace("Serves: ","") + "\n") 
+            markdownContent = markdownContent + (f"serves: " + serves[-0].replace("- Serves: ","") + "\n") 
 
         # Use regex to find any reference of prep time in the body.
-        prep_time = re.findall("Prep time: [+-]?\d+ \w+", issue.body)
+        prep_time = re.findall("- Prep Time: [+-]?\d+ \w+", issue.body)
         if len(prep_time) > 0:
-            markdownContent = markdownContent + (f"prep_time: " + prep_time[-0].replace("Prep time: ","") + "\n") 
+            markdownContent = markdownContent + (f"prep_time: " + prep_time[-0].replace("- Prep Time: ","") + "\n") 
 
         # Use regex to find any reference of cook time in the body.
-        cook_time = re.findall("Cook time: [+-]?\d+ \w+", issue.body)
+        cook_time = re.findall("- Cook Time: [+-]?\d+ \w+", issue.body)
         if len(cook_time) > 0:
-            markdownContent = markdownContent + (f"cook_time: " + cook_time[-0].replace("Cook time: ","") + "\n") 
+            markdownContent = markdownContent + (f"cook_time: " + cook_time[-0].replace("- Cook Time: ","") + "\n") 
 
         # Use regex to find any reference of total time in the body.
-        total_time = re.findall("Total time: [+-]?\d+ \w+", issue.body)
+        total_time = re.findall("- Total Time: [+-]?\d+ \w+", issue.body)
         if len(total_time) > 0:
-            markdownContent = markdownContent + (f"total_time: " + total_time[-0].replace("Total time: ","") + "\n") 
+            markdownContent = markdownContent + (f"total_time: " + total_time[-0].replace("- Total Time: ","") + "\n") 
 
         # Continue building our markdown content.
         markdownContent = markdownContent + (f"issue_id: " + str(issue.number) + "\n") 
@@ -82,14 +82,28 @@ def main():
         # Continue building our markdown content.
         markdownContent = markdownContent + (f"---\n\n") 
         markdownContent = markdownContent + (f"# " + issue.title + "\n\n")
-        markdownContent = markdownContent + (f"" + str(issue.body) + "\n") 
 
         # //TODO replace any issue numbers in the related section with the issue title, issue number and the link to the issue.
         
-        # //TODO consider uploading any image.githubusercontent.com images to the images directory and then replace them with repo/images path.
-        # Commit message - 👨🏼‍🍳 Added recipe image #x
-        # Images should use jpg extension.
-        # First image is without a numer then a seqential number suffix.
+        # Store the body markdown so we can replace any image paths.
+        newBody = str(issue.body)
+
+        # Find any markdown image tags.
+        images = re.findall("(?:!\[(.*?)\]\((.*?)\))", issue.body)
+
+        i = 1
+        # If images were found upload image to repo.
+        if len(images) > 0:
+            for image in images:
+                print("Found image (" + str(i) + ") - " + image[1])
+                # Upload image from URL.
+                newImage = upload_image(issue,image[1],i)
+                # Replace URL reference with repo path.
+                newBody = newBody.replace(image[1],repo.html_url + "/blob/main/" + newImage)
+                i = i + 1
+
+        # Add the new body to the markdown content to export.
+        markdownContent = markdownContent + (f"" + newBody + "\n") 
         
         # Export the recipe to a markdown file in the repo.
         path = export_to_markdown(issue, markdownContent)
@@ -104,27 +118,30 @@ def main():
             issueLabels.append(label.name)
 
         # Add the published label to the list of labels.
-        issueLabels.remove("⚙ Trigger Publishing")
+        try:
+            issueLabels.remove("⚙ Trigger Publishing")
+        except:
+            print("Trigger publishing label missing.")
+
         issueLabels.append("⚙ Published")
 
         # Update issue.
         issue.edit(labels=issueLabels,state='closed')
         #issue.edit(body=issueContent,labels=issueLabels)
       
-        # //TODO add recipe to index lists. Assume this would be a seperate action.
-
     else:
         print("No issue found.")
 
 def export_to_markdown(issue, content):
         
     # Remove non-alphanumeric characters.
-    pattern = "[^0-9a-zA-Z]+"
+    pattern = "[^0-9a-zA-ZÀ-ÿ]+"
     cleanTitle = re.sub(pattern, "-", issue.title)
+    if cleanTitle[-1] == "-":
+        cleanTitle = "".join(cleanTitle.rsplit("-",1))
 
     # Combine the issue title with the path to where recipes are saved.    
     exportFilePath = "recipes/" + cleanTitle.lower() + ".md"
-        
     contents = ""
     
     # See if a file exists already.
@@ -142,6 +159,61 @@ def export_to_markdown(issue, content):
         print("File " + exportFilePath + " updated by markdown publishing automation.")  
 
     return(exportFilePath)
+
+def upload_image(issue,sourceImageUrl,sequence):
+        
+    # Remove non-alphanumeric characters.
+    pattern = "[^0-9a-zA-ZÀ-ÿ]+"
+    cleanTitle = re.sub(pattern, "-", issue.title)
+    if cleanTitle[-1] == "-":
+        cleanTitle = "".join(cleanTitle.rsplit("-",1))
+
+    # Combine the issue title with the path to where recipes are saved.    
+    targetImagePath = "recipes/images/" + cleanTitle.lower() + "-" + str(sequence) + ".jpg"
+
+    print(targetImagePath)
+    contents = ""
+    sha = ""
+
+    # See if a file exists already.
+    try:
+        contents = repo.get_contents(targetImagePath, ref="main")
+        sha = contents.sha
+    except:
+        print("File doesn't exist doesn't exist or is too large.")
+
+    if sha == "":
+        sha = get_blob_content(repo,"main",targetImagePath)
+        sha = sha.sha
+
+    try:
+        r = requests.get(sourceImageUrl)
+        sourceImageContent = r.content
+    except:
+        print("File couldn't be found.")
+
+    # Create or update the file accordingly.
+    if sha == "":
+        repo.create_file(targetImagePath, "🧑🏼‍🍳 " + issue.title + " image created #" + str(issue.number), sourceImageContent, branch="main")
+        print("File " + targetImagePath + " created by markdown publishing automation.")
+    else:
+        repo.update_file(targetImagePath, "🧑🏼‍🍳 " + issue.title + " image updated #" + str(issue.number), sourceImageContent, sha, branch="main")
+        print("File " + targetImagePath + " updated by markdown publishing automation.")  
+
+    return(targetImagePath)
+
+def get_blob_content(repo, branch, path_name):
+    # First get the branch reference.
+    ref = repo.get_git_ref(f'heads/{branch}')
+    # Then get the tree.
+    tree = repo.get_git_tree(ref.object.sha, recursive='/' in path_name).tree
+    # Look for path in tree.
+    sha = [x.sha for x in tree if x.path == path_name]
+    if not sha:
+        # Not found.
+        return None
+    # We have SHA.
+    return repo.get_git_blob(sha[0])
 
 if __name__ == '__main__':
     main()
