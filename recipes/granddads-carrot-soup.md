@@ -2,9 +2,6 @@
 title: Granddads carrot soup
 date: 2020-07-13T11:11:45
 serves: 4
-prep_time: 15 minutes
-cook_time: 45 minutes
-total_time: 1 hour
 issue_id: 79
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/79
 thumbnail: granddads-carrot-soup.jpg
@@ -53,6 +50,6 @@ labels:
 
 ## Pictures
 
-![image](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/images/granddads-carrot-soup-1.jpg)
+![image](https://user-images.githubusercontent.com/7449908/156242057-81a50c80-056a-4a85-b107-820cab646015.png)
 
-![image](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/images/granddads-carrot-soup-2.jpg)
+![image](https://user-images.githubusercontent.com/7449908/156242194-8c957c73-f4a7-4ca8-b259-91469b7eed4d.png)
