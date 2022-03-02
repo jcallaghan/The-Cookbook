@@ -63,4 +63,6 @@ labels:
 
 ## Pictures
 
-![image](https://user-images.githubusercontent.com/7449908/155896172-0baf4c41-e179-48d5-a67d-82e1afa75c4d.png)
+![image](https://user-images.githubusercontent.com/7449908/156249251-105d82a1-accf-4a30-85b0-6b70f14e7294.jpeg)
+
+![image](https://user-images.githubusercontent.com/7449908/156248232-11e9383d-d09d-4d37-8fdb-ef46f80b547b.jpeg)
