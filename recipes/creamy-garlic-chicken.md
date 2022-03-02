@@ -2,12 +2,19 @@
 title: Creamy garlic chicken
 date: 2021-05-11T09:12:37
 serves: 2
-cook_time: 20 minutes
+prep_time: 10 minutes
+total_time: 30 minutes
 issue_id: 186
 issue_link: https://github.com/jcallaghan/The-Cookbook/issues/186
 thumbnail: creamy-garlic-chicken.jpg
+meal_type:
+- Main
 labels:
+- Favourite 🥰 - Jas
 - Ingredient - Meat - Chicken 🐔
+- Favourite 🥰 - James
+- Favourite 🥰 - Florence
+- Ingredient - Vegetable - Garlic 🧄
 ---
 
 # Creamy garlic chicken
@@ -63,6 +70,6 @@ labels:
 
 ## Pictures
 
-![image](https://user-images.githubusercontent.com/7449908/156249251-105d82a1-accf-4a30-85b0-6b70f14e7294.jpeg)
+![image](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/images/creamy-garlic-chicken-1.jpg)
 
-![image](https://user-images.githubusercontent.com/7449908/156248232-11e9383d-d09d-4d37-8fdb-ef46f80b547b.jpeg)
+![image](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/images/creamy-garlic-chicken-2.jpg)
