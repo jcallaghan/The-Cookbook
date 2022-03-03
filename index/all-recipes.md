@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 47 all recipes recipes in the cookbook.
+There are 48 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -54,6 +54,7 @@ There are 47 all recipes recipes in the cookbook.
 | S||||
 ||[348](https://github.com/jcallaghan/The-Cookbook/issues/348)|[Sausage and Bean Hotpot](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/sausage-and-bean-hotpot.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/sausage-and-bean-hotpot-1.jpg' alt='Sausage and Bean Hotpot' width='200'/>|Ingredient / Meat / Pork<br>Favourite 🥰 / James<br>Meal / Main<br>Ingredient / Sausage<br>⚙ Published<br>Style / Casserole|
 ||[356](https://github.com/jcallaghan/The-Cookbook/issues/356)|[Smoked haddock risotto](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/smoked-haddock-risotto.md)| |Ingredient / Rice<br>Meal / Main<br>⚙ Needs Pictures ✅<br>Ingredient / Fish 🐟 / Haddock<br>Style / Risotto<br>⚙ Published|
+||[179](https://github.com/jcallaghan/The-Cookbook/issues/179)|[Strawberry and Banana dessert pizza with a cookie base ](https://github.com/jcallaghan/The-Cookbook/issues/179)| |Ingredient / Fruit 🍓 🍌<br>Meal / Dessert<br>Favourite 🥰 / James<br>Ingredient / Chocolate 🍫<br>Pizza 🍕<br>Pizza 🍕 / Dessert<br>⚙ Published|
 ||[266](https://github.com/jcallaghan/The-Cookbook/issues/266)|[Stuffed Bell Peppers](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/stuffed-bell-peppers.md)| |Ingredient / Meat / Beef<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>⚙ Published|
 | T||||
 ||[60](https://github.com/jcallaghan/The-Cookbook/issues/60)|[Tagliatelle with broccoli, cauliflower and blue cheese](https://github.com/jcallaghan/The-Cookbook/issues/60)| |Style / Pasta 🍝<br>Style / Vegetarian<br>ℹ️ Quick & Easy<br>Meal / Main<br>Ingredient / Cheese 🧀<br>ℹ️ One Pot Wonder 💪<br>⚙ Published|
@@ -65,4 +66,4 @@ There are 47 all recipes recipes in the cookbook.
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 02-03-2022 13:34:13 using a custom Python script and GitHub Action._
+_This index was automatically generated at 03-03-2022 00:18:35 using a custom Python script and GitHub Action._
