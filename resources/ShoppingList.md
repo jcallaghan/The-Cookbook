@@ -16,7 +16,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 06-Mar 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
 |Mon 07-Mar 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
 |Tue 08-Mar 2022|[Salmon, broccoli and feta lattice bake #166](https://github.com/jcallaghan/The-Cookbook/issues/166)|
-|Wed 09-Mar 2022|[Chard chilli chicken with chilli rice #255](https://github.com/jcallaghan/The-Cookbook/issues/255)|
+|Wed 09-Mar 2022|[Crispy Sesame Chicken #369](https://github.com/jcallaghan/The-Cookbook/issues/369)|
+||[Chard chilli chicken with chilli rice #255](https://github.com/jcallaghan/The-Cookbook/issues/255)|
 |Thu 10-Mar 2022|[One-pan chicken couscous #193](https://github.com/jcallaghan/The-Cookbook/issues/193)|
 |Fri 11-Mar 2022|[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
 |Sat 12-Mar 2022|[Scotch egg #212](https://github.com/jcallaghan/The-Cookbook/issues/212)|
@@ -137,7 +138,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Lunch at Jas parents.
-1. Crispy Sesame Chicken
 
 ## 🏪 Pantry Ingredients
 
@@ -146,4 +146,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Béchamel sauce, Caster sugar, Cooking oil, Cornflour, Flour, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 03-03-2022 19:19:58._
+_This shopping list was generated at 03-03-2022 19:58:14._
