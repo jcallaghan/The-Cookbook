@@ -39,4 +39,4 @@ There are 26 bbq recipes in the cookbook.
 | T||||
 ||[239](https://github.com/jcallaghan/The-Cookbook/issues/239)|[Texas BBQ Pizza](https://github.com/jcallaghan/The-Cookbook/issues/239)| |Style / BBQ<br>Pizza 🍕<br>Equipment / Pizza Oven 🍕🔥|
 
-_This index was automatically generated at 05-03-2022 00:17:09 using a custom Python script and GitHub Action._
+_This index was automatically generated at 06-03-2022 00:17:18 using a custom Python script and GitHub Action._
