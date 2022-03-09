@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 49 all recipes recipes in the cookbook.
+There are 50 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -29,6 +29,7 @@ There are 49 all recipes recipes in the cookbook.
 ||[281](https://github.com/jcallaghan/The-Cookbook/issues/281)|[Clover club](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/clover-club.md)| |Drink / Cocktail 🍸<br>Favourite 🥰 / Jas<br>Ingredient / Fruit 🍓 🍌<br>Favourite 🥰 / James<br>Ingredient / Egg<br>Drink / Gin<br>⚙ Published<br>Ingredient / Fruit / Raspberry<br>Drink / Vermouth|
 ||[186](https://github.com/jcallaghan/The-Cookbook/issues/186)|[Creamy garlic chicken](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/creamy-garlic-chicken.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/creamy-garlic-chicken-1.jpg' alt='Creamy garlic chicken' width='200'/>|Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Favourite 🥰 / James<br>Meal / Main<br>Favourite 🥰 / Florence<br>⚙ Needs Pictures ✅<br>Ingredient / Vegetable / Garlic 🧄<br>⚙ Published|
 ||[1](https://github.com/jcallaghan/The-Cookbook/issues/1)|[Creamy smoked salmon pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/creamy-smoked-salmon-pasta.md)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Salmon<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>Meal / Main<br>ℹ️ One Pot Wonder 💪<br>ℹ️ 30 minutes or less ⏰<br>⚙ Needs Pictures ✅<br>⚙ Published|
+||[369](https://github.com/jcallaghan/The-Cookbook/issues/369)|[Crispy Sesame Chicken](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/crispy-sesame-chicken.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/crispy-sesame-chicken-1.jpg' alt='Crispy Sesame Chicken' width='200'/>|Ingredient / Meat / Chicken 🐔<br>Favourite 🥰 / James<br>Style / Chinese<br>⚙ Needs Pictures ✅<br>Style / Wok<br>⚙ Published|
 ||[102](https://github.com/jcallaghan/The-Cookbook/issues/102)|[Crispy beef with egg fried rice](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/crispy-beef-with-egg-fried-rice.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/crispy-beef-with-egg-fried-rice-1.jpg' alt='Crispy beef with egg fried rice' width='200'/>|Ingredient / Meat / Beef<br>Ingredient / Rice<br>Ingredient / Steak<br>Favourite 🥰 / James<br>Meal / Main<br>Style / Asian<br>Style / Chinese<br>Style / Frying<br>ℹ️ Make ahead of time ⏰<br>Style / Wok<br>⚙ Published|
 | E||||
 ||[130](https://github.com/jcallaghan/The-Cookbook/issues/130)|[Espresso Martini](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/espresso-martini.md)| |Drink / Cocktail 🍸<br>Favourite 🥰 / James<br>Drink / Vodka<br>Drink / Espresso<br>Drink / Cocktail Cards Index<br>⚙ Published|
@@ -67,4 +68,4 @@ There are 49 all recipes recipes in the cookbook.
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 09-03-2022 00:17:10 using a custom Python script and GitHub Action._
+_This index was automatically generated at 09-03-2022 15:21:38 using a custom Python script and GitHub Action._
