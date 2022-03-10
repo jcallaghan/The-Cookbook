@@ -10,8 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 10-Mar 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 |Fri 11-Mar 2022|[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
-|Sat 12-Mar 2022|[Scotch egg #212](https://github.com/jcallaghan/The-Cookbook/issues/212)|
-||[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
+|Sat 12-Mar 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
 |Sun 13-Mar 2022|[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
 ||[Cauliflower cheese #111](https://github.com/jcallaghan/The-Cookbook/issues/111)|
 ||[Yorkshire puddings #294](https://github.com/jcallaghan/The-Cookbook/issues/294)|
@@ -19,7 +18,6 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 15-Mar 2022|[Toad in the hole #349](https://github.com/jcallaghan/The-Cookbook/issues/349)|
 |Wed 16-Mar 2022|[Salmon, broccoli and feta lattice bake #166](https://github.com/jcallaghan/The-Cookbook/issues/166)|
 |Thu 17-Mar 2022|[Fish pie #171](https://github.com/jcallaghan/The-Cookbook/issues/171)|
-|Fri 18-Mar 2022|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 
 ## 🛒 Shopping List
 
@@ -103,4 +101,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Béchamel sauce, Caster sugar, Cooking oil, Flour, Olive oil, Plain flour, Seasoning, Sesame oil, Smoked paprika, Vegetable oil and Water.
 
 
-_This shopping list was generated at 10-03-2022 19:35:48._
+_This shopping list was generated at 10-03-2022 19:36:52._
