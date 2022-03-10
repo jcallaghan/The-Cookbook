@@ -1,6 +1,6 @@
 # Shopping List
 
-Tue 08-Mar 2022 - Fri 18-Mar 2022
+Thu 10-Mar 2022 - Sun 20-Mar 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,8 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 09-Mar 2022|[Crispy Sesame Chicken #369](https://github.com/jcallaghan/The-Cookbook/issues/369)|
-|Thu 10-Mar 2022|[One-pan chicken couscous #193](https://github.com/jcallaghan/The-Cookbook/issues/193)|
+|Thu 10-Mar 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 |Fri 11-Mar 2022|[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
 |Sat 12-Mar 2022|[Scotch egg #212](https://github.com/jcallaghan/The-Cookbook/issues/212)|
 ||[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
@@ -104,4 +103,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Béchamel sauce, Caster sugar, Cooking oil, Flour, Olive oil, Plain flour, Seasoning, Sesame oil, Smoked paprika, Vegetable oil and Water.
 
 
-_This shopping list was generated at 08-03-2022 21:52:27._
+_This shopping list was generated at 10-03-2022 11:21:59._
