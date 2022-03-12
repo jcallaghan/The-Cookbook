@@ -16,7 +16,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 15-Mar 2022|[Creamy garlic chicken #186](https://github.com/jcallaghan/The-Cookbook/issues/186)|
 |Wed 16-Mar 2022|[Salmon, broccoli and feta lattice bake #166](https://github.com/jcallaghan/The-Cookbook/issues/166)|
 |Thu 17-Mar 2022|[Fish pie #171](https://github.com/jcallaghan/The-Cookbook/issues/171)|
-|Sat 19-Mar 2022|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
+|Sat 19-Mar 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
+||[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Tue 22-Mar 2022|[Beef Stroganoff #8](https://github.com/jcallaghan/The-Cookbook/issues/8)|
 
 ## 🛒 Shopping List
@@ -31,6 +32,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cheese)|150g|
 |[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|2|
 |[Chicken breasts or thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts%20or%20thighs)|2|
+|[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
 |[Cook time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2025%20minutes)||
@@ -38,6 +40,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
+|[Coriander sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander%20sprigs)|3|
 |[Crème fraîche](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crème%20fraîche)|150g|
 |[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
 |[Dijon or english mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20or%20english%20mustard)|1 tsp|
@@ -65,6 +68,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Large cauliflower](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20cauliflower)|1|
 |[Lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon%20juice)|1 tsp|
 |[Lime](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lime)|1|
+|[Malt vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Malt%20vinegar)|5 tbsp|
 |[Maris piper potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Maris%20piper%20potatoes)|1kg|
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|150ml + 100ml + 400ml|
 |[Mushrooms](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mushrooms)|250g|
@@ -90,6 +94,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Sliced aubergine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sliced%20aubergine)||
 |[Small can of bamboo shoots drained](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20can%20of%20bamboo%20shoots%20drained)|1|
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|4 + 3-4|
+|[Squid](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squid)|200g|
 |[Sticky rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sticky%20rice)|150g|
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tbsp|
 |[Thai basil leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thai%20basil%20leaves)|8|
@@ -110,7 +115,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Butter, Béchamel sauce, Chicken stock, Cornflour, Flour, Garlic cloves, Garlic powder, Olive oil, Plain flour, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
+Butter, Béchamel sauce, Caster sugar, Chicken stock, Cornflour, Flour, Garlic cloves, Garlic powder, Light soy sauce, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 12-03-2022 19:24:42._
+_This shopping list was generated at 12-03-2022 19:25:11._
