@@ -3,65 +3,8 @@ PRODID://James Callaghan
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:1763c493-7bf4-48fc-897f-33412904d950
-DTSTAMP:20220312T192510
-DTSTART:20220312T184500
-DTEND:20220312T203000
-SUMMARY:Thai green curry #47 for dinner
-DESCRIPTION:Thai green curry #47 - https://github.com/jcallaghan/The-Cookbook/issues/47
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fe322ed6-f041-4754-955f-30b25112e6a9
-DTSTAMP:20220312T192511
-DTSTART:20220313T184500
-DTEND:20220313T203000
-SUMMARY:Beef roast #282, Cauliflower cheese #111 and Yorkshire puddings #294 for dinner
-DESCRIPTION:Beef roast #282 - https://github.com/jcallaghan/The-Cookbook/issues/282
-Cauliflower cheese #111 - https://github.com/jcallaghan/The-Cookbook/issues/111
-Yorkshire puddings #294 - https://github.com/jcallaghan/The-Cookbook/issues/294
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2f3d56ce-a1a6-4aec-9b79-d2e81edd83fe
-DTSTAMP:20220312T192511
-DTSTART:20220314T184500
-DTEND:20220314T203000
-SUMMARY:Grilled salmon fillet pasta salad #100 for dinner
-DESCRIPTION:Grilled salmon fillet pasta salad #100 - https://github.com/jcallaghan/The-Cookbook/issues/100
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:7aac4aaf-0a66-4281-98d9-985d88a03b03
-DTSTAMP:20220312T192511
-DTSTART:20220315T184500
-DTEND:20220315T203000
-SUMMARY:Creamy garlic chicken #186 for dinner
-DESCRIPTION:Creamy garlic chicken #186 - https://github.com/jcallaghan/The-Cookbook/issues/186
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:59763198-2967-4b58-b768-85629b718eb3
-DTSTAMP:20220312T192512
-DTSTART:20220316T184500
-DTEND:20220316T203000
-SUMMARY:Salmon, broccoli and feta lattice bake #166 for dinner
-DESCRIPTION:Salmon, broccoli and feta lattice bake #166 - https://github.com/jcallaghan/The-Cookbook/issues/166
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:832bf46f-0262-4126-9f44-054ae3dec7a8
-DTSTAMP:20220312T192512
+UID:c9ff52bf-9d5b-4b5d-848d-1de79f3a7997
+DTSTAMP:20220317T191058
 DTSTART:20220317T184500
 DTEND:20220317T203000
 SUMMARY:Fish pie #171 for dinner
@@ -71,8 +14,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8e7ad53f-7d04-4aa9-ad73-42efeaea4ed3
-DTSTAMP:20220312T192512
+UID:035efb6b-4de5-4393-938e-d047b98ef239
+DTSTAMP:20220317T191058
 DTSTART:20220318T184500
 DTEND:20220318T203000
 SUMMARY:Cook crispy beef and rice. for dinner
@@ -82,21 +25,20 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:341d4688-8e5b-430a-b2a8-d8fba485ad0f
-DTSTAMP:20220312T192513
+UID:4b434cb9-b5a9-4871-8b53-689442714e8b
+DTSTAMP:20220317T191059
 DTSTART:20220319T184500
 DTEND:20220319T203000
-SUMMARY:Friends over, Chilli squid #334 and Crispy beef with egg fried rice #102 for dinner
-DESCRIPTION:Note: Friends over
-Chilli squid #334 - https://github.com/jcallaghan/The-Cookbook/issues/334
+SUMMARY:Chilli squid #334 and Crispy beef with egg fried rice #102 for dinner
+DESCRIPTION:Chilli squid #334 - https://github.com/jcallaghan/The-Cookbook/issues/334
 Crispy beef with egg fried rice #102 - https://github.com/jcallaghan/The-Cookbook/issues/102
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6672825f-b9e6-4895-9087-1f23a5728483
-DTSTAMP:20220312T192513
+UID:18205572-e633-4e5f-b53e-b4ba17d95b0a
+DTSTAMP:20220317T191059
 DTSTART:20220322T184500
 DTEND:20220322T203000
 SUMMARY:Beef Stroganoff #8 for dinner
