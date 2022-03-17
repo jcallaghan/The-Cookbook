@@ -62,7 +62,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Cook crispy beef and rice.
-1. Friends over
 
 ## 🏪 Pantry Ingredients
 
@@ -71,4 +70,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 17-03-2022 18:03:00._
+_This shopping list was generated at 17-03-2022 19:10:59._
