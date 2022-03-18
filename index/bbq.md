@@ -1,6 +1,6 @@
 # BBQ
 
-There are 26 bbq recipes in the cookbook.
+There are 27 bbq recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -36,7 +36,8 @@ There are 26 bbq recipes in the cookbook.
 ||[15](https://github.com/jcallaghan/The-Cookbook/issues/15)|[Rotisserie recipes](https://github.com/jcallaghan/The-Cookbook/issues/15)| |Style / BBQ|
 | S||||
 ||[26](https://github.com/jcallaghan/The-Cookbook/issues/26)|[Smoked Watermelon](https://github.com/jcallaghan/The-Cookbook/issues/26)| |Style / BBQ|
+||[371](https://github.com/jcallaghan/The-Cookbook/issues/371)|[Steak pinwheels](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/steak-pinwheels.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/steak-pinwheels-1.jpg' alt='Steak pinwheels' width='200'/>|Style / BBQ<br>Ingredient / Steak<br>Meal / Main<br>⚙ New Recipe 👀<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>⚙ Published|
 | T||||
 ||[239](https://github.com/jcallaghan/The-Cookbook/issues/239)|[Texas BBQ Pizza](https://github.com/jcallaghan/The-Cookbook/issues/239)| |Style / BBQ<br>Pizza 🍕<br>Equipment / Pizza Oven 🍕🔥|
 
-_This index was automatically generated at 17-03-2022 00:16:36 using a custom Python script and GitHub Action._
+_This index was automatically generated at 18-03-2022 00:17:37 using a custom Python script and GitHub Action._
