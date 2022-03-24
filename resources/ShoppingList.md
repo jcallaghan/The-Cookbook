@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 24-Mar 2022|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
+|Fri 25-Mar 2022|[Crispy honey chicken #370](https://github.com/jcallaghan/The-Cookbook/issues/370)|
 |Thu 31-Mar 2022|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
 |Sat 02-Apr 2022|[Chicken broth soup #220](https://github.com/jcallaghan/The-Cookbook/issues/220)|
 
@@ -53,4 +54,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Dried oregano, Garlic cloves, Olive oil, Seasoning and Tomato puree.
 
 
-_This shopping list was generated at 24-03-2022 19:26:24._
+_This shopping list was generated at 24-03-2022 22:04:30._
