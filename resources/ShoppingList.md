@@ -29,6 +29,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Take-out treat?
+1. Curry
 
 ## 🏪 Pantry Ingredients
 
@@ -37,4 +38,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock and Olive oil.
 
 
-_This shopping list was generated at 24-03-2022 18:03:02._
+_This shopping list was generated at 24-03-2022 19:12:41._
