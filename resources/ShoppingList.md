@@ -10,8 +10,8 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 31-Mar 2022|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
 |Fri 01-Apr 2022|[Crispy honey chicken #370](https://github.com/jcallaghan/The-Cookbook/issues/370)|
-|Sat 02-Apr 2022|[Chicken broth soup #220](https://github.com/jcallaghan/The-Cookbook/issues/220)|
-||[Cherry loaf cake #163](https://github.com/jcallaghan/The-Cookbook/issues/163)|
+|Sat 02-Apr 2022|[Cherry loaf cake #163](https://github.com/jcallaghan/The-Cookbook/issues/163)|
+|Sun 03-Apr 2022|[Chicken broth soup #220](https://github.com/jcallaghan/The-Cookbook/issues/220)|
 |Tue 05-Apr 2022|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
 ||[Creamy garlic chicken #186](https://github.com/jcallaghan/The-Cookbook/issues/186)|
 
@@ -65,4 +65,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Chicken stock, Dried oregano, Flour, Garlic cloves, Garlic powder, Olive oil, Seasoning and Tomato puree.
 
 
-_This shopping list was generated at 31-03-2022 21:13:17._
+_This shopping list was generated at 31-03-2022 21:15:08._
