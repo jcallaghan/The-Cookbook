@@ -68,4 +68,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Chicken stock, Dried oregano, Flour, Garlic cloves, Garlic powder, Olive oil, Seasoning and Tomato puree.
 
 
-_This shopping list was generated at 31-03-2022 21:22:02._
+_This shopping list was generated at 31-03-2022 21:22:29._
