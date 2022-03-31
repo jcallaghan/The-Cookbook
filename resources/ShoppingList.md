@@ -12,8 +12,10 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 01-Apr 2022|[Crispy honey chicken #370](https://github.com/jcallaghan/The-Cookbook/issues/370)|
 |Sat 02-Apr 2022|[Cherry loaf cake #163](https://github.com/jcallaghan/The-Cookbook/issues/163)|
 |Sun 03-Apr 2022|[Chicken broth soup #220](https://github.com/jcallaghan/The-Cookbook/issues/220)|
+|Mon 04-Apr 2022|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 |Tue 05-Apr 2022|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
 ||[Creamy garlic chicken #186](https://github.com/jcallaghan/The-Cookbook/issues/186)|
+|Wed 06-Apr 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 
 ## 🛒 Shopping List
 
@@ -32,6 +34,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|120ml|
 |[Drained capers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Drained%20capers)|1 tbsp|
 |[Dry white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dry%20white%20wine)|60ml|
+|[Duck breast fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Duck%20breast%20fillets)|2|
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
 |[Garlic bulb](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20bulb)|½|
 |[Grated parmesan](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grated%20parmesan)|1 tbsp|
@@ -65,4 +68,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Chicken stock, Dried oregano, Flour, Garlic cloves, Garlic powder, Olive oil, Seasoning and Tomato puree.
 
 
-_This shopping list was generated at 31-03-2022 21:15:08._
+_This shopping list was generated at 31-03-2022 21:22:02._
