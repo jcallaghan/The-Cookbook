@@ -16,6 +16,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 05-Apr 2022|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
 ||[Creamy garlic chicken #186](https://github.com/jcallaghan/The-Cookbook/issues/186)|
 |Wed 06-Apr 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
+||[Red pepper dip #12](https://github.com/jcallaghan/The-Cookbook/issues/12)|
 
 ## 🛒 Shopping List
 
@@ -26,6 +27,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|450g|
 |[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|2|
 |[Chicken stock or water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20stock%20or%20water)|100ml|
+|[Chipotle chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chipotle%20chillies%20flakes)|2 tbsp|
 |[Cloves garlic chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic%20chopped)|3|
 |[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
@@ -50,9 +52,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
+|[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|3|
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
+|[Shallots onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots%20onions)|1|
 |[Skinless chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Skinless%20chicken%20breasts)|2|
 |[Small garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20garlic%20cloves)|2|
 |[Spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spaghetti)||
@@ -63,12 +67,13 @@ This shopping list has been automatically generated with the ingredients from th
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
+|[X 400g can tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20can%20tomatoes)|1|
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Butter, Chicken stock, Dried oregano, Flour, Garlic powder, Olive oil, Salt, Seasoning and Tomato puree.
+Butter, Chicken stock, Crushed chillies, Dried basil, Dried oregano, Flour, Garlic cloves, Garlic powder, Olive oil, Salt, Seasoning, Smoked paprika, Tomato puree and Tomato purée.
 
 
-_This shopping list was generated at 31-03-2022 21:45:01._
+_This shopping list was generated at 31-03-2022 21:47:14._
