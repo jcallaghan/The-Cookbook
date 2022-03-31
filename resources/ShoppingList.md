@@ -69,6 +69,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
 |[X 400g can tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20can%20tomatoes)|1|
 
+## 🗒️ Notes
+
+1. Steak and chips
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
@@ -76,4 +80,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Chicken stock, Crushed chillies, Dried basil, Dried oregano, Flour, Garlic cloves, Garlic powder, Olive oil, Salt, Seasoning, Smoked paprika, Tomato puree and Tomato purée.
 
 
-_This shopping list was generated at 31-03-2022 21:47:14._
+_This shopping list was generated at 31-03-2022 21:47:54._
