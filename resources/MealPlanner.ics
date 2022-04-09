@@ -3,23 +3,12 @@ PRODID://James Callaghan
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:489d5e7a-bcb9-4ccb-8366-9503ae11fa00
-DTSTAMP:20220405T181104
-DTSTART:20220405T184500
-DTEND:20220405T203000
-SUMMARY:Chicken piccata #286 for dinner
-DESCRIPTION:Chicken piccata #286 - https://github.com/jcallaghan/The-Cookbook/issues/286
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:dbb587b0-f363-47b0-8fbc-04af1f20cdec
-DTSTAMP:20220405T181104
-DTSTART:20220406T184500
-DTEND:20220406T203000
-SUMMARY:Classic duck breast #184 for dinner
-DESCRIPTION:Classic duck breast #184 - https://github.com/jcallaghan/The-Cookbook/issues/184
+UID:eeddf2b4-7ec6-46cb-9aa4-30cc6fcc03a4
+DTSTAMP:20220409T070431
+DTSTART:20220412T184500
+DTEND:20220412T203000
+SUMMARY:Braised Short Ribs with green beans and mash for dinner
+DESCRIPTION:Note: Braised Short Ribs with green beans and mash
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
