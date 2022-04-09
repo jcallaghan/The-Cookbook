@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Mon 11-Apr 2022|[Chicken pasta bake #187](https://github.com/jcallaghan/The-Cookbook/issues/187)|
+|Wed 13-Apr 2022|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 |Thu 14-Apr 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 
 ## 🛒 Shopping List
@@ -49,4 +50,4 @@ The following items have not been added to the shopping list as they are like in
 Caster sugar, Dried basil, Dried oregano, Garlic cloves, Olive oil, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 09-04-2022 07:05:48._
+_This shopping list was generated at 09-04-2022 07:08:05._
