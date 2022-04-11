@@ -9,14 +9,17 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Mon 11-Apr 2022|[Chicken pasta bake #187](https://github.com/jcallaghan/The-Cookbook/issues/187)|
+||[Chicken broth soup #220](https://github.com/jcallaghan/The-Cookbook/issues/220)|
 |Tue 12-Apr 2022|[Braised beef short ribs #375](https://github.com/jcallaghan/The-Cookbook/issues/375)|
 |Wed 13-Apr 2022|[Teriyaki salmon and rice #376](https://github.com/jcallaghan/The-Cookbook/issues/376)|
 |Thu 14-Apr 2022|[Butter chicken #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
-|Fri 15-Apr 2022|[Nando's spicy rice #110](https://github.com/jcallaghan/The-Cookbook/issues/110)|
+|Fri 15-Apr 2022|[Red pepper dip #12](https://github.com/jcallaghan/The-Cookbook/issues/12)|
+||[Nando's spicy rice #110](https://github.com/jcallaghan/The-Cookbook/issues/110)|
 |Sat 16-Apr 2022|[Carrot cake #351](https://github.com/jcallaghan/The-Cookbook/issues/351)|
 ||[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 ||[Crispy honey chicken #370](https://github.com/jcallaghan/The-Cookbook/issues/370)|
 |Mon 18-Apr 2022|[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
+|Wed 20-Apr 2022|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 
 ## 🛒 Shopping List
 
@@ -27,15 +30,18 @@ This shopping list has been automatically generated with the ingredients from th
 |[Bay leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bay%20leaves)|2|
 |[Bicarbonate of soda](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bicarbonate%20of%20soda)|½ tsp|
 |[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
-|[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|300g|
+|[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|4 + 300g|
 |[Carrots peeled and cut in thirds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots%20peeled%20and%20cut%20in%20thirds)|3|
+|[Celery sticks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Celery%20sticks)|4|
 |[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|4|
 |[Chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20flakes)|1 tsp|
+|[Chipotle chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chipotle%20chillies%20flakes)|2 tbsp|
 |[Cook time: 15minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015minutes)||
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
 |[Cook time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2030%20minutes)||
 |[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
 |[Cook time: 4 hours](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%204%20hours)||
+|[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
 |[Cream cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream%20cheese)|150g|
 |[Crushed tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crushed%20tomatoes)|8 oz|
@@ -80,9 +86,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|1|
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
+|[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Serves: 6](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%206)||
 |[Serves: 8](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%208)||
 |[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|3|
+|[Shallots onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots%20onions)|1|
 |[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)||
 |[Skinless salmon fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Skinless%20salmon%20fillets)|2|
 |[Soft light brown sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soft%20light%20brown%20sugar)|175g|
@@ -93,6 +101,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Tablespoons rosemary chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20rosemary%20chopped)|1|
 |[Tablespoons thyme chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20thyme%20chopped)|1|
 |[To taste seasoning](https://www.sainsburys.co.uk/gol-ui/SearchResults/To%20taste%20seasoning)||
+|[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
 |[Total time: 4 hour 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%204%20hour%2020%20minutes)||
@@ -104,13 +113,15 @@ This shopping list has been automatically generated with the ingredients from th
 |[Water divided](https://www.sainsburys.co.uk/gol-ui/SearchResults/Water%20divided)|8 tbsp|
 |[Whipping cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whipping%20cream)|300ml|
 |[White wine (riesling or chardonnay)](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine%20(riesling%20or%20chardonnay))|100ml|
+|[Whole free-range chicken](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20free-range%20chicken)||
+|[X 400g can tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20can%20tomatoes)|1|
 |[X 400g cans chopped tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20cans%20chopped%20tomatoes)|2|
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Baking powder, Butter, Caster sugar, Chicken stock, Cooking oil, Cornflour, Crushed chillies, Garlic cloves, Olive oil, Seasoning, Self-raising flour, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce and Turmeric.
+Baking powder, Butter, Caster sugar, Chicken stock, Cooking oil, Cornflour, Crushed chillies, Dried basil, Garlic cloves, Olive oil, Seasoning, Self-raising flour, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce, Tomato purée and Turmeric.
 
 
-_This shopping list was generated at 11-04-2022 11:34:05._
+_This shopping list was generated at 11-04-2022 11:35:44._
