@@ -1,6 +1,6 @@
 # Shopping List
 
-Sat 09-Apr 2022 - Tue 19-Apr 2022
+Mon 11-Apr 2022 - Thu 21-Apr 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -42,6 +42,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Braised Short Ribs with green beans and mash
+1. Teriyaki salmon
 
 ## 🏪 Pantry Ingredients
 
@@ -50,4 +51,4 @@ The following items have not been added to the shopping list as they are like in
 Caster sugar, Dried basil, Dried oregano, Garlic cloves, Olive oil, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 09-04-2022 07:08:05._
+_This shopping list was generated at 11-04-2022 10:56:48._
