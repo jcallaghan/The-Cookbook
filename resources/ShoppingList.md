@@ -16,8 +16,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 18-Apr 2022|[Red pepper dip #12](https://github.com/jcallaghan/The-Cookbook/issues/12)|
 ||[Nando's spicy rice #110](https://github.com/jcallaghan/The-Cookbook/issues/110)|
 |Tue 19-Apr 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
-|Wed 20-Apr 2022|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
-||[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
+|Wed 20-Apr 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
 
 ## 🛒 Shopping List
 
@@ -103,4 +102,4 @@ The following items have not been added to the shopping list as they are like in
 Baking powder, Baking soda, Butter, Chicken stock, Cooking oil, Corn flour, Cornflour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Olive oil, Salt, Seasoning, Self-raising flour, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 14-04-2022 21:01:52._
+_This shopping list was generated at 14-04-2022 21:02:34._
