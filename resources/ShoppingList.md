@@ -25,27 +25,33 @@ This shopping list has been automatically generated with the ingredients from th
 |[Bicarbonate of soda](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bicarbonate%20of%20soda)|½ tsp|
 |[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|300g|
+|[Chicken thigh](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thigh)|300g|
 |[Chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20flakes)|1 tsp|
+|[Chinese cooking wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chinese%20cooking%20wine)|1 tbsp|
 |[Chipotle chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chipotle%20chillies%20flakes)|2 tbsp|
+|[Cold water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cold%20water)|80ml|
+|[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
 |[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
 |[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
 |[Cream cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream%20cheese)|150g|
 |[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|4 + 2|
+|[Eggs whites](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20whites)|4|
 |[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)|2 tbsp|
 |[Fresh nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20nutmeg)|½ tsp|
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
 |[Freshly grated parmesan cheese (keep some back for serving)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20grated%20parmesan%20cheese%20(keep%20some%20back%20for%20serving))|100g|
 |[Garlic covers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20covers)|2|
 |[Ground cinnamon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cinnamon)|1 tsp|
-|[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
+|[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|110g + 4 tbsp|
 |[Icing sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Icing%20sugar)|350g|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
 |[King prawns](https://www.sainsburys.co.uk/gol-ui/SearchResults/King%20prawns)|300g|
 |[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)||
 |[Linguine pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Linguine%20pasta)|200g|
 |[Long grain rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Long%20grain%20rice)|300g|
+|[Mayonnaise](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mayonnaise)|155g|
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|1-2 tbsp|
 |[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g|
 |[Nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Nutmeg)||
@@ -68,8 +74,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[Shallots onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots%20onions)|1|
 |[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)||
 |[Soft light brown sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soft%20light%20brown%20sugar)|175g|
-|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|3-4|
+|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|2 tbsp + 3-4|
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tbsp|
+|[Sweetened condensed milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sweetened%20condensed%20milk)|2 tbsp|
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
@@ -84,7 +91,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Baking powder, Butter, Chicken stock, Cooking oil, Cornflour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Olive oil, Seasoning, Self-raising flour, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce, Tomato purée and Turmeric.
+Baking powder, Baking soda, Butter, Chicken stock, Cooking oil, Corn flour, Cornflour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Olive oil, Salt, Seasoning, Self-raising flour, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 14-04-2022 13:25:38._
+_This shopping list was generated at 14-04-2022 18:03:09._
