@@ -17,11 +17,13 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Nando's spicy rice #110](https://github.com/jcallaghan/The-Cookbook/issues/110)|
 |Tue 19-Apr 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 |Wed 20-Apr 2022|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
+||[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
+|[[optional] cherry tomatoes on the vine](https://www.sainsburys.co.uk/gol-ui/SearchResults/[optional]%20cherry%20tomatoes%20on%20the%20vine)||
 |[Bicarbonate of soda](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bicarbonate%20of%20soda)|½ tsp|
 |[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|300g|
@@ -30,10 +32,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[Chinese cooking wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chinese%20cooking%20wine)|1 tbsp|
 |[Chipotle chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chipotle%20chillies%20flakes)|2 tbsp|
 |[Cold water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cold%20water)|80ml|
+|[Cook time:  15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%20%2015%20minutes)||
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
 |[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
 |[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
+|[Cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream)|1 tbsp|
 |[Cream cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream%20cheese)|150g|
 |[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|4 + 2|
@@ -43,6 +47,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
 |[Freshly grated parmesan cheese (keep some back for serving)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20grated%20parmesan%20cheese%20(keep%20some%20back%20for%20serving))|100g|
 |[Garlic covers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20covers)|2|
+|[Green pesto](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20pesto)|4 tbsp|
 |[Ground cinnamon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cinnamon)|1 tsp|
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|110g + 4 tbsp|
 |[Icing sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Icing%20sugar)|350g|
@@ -60,12 +65,14 @@ This shopping list has been automatically generated with the ingredients from th
 |[Paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Paprika)|1 tsp|
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)||
 |[Pecan nuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pecan%20nuts)|50g|
+|[Prep time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%200%20minutes)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Pumpkin pie spice (optional)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pumpkin%20pie%20spice%20(optional))|1 tsp|
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1-2|
 |[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
 |[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|1|
+|[Seabass fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seabass%20fillets)|2|
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
@@ -77,6 +84,8 @@ This shopping list has been automatically generated with the ingredients from th
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|2 tbsp + 3-4|
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tbsp|
 |[Sweetened condensed milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sweetened%20condensed%20milk)|2 tbsp|
+|[Tagliatelle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tagliatelle%20pasta)|300g|
+|[Total time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2015%20minutes)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
@@ -94,4 +103,4 @@ The following items have not been added to the shopping list as they are like in
 Baking powder, Baking soda, Butter, Chicken stock, Cooking oil, Corn flour, Cornflour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Olive oil, Salt, Seasoning, Self-raising flour, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 14-04-2022 18:03:09._
+_This shopping list was generated at 14-04-2022 21:01:52._
