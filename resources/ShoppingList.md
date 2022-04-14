@@ -17,6 +17,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Nando's spicy rice #110](https://github.com/jcallaghan/The-Cookbook/issues/110)|
 |Tue 19-Apr 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 |Wed 20-Apr 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
+|Thu 21-Apr 2022|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 
 ## 🛒 Shopping List
 
@@ -25,7 +26,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[[optional] cherry tomatoes on the vine](https://www.sainsburys.co.uk/gol-ui/SearchResults/[optional]%20cherry%20tomatoes%20on%20the%20vine)||
 |[Bicarbonate of soda](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bicarbonate%20of%20soda)|½ tsp|
 |[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
-|[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|300g|
+|[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|300g + 450g|
 |[Chicken thigh](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thigh)|300g|
 |[Chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20flakes)|1 tsp|
 |[Chinese cooking wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chinese%20cooking%20wine)|1 tbsp|
@@ -35,10 +36,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
 |[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
+|[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
 |[Cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream)|1 tbsp|
 |[Cream cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream%20cheese)|150g|
 |[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
+|[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|4 + 2|
 |[Eggs whites](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20whites)|4|
 |[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)|2 tbsp|
@@ -59,11 +62,14 @@ This shopping list has been automatically generated with the ingredients from th
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|1-2 tbsp|
 |[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g|
 |[Nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Nutmeg)||
+|[Of fennel seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20fennel%20seeds)|1 tbsp|
+|[Of paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20paprika)|2 tsp|
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
-|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|½|
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|½ + 2|
 |[Paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Paprika)|1 tsp|
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)||
 |[Pecan nuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pecan%20nuts)|50g|
+|[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
 |[Prep time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%200%20minutes)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
@@ -84,14 +90,17 @@ This shopping list has been automatically generated with the ingredients from th
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tbsp|
 |[Sweetened condensed milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sweetened%20condensed%20milk)|2 tbsp|
 |[Tagliatelle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tagliatelle%20pasta)|300g|
+|[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
 |[Total time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2015%20minutes)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
 |[Unsalted butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Unsalted%20butter)|225g + 200g|
 |[Vanilla paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vanilla%20paste)|2 tsp + 1 tsp|
+|[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[Walnuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Walnuts)|100g|
 |[Whipping cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whipping%20cream)|300ml|
+|[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
 |[White wine (riesling or chardonnay)](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine%20(riesling%20or%20chardonnay))|100ml|
 |[X 400g can tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20can%20tomatoes)|1|
 
@@ -102,4 +111,4 @@ The following items have not been added to the shopping list as they are like in
 Baking powder, Baking soda, Butter, Chicken stock, Cooking oil, Corn flour, Cornflour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Olive oil, Salt, Seasoning, Self-raising flour, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 14-04-2022 21:02:34._
+_This shopping list was generated at 14-04-2022 21:03:20._
