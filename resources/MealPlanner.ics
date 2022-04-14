@@ -3,55 +3,55 @@ PRODID://James Callaghan
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:5006878d-38be-421c-a31e-8ae42a538435
-DTSTAMP:20220411T113533
-DTSTART:20220411T184500
-DTEND:20220411T203000
-SUMMARY:Chicken pasta bake #187 and Chicken broth soup #220 for dinner
-DESCRIPTION:Chicken pasta bake #187 - https://github.com/jcallaghan/The-Cookbook/issues/187
-Chicken broth soup #220 - https://github.com/jcallaghan/The-Cookbook/issues/220
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:9991a82e-afc6-4e5f-a278-2a07292a065a
-DTSTAMP:20220411T113533
-DTSTART:20220412T184500
-DTEND:20220412T203000
-SUMMARY:Braised beef short ribs #375 for dinner
-DESCRIPTION:Braised beef short ribs #375 - https://github.com/jcallaghan/The-Cookbook/issues/375
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:5a903f3a-5bd5-4e31-a4af-cedf05c43718
-DTSTAMP:20220411T113534
-DTSTART:20220413T184500
-DTEND:20220413T203000
-SUMMARY:Teriyaki salmon and rice #376 for dinner
-DESCRIPTION:Teriyaki salmon and rice #376 - https://github.com/jcallaghan/The-Cookbook/issues/376
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:d13aedc0-8d98-4d6e-a4bd-d2f4ff2036aa
-DTSTAMP:20220411T113534
+UID:155ee1bb-2a0c-4920-89e3-9a03d7c31d57
+DTSTAMP:20220414T132409
 DTSTART:20220414T184500
 DTEND:20220414T203000
-SUMMARY:Butter chicken #353 for dinner
-DESCRIPTION:Butter chicken #353 - https://github.com/jcallaghan/The-Cookbook/issues/353
+SUMMARY:Crispy honey chicken #370 for dinner
+DESCRIPTION:Crispy honey chicken #370 - https://github.com/jcallaghan/The-Cookbook/issues/370
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:03ea8f4b-b22e-4a7f-951d-c7217c0d5719
-DTSTAMP:20220411T113534
+UID:fe30e814-b01a-4ff4-9b8f-ec74f26f6fb1
+DTSTAMP:20220414T132409
 DTSTART:20220415T184500
 DTEND:20220415T203000
+SUMMARY:Crispy beef with egg fried rice #102 for dinner
+DESCRIPTION:Crispy beef with egg fried rice #102 - https://github.com/jcallaghan/The-Cookbook/issues/102
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e3800507-3965-45fd-b13d-9d7b7f2a4d31
+DTSTAMP:20220414T132410
+DTSTART:20220416T184500
+DTEND:20220416T203000
+SUMMARY:Butter chicken #353 and Carrot cake #351 for dinner
+DESCRIPTION:Butter chicken #353 - https://github.com/jcallaghan/The-Cookbook/issues/353
+Carrot cake #351 - https://github.com/jcallaghan/The-Cookbook/issues/351
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ad224863-c67a-4078-ae47-8bf7e48d01fb
+DTSTAMP:20220414T132410
+DTSTART:20220417T184500
+DTEND:20220417T203000
+SUMMARY:Prawn Alfredo #347 for dinner
+DESCRIPTION:Prawn Alfredo #347 - https://github.com/jcallaghan/The-Cookbook/issues/347
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5d71d94b-749c-445f-8d32-19a0ec85a16f
+DTSTAMP:20220414T132411
+DTSTART:20220418T184500
+DTEND:20220418T203000
 SUMMARY:Red pepper dip #12 and Nando's spicy rice #110 for dinner
 DESCRIPTION:Red pepper dip #12 - https://github.com/jcallaghan/The-Cookbook/issues/12
 Nando's spicy rice #110 - https://github.com/jcallaghan/The-Cookbook/issues/110
@@ -60,32 +60,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ead6b4f2-a029-40a5-8417-d0ed0602bd76
-DTSTAMP:20220411T113535
-DTSTART:20220416T184500
-DTEND:20220416T203000
-SUMMARY:Carrot cake #351, Crispy beef with egg fried rice #102 and Crispy honey chicken #370 for dinner
-DESCRIPTION:Carrot cake #351 - https://github.com/jcallaghan/The-Cookbook/issues/351
-Crispy beef with egg fried rice #102 - https://github.com/jcallaghan/The-Cookbook/issues/102
-Crispy honey chicken #370 - https://github.com/jcallaghan/The-Cookbook/issues/370
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:91411444-b67a-4ec1-b08a-f02f39d27c90
-DTSTAMP:20220411T113535
-DTSTART:20220418T184500
-DTEND:20220418T203000
-SUMMARY:Prawn Alfredo #347 for dinner
-DESCRIPTION:Prawn Alfredo #347 - https://github.com/jcallaghan/The-Cookbook/issues/347
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:a5c75376-4389-4a92-9f95-8a3b8471c7d7
-DTSTAMP:20220411T113536
+UID:94be55e4-8837-4a41-bb0f-978c283f0897
+DTSTAMP:20220414T132411
 DTSTART:20220420T184500
 DTEND:20220420T203000
 SUMMARY:Grilled Salmon with Greek Salad #25 for dinner
