@@ -42,7 +42,7 @@ jobs:
        
     - name: Upload Files
       id: upload
-      uses: Creepios/sftp-action@v1.0.3
+      uses: Creepios/sftp-action@v1.0.4
       with:
         host: ${{ secrets.WPE_HOSTNAME }}
         port: ${{ secrets.WPE_PORT }}
