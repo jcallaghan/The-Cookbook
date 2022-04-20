@@ -3,76 +3,8 @@ PRODID://James Callaghan
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:9dd53270-9bbc-4f25-a374-73408d44960e
-DTSTAMP:20220414T210316
-DTSTART:20220414T184500
-DTEND:20220414T203000
-SUMMARY:Crispy honey chicken #370 for dinner
-DESCRIPTION:Crispy honey chicken #370 - https://github.com/jcallaghan/The-Cookbook/issues/370
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:0142028c-1ffa-473f-b88d-a459b741444c
-DTSTAMP:20220414T210316
-DTSTART:20220415T184500
-DTEND:20220415T203000
-SUMMARY:Crispy beef with egg fried rice #102 for dinner
-DESCRIPTION:Crispy beef with egg fried rice #102 - https://github.com/jcallaghan/The-Cookbook/issues/102
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:dbb81982-7def-45fe-802a-4e2aac018fd0
-DTSTAMP:20220414T210317
-DTSTART:20220416T184500
-DTEND:20220416T203000
-SUMMARY:Butter chicken #353 and Carrot cake #351 for dinner
-DESCRIPTION:Butter chicken #353 - https://github.com/jcallaghan/The-Cookbook/issues/353
-Carrot cake #351 - https://github.com/jcallaghan/The-Cookbook/issues/351
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:69eec715-99fc-4f2c-9304-76dc48cf513b
-DTSTAMP:20220414T210317
-DTSTART:20220417T184500
-DTEND:20220417T203000
-SUMMARY:Prawn Alfredo #347 for dinner
-DESCRIPTION:Prawn Alfredo #347 - https://github.com/jcallaghan/The-Cookbook/issues/347
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:8b1d9d0b-d150-467d-ba09-63d3a99c044f
-DTSTAMP:20220414T210317
-DTSTART:20220418T184500
-DTEND:20220418T203000
-SUMMARY:Red pepper dip #12 and Nando's spicy rice #110 for dinner
-DESCRIPTION:Red pepper dip #12 - https://github.com/jcallaghan/The-Cookbook/issues/12
-Nando's spicy rice #110 - https://github.com/jcallaghan/The-Cookbook/issues/110
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:f1ec9fbf-1e23-4b1e-bab0-4708489b6323
-DTSTAMP:20220414T210318
-DTSTART:20220419T184500
-DTEND:20220419T203000
-SUMMARY:Meatballs #59 for dinner
-DESCRIPTION:Meatballs #59 - https://github.com/jcallaghan/The-Cookbook/issues/59
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:60abad40-8f22-4292-ba77-d56df660a0d3
-DTSTAMP:20220414T210318
+UID:a61a2633-851d-4988-9bed-b700064699b9
+DTSTAMP:20220420T181924
 DTSTART:20220420T184500
 DTEND:20220420T203000
 SUMMARY:Pesto tagliatelle with sea bass #177 for dinner
@@ -82,12 +14,38 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf127ea2-4e69-4d4f-bc17-fea4bc747303
-DTSTAMP:20220414T210318
+UID:090839a1-1323-4216-accd-0879a4768fae
+DTSTAMP:20220420T181924
 DTSTART:20220421T184500
 DTEND:20220421T203000
-SUMMARY:Granddads carrot soup #79 for dinner
+SUMMARY:Granddads carrot soup #79 and Butter chicken #353 for dinner
 DESCRIPTION:Granddads carrot soup #79 - https://github.com/jcallaghan/The-Cookbook/issues/79
+Butter chicken #353 - https://github.com/jcallaghan/The-Cookbook/issues/353
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8d27303b-1964-4f4c-8242-72477d2b7d48
+DTSTAMP:20220420T181925
+DTSTART:20220422T184500
+DTEND:20220422T203000
+SUMMARY:Burgers, Pepperoni pizza  #251, Margherita pizza #235 and BBQ chicken kebabs #13 for dinner
+DESCRIPTION:Note: Burgers
+Pepperoni pizza  #251 - https://github.com/jcallaghan/The-Cookbook/issues/251
+Margherita pizza #235 - https://github.com/jcallaghan/The-Cookbook/issues/235
+BBQ chicken kebabs #13 - https://github.com/jcallaghan/The-Cookbook/issues/13
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5f43a11c-a922-4785-a30c-7f069237eef6
+DTSTAMP:20220420T181926
+DTSTART:20220426T184500
+DTEND:20220426T203000
+SUMMARY:Creamy garlic chicken #186 for dinner
+DESCRIPTION:Creamy garlic chicken #186 - https://github.com/jcallaghan/The-Cookbook/issues/186
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
