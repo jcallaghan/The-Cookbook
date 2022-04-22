@@ -81,6 +81,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Burgers
 1. Dinner out
+1. Dinner out
 
 ## 🏪 Pantry Ingredients
 
@@ -89,4 +90,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Chicken stock, Flour, Garlic powder, Olive oil, Plain flour, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 22-04-2022 19:58:02._
+_This shopping list was generated at 22-04-2022 19:59:59._
