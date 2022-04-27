@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 28-Apr 2022|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
 |Sat 30-Apr 2022|[Blueberry and raspberry muffins #344](https://github.com/jcallaghan/The-Cookbook/issues/344)|
 ||[Coconut curry #101](https://github.com/jcallaghan/The-Cookbook/issues/101)|
+|Sun 01-May 2022|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Mon 02-May 2022|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 ||[Chicken pasta bake #187](https://github.com/jcallaghan/The-Cookbook/issues/187)|
 |Tue 03-May 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
@@ -118,4 +119,4 @@ The following items have not been added to the shopping list as they are like in
 Baking powder, Butter, Caster sugar, Chicken stock, Coconut oil, Cumin, Dried basil, Dried oregano, Garam masala, Garlic cloves, Olive oil, Plain flour, Salt, Seasoning, Tomato purée, Vegetable oil and Water.
 
 
-_This shopping list was generated at 27-04-2022 11:25:09._
+_This shopping list was generated at 27-04-2022 11:25:35._
