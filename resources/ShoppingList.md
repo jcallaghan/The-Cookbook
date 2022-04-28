@@ -11,7 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 28-Apr 2022|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
 |Fri 29-Apr 2022|[Coconut curry #101](https://github.com/jcallaghan/The-Cookbook/issues/101)|
 |Sat 30-Apr 2022|[Blueberry and raspberry muffins #344](https://github.com/jcallaghan/The-Cookbook/issues/344)|
-|Sun 01-May 2022|[Chicken pasta bake #187](https://github.com/jcallaghan/The-Cookbook/issues/187)|
+|Sun 01-May 2022|[Beef pasta bake #138](https://github.com/jcallaghan/The-Cookbook/issues/138)|
 |Mon 02-May 2022|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 ||[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Tue 03-May 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
@@ -27,18 +27,18 @@ This shopping list has been automatically generated with the ingredients from th
 |[Beef stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Beef%20stock)|100ml|
 |[Blueberries](https://www.sainsburys.co.uk/gol-ui/SearchResults/Blueberries)|190g|
 |[Buttermilk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Buttermilk)|245g|
-|[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|450g|
-|[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|4|
+|[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|1 + 450g|
+|[Celery stick](https://www.sainsburys.co.uk/gol-ui/SearchResults/Celery%20stick)|1|
 |[Chicken thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thighs)|500g|
-|[Chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20flakes)|¼ tsp|
 |[Cook time:  15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%20%2015%20minutes)||
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
-|[Cook time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2030%20minutes)||
 |[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream)|1 tbsp|
 |[Crème fraîche](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crème%20fraîche)|150g|
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
+|[Dried fennel](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20fennel)|½ tsp|
+|[Dried thyme](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20thyme)|1 tsp|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|2 + 2|
 |[English mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/English%20mustard)|1 tsp|
 |[Fast-action dried yeast](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fast-action%20dried%20yeast)|7g|
@@ -49,19 +49,16 @@ This shopping list has been automatically generated with the ingredients from th
 |[Garlic covers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20covers)|2|
 |[Ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger)|2 tsp|
 |[Granulated sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Granulated%20sugar)|200g|
-|[Grated mozzarella](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grated%20mozzarella)|50g|
 |[Greek yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Greek%20yoghurt)|50g|
 |[Green pesto](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20pesto)|4 tbsp|
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|2 tbsp|
-|[Mascarpone](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mascarpone)|6 tbsp|
-|[Mature cheddar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mature%20cheddar)|70g|
-|[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g|
+|[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g + 500g|
 |[Mushrooms](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mushrooms)|250g|
 |[Of fennel seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20fennel%20seeds)|1 tbsp|
 |[Of paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20paprika)|2 tsp|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)||
-|[Penne pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Penne%20pasta)|300g|
+|[Pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pasta)|300g|
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
 |[Prep time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%200%20minutes)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
@@ -69,6 +66,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Prep time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2025%20minutes)||
 |[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
 |[Raspberries](https://www.sainsburys.co.uk/gol-ui/SearchResults/Raspberries)|190g|
+|[Rated cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rated%20cheese)|100 g|
 |[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
 |[Rose harissa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rose%20harissa)|2 tbsp|
 |[Seabass fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seabass%20fillets)|2|
@@ -76,11 +74,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Serves: 4 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204%20servings)||
-|[Serves: 6](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%206)||
 |[Spinach](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spinach)|100g|
 |[Strong white bread flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Strong%20white%20bread%20flour)|300g|
 |[Tagliatelle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tagliatelle%20pasta)|300g|
 |[Thyme sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thyme%20sprigs)|5|
+|[Tinned chopped tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tinned%20chopped%20tomatoes)|400 ml|
+|[Tomato puree or tomato paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20puree%20or%20tomato%20paste)|3 tbsp|
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
 |[Total time: 1 hour 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%2010%20minutes)||
 |[Total time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2015%20minutes)||
@@ -91,7 +90,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
 |[X 400g can coconut milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20can%20coconut%20milk)|1|
-|[X 400g cans chopped tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20cans%20chopped%20tomatoes)|2|
 
 ## 🗒️ Notes
 
@@ -101,7 +99,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Baking powder, Butter, Caster sugar, Chicken stock, Coconut oil, Cumin, Dried basil, Dried oregano, Garam masala, Garlic cloves, Olive oil, Plain flour, Salt, Seasoning, Tomato purée, Vegetable oil and Water.
+Baking powder, Butter, Chicken stock, Coconut oil, Cumin, Dried basil, Dried oregano, Garam masala, Garlic cloves, Olive oil, Plain flour, Salt, Seasoning, Tomato purée, Vegetable oil and Water.
 
 
-_This shopping list was generated at 28-04-2022 21:14:31._
+_This shopping list was generated at 28-04-2022 21:17:38._
