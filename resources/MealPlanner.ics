@@ -3,54 +3,19 @@ PRODID://James Callaghan
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:781f5a4c-b77b-4d38-aad1-c02360aa59f0
-DTSTAMP:20220430T095721
-DTSTART:20220430T184500
-DTEND:20220430T203000
-SUMMARY:Blueberry and raspberry muffins #344 and F&C? for dinner
-DESCRIPTION:Blueberry and raspberry muffins #344 - https://github.com/jcallaghan/The-Cookbook/issues/344
-Note: F&C?
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:24cf8442-41eb-4b45-8c09-9f9e4be59b3a
-DTSTAMP:20220430T095721
-DTSTART:20220501T184500
-DTEND:20220501T203000
-SUMMARY:Beef pasta bake #138 for dinner
-DESCRIPTION:Beef pasta bake #138 - https://github.com/jcallaghan/The-Cookbook/issues/138
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:c80b8dfe-dbd3-4ff7-be17-228cb70aa97e
-DTSTAMP:20220430T095722
-DTSTART:20220502T184500
-DTEND:20220502T203000
-SUMMARY:Granddads carrot soup #79 and Grilled salmon fillet pasta salad #100 for dinner
-DESCRIPTION:Granddads carrot soup #79 - https://github.com/jcallaghan/The-Cookbook/issues/79
-Grilled salmon fillet pasta salad #100 - https://github.com/jcallaghan/The-Cookbook/issues/100
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:1902ef72-68fa-4858-9847-72b1aaab9674
-DTSTAMP:20220430T095722
+UID:afd9c488-261d-4a0a-a9f1-f0d4043d8fa8
+DTSTAMP:20220503T081232
 DTSTART:20220503T184500
 DTEND:20220503T203000
-SUMMARY:Meatballs #59 for dinner
-DESCRIPTION:Meatballs #59 - https://github.com/jcallaghan/The-Cookbook/issues/59
+SUMMARY:Beef Stroganoff #8 for dinner
+DESCRIPTION:Beef Stroganoff #8 - https://github.com/jcallaghan/The-Cookbook/issues/8
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d462b68d-26ec-4e0c-a52e-ead6899385d6
-DTSTAMP:20220430T095723
+UID:6befc139-d7f8-461b-b549-769574c9e14e
+DTSTAMP:20220503T081233
 DTSTART:20220504T184500
 DTEND:20220504T203000
 SUMMARY:Pesto tagliatelle with sea bass #177 for dinner
@@ -60,12 +25,12 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5317ac56-cab3-4a6c-882b-6e3aa8ae10b6
-DTSTAMP:20220430T095723
+UID:8d525a4b-e77b-41ea-ba19-8efa575e0571
+DTSTAMP:20220503T081233
 DTSTART:20220505T184500
 DTEND:20220505T203000
-SUMMARY:Beef Stroganoff #8 for dinner
-DESCRIPTION:Beef Stroganoff #8 - https://github.com/jcallaghan/The-Cookbook/issues/8
+SUMMARY:Meatballs #59 for dinner
+DESCRIPTION:Meatballs #59 - https://github.com/jcallaghan/The-Cookbook/issues/59
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
