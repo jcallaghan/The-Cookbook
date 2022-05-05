@@ -9,7 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 05-May 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
-|Fri 06-May 2022|[One-pan chicken couscous #193](https://github.com/jcallaghan/The-Cookbook/issues/193)|
+|Fri 06-May 2022|[Grilled chicken couscous #378](https://github.com/jcallaghan/The-Cookbook/issues/378)|
+||[One-pan chicken couscous #193](https://github.com/jcallaghan/The-Cookbook/issues/193)|
 ||[Cous-cous recipes #117](https://github.com/jcallaghan/The-Cookbook/issues/117)|
 |Sat 07-May 2022|[Crispy honey chicken #370](https://github.com/jcallaghan/The-Cookbook/issues/370)|
 |Sun 08-May 2022|[BBQ chicken kebabs #13](https://github.com/jcallaghan/The-Cookbook/issues/13)|
@@ -71,4 +72,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Butter, Chicken stock, Corn flour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Garlic powder, Olive oil, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 05-05-2022 21:28:47._
+_This shopping list was generated at 05-05-2022 21:41:37._
