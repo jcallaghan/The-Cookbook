@@ -62,6 +62,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Burgers
+1. Grilled seabass, greens and sauteed potatoes
 
 ## 🏪 Pantry Ingredients
 
@@ -70,4 +71,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Butter, Chicken stock, Corn flour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Garlic powder, Olive oil, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 05-05-2022 21:26:49._
+_This shopping list was generated at 05-05-2022 21:28:47._
