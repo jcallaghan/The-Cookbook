@@ -14,14 +14,17 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 15-May 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
 |Tue 17-May 2022|[Beef pasta bake #138](https://github.com/jcallaghan/The-Cookbook/issues/138)|
 |Wed 18-May 2022|[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
+|Thu 19-May 2022|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
+|[Baby leeks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baby%20leeks)|200g|
+|[Baby spinach](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baby%20spinach)|200g|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|1|
 |[Celery stick](https://www.sainsburys.co.uk/gol-ui/SearchResults/Celery%20stick)|1|
-|[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|2|
+|[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|2 + 3|
 |[Chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20flakes)|1 tsp|
 |[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)||
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
@@ -33,7 +36,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)||
 |[Flour + seasoning (salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Flour%20+%20seasoning%20(salt)||
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
+|[Fresh rosemary](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20rosemary)|1 tbsp|
+|[Fresh sage leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20sage%20leaves)|1 tbsp|
 |[Freshly grated parmesan cheese (keep some back for serving)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20grated%20parmesan%20cheese%20(keep%20some%20back%20for%20serving))|100g|
+|[Frozen peas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Frozen%20peas)|100g|
 |[King prawns](https://www.sainsburys.co.uk/gol-ui/SearchResults/King%20prawns)|300g|
 |[Linguine pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Linguine%20pasta)|200g|
 |[Long grain rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Long%20grain%20rice)|300g|
@@ -42,10 +48,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g|
 |[Nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Nutmeg)||
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
-|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
 |[Panko](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko)||
 |[Paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Paprika)|1 tsp|
+|[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)|30g|
 |[Pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pasta)|300g|
+|[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|800g|
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Rated cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rated%20cheese)|100 g|
@@ -55,7 +63,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|3|
+|[Single cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Single%20cream)|100ml|
 |[Squid](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squid)|200g|
+|[Streaky bacon slices](https://www.sainsburys.co.uk/gol-ui/SearchResults/Streaky%20bacon%20slices)|9|
 |[Tinned chopped tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tinned%20chopped%20tomatoes)|400 ml|
 |[Tomato puree or tomato paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20puree%20or%20tomato%20paste)|3 tbsp|
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
@@ -75,4 +85,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Caster sugar, Chicken stock, Cooking oil, Cornflour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Light soy sauce, Olive oil, Sea salt, Seasoning, Shichimi powder, Smoked paprika, Turmeric, Vegetable oil and Water.
 
 
-_This shopping list was generated at 12-05-2022 21:13:29._
+_This shopping list was generated at 12-05-2022 21:14:04._
