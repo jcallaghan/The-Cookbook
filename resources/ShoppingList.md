@@ -19,6 +19,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
 |[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|1|
 
+## 🗒️ Notes
+
+1. Out
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
@@ -26,4 +30,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Crushed chillies, Olive oil, Seasoning, Smoked paprika and Turmeric.
 
 
-_This shopping list was generated at 12-05-2022 18:02:57._
+_This shopping list was generated at 12-05-2022 21:04:28._
