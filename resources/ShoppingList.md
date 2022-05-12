@@ -9,12 +9,12 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 12-May 2022|[Nando's spicy rice #110](https://github.com/jcallaghan/The-Cookbook/issues/110)|
-|Fri 13-May 2022|[Creamy chicken broccoli pasta #19](https://github.com/jcallaghan/The-Cookbook/issues/19)|
-||[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
+|Fri 13-May 2022|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
 |Sun 15-May 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
 |Tue 17-May 2022|[Beef pasta bake #138](https://github.com/jcallaghan/The-Cookbook/issues/138)|
 |Wed 18-May 2022|[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
 |Thu 19-May 2022|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
+|Fri 20-May 2022|[Creamy chicken broccoli pasta #19](https://github.com/jcallaghan/The-Cookbook/issues/19)|
 
 ## 🛒 Shopping List
 
@@ -85,4 +85,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Caster sugar, Chicken stock, Cooking oil, Cornflour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Light soy sauce, Olive oil, Sea salt, Seasoning, Shichimi powder, Smoked paprika, Turmeric, Vegetable oil and Water.
 
 
-_This shopping list was generated at 12-05-2022 21:14:04._
+_This shopping list was generated at 12-05-2022 21:15:38._
