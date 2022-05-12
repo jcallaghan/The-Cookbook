@@ -77,6 +77,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Out
 1. Lunch at Jas' parents
+1. Take-out
 
 ## 🏪 Pantry Ingredients
 
@@ -85,4 +86,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Caster sugar, Chicken stock, Cooking oil, Cornflour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Light soy sauce, Olive oil, Sea salt, Seasoning, Shichimi powder, Smoked paprika, Turmeric, Vegetable oil and Water.
 
 
-_This shopping list was generated at 12-05-2022 21:16:45._
+_This shopping list was generated at 12-05-2022 21:17:52._
