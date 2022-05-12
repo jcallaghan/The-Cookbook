@@ -22,6 +22,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Out
+1. Lunch at Jas' parents
 
 ## 🏪 Pantry Ingredients
 
@@ -30,4 +31,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Crushed chillies, Olive oil, Seasoning, Smoked paprika and Turmeric.
 
 
-_This shopping list was generated at 12-05-2022 21:04:28._
+_This shopping list was generated at 12-05-2022 21:04:53._
