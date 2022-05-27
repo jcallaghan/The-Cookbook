@@ -42,4 +42,4 @@ There are 28 pasta recipes in the cookbook.
 ||[60](https://github.com/jcallaghan/The-Cookbook/issues/60)|[Tagliatelle with broccoli, cauliflower and blue cheese](https://github.com/jcallaghan/The-Cookbook/issues/60)| |Style / Pasta 🍝<br>Style / Vegetarian<br>ℹ️ Quick & Easy<br>Meal / Main<br>Ingredient / Cheese 🧀<br>ℹ️ One Pot Wonder 💪<br>⚙ Published|
 ||[297](https://github.com/jcallaghan/The-Cookbook/issues/297)|[Tomato pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/tomato-pasta.md)| |Style / Pasta 🍝<br>Style / Vegetarian<br>ℹ️ Quick & Easy<br>Meal / Main<br>⚙ Needs Pictures ✅<br>⚙ Published|
 
-_This index was automatically generated at 26-05-2022 00:22:23 using a custom Python script and GitHub Action._
+_This index was automatically generated at 27-05-2022 00:22:26 using a custom Python script and GitHub Action._
