@@ -29,6 +29,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Steak and chips
 1. Nandos flavour bag chicken
 
 ## 🏪 Pantry Ingredients
@@ -38,4 +39,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Coconut oil, Crushed chillies, Cumin, Garam masala, Garlic cloves, Olive oil, Seasoning, Smoked paprika, Tomato purée, Turmeric and Water.
 
 
-_This shopping list was generated at 30-05-2022 18:00:54._
+_This shopping list was generated at 30-05-2022 18:01:22._
