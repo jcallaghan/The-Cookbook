@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Mon 30-May 2022|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
+|Tue 31-May 2022|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 |Tue 07-Jun 2022|[Chicken biryani #287](https://github.com/jcallaghan/The-Cookbook/issues/287)|
 ||[Coconut curry #101](https://github.com/jcallaghan/The-Cookbook/issues/101)|
 |Wed 08-Jun 2022|[Nando's spicy rice #110](https://github.com/jcallaghan/The-Cookbook/issues/110)|
@@ -37,4 +38,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Coconut oil, Crushed chillies, Cumin, Garam masala, Garlic cloves, Olive oil, Seasoning, Smoked paprika, Tomato purée, Turmeric and Water.
 
 
-_This shopping list was generated at 30-05-2022 17:56:32._
+_This shopping list was generated at 30-05-2022 18:00:54._
