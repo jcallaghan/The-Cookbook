@@ -1,6 +1,6 @@
 # Pasta
 
-There are 28 pasta recipes in the cookbook.
+There are 29 pasta recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -25,6 +25,7 @@ There are 28 pasta recipes in the cookbook.
 ||[252](https://github.com/jcallaghan/The-Cookbook/issues/252)|[Langoustine Linguine](https://github.com/jcallaghan/The-Cookbook/issues/252)| |Ingredient / Fish 🐟<br>Style / Pasta 🍝|
 ||[128](https://github.com/jcallaghan/The-Cookbook/issues/128)|[Lasagne ](https://github.com/jcallaghan/The-Cookbook/issues/128)| |Style / Pasta 🍝<br>Ingredient / Meat / Beef<br>Meal / Main<br>Style / Italian 🇮🇹<br>Style / Family Meal<br>ℹ️ Make ahead of time ⏰|
 | M||||
+||[380](https://github.com/jcallaghan/The-Cookbook/issues/380)|[Macaroni Cheese](https://github.com/jcallaghan/The-Cookbook/issues/380)| |Meal / Main<br>Ingredient / Cheese 🧀<br>⚙ New Recipe 👀<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Style / Pasta 🍝 / Bakes|
 ||[59](https://github.com/jcallaghan/The-Cookbook/issues/59)|[Meatballs](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/meatballs.md)| |Style / Pasta 🍝<br>Ingredient / Meat / Beef<br>Favourite 🥰 / James<br>Meal / Main<br>Favourite 🥰 / Florence<br>⚙ Needs Pictures ✅<br>⚙ Published|
 ||[227](https://github.com/jcallaghan/The-Cookbook/issues/227)|[Mushroom, Parmesan and Truffle Oil Pasta](https://github.com/jcallaghan/The-Cookbook/issues/227)| |Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>⚙ New Recipe 👀<br>⚙ Needs Writing-up ✅<br>Ingredient / Vegetable / Mushroom 🍄<br>Ingredient / Truffle<br>Ingredient / Cheese 🧀 / Parmesan|
 | P||||
@@ -42,4 +43,4 @@ There are 28 pasta recipes in the cookbook.
 ||[60](https://github.com/jcallaghan/The-Cookbook/issues/60)|[Tagliatelle with broccoli, cauliflower and blue cheese](https://github.com/jcallaghan/The-Cookbook/issues/60)| |Style / Pasta 🍝<br>Style / Vegetarian<br>ℹ️ Quick & Easy<br>Meal / Main<br>Ingredient / Cheese 🧀<br>ℹ️ One Pot Wonder 💪<br>⚙ Published|
 ||[297](https://github.com/jcallaghan/The-Cookbook/issues/297)|[Tomato pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/tomato-pasta.md)| |Style / Pasta 🍝<br>Style / Vegetarian<br>ℹ️ Quick & Easy<br>Meal / Main<br>⚙ Needs Pictures ✅<br>⚙ Published|
 
-_This index was automatically generated at 29-05-2022 00:21:47 using a custom Python script and GitHub Action._
+_This index was automatically generated at 30-05-2022 00:25:26 using a custom Python script and GitHub Action._
