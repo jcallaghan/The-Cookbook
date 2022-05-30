@@ -3,13 +3,25 @@ PRODID://James Callaghan
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:be36e86e-db25-4abf-8ff9-5d886661548f
-DTSTAMP:20220530T175335
+UID:36f06bb8-2691-4e8f-a5a7-3287a847945e
+DTSTAMP:20220530T175424
 DTSTART:20220607T184500
 DTEND:20220607T203000
 SUMMARY:Chicken biryani #287 and Coconut curry #101 for dinner
 DESCRIPTION:Chicken biryani #287 - https://github.com/jcallaghan/The-Cookbook/issues/287
 Coconut curry #101 - https://github.com/jcallaghan/The-Cookbook/issues/101
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:69944f0b-431b-4fc9-bc45-2f0f1f2cefb6
+DTSTAMP:20220530T175425
+DTSTART:20220608T184500
+DTEND:20220608T203000
+SUMMARY:Nandos flavour bag chicken and Nando's spicy rice #110 for dinner
+DESCRIPTION:Note: Nandos flavour bag chicken
+Nando's spicy rice #110 - https://github.com/jcallaghan/The-Cookbook/issues/110
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
