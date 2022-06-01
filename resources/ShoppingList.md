@@ -40,4 +40,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Coconut oil, Crushed chillies, Cumin, Garam masala, Garlic cloves, Olive oil, Seasoning, Smoked paprika, Tomato purée, Turmeric and Water.
 
 
-_This shopping list was generated at 01-06-2022 15:22:21._
+_This shopping list was generated at 01-06-2022 15:23:07._
