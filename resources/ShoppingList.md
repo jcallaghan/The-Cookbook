@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 01-Jun 2022 - Sat 11-Jun 2022
+Thu 02-Jun 2022 - Sun 12-Jun 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -63,12 +63,12 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Steak and chips
 1. Lunch at Jas' parents
 1. Adeles
 1. BBQ
 1. Pizza?
 1. Nandos flavour bag chicken
+1. Work?
 
 ## 🏪 Pantry Ingredients
 
@@ -77,4 +77,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Coconut oil, Crushed chillies, Cumin, Garam masala, Garlic cloves, Olive oil, Salt, Sea salt, Seasoning, Smoked paprika, Tomato purée, Turmeric, Turmeric powder, Vegetable oil, Water and Worcestershire sauce.
 
 
-_This shopping list was generated at 01-06-2022 15:43:31._
+_This shopping list was generated at 02-06-2022 12:47:33._
