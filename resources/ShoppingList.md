@@ -8,9 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 02-Jun 2022|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
-|Sat 04-Jun 2022|[Pita bread burger #384](https://github.com/jcallaghan/The-Cookbook/issues/384)|
-||[Italian onion flat bread focaccia #45](https://github.com/jcallaghan/The-Cookbook/issues/45)|
+|Thu 02-Jun 2022|[Pita bread burger #384](https://github.com/jcallaghan/The-Cookbook/issues/384)|
+|Sat 04-Jun 2022|[Italian onion flat bread focaccia #45](https://github.com/jcallaghan/The-Cookbook/issues/45)|
 |Sun 05-Jun 2022|[Margherita pizza #235](https://github.com/jcallaghan/The-Cookbook/issues/235)|
 ||[Pepperoni pizza  #251](https://github.com/jcallaghan/The-Cookbook/issues/251)|
 |Mon 06-Jun 2022|[Grilled Caesar Salad Flatbread #24](https://github.com/jcallaghan/The-Cookbook/issues/24)|
@@ -63,9 +62,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Lunch at Jas' parents
-1. Adeles
 1. BBQ
+1. Adeles
 1. Pizza?
 1. Nandos flavour bag chicken
 1. Work?
@@ -77,4 +75,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Coconut oil, Crushed chillies, Cumin, Garam masala, Garlic cloves, Olive oil, Salt, Sea salt, Seasoning, Smoked paprika, Tomato purée, Turmeric, Turmeric powder, Vegetable oil, Water and Worcestershire sauce.
 
 
-_This shopping list was generated at 02-06-2022 12:47:33._
+_This shopping list was generated at 02-06-2022 14:35:56._
