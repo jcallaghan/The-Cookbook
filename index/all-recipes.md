@@ -70,4 +70,4 @@ There are 52 all recipes recipes in the cookbook.
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 05-06-2022 00:24:02 using a custom Python script and GitHub Action._
+_This index was automatically generated at 06-06-2022 00:19:02 using a custom Python script and GitHub Action._
