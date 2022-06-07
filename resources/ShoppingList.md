@@ -47,6 +47,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Nandos flavour bag chicken
+1. Reheat yesterdays
 1. BBQ
 1. Cupcakes?
 1. Steak and chips?
@@ -59,4 +60,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Chicken stock, Crushed chillies, Dried oregano, Garlic cloves, Olive oil, Plain flour, Seasoning, Smoked paprika, Tomato puree, Turmeric and Worcestershire sauce.
 
 
-_This shopping list was generated at 07-06-2022 22:05:18._
+_This shopping list was generated at 07-06-2022 23:46:14._
