@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Tue 07-Jun 2022|[Nando's spicy rice #110](https://github.com/jcallaghan/The-Cookbook/issues/110)|
 |Thu 09-Jun 2022|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
+|Sat 11-Jun 2022|[Italian onion flat bread focaccia #45](https://github.com/jcallaghan/The-Cookbook/issues/45)|
 |Sun 12-Jun 2022|[Chicken Gyoza #333](https://github.com/jcallaghan/The-Cookbook/issues/333)|
 |Mon 13-Jun 2022|[Grilled Caesar Salad Flatbread #24](https://github.com/jcallaghan/The-Cookbook/issues/24)|
 |Wed 15-Jun 2022|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
@@ -77,4 +78,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Caster sugar, Chicken stock, Cornflour, Crushed chillies, Dried oregano, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Salt, Seasoning, Sesame oil, Smoked paprika, Tomato puree, Turmeric, Vegetable oil and Worcestershire sauce.
 
 
-_This shopping list was generated at 07-06-2022 23:47:07._
+_This shopping list was generated at 07-06-2022 23:48:24._
