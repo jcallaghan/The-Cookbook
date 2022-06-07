@@ -3,35 +3,13 @@ PRODID://James Callaghan
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:a6e70552-bfb2-4712-a0e7-eaaa296084ef
-DTSTAMP:20220606T150441
-DTSTART:20220606T184500
-DTEND:20220606T203000
-SUMMARY:Coconut curry #101 for dinner
-DESCRIPTION:Coconut curry #101 - https://github.com/jcallaghan/The-Cookbook/issues/101
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:d509832a-a10a-40e1-84b2-e7f5df15fe23
-DTSTAMP:20220606T150442
-DTSTART:20220608T184500
-DTEND:20220608T203000
-SUMMARY:Nandos flavour bag chicken and Nando's spicy rice #110 for dinner
-DESCRIPTION:Note: Nandos flavour bag chicken
-Nando's spicy rice #110 - https://github.com/jcallaghan/The-Cookbook/issues/110
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:c5c7541c-76c3-41bf-9edf-4e80144f77ee
-DTSTAMP:20220606T150442
-DTSTART:20220609T184500
-DTEND:20220609T203000
-SUMMARY:Work? for dinner
-DESCRIPTION:Note: Work?
+UID:57cfc44a-0872-4bc6-9d9f-357c70e489cb
+DTSTAMP:20220607T144548
+DTSTART:20220607T184500
+DTEND:20220607T203000
+SUMMARY:Nando's spicy rice #110 and Nandos flavour bag chicken for dinner
+DESCRIPTION:Nando's spicy rice #110 - https://github.com/jcallaghan/The-Cookbook/issues/110
+Note: Nandos flavour bag chicken
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
