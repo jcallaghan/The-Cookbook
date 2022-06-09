@@ -1,6 +1,6 @@
 # Shopping List
 
-Tue 07-Jun 2022 - Fri 17-Jun 2022
+Thu 09-Jun 2022 - Sun 19-Jun 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Tue 07-Jun 2022|[Nando's spicy rice #110](https://github.com/jcallaghan/The-Cookbook/issues/110)|
 |Thu 09-Jun 2022|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
 |Sat 11-Jun 2022|[Italian onion flat bread focaccia #45](https://github.com/jcallaghan/The-Cookbook/issues/45)|
 |Sun 12-Jun 2022|[Chicken Gyoza #333](https://github.com/jcallaghan/The-Cookbook/issues/333)|
@@ -64,7 +63,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Large piece ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20piece%20ginger)||
 |[Large red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20red%20chillies)|1|
 |[Lemon or lime](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon%20or%20lime)|1|
-|[Long grain rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Long%20grain%20rice)|300g|
 |[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|450g|
 |[Mushrooms](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mushrooms)|250g|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
@@ -79,7 +77,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Prep time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2025%20minutes)||
 |[Prep time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2030%20minutes)||
 |[Red food colouring powder (optional while this adds no flavour benefit it does make a huge visual difference to the dish)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20food%20colouring%20powder%20(optional%20while%20this%20adds%20no%20flavour%20benefit%20it%20does%20make%20a%20huge%20visual%20difference%20to%20the%20dish))||
-|[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|1|
 |[Rose harissa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rose%20harissa)|2 tbsp|
 |[Serves: 2-3 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202-3%20servings)||
 |[Serves: 30 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%2030%20servings)||
@@ -98,7 +95,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Nandos flavour bag chicken
 1. Reheat yesterdays
 1. BBQ
 1. Cupcakes?
@@ -108,7 +104,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Bay leaf, Butter, Caster sugar, Chicken stock, Cornflour, Crushed chillies, Curry powder, Dried oregano, Garam masala, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Salt, Sea salt, Seasoning, Sesame oil, Smoked paprika, Soy sauce, Sunflower oil, Tomato puree, Turmeric, Turmeric powder and Vegetable oil.
+Bay leaf, Butter, Caster sugar, Chicken stock, Cornflour, Curry powder, Dried oregano, Garam masala, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Salt, Sea salt, Seasoning, Sesame oil, Soy sauce, Sunflower oil, Tomato puree, Turmeric powder and Vegetable oil.
 
 
-_This shopping list was generated at 07-06-2022 23:59:26._
+_This shopping list was generated at 09-06-2022 18:02:57._
