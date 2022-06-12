@@ -17,4 +17,4 @@ There are 8 soups recipes in the cookbook.
 | S||||
 ||[345](https://github.com/jcallaghan/The-Cookbook/issues/345)|[Sweet potato, coconut and Harissa soup](https://github.com/jcallaghan/The-Cookbook/issues/345)| |Style / Soup<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Ingredient / Vegetable|
 
-_This index was automatically generated at 11-06-2022 00:21:02 using a custom Python script and GitHub Action._
+_This index was automatically generated at 12-06-2022 00:22:42 using a custom Python script and GitHub Action._
