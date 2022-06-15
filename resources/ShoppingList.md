@@ -66,6 +66,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Beef burrito?
 1. Pizza
 
 ## 🏪 Pantry Ingredients
@@ -75,4 +76,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Salt, Seasoning, Sesame oil and Vegetable oil.
 
 
-_This shopping list was generated at 15-06-2022 10:25:06._
+_This shopping list was generated at 15-06-2022 10:26:11._
