@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 16-Jun 2022|[Chicken Gyoza #333](https://github.com/jcallaghan/The-Cookbook/issues/333)|
 |Fri 17-Jun 2022|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
 |Sat 18-Jun 2022|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
+|Tue 21-Jun 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
 
 ## 🛒 Shopping List
 
@@ -67,4 +68,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Salt, Sesame oil and Vegetable oil.
 
 
-_This shopping list was generated at 15-06-2022 10:22:40._
+_This shopping list was generated at 15-06-2022 10:23:20._
