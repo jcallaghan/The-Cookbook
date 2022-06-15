@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Wed 15-Jun 2022|[Beef Stroganoff #8](https://github.com/jcallaghan/The-Cookbook/issues/8)|
 |Thu 16-Jun 2022|[Chicken Gyoza #333](https://github.com/jcallaghan/The-Cookbook/issues/333)|
 |Fri 17-Jun 2022|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
+|Sat 18-Jun 2022|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
 
 ## 🛒 Shopping List
 
@@ -27,23 +28,37 @@ This shopping list has been automatically generated with the ingredients from th
 |[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)|25g|
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
+|[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Crème fraîche](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crème%20fraîche)|150g|
 |[English mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/English%20mustard)|1 tsp|
+|[Fast-action dried yeast](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fast-action%20dried%20yeast)|7g|
+|[Feta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Feta)|100g|
 |[Fillet steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fillet%20steak)|500g|
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
+|[Greek yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Greek%20yoghurt)|50g|
+|[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|2 tbsp|
 |[Hot water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20water)|120ml|
 |[Large garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20garlic%20cloves)|1|
 |[Large red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20red%20chillies)|1|
 |[Mushrooms](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mushrooms)|250g|
-|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1 + 3|
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|1 tbsp|
 |[Pinch of salt and white peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20salt%20and%20white%20peppers)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
+|[Prep time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2025%20minutes)||
 |[Prep time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2030%20minutes)||
+|[Rose harissa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rose%20harissa)|2 tbsp|
 |[Serves: 30 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%2030%20servings)||
 |[Serves: 4 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204%20servings)||
+|[Strong white bread flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Strong%20white%20bread%20flour)|300g|
+|[Thyme sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thyme%20sprigs)|5|
+|[Total time: 1 hour 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%2010%20minutes)||
 |[Total time: 40 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2040%20minutes)||
 |[Total time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2045%20minutes)||
+
+## 🗒️ Notes
+
+1. Pizza
 
 ## 🏪 Pantry Ingredients
 
@@ -52,4 +67,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Salt, Sesame oil and Vegetable oil.
 
 
-_This shopping list was generated at 15-06-2022 10:21:17._
+_This shopping list was generated at 15-06-2022 10:22:40._
