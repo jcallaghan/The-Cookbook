@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 20-Jun 2022|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
 |Tue 21-Jun 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
 |Thu 23-Jun 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
+||[Baked sea bass #195](https://github.com/jcallaghan/The-Cookbook/issues/195)|
 
 ## 🛒 Shopping List
 
@@ -31,23 +32,26 @@ This shopping list has been automatically generated with the ingredients from th
 |[Hot water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20water)|120ml|
 |[Large garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20garlic%20cloves)|1|
 |[Large red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20red%20chillies)|1|
+|[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)||
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|1 tbsp|
 |[Pinch of salt and white peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20salt%20and%20white%20peppers)||
 |[Prep time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2030%20minutes)||
+|[Seasoning to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seasoning%20to%20taste)||
 |[Serves: 30 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%2030%20servings)||
 |[Total time: 40 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2040%20minutes)||
+|[Whole sea bass](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20sea%20bass)||
 
 ## 🗒️ Notes
 
 1. BBQ or Pizza
-1. Beef burrito?
+1. Mystery night?
 1. Pizza
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Caster sugar, Cornflour, Light soy sauce, Plain flour, Salt, Seasoning, Sesame oil and Vegetable oil.
+Caster sugar, Cornflour, Light soy sauce, Olive oil, Plain flour, Salt, Seasoning, Sesame oil and Vegetable oil.
 
 
-_This shopping list was generated at 16-06-2022 21:22:20._
+_This shopping list was generated at 16-06-2022 21:24:55._
