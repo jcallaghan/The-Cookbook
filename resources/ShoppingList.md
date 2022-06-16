@@ -12,8 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 19-Jun 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Mon 20-Jun 2022|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
 |Tue 21-Jun 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
-|Thu 23-Jun 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
-||[Baked sea bass #195](https://github.com/jcallaghan/The-Cookbook/issues/195)|
+|Thu 23-Jun 2022|[Baked sea bass #195](https://github.com/jcallaghan/The-Cookbook/issues/195)|
 
 ## 🛒 Shopping List
 
@@ -54,4 +53,4 @@ The following items have not been added to the shopping list as they are like in
 Caster sugar, Cornflour, Light soy sauce, Olive oil, Plain flour, Salt, Seasoning, Sesame oil and Vegetable oil.
 
 
-_This shopping list was generated at 16-06-2022 21:24:55._
+_This shopping list was generated at 16-06-2022 21:25:30._
