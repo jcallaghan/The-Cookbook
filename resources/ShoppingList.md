@@ -8,8 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 16-Jun 2022|[Chicken Gyoza #333](https://github.com/jcallaghan/The-Cookbook/issues/333)|
-|Fri 17-Jun 2022|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
+|Fri 17-Jun 2022|[Chicken Gyoza #333](https://github.com/jcallaghan/The-Cookbook/issues/333)|
+||[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
 |Sat 18-Jun 2022|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
 |Sun 19-Jun 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Mon 20-Jun 2022|[Baked sea bass #195](https://github.com/jcallaghan/The-Cookbook/issues/195)|
@@ -66,4 +66,4 @@ The following items have not been added to the shopping list as they are like in
 Caster sugar, Cornflour, Light soy sauce, Olive oil, Plain flour, Salt, Seasoning, Sesame oil and Vegetable oil.
 
 
-_This shopping list was generated at 16-06-2022 18:02:44._
+_This shopping list was generated at 16-06-2022 21:18:37._
