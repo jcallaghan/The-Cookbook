@@ -38,6 +38,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Naan and chicken breast/thigh
 1. Mystery night?
 1. Pizza
 
@@ -48,4 +49,4 @@ The following items have not been added to the shopping list as they are like in
 Garlic cloves, Salt, Sea salt, Turmeric powder and Vegetable oil.
 
 
-_This shopping list was generated at 21-06-2022 14:43:24._
+_This shopping list was generated at 21-06-2022 19:42:14._
