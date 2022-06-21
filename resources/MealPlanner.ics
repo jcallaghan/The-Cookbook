@@ -3,20 +3,20 @@ PRODID://James Callaghan
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:a7dc66ac-92d1-445a-8640-92c186bd09d7
-DTSTAMP:20220621T194328
+UID:6022d2e8-1adc-474d-bc9f-0b17eada36e4
+DTSTAMP:20220621T194804
 DTSTART:20220622T184500
 DTEND:20220622T203000
-SUMMARY:Yoghurt, naan and chicken breast/thigh and Tandoori chicken #261 for dinner
-DESCRIPTION:Note: Yoghurt, naan and chicken breast/thigh
+SUMMARY:Yoghurt, naan and chicken breast/thigh, popadom, lemon and Tandoori chicken #261 for dinner
+DESCRIPTION:Note: Yoghurt, naan and chicken breast/thigh, popadom, lemon
 Tandoori chicken #261 - https://github.com/jcallaghan/The-Cookbook/issues/261
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:057b73b4-ae9c-44ec-8cae-62e6aa5d28ea
-DTSTAMP:20220621T194328
+UID:3911049a-8ba7-46c7-85cc-3f385e5755e8
+DTSTAMP:20220621T194804
 DTSTART:20220623T184500
 DTEND:20220623T203000
 SUMMARY:Mystery night? and Vayia Shrimp Pasta #383 for dinner
@@ -27,8 +27,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2b29e8ef-83b3-471c-801a-b4818da6d209
-DTSTAMP:20220621T194329
+UID:14a10cb0-723a-46a2-8385-d380b7f51bf3
+DTSTAMP:20220621T194804
 DTSTART:20220624T184500
 DTEND:20220624T203000
 SUMMARY:Pizza for dinner
