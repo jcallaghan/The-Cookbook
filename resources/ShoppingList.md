@@ -76,4 +76,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Garlic cloves, Olive oil, Salt, Sea salt, Seasoning, Turmeric powder and Vegetable oil.
 
 
-_This shopping list was generated at 07-07-2022 22:31:20._
+_This shopping list was generated at 07-07-2022 22:31:50._
