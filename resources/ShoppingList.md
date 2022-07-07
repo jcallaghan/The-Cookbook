@@ -11,6 +11,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 09-Jul 2022|[Tandoori chicken #261](https://github.com/jcallaghan/The-Cookbook/issues/261)|
 |Sun 10-Jul 2022|[Cream of Chicken Soup #389](https://github.com/jcallaghan/The-Cookbook/issues/389)|
 |Mon 11-Jul 2022|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
+|Tue 12-Jul 2022|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
+|Thu 14-Jul 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 
 ## 🛒 Shopping List
 
@@ -54,4 +56,4 @@ The following items have not been added to the shopping list as they are like in
 Garlic cloves, Olive oil, Salt, Sea salt, Turmeric powder and Vegetable oil.
 
 
-_This shopping list was generated at 07-07-2022 21:21:39._
+_This shopping list was generated at 07-07-2022 21:23:53._
