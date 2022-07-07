@@ -10,12 +10,12 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Sat 09-Jul 2022|[Tandoori chicken #261](https://github.com/jcallaghan/The-Cookbook/issues/261)|
 |Sun 10-Jul 2022|[Bey’s Soup (Begova Čorba) #391](https://github.com/jcallaghan/The-Cookbook/issues/391)|
-|Mon 11-Jul 2022|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
-||[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
-|Tue 12-Jul 2022|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
+|Mon 11-Jul 2022|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
+|Tue 12-Jul 2022|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
 |Wed 13-Jul 2022|[Tomato, garlic and prawn pasta #394](https://github.com/jcallaghan/The-Cookbook/issues/394)|
 |Thu 14-Jul 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 |Fri 15-Jul 2022|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
+|Sat 16-Jul 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
 |Sun 17-Jul 2022|[Beef and Guinness stew #268](https://github.com/jcallaghan/The-Cookbook/issues/268)|
 
 ## 🛒 Shopping List
@@ -76,4 +76,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Garlic cloves, Olive oil, Salt, Sea salt, Seasoning, Turmeric powder and Vegetable oil.
 
 
-_This shopping list was generated at 07-07-2022 22:31:50._
+_This shopping list was generated at 07-07-2022 22:32:52._
