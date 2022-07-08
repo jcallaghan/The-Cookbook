@@ -1,6 +1,6 @@
 # Pasta
 
-There are 30 pasta recipes in the cookbook.
+There are 31 pasta recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -42,7 +42,8 @@ There are 30 pasta recipes in the cookbook.
 | T||||
 ||[60](https://github.com/jcallaghan/The-Cookbook/issues/60)|[Tagliatelle with broccoli, cauliflower and blue cheese](https://github.com/jcallaghan/The-Cookbook/issues/60)| |Style / Pasta 🍝<br>Style / Vegetarian<br>ℹ️ Quick & Easy<br>Meal / Main<br>Ingredient / Cheese 🧀<br>ℹ️ One Pot Wonder 💪<br>⚙ Published|
 ||[297](https://github.com/jcallaghan/The-Cookbook/issues/297)|[Tomato pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/tomato-pasta.md)| |Style / Pasta 🍝<br>Style / Vegetarian<br>ℹ️ Quick & Easy<br>Meal / Main<br>⚙ Needs Pictures ✅<br>⚙ Published|
+||[394](https://github.com/jcallaghan/The-Cookbook/issues/394)|[Tomato, garlic and prawn pasta](https://github.com/jcallaghan/The-Cookbook/issues/394)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main|
 | V||||
 ||[383](https://github.com/jcallaghan/The-Cookbook/issues/383)|[Vayia Shrimp Pasta](https://github.com/jcallaghan/The-Cookbook/issues/383)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Food Memories|
 
-_This index was automatically generated at 07-07-2022 00:24:44 using a custom Python script and GitHub Action._
+_This index was automatically generated at 08-07-2022 00:26:32 using a custom Python script and GitHub Action._
