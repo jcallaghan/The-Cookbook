@@ -1,10 +1,11 @@
 # Soups
 
-There are 8 soups recipes in the cookbook.
+There are 9 soups recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
 | B||||
+||[391](https://github.com/jcallaghan/The-Cookbook/issues/391)|[Bey’s Soup (Begova Čorba)](https://github.com/jcallaghan/The-Cookbook/issues/391)| |Favourite 🥰 / James<br>Meal / Main<br>Style / Soup<br>Style / Bosnian 🇧🇦|
 ||[118](https://github.com/jcallaghan/The-Cookbook/issues/118)|[Broccoli and Parsnip Soup](https://github.com/jcallaghan/The-Cookbook/issues/118)| |Style / Vegetarian<br>Style / Soup|
 | C||||
 ||[107](https://github.com/jcallaghan/The-Cookbook/issues/107)|[Cauliflower soup](https://github.com/jcallaghan/The-Cookbook/issues/107)| |Style / Soup<br>Equipment / Pressure Cooker<br>Equipment / Hand blender|
@@ -17,4 +18,4 @@ There are 8 soups recipes in the cookbook.
 | S||||
 ||[345](https://github.com/jcallaghan/The-Cookbook/issues/345)|[Sweet potato, coconut and Harissa soup](https://github.com/jcallaghan/The-Cookbook/issues/345)| |Style / Soup<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Ingredient / Vegetable|
 
-_This index was automatically generated at 07-07-2022 00:24:48 using a custom Python script and GitHub Action._
+_This index was automatically generated at 08-07-2022 00:26:44 using a custom Python script and GitHub Action._
