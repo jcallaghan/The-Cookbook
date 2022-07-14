@@ -10,26 +10,26 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 14-Jul 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 |Fri 15-Jul 2022|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
-|Sun 17-Jul 2022|[Beef and Guinness stew #268](https://github.com/jcallaghan/The-Cookbook/issues/268)|
+|Sun 17-Jul 2022|[Crispy honey chicken #370](https://github.com/jcallaghan/The-Cookbook/issues/370)|
 |Tue 19-Jul 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
-|[Baby potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baby%20potatoes)|200g|
-|[Beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Beef)|500g|
-|[Can of guinness](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20of%20guinness)|1|
-|[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|3|
-|[Celery stalks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Celery%20stalks)|3|
-|[Cook time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%201%20hour)||
-|[Garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic)|2|
-|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
-|[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
+|[Chicken thigh](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thigh)|300g|
+|[Chinese cooking wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chinese%20cooking%20wine)|1 tbsp|
+|[Cold water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cold%20water)|80ml|
+|[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
+|[Eggs whites](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20whites)|4|
+|[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|110g|
+|[Mayonnaise](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mayonnaise)|155g|
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)||
+|[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
-|[Sprigs of thyme](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sprigs%20of%20thyme)|4|
-|[Tomato paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20paste)|60g|
-|[Total time: 1 hour 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%2015%20minutes)||
+|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|2 tbsp|
+|[Sweetened condensed milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sweetened%20condensed%20milk)|2 tbsp|
+|[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 
 ## 🗒️ Notes
 
@@ -39,7 +39,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Chicken stock and Seasoning.
+Baking soda, Corn flour, Salt, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 14-07-2022 20:59:21._
+_This shopping list was generated at 14-07-2022 20:59:52._
