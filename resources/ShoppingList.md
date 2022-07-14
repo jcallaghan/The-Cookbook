@@ -11,9 +11,9 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 14-Jul 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 |Fri 15-Jul 2022|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Sun 17-Jul 2022|[Crispy honey chicken #370](https://github.com/jcallaghan/The-Cookbook/issues/370)|
-|Mon 18-Jul 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Tue 19-Jul 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
 |Thu 21-Jul 2022|[Asian glazed salmon #160](https://github.com/jcallaghan/The-Cookbook/issues/160)|
+|Fri 22-Jul 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Sat 23-Jul 2022|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Sun 24-Jul 2022|[Cream of Chicken Soup #389](https://github.com/jcallaghan/The-Cookbook/issues/389)|
 
@@ -61,6 +61,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Lunch at Jas' parents
+1. bbq/pizza?
 1. Pizza?
 1. Take-out?
 
@@ -71,4 +72,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Corn flour, Cornflour, Garlic cloves, Salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 14-07-2022 21:10:57._
+_This shopping list was generated at 14-07-2022 21:16:22._
