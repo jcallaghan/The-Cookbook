@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 13-Jul 2022 - Sat 23-Jul 2022
+Thu 14-Jul 2022 - Sun 24-Jul 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 13-Jul 2022|[Tomato, garlic and prawn pasta #394](https://github.com/jcallaghan/The-Cookbook/issues/394)|
 |Thu 14-Jul 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 |Fri 15-Jul 2022|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Sat 16-Jul 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
@@ -43,4 +42,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock and Seasoning.
 
 
-_This shopping list was generated at 13-07-2022 11:13:58._
+_This shopping list was generated at 14-07-2022 18:03:05._
