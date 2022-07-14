@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 14-Jul 2022 - Sun 24-Jul 2022
+Thu 14-Jul 2022 - Mon 25-Jul 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -61,6 +61,8 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Lunch at Jas' parents
+1. Pizza?
+1. Take-out?
 
 ## 🏪 Pantry Ingredients
 
@@ -69,4 +71,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Corn flour, Cornflour, Garlic cloves, Salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 14-07-2022 21:07:22._
+_This shopping list was generated at 14-07-2022 21:10:57._
