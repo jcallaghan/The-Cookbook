@@ -62,7 +62,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Lunch at Jas' parents
 1. bbq/pizza?
-1. Pizza?
+1. Fillet steak and baguette 
 1. Take-out?
 
 ## 🏪 Pantry Ingredients
@@ -72,4 +72,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Corn flour, Cornflour, Garlic cloves, Salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 14-07-2022 21:16:22._
+_This shopping list was generated at 14-07-2022 21:18:31._
