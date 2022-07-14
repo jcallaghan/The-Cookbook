@@ -10,8 +10,8 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 14-Jul 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 |Fri 15-Jul 2022|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
-|Sat 16-Jul 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
 |Sun 17-Jul 2022|[Beef and Guinness stew #268](https://github.com/jcallaghan/The-Cookbook/issues/268)|
+|Tue 19-Jul 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
 
 ## 🛒 Shopping List
 
@@ -42,4 +42,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock and Seasoning.
 
 
-_This shopping list was generated at 14-07-2022 18:03:05._
+_This shopping list was generated at 14-07-2022 20:59:21._
