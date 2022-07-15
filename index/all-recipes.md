@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 52 all recipes recipes in the cookbook.
+There are 53 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -65,9 +65,10 @@ There are 52 all recipes recipes in the cookbook.
 ||[47](https://github.com/jcallaghan/The-Cookbook/issues/47)|[Thai green curry](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/thai-green-curry.md)| |Ingredient / Rice<br>Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Ingredient / Fish 🐟 / Prawn<br>Favourite 🥰 / James<br>Style / Asian<br>Style / Curry<br>⚙ Needs Pictures ✅<br>Style / Spicy 🌶️<br>⚙ Published|
 ||[349](https://github.com/jcallaghan/The-Cookbook/issues/349)|[Toad in the hole](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/toad-in-the-hole.md)| |Meal / Main<br>Favourite 🥰 / Florence<br>⚙ Needs Pictures ✅<br>Ingredient / Sausage<br>⚙ Published|
 ||[297](https://github.com/jcallaghan/The-Cookbook/issues/297)|[Tomato pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/tomato-pasta.md)| |Style / Pasta 🍝<br>Style / Vegetarian<br>ℹ️ Quick & Easy<br>Meal / Main<br>⚙ Needs Pictures ✅<br>⚙ Published|
+||[394](https://github.com/jcallaghan/The-Cookbook/issues/394)|[Tomato, garlic and prawn pasta](https://github.com/jcallaghan/The-Cookbook/issues/394)| |Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Fish 🐟 / Prawn<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>Meal / Main<br>⚙ Published<br>Travel Memories|
 | W||||
 ||[310](https://github.com/jcallaghan/The-Cookbook/issues/310)|[Whiskey Sour](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/whiskey-sour.md)| |Drink / Cocktail 🍸<br>Favourite 🥰 / James<br>Ingredient / Egg<br>Drink / Whiskey<br>Drink / Cocktail Cards Index<br>⚙ Published|
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 14-07-2022 00:25:46 using a custom Python script and GitHub Action._
+_This index was automatically generated at 15-07-2022 00:24:43 using a custom Python script and GitHub Action._
