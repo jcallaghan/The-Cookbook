@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 14-Jul 2022 - Mon 25-Jul 2022
+Pantry - Thu 28-Jul 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,9 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 14-Jul 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
-|Fri 15-Jul 2022|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
-|Sun 17-Jul 2022|[Crispy honey chicken #370](https://github.com/jcallaghan/The-Cookbook/issues/370)|
+|Mon 18-Jul 2022|[Crispy honey chicken #370](https://github.com/jcallaghan/The-Cookbook/issues/370)|
 |Tue 19-Jul 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
 |Thu 21-Jul 2022|[Asian glazed salmon #160](https://github.com/jcallaghan/The-Cookbook/issues/160)|
 |Fri 22-Jul 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
@@ -60,7 +58,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Lunch at Jas' parents
+1. Seabass
+1. Duck
 1. BBQ - burgers and ribs
 1. Fillet steak and baguette 
 1. Take-out?
@@ -72,4 +71,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Corn flour, Cornflour, Garlic cloves, Salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 14-07-2022 21:44:14._
+_This shopping list was generated at 18-07-2022 08:44:20._
