@@ -60,7 +60,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Seabass
 1. Duck
-1. BBQ - burgers and ribs
 1. Fillet steak and baguette 
 1. Take-out?
 
@@ -71,4 +70,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Corn flour, Cornflour, Garlic cloves, Salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 18-07-2022 08:44:20._
+_This shopping list was generated at 18-07-2022 08:44:52._
