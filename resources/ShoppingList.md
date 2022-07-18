@@ -9,8 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Mon 18-Jul 2022|[Crispy honey chicken #370](https://github.com/jcallaghan/The-Cookbook/issues/370)|
-||[Cous-cous recipes #117](https://github.com/jcallaghan/The-Cookbook/issues/117)|
 |Tue 19-Jul 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
+||[Cous-cous recipes #117](https://github.com/jcallaghan/The-Cookbook/issues/117)|
 |Thu 21-Jul 2022|[Asian glazed salmon #160](https://github.com/jcallaghan/The-Cookbook/issues/160)|
 |Fri 22-Jul 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Sat 23-Jul 2022|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
@@ -71,4 +71,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Corn flour, Cornflour, Garlic cloves, Salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 18-07-2022 13:58:53._
+_This shopping list was generated at 18-07-2022 21:04:01._
