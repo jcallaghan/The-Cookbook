@@ -3,7 +3,7 @@ from github import Github
 from datetime import datetime, timedelta
 import os, json, uuid, re
 
-columnsToIgnoreList = ["Meal Planner Queue"]    # Columns to ignore in the project
+columnsToIgnoreList = ["Meal Planner Queue","Pantry"]    # Columns to ignore in the project
 excludeLinesList = ["http","![image]","[","ingredientsShoppingListDict","#"]
 markdownIngredientLinesList = ["* ","- "]
 measuresList = ["tsp","tbsp","g","kg","ml","l","cup","lb","oz"]
