@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 import os
 import json
 
-columnsToIgnore = ["Meal Planner Queue"]    # Columns to ignore in the project
+columnsToIgnore = ["Meal Planner Queue","Pantry"]    # Columns to ignore in the project
 project_name = "Meal Planner"
 
 def main():
