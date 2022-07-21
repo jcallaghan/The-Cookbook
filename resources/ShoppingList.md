@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 20-Jul 2022 - Sat 30-Jul 2022
+Thu 21-Jul 2022 - Sun 31-Jul 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -46,7 +46,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Fillet steak and baguette 
 1. Take-out?
 
 ## 🏪 Pantry Ingredients
@@ -56,4 +55,4 @@ The following items have not been added to the shopping list as they are like in
 Cornflour, Garlic cloves, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 20-07-2022 12:32:10._
+_This shopping list was generated at 21-07-2022 18:03:05._
