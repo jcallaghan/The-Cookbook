@@ -3,8 +3,8 @@ PRODID://James Callaghan
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:9c25e5ea-3f9a-45c2-ab2a-fe8e0760f04d
-DTSTAMP:20220721T202120
+UID:5c29650d-f2b8-4d7b-a99e-24bdaa238ec4
+DTSTAMP:20220721T203249
 DTSTART:20220721T184500
 DTEND:20220721T203000
 SUMMARY:Asian glazed salmon #160 for dinner
@@ -14,35 +14,12 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:eec8ce6b-4d12-45bf-8149-a9647f5ce0fc
-DTSTAMP:20220721T202121
-DTSTART:20220722T184500
-DTEND:20220722T203000
-SUMMARY:Classic duck breast #184 for dinner
-DESCRIPTION:Classic duck breast #184 - https://github.com/jcallaghan/The-Cookbook/issues/184
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:0b4d147c-dae1-410e-bccf-ed00f673c350
-DTSTAMP:20220721T202121
-DTSTART:20220723T184500
-DTEND:20220723T203000
-SUMMARY:Crispy beef with egg fried rice #102 for dinner
-DESCRIPTION:Crispy beef with egg fried rice #102 - https://github.com/jcallaghan/The-Cookbook/issues/102
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:83fbeaff-50ad-44f9-9f51-f15f13fbb76b
-DTSTAMP:20220721T202122
+UID:13d70d49-4acd-4bbd-a09e-d2217c9be30d
+DTSTAMP:20220721T203250
 DTSTART:20220724T184500
 DTEND:20220724T203000
-SUMMARY:Cream of Chicken Soup #389, Beef roast #282, Yorkshire puddings #294 and Cauliflower cheese #111 for dinner
-DESCRIPTION:Cream of Chicken Soup #389 - https://github.com/jcallaghan/The-Cookbook/issues/389
-Beef roast #282 - https://github.com/jcallaghan/The-Cookbook/issues/282
+SUMMARY:Beef roast #282, Yorkshire puddings #294 and Cauliflower cheese #111 for dinner
+DESCRIPTION:Beef roast #282 - https://github.com/jcallaghan/The-Cookbook/issues/282
 Yorkshire puddings #294 - https://github.com/jcallaghan/The-Cookbook/issues/294
 Cauliflower cheese #111 - https://github.com/jcallaghan/The-Cookbook/issues/111
 SEQUENCE:0
@@ -50,10 +27,32 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6694d652-5868-4ef9-837f-5b63ae5e8c83
-DTSTAMP:20220721T202122
+UID:15d56637-51cd-4587-a13a-1a7011eee5c7
+DTSTAMP:20220721T203250
 DTSTART:20220725T184500
 DTEND:20220725T203000
+SUMMARY:Sausage and Bean Hotpot #348 for dinner
+DESCRIPTION:Sausage and Bean Hotpot #348 - https://github.com/jcallaghan/The-Cookbook/issues/348
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5826a4a5-681f-4002-9a5c-2fe9ac39acee
+DTSTAMP:20220721T203251
+DTSTART:20220727T184500
+DTEND:20220727T203000
+SUMMARY:Classic duck breast #184 for dinner
+DESCRIPTION:Classic duck breast #184 - https://github.com/jcallaghan/The-Cookbook/issues/184
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b04965dc-a930-4cf0-bf3e-bec73b846b96
+DTSTAMP:20220721T203251
+DTSTART:20220729T184500
+DTEND:20220729T203000
 SUMMARY:Take-out? for dinner
 DESCRIPTION:Note: Take-out?
 SEQUENCE:0
