@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Wed 27-Jul 2022|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
 |Thu 28-Jul 2022|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
 |Sat 30-Jul 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
+||[Chilli con carne #397](https://github.com/jcallaghan/The-Cookbook/issues/397)|
 |Tue 02-Aug 2022|[Chicken filo #199](https://github.com/jcallaghan/The-Cookbook/issues/199)|
 ||[Spinach and feta filo parcels #40](https://github.com/jcallaghan/The-Cookbook/issues/40)|
 |Wed 03-Aug 2022|[Nando's spicy rice #110](https://github.com/jcallaghan/The-Cookbook/issues/110)|
@@ -60,4 +61,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Crushed chillies, Olive oil, Seasoning, Smoked paprika and Turmeric.
 
 
-_This shopping list was generated at 27-07-2022 20:47:07._
+_This shopping list was generated at 27-07-2022 20:52:07._
