@@ -78,6 +78,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Take-out?
 1. Lunch at Jas' parents
+1. Jas out
 1. Nando's chicken flavour bag wraps
 
 ## 🏪 Pantry Ingredients
@@ -87,4 +88,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Caster sugar, Cornflour, Garam masala, Light soy sauce, Olive oil, Plain flour, Salt, Seasoning, Sesame oil, Turmeric, Vegetable oil and Water.
 
 
-_This shopping list was generated at 28-07-2022 19:30:49._
+_This shopping list was generated at 28-07-2022 19:31:38._
