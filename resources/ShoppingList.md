@@ -10,12 +10,10 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 28-Jul 2022|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
 |Sat 30-Jul 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
-||[Chilli con carne #397](https://github.com/jcallaghan/The-Cookbook/issues/397)|
 |Sun 31-Jul 2022|[Chicken Gyoza #333](https://github.com/jcallaghan/The-Cookbook/issues/333)|
+|Mon 01-Aug 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
 |Tue 02-Aug 2022|[Butter Chicken Phyllo Parcels #398](https://github.com/jcallaghan/The-Cookbook/issues/398)|
-||[Chicken filo #199](https://github.com/jcallaghan/The-Cookbook/issues/199)|
-||[Spinach and feta filo parcels #40](https://github.com/jcallaghan/The-Cookbook/issues/40)|
-|Wed 03-Aug 2022|[Nando's spicy rice #110](https://github.com/jcallaghan/The-Cookbook/issues/110)|
+|Wed 03-Aug 2022|[Chilli con carne #397](https://github.com/jcallaghan/The-Cookbook/issues/397)|
 
 ## 🛒 Shopping List
 
@@ -24,46 +22,55 @@ This shopping list has been automatically generated with the ingredients from th
 |[(1oz) sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/(1oz)%20sugar)|25g|
 |[(3 1/2fl oz) malt vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/(3%201/2fl%20oz)%20malt%20vinegar)|100ml|
 |[(9fl oz) light soy sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/(9fl%20oz)%20light%20soy%20sauce)|250ml|
+|[[optional] cherry tomatoes on the vine](https://www.sainsburys.co.uk/gol-ui/SearchResults/[optional]%20cherry%20tomatoes%20on%20the%20vine)||
 |[Cabbage](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cabbage)|150g|
 |[Canned water chestnuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Canned%20water%20chestnuts)|100g|
+|[Cashew nuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cashew%20nuts)|1/4 cup|
 |[Chicken stock or water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20stock%20or%20water)|100ml|
 |[Chicken thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thighs)|250g|
 |[Chinese leaf](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chinese%20leaf)|110g|
 |[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)|25g|
+|[Cook time:  15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%20%2015%20minutes)||
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
-|[Dill](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dill)|1 tbsp + 1 tsp|
+|[Cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream)|1 tbsp|
 |[Drained capers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Drained%20capers)|1 tbsp|
-|[Feta cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Feta%20cheese)||
-|[Garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic)||
+|[Dried methi/fenugreek leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20methi/fenugreek%20leaves)|2 tsp|
+|[Fresh cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20cream)|1/3 cup|
+|[Ginger/garlic paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger/garlic%20paste)|1 tsp + 1 tsp|
+|[Gram chicken breasts cut into cubes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Gram%20chicken%20breasts%20cut%20into%20cubes)|500|
 |[Grated parmesan](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grated%20parmesan)|1 tbsp|
-|[Greek yogurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Greek%20yogurt)||
+|[Greek yogurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Greek%20yogurt)|2 tbsp|
 |[Green beans](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20beans)|300g|
+|[Green pesto](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20pesto)|4 tbsp|
+|[Ground coriander](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20coriander)|1 tsp|
+|[Ground cumin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cumin)|1 tsp|
+|[Ground fennel](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20fennel)|1/2 tsp|
 |[Hot water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20water)|120ml|
+|[Kashmiri chillies powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kashmiri%20chillies%20powder)|2 tsp|
 |[Large garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20garlic%20cloves)|1|
+|[Large onions roughly chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20onions%20roughly%20chopped)|1|
 |[Large red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20red%20chillies)|1|
 |[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)|1|
-|[Long grain rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Long%20grain%20rice)|300g|
+|[Lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon%20juice)|2 tbsp|
 |[New potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/New%20potatoes)|200g|
-|[Olive oil for brushing](https://www.sainsburys.co.uk/gol-ui/SearchResults/Olive%20oil%20for%20brushing)||
-|[Olive oil optional to garnish](https://www.sainsburys.co.uk/gol-ui/SearchResults/Olive%20oil%20optional%20to%20garnish)||
-|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
+|[Olive or vegetable oil for frying](https://www.sainsburys.co.uk/gol-ui/SearchResults/Olive%20or%20vegetable%20oil%20for%20frying)|2 tbsp|
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|1 tbsp|
+|[Phyllo pastry sheets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Phyllo%20pastry%20sheets)|6-8|
 |[Pinch of salt and white peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20salt%20and%20white%20peppers)||
+|[Prep time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%200%20minutes)||
 |[Prep time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2030%20minutes)||
 |[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
-|[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|1|
-|[Salt & peppers to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salt%20&%20peppers%20to%20taste)||
+|[Seabass fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seabass%20fillets)|2|
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Serves: 30 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%2030%20servings)||
-|[Sheets filo pastry](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sheets%20filo%20pastry)|4|
 |[Skinless chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Skinless%20chicken%20breasts)|2|
 |[Small garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20garlic%20cloves)|2|
-|[Spinach](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spinach)||
 |[Spring greens](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20greens)|200g|
-|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|2|
-|[Squeezes lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squeezes%20lemon%20juice)|2|
-|[Sundried tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sundried%20tomatoes)|3|
+|[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|2-3 tsp|
+|[Tagliatelle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tagliatelle%20pasta)|300g|
+|[Tomato passata](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20passata)|1/2 cup|
+|[Total time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2015%20minutes)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 40 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2040%20minutes)||
 
@@ -71,12 +78,13 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Take-out?
 1. Lunch at Jas' parents
+1. Nando's chicken flavour bag wraps
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Caster sugar, Chicken stock, Cornflour, Crushed chillies, Light soy sauce, Olive oil, Plain flour, Salt, Seasoning, Sesame oil, Smoked paprika, Turmeric and Vegetable oil.
+Bay leaf, Butter, Caster sugar, Cornflour, Garam masala, Light soy sauce, Olive oil, Plain flour, Salt, Seasoning, Sesame oil, Turmeric, Vegetable oil and Water.
 
 
-_This shopping list was generated at 28-07-2022 19:28:10._
+_This shopping list was generated at 28-07-2022 19:30:49._
