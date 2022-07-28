@@ -9,11 +9,11 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 28-Jul 2022|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
+|Fri 29-Jul 2022|[Chilli con carne #397](https://github.com/jcallaghan/The-Cookbook/issues/397)|
 |Sat 30-Jul 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
 |Sun 31-Jul 2022|[Chicken Gyoza #333](https://github.com/jcallaghan/The-Cookbook/issues/333)|
 |Mon 01-Aug 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
 |Tue 02-Aug 2022|[Butter Chicken Phyllo Parcels #398](https://github.com/jcallaghan/The-Cookbook/issues/398)|
-|Wed 03-Aug 2022|[Chilli con carne #397](https://github.com/jcallaghan/The-Cookbook/issues/397)|
 
 ## 🛒 Shopping List
 
@@ -76,9 +76,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Take-out?
 1. Lunch at Jas' parents
-1. Jas out
+1. Take-out?
 1. Nando's chicken flavour bag wraps
 
 ## 🏪 Pantry Ingredients
@@ -88,4 +87,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Caster sugar, Cornflour, Garam masala, Light soy sauce, Olive oil, Plain flour, Salt, Seasoning, Sesame oil, Turmeric, Vegetable oil and Water.
 
 
-_This shopping list was generated at 28-07-2022 19:31:38._
+_This shopping list was generated at 28-07-2022 19:32:12._
