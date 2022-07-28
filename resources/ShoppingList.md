@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 27-Jul 2022 - Sat 06-Aug 2022
+Thu 28-Jul 2022 - Sun 07-Aug 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 27-Jul 2022|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
 |Thu 28-Jul 2022|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
 |Sat 30-Jul 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
 ||[Chilli con carne #397](https://github.com/jcallaghan/The-Cookbook/issues/397)|
@@ -61,4 +60,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Crushed chillies, Olive oil, Seasoning, Smoked paprika and Turmeric.
 
 
-_This shopping list was generated at 27-07-2022 20:52:07._
+_This shopping list was generated at 28-07-2022 18:03:27._
