@@ -1,6 +1,6 @@
 # Shopping List
 
-Mon 01-Aug 2022 - Thu 11-Aug 2022
+Tue 02-Aug 2022 - Fri 12-Aug 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,8 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Tue 02-Aug 2022|[Butter Chicken Filo Parcels #398](https://github.com/jcallaghan/The-Cookbook/issues/398)|
-|Thu 04-Aug 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
+|Tue 02-Aug 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
+|Thu 04-Aug 2022|[Butter Chicken Filo Parcels #398](https://github.com/jcallaghan/The-Cookbook/issues/398)|
 |Sat 06-Aug 2022|[Tandoori chicken #261](https://github.com/jcallaghan/The-Cookbook/issues/261)|
 ||[Pepperoni pizza  #251](https://github.com/jcallaghan/The-Cookbook/issues/251)|
 
@@ -75,4 +75,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Garam masala, Garlic cloves, Salt, Sea salt, Seasoning, Turmeric, Turmeric powder, Vegetable oil and Water.
 
 
-_This shopping list was generated at 01-08-2022 20:51:40._
+_This shopping list was generated at 02-08-2022 08:54:18._
