@@ -83,7 +83,8 @@ def main():
         icsfilecontent = (f"BEGIN:VCALENDAR\n"
         f"PRODID://James Callaghan\n"
         f"VERSION:2.0\n"
-        f"X-WR-CALNAME:Meal\n"        
+        f"X-WR-CALNAME:Meal Planner\n"
+        f"REFRESH-INTERVAL;VALUE=DURATION:P30M\n"
         f"BEGIN:VTIMEZONE\n"
         f"TZID:Europe/London\n"
         f"BEGIN:DAYLIGHT\n"
@@ -101,7 +102,7 @@ def main():
         f"RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU\n"
         f"END:STANDARD\n"
         f"END:VTIMEZONE\n"  
-        f"{ icsevents}"
+        f"{ icsevents }"
         f"END:VCALENDAR")
         
         try:
