@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Fri 05-Aug 2022|[Macaroni Cheese #380](https://github.com/jcallaghan/The-Cookbook/issues/380)|
+||[BBQ pulled Chicken #403](https://github.com/jcallaghan/The-Cookbook/issues/403)|
 |Sat 06-Aug 2022|[Pepperoni pizza  #251](https://github.com/jcallaghan/The-Cookbook/issues/251)|
 |Sun 07-Aug 2022|[Prawn and brie pasta #129](https://github.com/jcallaghan/The-Cookbook/issues/129)|
 |Mon 08-Aug 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
@@ -90,4 +91,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Garam masala, Garlic cloves, Olive oil, Salt, Seasoning, Sesame oil, Turmeric and Water.
 
 
-_This shopping list was generated at 04-08-2022 21:40:17._
+_This shopping list was generated at 04-08-2022 22:57:56._
