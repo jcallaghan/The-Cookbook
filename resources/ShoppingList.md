@@ -9,14 +9,19 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 04-Aug 2022|[Butter Chicken Filo Parcels #398](https://github.com/jcallaghan/The-Cookbook/issues/398)|
-|Sat 06-Aug 2022|[Tandoori chicken #261](https://github.com/jcallaghan/The-Cookbook/issues/261)|
+|Fri 05-Aug 2022|[Macaroni Cheese #380](https://github.com/jcallaghan/The-Cookbook/issues/380)|
+||[BBQ pulled Chicken #403](https://github.com/jcallaghan/The-Cookbook/issues/403)|
+|Sat 06-Aug 2022|[Chicken Tikka #408](https://github.com/jcallaghan/The-Cookbook/issues/408)|
+||[Tandoori chicken #261](https://github.com/jcallaghan/The-Cookbook/issues/261)|
 ||[Naan bread #291](https://github.com/jcallaghan/The-Cookbook/issues/291)|
 ||[Pepperoni pizza  #251](https://github.com/jcallaghan/The-Cookbook/issues/251)|
+|Sun 07-Aug 2022|[Prawn and brie pasta #129](https://github.com/jcallaghan/The-Cookbook/issues/129)|
 |Mon 08-Aug 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
 |Tue 09-Aug 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
 |Wed 10-Aug 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
+||[Slow cooker Beef Curry #402](https://github.com/jcallaghan/The-Cookbook/issues/402)|
 |Thu 11-Aug 2022|[Creamy smoked salmon pasta #1](https://github.com/jcallaghan/The-Cookbook/issues/1)|
-|Sat 13-Aug 2022|[Prawn and brie pasta #129](https://github.com/jcallaghan/The-Cookbook/issues/129)|
+|Fri 12-Aug 2022|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
 
 ## 🛒 Shopping List
 
@@ -29,6 +34,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Can coconut milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20coconut%20milk)|1|
 |[Cashew nuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cashew%20nuts)|1/4 cup|
 |[Chicken breasts or thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts%20or%20thighs)|2|
+|[Chicken stock or water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20stock%20or%20water)|100ml|
 |[Citrus powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Citrus%20powder)|1 tsp|
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
@@ -37,6 +43,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Coriander powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander%20powder)|1 tbsp|
 |[Cumin powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cumin%20powder)|1 tbsp|
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|100ml|
+|[Drained capers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Drained%20capers)|1 tbsp|
 |[Dried methi/fenugreek leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20methi/fenugreek%20leaves)|2 tsp|
 |[Extra hot chillies powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Extra%20hot%20chillies%20powder)|1 tsp|
 |[Farfalle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Farfalle%20pasta)|250g|
@@ -52,8 +59,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Garlic granuals](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20granuals)|1 tbsp|
 |[Ginger/garlic paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger/garlic%20paste)|1 tsp + 1 tsp|
 |[Gram chicken breasts cut into cubes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Gram%20chicken%20breasts%20cut%20into%20cubes)|500|
+|[Grated parmesan](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grated%20parmesan)|1 tbsp|
 |[Greek yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Greek%20yoghurt)|300ml|
 |[Greek yogurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Greek%20yogurt)|2 tbsp|
+|[Green beans](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20beans)|300g|
 |[Green curry paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20curry%20paste)|1 tbsp|
 |[Ground coriander](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20coriander)|1 tsp|
 |[Ground cumin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cumin)|1 tsp|
@@ -65,9 +74,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[King prawns](https://www.sainsburys.co.uk/gol-ui/SearchResults/King%20prawns)|600g|
 |[Large onions roughly chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20onions%20roughly%20chopped)|1|
 |[Large piece ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20piece%20ginger)||
+|[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)|1|
 |[Lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon%20juice)|2 tbsp|
 |[Lemon or lime](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon%20or%20lime)|1|
 |[Lime](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lime)|1|
+|[New potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/New%20potatoes)|200g|
 |[Olive or vegetable oil for frying](https://www.sainsburys.co.uk/gol-ui/SearchResults/Olive%20or%20vegetable%20oil%20for%20frying)|2 tbsp|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
 |[Palm sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Palm%20sugar)|1 tbsp|
@@ -80,12 +91,16 @@ This shopping list has been automatically generated with the ingredients from th
 |[Red chillies to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies%20to%20taste)||
 |[Red food colouring powder (optional while this adds no flavour benefit it does make a huge visual difference to the dish)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20food%20colouring%20powder%20(optional%20while%20this%20adds%20no%20flavour%20benefit%20it%20does%20make%20a%20huge%20visual%20difference%20to%20the%20dish))||
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
+|[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Serves: 2-3 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202-3%20servings)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|2|
+|[Skinless chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Skinless%20chicken%20breasts)|2|
 |[Sliced aubergine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sliced%20aubergine)||
 |[Small can of bamboo shoots drained](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20can%20of%20bamboo%20shoots%20drained)|1|
+|[Small garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20garlic%20cloves)|2|
 |[Smoked salmon fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Smoked%20salmon%20fillets)|2|
+|[Spring greens](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20greens)|200g|
 |[Sticky rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sticky%20rice)|150g|
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|2-3 tsp + 1 tsp|
 |[Tandoori masala powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tandoori%20masala%20powder)|2 tbsp|
@@ -105,7 +120,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Bay leaf, Butter, Garam masala, Garlic cloves, Salt, Sea salt, Seasoning, Sesame oil, Turmeric, Turmeric powder, Vegetable oil and Water.
+Bay leaf, Butter, Garam masala, Garlic cloves, Olive oil, Salt, Sea salt, Seasoning, Sesame oil, Turmeric, Turmeric powder, Vegetable oil and Water.
 
 
-_This shopping list was generated at 04-08-2022 09:55:00._
+_This shopping list was generated at 04-08-2022 11:02:18._
