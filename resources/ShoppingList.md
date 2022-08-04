@@ -9,7 +9,6 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Fri 05-Aug 2022|[Macaroni Cheese #380](https://github.com/jcallaghan/The-Cookbook/issues/380)|
-||[BBQ pulled Chicken #403](https://github.com/jcallaghan/The-Cookbook/issues/403)|
 |Sat 06-Aug 2022|[Pepperoni pizza  #251](https://github.com/jcallaghan/The-Cookbook/issues/251)|
 |Sun 07-Aug 2022|[Prawn and brie pasta #129](https://github.com/jcallaghan/The-Cookbook/issues/129)|
 |Mon 08-Aug 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
@@ -75,4 +74,4 @@ The following items have not been added to the shopping list as they are like in
 Garlic cloves, Olive oil, Seasoning and Sesame oil.
 
 
-_This shopping list was generated at 04-08-2022 18:03:29._
+_This shopping list was generated at 04-08-2022 21:11:32._
