@@ -1,12 +1,14 @@
 # BBQ
 
-There are 27 bbq recipes in the cookbook.
+There are 29 bbq recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
 | B||||
 ||[231](https://github.com/jcallaghan/The-Cookbook/issues/231)|[BBQ Halloumi](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/bbq-halloumi.md)| |Style / Vegetarian<br>Style / BBQ<br>Meal / Appetiser<br>Meal / Side Dish<br>Ingredient / Cheese 🧀<br>⚙ Needs Pictures ✅<br>⚙ Published|
 ||[13](https://github.com/jcallaghan/The-Cookbook/issues/13)|[BBQ chicken kebabs](https://github.com/jcallaghan/The-Cookbook/issues/13)| |Style / BBQ<br>Favourite 🥰<br>Favourite 🥰 / Jas|
+||[403](https://github.com/jcallaghan/The-Cookbook/issues/403)|[BBQ pulled Chicken](https://github.com/jcallaghan/The-Cookbook/issues/403)| |Style / BBQ<br>Ingredient / Meat / Chicken 🐔<br>Meal / Main|
+||[399](https://github.com/jcallaghan/The-Cookbook/issues/399)|[Beef Skewers](https://github.com/jcallaghan/The-Cookbook/issues/399)| |Style / BBQ<br>Ingredient / Meat / Beef<br>Meal / Main|
 ||[172](https://github.com/jcallaghan/The-Cookbook/issues/172)|[Beef short ribs](https://github.com/jcallaghan/The-Cookbook/issues/172)| |Style / BBQ<br>Ingredient / Meat / Beef<br>Style / Marinade|
 ||[204](https://github.com/jcallaghan/The-Cookbook/issues/204)|[Bryan's BBQ Pork Ribs](https://github.com/jcallaghan/The-Cookbook/issues/204)| |Style / BBQ<br>ℹ️ Friends Recipes 🥰<br>⚙ New Recipe 👀|
 ||[223](https://github.com/jcallaghan/The-Cookbook/issues/223)|[Butchers Burger](https://github.com/jcallaghan/The-Cookbook/issues/223)| |Style / BBQ|
@@ -40,4 +42,4 @@ There are 27 bbq recipes in the cookbook.
 | T||||
 ||[239](https://github.com/jcallaghan/The-Cookbook/issues/239)|[Texas BBQ Pizza](https://github.com/jcallaghan/The-Cookbook/issues/239)| |Style / BBQ<br>Pizza 🍕<br>Equipment / Pizza Oven 🍕🔥|
 
-_This index was automatically generated at 04-08-2022 00:23:48 using a custom Python script and GitHub Action._
+_This index was automatically generated at 05-08-2022 00:27:53 using a custom Python script and GitHub Action._
