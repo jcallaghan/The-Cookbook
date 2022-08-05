@@ -1,6 +1,6 @@
 # Pasta
 
-There are 31 pasta recipes in the cookbook.
+There are 32 pasta recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -36,6 +36,7 @@ There are 31 pasta recipes in the cookbook.
 ||[129](https://github.com/jcallaghan/The-Cookbook/issues/129)|[Prawn and brie pasta](https://github.com/jcallaghan/The-Cookbook/issues/129)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn|
 | R||||
 ||[167](https://github.com/jcallaghan/The-Cookbook/issues/167)|[Ravioli](https://github.com/jcallaghan/The-Cookbook/issues/167)| |Style / Pasta 🍝|
+||[400](https://github.com/jcallaghan/The-Cookbook/issues/400)|[Roasted Pepper Pasta](https://github.com/jcallaghan/The-Cookbook/issues/400)| |Style / Pasta 🍝<br>Style / Vegetarian<br>Meal / Main|
 ||[181](https://github.com/jcallaghan/The-Cookbook/issues/181)|[Rocket salad](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/rocket-salad.md)| |Style / Pasta 🍝<br>Style / BBQ<br>Meal / Side Dish<br>Favourite 🥰 / James<br>Ingredient / Cheese 🧀<br>Style / Salad<br>Pizza 🍕<br>Pizza 🍕 / Side<br>⚙ Published|
 | S||||
 ||[264](https://github.com/jcallaghan/The-Cookbook/issues/264)|[Spaghetti  Bolognese](https://github.com/jcallaghan/The-Cookbook/issues/264)| |Style / Pasta 🍝<br>Style / Italian 🇮🇹|
@@ -46,4 +47,4 @@ There are 31 pasta recipes in the cookbook.
 | V||||
 ||[383](https://github.com/jcallaghan/The-Cookbook/issues/383)|[Vayia Shrimp Pasta](https://github.com/jcallaghan/The-Cookbook/issues/383)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Food Memories|
 
-_This index was automatically generated at 04-08-2022 00:24:01 using a custom Python script and GitHub Action._
+_This index was automatically generated at 05-08-2022 00:28:31 using a custom Python script and GitHub Action._
