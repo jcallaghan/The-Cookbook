@@ -1,6 +1,6 @@
 # Soups
 
-There are 9 soups recipes in the cookbook.
+There are 10 soups recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -16,6 +16,7 @@ There are 9 soups recipes in the cookbook.
 | L||||
 ||[260](https://github.com/jcallaghan/The-Cookbook/issues/260)|[Lyonnaise onion soup](https://github.com/jcallaghan/The-Cookbook/issues/260)| |Style / Soup|
 | S||||
+||[405](https://github.com/jcallaghan/The-Cookbook/issues/405)|[Slow cooker Cheesy Potato & Bacon Soup](https://github.com/jcallaghan/The-Cookbook/issues/405)| |Style / Slow cook<br>Meal / Main<br>Style / Soup|
 ||[345](https://github.com/jcallaghan/The-Cookbook/issues/345)|[Sweet potato, coconut and Harissa soup](https://github.com/jcallaghan/The-Cookbook/issues/345)| |Style / Soup<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Ingredient / Vegetable|
 
-_This index was automatically generated at 04-08-2022 00:24:06 using a custom Python script and GitHub Action._
+_This index was automatically generated at 05-08-2022 00:28:44 using a custom Python script and GitHub Action._
