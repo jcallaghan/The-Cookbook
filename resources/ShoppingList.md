@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 04-Aug 2022 - Sun 14-Aug 2022
+Sun 07-Aug 2022 - Wed 17-Aug 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,13 +8,11 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Fri 05-Aug 2022|[Macaroni Cheese #380](https://github.com/jcallaghan/The-Cookbook/issues/380)|
-||[BBQ pulled Chicken #403](https://github.com/jcallaghan/The-Cookbook/issues/403)|
-|Sat 06-Aug 2022|[Pepperoni pizza  #251](https://github.com/jcallaghan/The-Cookbook/issues/251)|
 |Sun 07-Aug 2022|[Prawn and brie pasta #129](https://github.com/jcallaghan/The-Cookbook/issues/129)|
 |Mon 08-Aug 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
 |Tue 09-Aug 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
 |Wed 10-Aug 2022|[Butter Chicken Filo Parcels #398](https://github.com/jcallaghan/The-Cookbook/issues/398)|
+||[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Thu 11-Aug 2022|[Creamy smoked salmon pasta #1](https://github.com/jcallaghan/The-Cookbook/issues/1)|
 |Fri 12-Aug 2022|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
 
@@ -22,20 +20,25 @@ This shopping list has been automatically generated with the ingredients from th
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
+|[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
 |[Can coconut milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20coconut%20milk)|1|
 |[Cashew nuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cashew%20nuts)|1/4 cup|
 |[Chicken breasts or thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts%20or%20thighs)|2|
 |[Chicken stock or water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20stock%20or%20water)|100ml|
 |[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
 |[Cook time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2030%20minutes)||
+|[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
+|[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|100ml|
 |[Drained capers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Drained%20capers)|1 tbsp|
 |[Dried methi/fenugreek leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20methi/fenugreek%20leaves)|2 tsp|
+|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)||
 |[Farfalle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Farfalle%20pasta)|250g|
 |[Filo pastry sheets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Filo%20pastry%20sheets)|6-8|
 |[Fish sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fish%20sauce)|2 tbsp|
 |[Fresh chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20chives)||
 |[Fresh cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20cream)|1/3 cup|
+|[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)|2 tbsp|
 |[Fresh lemongrass sticks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemongrass%20sticks)||
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
 |[Ginger/garlic paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger/garlic%20paste)|1 tsp + 1 tsp|
@@ -47,48 +50,50 @@ This shopping list has been automatically generated with the ingredients from th
 |[Ground coriander](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20coriander)|1 tsp|
 |[Ground cumin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cumin)|1 tsp|
 |[Ground fennel](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20fennel)|1/2 tsp|
+|[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
 |[Kaffir lime leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kaffir%20lime%20leaves)|4|
 |[Kashmiri chillies powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kashmiri%20chillies%20powder)|2 tsp|
+|[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
 |[King prawns](https://www.sainsburys.co.uk/gol-ui/SearchResults/King%20prawns)|600g|
 |[Large onions roughly chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20onions%20roughly%20chopped)|1|
 |[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)|1|
 |[Lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon%20juice)|2 tbsp|
 |[Lime](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lime)|1|
 |[New potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/New%20potatoes)|200g|
+|[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
 |[Olive or vegetable oil for frying](https://www.sainsburys.co.uk/gol-ui/SearchResults/Olive%20or%20vegetable%20oil%20for%20frying)|2 tbsp|
 |[Palm sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Palm%20sugar)|1 tbsp|
 |[Prawn crackers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prawn%20crackers)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
+|[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
+|[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1-2|
 |[Red chillies to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies%20to%20taste)||
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|2|
+|[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)||
 |[Skinless chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Skinless%20chicken%20breasts)|2|
 |[Sliced aubergine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sliced%20aubergine)||
 |[Small can of bamboo shoots drained](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20can%20of%20bamboo%20shoots%20drained)|1|
 |[Small garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20garlic%20cloves)|2|
 |[Smoked salmon fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Smoked%20salmon%20fillets)|2|
 |[Spring greens](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20greens)|200g|
+|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|3-4|
 |[Sticky rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sticky%20rice)|150g|
-|[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|2-3 tsp|
+|[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|2-3 tsp + 1 tbsp|
 |[Thai basil leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thai%20basil%20leaves)|8|
 |[Tomato passata](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20passata)|1/2 cup|
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 40 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2040%20minutes)||
 |[Whole grain mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20grain%20mustard)|2 tsp|
 
-## 🗒️ Notes
-
-1. Nando's chicken flavour bag wraps
-1. BBQ Burgers
-
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Bay leaf, Butter, Garam masala, Garlic cloves, Olive oil, Salt, Seasoning, Sesame oil, Turmeric and Water.
+Bay leaf, Butter, Cornflour, Garam masala, Garlic cloves, Olive oil, Salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Turmeric and Water.
 
 
-_This shopping list was generated at 04-08-2022 22:57:56._
+_This shopping list was generated at 07-08-2022 22:59:25._
