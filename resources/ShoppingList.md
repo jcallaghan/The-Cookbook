@@ -9,6 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Mon 08-Aug 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
+||[Hassleback potatoes #410](https://github.com/jcallaghan/The-Cookbook/issues/410)|
+||[Fondant potatoes #412](https://github.com/jcallaghan/The-Cookbook/issues/412)|
 |Tue 09-Aug 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
 ||[Egg fried rice #330](https://github.com/jcallaghan/The-Cookbook/issues/330)|
 |Wed 10-Aug 2022|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
@@ -71,4 +73,4 @@ The following items have not been added to the shopping list as they are like in
 Cornflour, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 08-08-2022 12:52:37._
+_This shopping list was generated at 08-08-2022 12:53:27._
