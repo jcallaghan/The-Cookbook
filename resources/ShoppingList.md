@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 11-Aug 2022|[Butter Chicken Filo Parcels #398](https://github.com/jcallaghan/The-Cookbook/issues/398)|
 |Fri 12-Aug 2022|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
+|Sat 13-Aug 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
 |Mon 15-Aug 2022|[Creamy smoked salmon pasta #1](https://github.com/jcallaghan/The-Cookbook/issues/1)|
 
 ## 🛒 Shopping List
@@ -65,4 +66,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Garam masala, Garlic cloves, Olive oil, Salt, Seasoning, Turmeric and Water.
 
 
-_This shopping list was generated at 11-08-2022 12:39:31._
+_This shopping list was generated at 11-08-2022 12:40:15._
