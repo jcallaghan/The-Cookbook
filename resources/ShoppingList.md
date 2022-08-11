@@ -16,18 +16,21 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 15-Aug 2022|[Creamy smoked salmon pasta #1](https://github.com/jcallaghan/The-Cookbook/issues/1)|
 |Tue 16-Aug 2022|[Slow cooker Beef Curry #402](https://github.com/jcallaghan/The-Cookbook/issues/402)|
 |Wed 17-Aug 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
-|Thu 18-Aug 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
+|Thu 18-Aug 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
+|[[optional] cherry tomatoes on the vine](https://www.sainsburys.co.uk/gol-ui/SearchResults/[optional]%20cherry%20tomatoes%20on%20the%20vine)||
 |[Can coconut milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20coconut%20milk)|1|
 |[Cashew nuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cashew%20nuts)|1/4 cup|
 |[Chicken breasts or thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts%20or%20thighs)|2|
 |[Chicken stock or water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20stock%20or%20water)|100ml|
+|[Cook time:  15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%20%2015%20minutes)||
 |[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
 |[Cook time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2030%20minutes)||
+|[Cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream)|1 tbsp|
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|100ml|
 |[Drained capers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Drained%20capers)|1 tbsp|
 |[Dried methi/fenugreek leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20methi/fenugreek%20leaves)|2 tsp|
@@ -44,6 +47,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Greek yogurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Greek%20yogurt)|2 tbsp|
 |[Green beans](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20beans)|300g|
 |[Green curry paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20curry%20paste)|1 tbsp|
+|[Green pesto](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20pesto)|4 tbsp|
 |[Ground coriander](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20coriander)|1 tsp|
 |[Ground cumin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cumin)|1 tsp|
 |[Ground fennel](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20fennel)|1/2 tsp|
@@ -58,9 +62,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Olive or vegetable oil for frying](https://www.sainsburys.co.uk/gol-ui/SearchResults/Olive%20or%20vegetable%20oil%20for%20frying)|2 tbsp|
 |[Palm sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Palm%20sugar)|1 tbsp|
 |[Prawn crackers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prawn%20crackers)||
+|[Prep time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%200%20minutes)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
 |[Red chillies to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies%20to%20taste)||
+|[Seabass fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seabass%20fillets)|2|
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
@@ -73,8 +79,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Spring greens](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20greens)|200g|
 |[Sticky rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sticky%20rice)|150g|
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|2-3 tsp|
+|[Tagliatelle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tagliatelle%20pasta)|300g|
 |[Thai basil leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thai%20basil%20leaves)|8|
 |[Tomato passata](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20passata)|1/2 cup|
+|[Total time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2015%20minutes)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 40 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2040%20minutes)||
 |[Whole grain mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20grain%20mustard)|2 tsp|
@@ -90,4 +98,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Garam masala, Garlic cloves, Olive oil, Salt, Seasoning, Sesame oil, Turmeric and Water.
 
 
-_This shopping list was generated at 11-08-2022 20:23:21._
+_This shopping list was generated at 11-08-2022 20:27:36._
