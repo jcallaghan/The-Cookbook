@@ -121,4 +121,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Garam masala, Garlic cloves, Olive oil, Salt, Sea salt, Seasoning, Sesame oil, Turmeric, Turmeric powder, Vegetable oil and Water.
 
 
-_This shopping list was generated at 11-08-2022 12:44:39._
+_This shopping list was generated at 11-08-2022 18:02:59._
