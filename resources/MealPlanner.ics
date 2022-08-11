@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:92a4f36e-e831-4225-bb4c-0b2f4a425d46
-DTSTAMP:20220811T123929
+UID:727f83ba-fefa-48d2-a0fc-119286e7fa0d
+DTSTAMP:20220811T124358
 DTSTART:20220811T184500
 DTEND:20220811T203000
 SUMMARY:Butter Chicken Filo Parcels #398 for dinner
@@ -32,34 +32,72 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:56e312a8-76af-464b-be2b-7c38d9d0a586
-DTSTAMP:20220811T123929
+UID:c0efd93d-f361-4777-b029-7fdccfeb2da6
+DTSTAMP:20220811T124359
 DTSTART:20220812T184500
 DTEND:20220812T203000
-SUMMARY:Chicken piccata #286 for dinner
+SUMMARY:Chicken piccata #286 and Hassleback potatoes #410 for dinner
 DESCRIPTION:Chicken piccata #286 - https://github.com/jcallaghan/The-Cookbook/issues/286
+Hassleback potatoes #410 - https://github.com/jcallaghan/The-Cookbook/issues/410
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8e04d8a2-71c3-4206-a3c9-8a87b8db14cd
-DTSTAMP:20220811T123929
+UID:4dbb9665-a770-4fa0-858f-7f79cc362f84
+DTSTAMP:20220811T124359
 DTSTART:20220813T184500
 DTEND:20220813T203000
-SUMMARY:Adele & Brian over for dinner
+SUMMARY:Adele & Brian over, Mexican Shredded Chicken #409, Pepperoni pizza  #251, Tandoori chicken #261 and Naan bread #291 for dinner
 DESCRIPTION:Note: Adele & Brian over
+Mexican Shredded Chicken #409 - https://github.com/jcallaghan/The-Cookbook/issues/409
+Pepperoni pizza  #251 - https://github.com/jcallaghan/The-Cookbook/issues/251
+Tandoori chicken #261 - https://github.com/jcallaghan/The-Cookbook/issues/261
+Naan bread #291 - https://github.com/jcallaghan/The-Cookbook/issues/291
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5c326d65-63f5-4f1d-b1d5-4174806d1ad2
-DTSTAMP:20220811T123930
+UID:fb5ff28c-78cc-4352-8ff8-4aa0b88ee4af
+DTSTAMP:20220811T124400
 DTSTART:20220815T184500
 DTEND:20220815T203000
 SUMMARY:Creamy smoked salmon pasta #1 for dinner
 DESCRIPTION:Creamy smoked salmon pasta #1 - https://github.com/jcallaghan/The-Cookbook/issues/1
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:34460336-6e72-4a78-a8c0-43b4748c03a1
+DTSTAMP:20220811T124400
+DTSTART:20220816T184500
+DTEND:20220816T203000
+SUMMARY:Slow cooker Beef Curry #402 for dinner
+DESCRIPTION:Slow cooker Beef Curry #402 - https://github.com/jcallaghan/The-Cookbook/issues/402
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:09d46b4c-4046-4f18-b4ca-2b537842d076
+DTSTAMP:20220811T124400
+DTSTART:20220817T184500
+DTEND:20220817T203000
+SUMMARY:Chicken Kiev #388 for dinner
+DESCRIPTION:Chicken Kiev #388 - https://github.com/jcallaghan/The-Cookbook/issues/388
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:34ffe7d6-ce6a-4611-87d9-57176569dd40
+DTSTAMP:20220811T124401
+DTSTART:20220818T184500
+DTEND:20220818T203000
+SUMMARY:Pesto chicken pasta #137 for dinner
+DESCRIPTION:Pesto chicken pasta #137 - https://github.com/jcallaghan/The-Cookbook/issues/137
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
