@@ -11,8 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 11-Aug 2022|[Butter Chicken Filo Parcels #398](https://github.com/jcallaghan/The-Cookbook/issues/398)|
 |Fri 12-Aug 2022|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
 ||[Hassleback potatoes #410](https://github.com/jcallaghan/The-Cookbook/issues/410)|
-|Sat 13-Aug 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
-||[Pepperoni pizza  #251](https://github.com/jcallaghan/The-Cookbook/issues/251)|
+|Sat 13-Aug 2022|[Pepperoni pizza  #251](https://github.com/jcallaghan/The-Cookbook/issues/251)|
 ||[Tandoori chicken #261](https://github.com/jcallaghan/The-Cookbook/issues/261)|
 ||[Naan bread #291](https://github.com/jcallaghan/The-Cookbook/issues/291)|
 |Sun 14-Aug 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
@@ -121,4 +120,4 @@ The following items have not been added to the shopping list as they are like in
 Bay leaf, Butter, Garam masala, Garlic cloves, Olive oil, Salt, Sea salt, Seasoning, Sesame oil, Turmeric, Turmeric powder, Vegetable oil and Water.
 
 
-_This shopping list was generated at 11-08-2022 18:02:59._
+_This shopping list was generated at 11-08-2022 20:22:07._
