@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 21-Aug 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
 ||[Naan bread #291](https://github.com/jcallaghan/The-Cookbook/issues/291)|
 |Tue 23-Aug 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
+|Wed 24-Aug 2022|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 
 ## 🛒 Shopping List
 
@@ -59,6 +60,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. A/L
+1. ⭐ Special dinner
 
 ## 🏪 Pantry Ingredients
 
@@ -67,4 +69,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Sea salt, Seasoning, Sesame oil and Vegetable oil.
 
 
-_This shopping list was generated at 17-08-2022 20:55:58._
+_This shopping list was generated at 17-08-2022 21:17:05._
