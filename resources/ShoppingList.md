@@ -14,8 +14,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 20-Aug 2022|[Sticky black pepper beef  #386](https://github.com/jcallaghan/The-Cookbook/issues/386)|
 |Mon 22-Aug 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
 ||[Naan bread #291](https://github.com/jcallaghan/The-Cookbook/issues/291)|
-|Tue 23-Aug 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 |Wed 24-Aug 2022|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
+|Thu 25-Aug 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 
 ## 🛒 Shopping List
 
@@ -79,6 +79,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Jas' parents for lunch
+1. Filled pasta?
 1. A/L
 1. ⭐ Special dinner
 
@@ -89,4 +90,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Cumin, Garlic powder, Sea salt, Seasoning, Sesame oil, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 17-08-2022 21:19:03._
+_This shopping list was generated at 17-08-2022 21:19:49._
