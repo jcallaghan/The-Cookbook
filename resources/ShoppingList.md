@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Wed 17-Aug 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
 |Thu 18-Aug 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
+|Fri 19-Aug 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Sun 21-Aug 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
 ||[Naan bread #291](https://github.com/jcallaghan/The-Cookbook/issues/291)|
 |Tue 23-Aug 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
@@ -28,6 +29,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cook time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2030%20minutes)||
 |[Coriander](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander)|1 tbsp|
 |[Cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream)|1 tbsp|
+|[Duck breast fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Duck%20breast%20fillets)|2|
 |[Fish sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fish%20sauce)|2 tbsp|
 |[Fresh garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20garlic)|1 tbsp|
 |[Fresh lemongrass sticks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemongrass%20sticks)||
@@ -69,4 +71,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Sea salt, Seasoning, Sesame oil and Vegetable oil.
 
 
-_This shopping list was generated at 17-08-2022 21:17:05._
+_This shopping list was generated at 17-08-2022 21:17:46._
