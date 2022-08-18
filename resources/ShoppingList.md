@@ -9,10 +9,10 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 18-Aug 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
-|Fri 19-Aug 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
-|Sat 20-Aug 2022|[Sticky black pepper beef  #386](https://github.com/jcallaghan/The-Cookbook/issues/386)|
-|Mon 22-Aug 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
+|Fri 19-Aug 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
 ||[Naan bread #291](https://github.com/jcallaghan/The-Cookbook/issues/291)|
+|Sat 20-Aug 2022|[Sticky black pepper beef  #386](https://github.com/jcallaghan/The-Cookbook/issues/386)|
+|Mon 22-Aug 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Wed 24-Aug 2022|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Thu 25-Aug 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 
@@ -89,4 +89,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Cumin, Garlic powder, Sea salt, Seasoning, Sesame oil, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 18-08-2022 18:03:08._
+_This shopping list was generated at 18-08-2022 19:28:37._
