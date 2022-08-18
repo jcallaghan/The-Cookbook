@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 17-Aug 2022 - Sat 27-Aug 2022
+Thu 18-Aug 2022 - Sun 28-Aug 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 17-Aug 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
 |Thu 18-Aug 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
 |Fri 19-Aug 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Sat 20-Aug 2022|[Sticky black pepper beef  #386](https://github.com/jcallaghan/The-Cookbook/issues/386)|
@@ -90,4 +89,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Cumin, Garlic powder, Sea salt, Seasoning, Sesame oil, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 17-08-2022 21:19:49._
+_This shopping list was generated at 18-08-2022 18:03:08._
