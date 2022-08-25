@@ -38,6 +38,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Take-out
 1. ⭐ Special dinner
+1. Jas out
 
 ## 🏪 Pantry Ingredients
 
@@ -46,4 +47,4 @@ The following items have not been added to the shopping list as they are like in
 S, e, s, a, m, e,  , o, i and l.
 
 
-_This shopping list was generated at 25-08-2022 20:57:14._
+_This shopping list was generated at 25-08-2022 21:00:29._
