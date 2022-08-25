@@ -73,6 +73,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Take-out
+1. Smashed potatoes
 1. Jas out
 1. ⭐ Special dinner
 
@@ -83,4 +84,4 @@ The following items have not been added to the shopping list as they are like in
 Cumin, Garlic powder, Sesame oil and Soy sauce.
 
 
-_This shopping list was generated at 25-08-2022 21:30:20._
+_This shopping list was generated at 25-08-2022 21:34:10._
