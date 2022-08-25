@@ -11,9 +11,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 26-Aug 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
 ||[English 75 #340](https://github.com/jcallaghan/The-Cookbook/issues/340)|
 |Sun 28-Aug 2022|[Beef Wellington #413](https://github.com/jcallaghan/The-Cookbook/issues/413)|
-||[Pepperoni pizza  #251](https://github.com/jcallaghan/The-Cookbook/issues/251)|
-|Mon 29-Aug 2022|[Sticky black pepper beef  #386](https://github.com/jcallaghan/The-Cookbook/issues/386)|
-|Tue 30-Aug 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
+|Mon 29-Aug 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
+|Tue 30-Aug 2022|[Sticky black pepper beef  #386](https://github.com/jcallaghan/The-Cookbook/issues/386)|
 |Wed 31-Aug 2022|[Chicken Carbonara #162](https://github.com/jcallaghan/The-Cookbook/issues/162)|
 
 ## 🛒 Shopping List
@@ -85,4 +84,4 @@ The following items have not been added to the shopping list as they are like in
 Cumin, Garlic cloves, Garlic powder, Olive oil, Seasoning, Sesame oil and Soy sauce.
 
 
-_This shopping list was generated at 25-08-2022 21:35:20._
+_This shopping list was generated at 25-08-2022 21:37:13._
