@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Fri 26-Aug 2022|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
+|Tue 30-Aug 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
 
 ## 🛒 Shopping List
 
@@ -47,4 +48,4 @@ The following items have not been added to the shopping list as they are like in
 S, e, s, a, m, e,  , o, i and l.
 
 
-_This shopping list was generated at 25-08-2022 21:00:29._
+_This shopping list was generated at 25-08-2022 21:04:31._
