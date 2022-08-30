@@ -84,4 +84,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Chicken stock, Cumin, Garlic cloves, Garlic powder, Olive oil, Plain flour, Seasoning and Soy sauce.
 
 
-_This shopping list was generated at 30-08-2022 18:38:11._
+_This shopping list was generated at 30-08-2022 18:38:51._
