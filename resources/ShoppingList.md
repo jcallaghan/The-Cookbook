@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Wed 07-Sep 2022|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
 |Thu 08-Sep 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
 |Sun 11-Sep 2022|[Beef and Guinness stew #268](https://github.com/jcallaghan/The-Cookbook/issues/268)|
+|Tue 13-Sep 2022|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
 
 ## 🛒 Shopping List
 
@@ -51,4 +52,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Chicken stock, Plain flour and Seasoning.
 
 
-_This shopping list was generated at 05-09-2022 10:41:46._
+_This shopping list was generated at 05-09-2022 10:42:59._
