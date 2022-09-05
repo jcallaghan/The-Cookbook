@@ -8,7 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Mon 05-Sep 2022|[Fish pie #171](https://github.com/jcallaghan/The-Cookbook/issues/171)|
+|Mon 05-Sep 2022|[Roasted Pepper Pasta #400](https://github.com/jcallaghan/The-Cookbook/issues/400)|
+|Tue 06-Sep 2022|[Fish pie #171](https://github.com/jcallaghan/The-Cookbook/issues/171)|
 |Wed 07-Sep 2022|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
 |Thu 08-Sep 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
 |Sun 11-Sep 2022|[Beef and Guinness stew #268](https://github.com/jcallaghan/The-Cookbook/issues/268)|
@@ -52,4 +53,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Chicken stock, Plain flour and Seasoning.
 
 
-_This shopping list was generated at 05-09-2022 10:42:59._
+_This shopping list was generated at 05-09-2022 10:45:26._
