@@ -8,6 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
+|Tue 06-Sep 2022|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
 |Wed 07-Sep 2022|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
 |Fri 09-Sep 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
 |Sun 11-Sep 2022|[Beef and Guinness stew #268](https://github.com/jcallaghan/The-Cookbook/issues/268)|
@@ -48,4 +49,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Dried basil, Dried oregano, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 06-09-2022 12:38:02._
+_This shopping list was generated at 06-09-2022 12:39:47._
