@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 53 all recipes recipes in the cookbook.
+There are 54 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -53,6 +53,7 @@ There are 53 all recipes recipes in the cookbook.
 ||[347](https://github.com/jcallaghan/The-Cookbook/issues/347)|[Prawn Alfredo](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/prawn-alfredo.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/prawn-alfredo-1.jpg' alt='Prawn Alfredo' width='200'/>|Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Fish 🐟 / Prawn<br>ℹ️ Quick & Easy<br>Meal / Main<br>⚙ Published|
 ||[324](https://github.com/jcallaghan/The-Cookbook/issues/324)|[Prawn Pad Thai](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/prawn-pad-thai.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/prawn-pad-thai-1.jpg' alt='Prawn Pad Thai' width='200'/>|Favourite 🥰 / Jas<br>Favourite 🥰 / James<br>Meal / Main<br>Style / Stir-fry<br>Style / Asian<br>Style / Thai<br>⚙ Published|
 | R||||
+||[400](https://github.com/jcallaghan/The-Cookbook/issues/400)|[Roasted Pepper Pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/roasted-pepper-pasta.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/roasted-pepper-pasta-1.jpg' alt='Roasted Pepper Pasta' width='200'/>|Style / Pasta 🍝<br>Style / Vegetarian<br>Meal / Main<br>⚙ Needs Pictures ✅<br>⚙ Published|
 ||[181](https://github.com/jcallaghan/The-Cookbook/issues/181)|[Rocket salad](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/rocket-salad.md)| |Style / Pasta 🍝<br>Style / BBQ<br>Meal / Side Dish<br>Favourite 🥰 / James<br>Ingredient / Cheese 🧀<br>Style / Salad<br>Pizza 🍕<br>Pizza 🍕 / Side<br>⚙ Published|
 | S||||
 ||[348](https://github.com/jcallaghan/The-Cookbook/issues/348)|[Sausage and Bean Hotpot](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/sausage-and-bean-hotpot.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/sausage-and-bean-hotpot-1.jpg' alt='Sausage and Bean Hotpot' width='200'/>|Ingredient / Meat / Pork<br>Favourite 🥰 / James<br>Meal / Main<br>Ingredient / Sausage<br>⚙ Published<br>Style / Casserole|
@@ -71,4 +72,4 @@ There are 53 all recipes recipes in the cookbook.
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 05-09-2022 00:27:32 using a custom Python script and GitHub Action._
+_This index was automatically generated at 06-09-2022 00:25:01 using a custom Python script and GitHub Action._
