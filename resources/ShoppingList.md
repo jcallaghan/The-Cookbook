@@ -1,6 +1,6 @@
 # Shopping List
 
-Tue 06-Sep 2022 - Fri 16-Sep 2022
+Wed 07-Sep 2022 - Sat 17-Sep 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,13 +8,13 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Tue 06-Sep 2022|[Fish cakes #109](https://github.com/jcallaghan/The-Cookbook/issues/109)|
 |Wed 07-Sep 2022|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
 |Thu 08-Sep 2022|[Mediterranean chicken flatbreads #417](https://github.com/jcallaghan/The-Cookbook/issues/417)|
 |Sat 10-Sep 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
 |Sun 11-Sep 2022|[Beef and Guinness stew #268](https://github.com/jcallaghan/The-Cookbook/issues/268)|
 |Tue 13-Sep 2022|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
 |Wed 14-Sep 2022|[Roasted Pepper Pasta #400](https://github.com/jcallaghan/The-Cookbook/issues/400)|
+|Thu 15-Sep 2022|[Fish cakes #109](https://github.com/jcallaghan/The-Cookbook/issues/109)|
 
 ## 🛒 Shopping List
 
@@ -59,4 +59,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Dried basil, Dried oregano, Garlic cloves, Olive oil and Seasoning.
 
 
-_This shopping list was generated at 06-09-2022 15:48:55._
+_This shopping list was generated at 07-09-2022 10:11:24._
