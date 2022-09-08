@@ -10,9 +10,10 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Fri 09-Sep 2022|[Mediterranean chicken flatbreads #417](https://github.com/jcallaghan/The-Cookbook/issues/417)|
 |Sat 10-Sep 2022|[Salmon Wellington #419](https://github.com/jcallaghan/The-Cookbook/issues/419)|
-|Mon 12-Sep 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
+|Sun 11-Sep 2022|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
+|Mon 12-Sep 2022|[Roasted Pepper Pasta #400](https://github.com/jcallaghan/The-Cookbook/issues/400)|
 |Tue 13-Sep 2022|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
-|Wed 14-Sep 2022|[Roasted Pepper Pasta #400](https://github.com/jcallaghan/The-Cookbook/issues/400)|
+|Wed 14-Sep 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
 |Thu 15-Sep 2022|[Stuffed pasta shells #418](https://github.com/jcallaghan/The-Cookbook/issues/418)|
 |Fri 16-Sep 2022|[Fish cakes #109](https://github.com/jcallaghan/The-Cookbook/issues/109)|
 |Sun 18-Sep 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
@@ -73,4 +74,4 @@ The following items have not been added to the shopping list as they are like in
 Dried basil, Dried oregano, Garlic cloves and Olive oil.
 
 
-_This shopping list was generated at 08-09-2022 19:49:36._
+_This shopping list was generated at 08-09-2022 19:50:58._
