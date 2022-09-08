@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Fri 09-Sep 2022|[Mediterranean chicken flatbreads #417](https://github.com/jcallaghan/The-Cookbook/issues/417)|
 |Sun 11-Sep 2022|[Beef and Guinness stew #268](https://github.com/jcallaghan/The-Cookbook/issues/268)|
+|Mon 12-Sep 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
 |Tue 13-Sep 2022|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
 |Wed 14-Sep 2022|[Roasted Pepper Pasta #400](https://github.com/jcallaghan/The-Cookbook/issues/400)|
 |Thu 15-Sep 2022|[Fish cakes #109](https://github.com/jcallaghan/The-Cookbook/issues/109)|
@@ -58,4 +59,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Dried basil, Dried oregano, Garlic cloves, Olive oil and Seasoning.
 
 
-_This shopping list was generated at 08-09-2022 19:26:34._
+_This shopping list was generated at 08-09-2022 19:31:03._
