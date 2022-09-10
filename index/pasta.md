@@ -1,6 +1,6 @@
 # Pasta
 
-There are 33 pasta recipes in the cookbook.
+There are 34 pasta recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -41,6 +41,7 @@ There are 33 pasta recipes in the cookbook.
 ||[181](https://github.com/jcallaghan/The-Cookbook/issues/181)|[Rocket salad](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/rocket-salad.md)| |Style / Pasta 🍝<br>Style / BBQ<br>Meal / Side Dish<br>Favourite 🥰 / James<br>Ingredient / Cheese 🧀<br>Style / Salad<br>Pizza 🍕<br>Pizza 🍕 / Side<br>⚙ Published|
 | S||||
 ||[264](https://github.com/jcallaghan/The-Cookbook/issues/264)|[Spaghetti  Bolognese](https://github.com/jcallaghan/The-Cookbook/issues/264)| |Style / Pasta 🍝<br>Style / Italian 🇮🇹|
+||[418](https://github.com/jcallaghan/The-Cookbook/issues/418)|[Stuffed pasta shells](https://github.com/jcallaghan/The-Cookbook/issues/418)| |Style / Pasta 🍝<br>Ingredient / Meat / Beef|
 | T||||
 ||[60](https://github.com/jcallaghan/The-Cookbook/issues/60)|[Tagliatelle with broccoli, cauliflower and blue cheese](https://github.com/jcallaghan/The-Cookbook/issues/60)| |Style / Pasta 🍝<br>Style / Vegetarian<br>ℹ️ Quick & Easy<br>Meal / Main<br>Ingredient / Cheese 🧀<br>ℹ️ One Pot Wonder 💪<br>⚙ Published|
 ||[297](https://github.com/jcallaghan/The-Cookbook/issues/297)|[Tomato pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/tomato-pasta.md)| |Style / Pasta 🍝<br>Style / Vegetarian<br>ℹ️ Quick & Easy<br>Meal / Main<br>⚙ Needs Pictures ✅<br>⚙ Published|
@@ -48,4 +49,4 @@ There are 33 pasta recipes in the cookbook.
 | V||||
 ||[383](https://github.com/jcallaghan/The-Cookbook/issues/383)|[Vayia Shrimp Pasta](https://github.com/jcallaghan/The-Cookbook/issues/383)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Food Memories|
 
-_This index was automatically generated at 08-09-2022 00:27:02 using a custom Python script and GitHub Action._
+_This index was automatically generated at 10-09-2022 00:26:50 using a custom Python script and GitHub Action._
