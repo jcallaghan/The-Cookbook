@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 54 all recipes recipes in the cookbook.
+There are 55 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -40,6 +40,8 @@ There are 54 all recipes recipes in the cookbook.
 ||[233](https://github.com/jcallaghan/The-Cookbook/issues/233)|[Garlic dough balls](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/garlic-dough-balls.md)| |Meal / Appetiser<br>Meal / Side Dish<br>Pizza 🍕<br>Pizza 🍕 / Side<br>Style / Party Food 🥳<br>Equipment / Pizza Oven 🍕🔥<br>⚙ Published|
 ||[79](https://github.com/jcallaghan/The-Cookbook/issues/79)|[Granddads carrot soup](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/granddads-carrot-soup.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/granddads-carrot-soup-1.jpg' alt='Granddads carrot soup' width='200'/>|Style / Vegetarian<br>Favourite 🥰 / James<br>Style / Soup<br>Favourite 🥰 / Florence<br>Ingredient / Vegetable<br>Meal / Starter<br>⚙ Published|
 ||[58](https://github.com/jcallaghan/The-Cookbook/issues/58)|[Grilled steak ratatouille and saffron rice](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/grilled-steak-ratatouille-and-saffron-rice.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/grilled-steak-ratatouille-and-saffron-rice-1.jpg' alt='Grilled steak ratatouille and saffron rice' width='200'/>|Style / Vegetarian<br>Ingredient / Meat / Beef<br>Ingredient / Rice<br>Favourite 🥰 / Jas<br>Ingredient / Steak<br>Style / Dinner Party 🥳<br>Favourite 🥰 / James<br>⚙ Published|
+| J||||
+||[415](https://github.com/jcallaghan/The-Cookbook/issues/415)|[Japanese Slipper](https://github.com/jcallaghan/The-Cookbook/issues/415)| |Drink / Cocktail 🍸<br>Favourite 🥰 / James<br>⚙ Published<br>Drink / Cointreau Triple Sec<br>Drink / Midori|
 | L||||
 ||[346](https://github.com/jcallaghan/The-Cookbook/issues/346)|[Lamb Rogan Josh](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/lamb-rogan-josh.md)| |Ingredient / Meat / Lamb<br>Meal / Main<br>Style / Curry<br>Style / Marinade<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 | M||||
@@ -72,4 +74,4 @@ There are 54 all recipes recipes in the cookbook.
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 10-09-2022 00:26:07 using a custom Python script and GitHub Action._
+_This index was automatically generated at 11-09-2022 00:24:10 using a custom Python script and GitHub Action._
