@@ -12,8 +12,9 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 13-Sep 2022|[Salmon Wellington #419](https://github.com/jcallaghan/The-Cookbook/issues/419)|
 |Wed 14-Sep 2022|[Stuffed pasta shells #418](https://github.com/jcallaghan/The-Cookbook/issues/418)|
 |Thu 15-Sep 2022|[Fish cakes #109](https://github.com/jcallaghan/The-Cookbook/issues/109)|
-|Sun 18-Sep 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
+|Sat 17-Sep 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
 |Mon 19-Sep 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
+|Tue 20-Sep 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
 
 ## 🛒 Shopping List
 
@@ -55,6 +56,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Total time: 1 hour 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%205%20minutes)||
 |[Yellow bell peppers(35 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Yellow%20bell%20peppers(35%20g))|⅓ cup|
 
+## 🗒️ Notes
+
+1. Event
+1. Jas parents
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
@@ -62,4 +68,4 @@ The following items have not been added to the shopping list as they are like in
 Dried basil, Dried oregano and Garlic cloves.
 
 
-_This shopping list was generated at 12-09-2022 11:32:19._
+_This shopping list was generated at 12-09-2022 11:33:31._
