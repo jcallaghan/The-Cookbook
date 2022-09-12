@@ -1,6 +1,6 @@
 # Shopping List
 
-Sun 11-Sep 2022 - Wed 21-Sep 2022
+Mon 12-Sep 2022 - Thu 22-Sep 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,13 +8,12 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Sun 11-Sep 2022|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Mon 12-Sep 2022|[Roasted Pepper Pasta #400](https://github.com/jcallaghan/The-Cookbook/issues/400)|
-|Tue 13-Sep 2022|[Stuffed pasta shells #418](https://github.com/jcallaghan/The-Cookbook/issues/418)|
-|Wed 14-Sep 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
-|Thu 15-Sep 2022|[Salmon Wellington #419](https://github.com/jcallaghan/The-Cookbook/issues/419)|
-|Fri 16-Sep 2022|[Fish cakes #109](https://github.com/jcallaghan/The-Cookbook/issues/109)|
+|Tue 13-Sep 2022|[Salmon Wellington #419](https://github.com/jcallaghan/The-Cookbook/issues/419)|
+|Wed 14-Sep 2022|[Stuffed pasta shells #418](https://github.com/jcallaghan/The-Cookbook/issues/418)|
+|Thu 15-Sep 2022|[Fish cakes #109](https://github.com/jcallaghan/The-Cookbook/issues/109)|
 |Sun 18-Sep 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
+|Mon 19-Sep 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
 
 ## 🛒 Shopping List
 
@@ -63,4 +62,4 @@ The following items have not been added to the shopping list as they are like in
 Dried basil, Dried oregano and Garlic cloves.
 
 
-_This shopping list was generated at 11-09-2022 22:05:37._
+_This shopping list was generated at 12-09-2022 11:32:19._
