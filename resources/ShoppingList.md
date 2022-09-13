@@ -1,6 +1,6 @@
 # Shopping List
 
-Mon 12-Sep 2022 - Thu 22-Sep 2022
+Tue 13-Sep 2022 - Fri 23-Sep 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,10 +8,9 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Mon 12-Sep 2022|[Roasted Pepper Pasta #400](https://github.com/jcallaghan/The-Cookbook/issues/400)|
 |Tue 13-Sep 2022|[Salmon Wellington #419](https://github.com/jcallaghan/The-Cookbook/issues/419)|
-|Wed 14-Sep 2022|[Stuffed pasta shells #418](https://github.com/jcallaghan/The-Cookbook/issues/418)|
-|Thu 15-Sep 2022|[Fish cakes #109](https://github.com/jcallaghan/The-Cookbook/issues/109)|
+|Wed 14-Sep 2022|[Fish cakes #109](https://github.com/jcallaghan/The-Cookbook/issues/109)|
+|Thu 15-Sep 2022|[Stuffed pasta shells #418](https://github.com/jcallaghan/The-Cookbook/issues/418)|
 |Sat 17-Sep 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
 |Mon 19-Sep 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
 |Tue 20-Sep 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
@@ -21,10 +20,7 @@ This shopping list has been automatically generated with the ingredients from th
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
 |[Breadcrumb(40 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Breadcrumb(40%20g))|⅓ cup|
-|[Cashews](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cashews)|50g|
 |[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|2 + 2|
-|[Cook time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%201%20hour)||
-|[Cornstarch](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cornstarch)|1 tbsp|
 |[Cream cheese(110 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream%20cheese(110%20g))|4 oz|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|1|
 |[Enchilada sauce(250 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Enchilada%20sauce(250%20g))|1 cup|
@@ -34,16 +30,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[Jumbo shell(455 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Jumbo%20shell(455%20g))|1 lb|
 |[Medium onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20onions)|½|
 |[Mexican blend cheese(100 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mexican%20blend%20cheese(100%20g))|1 cup|
-|[Milk or cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk%20or%20cream)|200ml|
 |[Onions(75 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions(75%20g))|½ cup|
-|[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
 |[Red bell peppers(35 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20bell%20peppers(35%20g))|⅓ cup|
-|[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
-|[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|3|
-|[Rigatoni pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rigatoni%20pasta)|400g|
 |[Salmon fillet](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salmon%20fillet)|1|
-|[Seasoning to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seasoning%20to%20taste)||
-|[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Sheet puff pastry](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sheet%20puff%20pastry)|1|
 |[Shredded parmesan cheese(30 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shredded%20parmesan%20cheese(30%20g))|¼ cup|
 |[Tablespoon taco seasoning](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20taco%20seasoning)|1|
@@ -52,20 +41,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[Teaspoon peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20peppers)|1|
 |[Teaspoon salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20salt)|1 + 1|
 |[Teaspoons oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20oil)|2|
-|[Tomato paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20paste)|1 tbsp|
-|[Total time: 1 hour 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%205%20minutes)||
 |[Yellow bell peppers(35 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Yellow%20bell%20peppers(35%20g))|⅓ cup|
 
 ## 🗒️ Notes
 
 1. Event
 1. Jas parents
-
-## 🏪 Pantry Ingredients
-
-The following items have not been added to the shopping list as they are like in the pantry already.
-
-Dried basil, Dried oregano and Garlic cloves.
-
-
-_This shopping list was generated at 12-09-2022 11:33:31._
