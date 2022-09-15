@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 14-Sep 2022 - Sat 24-Sep 2022
+Thu 15-Sep 2022 - Sun 25-Sep 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 14-Sep 2022|[Fish cakes #109](https://github.com/jcallaghan/The-Cookbook/issues/109)|
 |Thu 15-Sep 2022|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
 |Sat 17-Sep 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
 |Mon 19-Sep 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
