@@ -9,10 +9,10 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 15-Sep 2022|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
-|Sat 17-Sep 2022|[Stuffed pasta shells #418](https://github.com/jcallaghan/The-Cookbook/issues/418)|
 |Sun 18-Sep 2022|[Air Fried Crispy Beef #420](https://github.com/jcallaghan/The-Cookbook/issues/420)|
 |Mon 19-Sep 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
-|Tue 20-Sep 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
+|Tue 20-Sep 2022|[Stuffed pasta shells #418](https://github.com/jcallaghan/The-Cookbook/issues/418)|
+|Fri 23-Sep 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
 
 ## 🛒 Shopping List
 
@@ -60,4 +60,4 @@ The following items have not been added to the shopping list as they are like in
 Garlic cloves and Vegetable oil.
 
 
-_This shopping list was generated at 15-09-2022 20:17:39._
+_This shopping list was generated at 15-09-2022 20:24:24._
