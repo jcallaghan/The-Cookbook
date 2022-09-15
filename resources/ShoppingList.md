@@ -9,10 +9,12 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 15-Sep 2022|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
+|Sat 17-Sep 2022|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
 |Sun 18-Sep 2022|[Air Fried Crispy Beef #420](https://github.com/jcallaghan/The-Cookbook/issues/420)|
 |Mon 19-Sep 2022|[Chicken Gyoza #333](https://github.com/jcallaghan/The-Cookbook/issues/333)|
 |Tue 20-Sep 2022|[Stuffed pasta shells #418](https://github.com/jcallaghan/The-Cookbook/issues/418)|
 |Wed 21-Sep 2022|[Chicken broth soup #220](https://github.com/jcallaghan/The-Cookbook/issues/220)|
+||[Slow cooker chicken soup #404](https://github.com/jcallaghan/The-Cookbook/issues/404)|
 |Thu 22-Sep 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
 |Fri 23-Sep 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
 
@@ -28,6 +30,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Canned water chestnuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Canned%20water%20chestnuts)|100g|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|4|
 |[Celery sticks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Celery%20sticks)|4|
+|[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|2|
 |[Chicken thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thighs)|250g|
 |[Chinese leaf](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chinese%20leaf)|110g|
 |[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)|25g|
@@ -35,10 +38,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
+|[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
 |[Coriander leaves and stems](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander%20leaves%20and%20stems)|20g|
 |[Cornflour seasoned with ½ teaspoon salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cornflour%20seasoned%20with%20½%20teaspoon%20salt)|200g|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|1|
 |[Enchilada sauce(250 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Enchilada%20sauce(250%20g))|1 cup|
+|[Flour + seasoning (salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Flour%20+%20seasoning%20(salt)||
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
 |[Green bell peppers(35 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20bell%20peppers(35%20g))|⅓ cup|
 |[Ground beef(455 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20beef(455%20g))|1 lb|
@@ -47,16 +52,20 @@ This shopping list has been automatically generated with the ingredients from th
 |[Jumbo shell(455 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Jumbo%20shell(455%20g))|1 lb|
 |[Large garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20garlic%20cloves)|1|
 |[Large red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20red%20chillies)|1|
+|[Mache or boston lettuce leaves to serve](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mache%20or%20boston%20lettuce%20leaves%20to%20serve)||
 |[Mexican blend cheese(100 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mexican%20blend%20cheese(100%20g))|1 cup|
+|[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
 |[Onions(75 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions(75%20g))|½ cup|
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|1 tbsp|
+|[Panko](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko)||
 |[Pinch of salt and white peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20salt%20and%20white%20peppers)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Prep time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2020%20minutes)||
 |[Prep time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2030%20minutes)||
 |[Red bell peppers(35 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20bell%20peppers(35%20g))|⅓ cup|
 |[Rump steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rump%20steak)|200-300g|
+|[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2-3](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202-3)||
 |[Serves: 30 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%2030%20servings)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
@@ -71,6 +80,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Teaspoons oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20oil)|2|
 |[Thumb size piece of fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thumb%20size%20piece%20of%20fresh%20ginger)|1|
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
+|[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2035%20minutes)||
 |[Total time: 40 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2040%20minutes)||
 |[Whole free-range chicken](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20free-range%20chicken)||
@@ -88,4 +98,4 @@ The following items have not been added to the shopping list as they are like in
 Caster sugar, Chicken stock, Cornflour, Garlic cloves, Light soy sauce, Plain flour, Salt, Seasoning, Sesame oil and Vegetable oil.
 
 
-_This shopping list was generated at 15-09-2022 20:34:39._
+_This shopping list was generated at 15-09-2022 20:40:06._
