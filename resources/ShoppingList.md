@@ -10,7 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Tue 20-Sep 2022|[Air Fried Crispy Beef #420](https://github.com/jcallaghan/The-Cookbook/issues/420)|
 |Wed 21-Sep 2022|[Chicken Gyoza #333](https://github.com/jcallaghan/The-Cookbook/issues/333)|
-||[Chicken broth soup #220](https://github.com/jcallaghan/The-Cookbook/issues/220)|
+|Thu 22-Sep 2022|[Chicken broth soup #220](https://github.com/jcallaghan/The-Cookbook/issues/220)|
 ||[Slow cooker chicken soup #404](https://github.com/jcallaghan/The-Cookbook/issues/404)|
 |Fri 23-Sep 2022|[Mexican Shredded Chicken #409](https://github.com/jcallaghan/The-Cookbook/issues/409)|
 |Tue 27-Sep 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
@@ -71,4 +71,4 @@ The following items have not been added to the shopping list as they are like in
 Caster sugar, Chicken stock, Cornflour, Garlic cloves, Light soy sauce, Plain flour, Salt, Seasoning, Sesame oil and Vegetable oil.
 
 
-_This shopping list was generated at 19-09-2022 22:43:08._
+_This shopping list was generated at 19-09-2022 22:43:40._
