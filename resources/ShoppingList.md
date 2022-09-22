@@ -68,6 +68,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Whole free-range chicken](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20free-range%20chicken)||
 |[Yellow bell peppers(35 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Yellow%20bell%20peppers(35%20g))|⅓ cup|
 
+## 🗒️ Notes
+
+1. Steak
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
@@ -75,4 +79,4 @@ The following items have not been added to the shopping list as they are like in
 Caster sugar, Chicken stock, Cornflour, Dried basil, Dried oregano, Garlic cloves, Light soy sauce, Plain flour, Salt, Seasoning, Sesame oil, Tomato purée and Vegetable oil.
 
 
-_This shopping list was generated at 22-09-2022 20:57:44._
+_This shopping list was generated at 22-09-2022 21:15:37._
