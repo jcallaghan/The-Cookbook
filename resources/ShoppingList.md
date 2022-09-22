@@ -14,7 +14,9 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 24-Sep 2022|[Chicken Gyoza #333](https://github.com/jcallaghan/The-Cookbook/issues/333)|
 |Mon 26-Sep 2022|[Grilled chicken couscous #378](https://github.com/jcallaghan/The-Cookbook/issues/378)|
 |Tue 27-Sep 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
+|Wed 28-Sep 2022|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
 |Thu 29-Sep 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
+||[Garlic Bread #355](https://github.com/jcallaghan/The-Cookbook/issues/355)|
 
 ## 🛒 Shopping List
 
@@ -73,4 +75,4 @@ The following items have not been added to the shopping list as they are like in
 Caster sugar, Chicken stock, Cornflour, Dried basil, Dried oregano, Garlic cloves, Light soy sauce, Plain flour, Salt, Seasoning, Sesame oil, Tomato purée and Vegetable oil.
 
 
-_This shopping list was generated at 22-09-2022 20:56:53._
+_This shopping list was generated at 22-09-2022 20:57:44._
