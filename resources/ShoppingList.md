@@ -8,7 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Tue 27-Sep 2022|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
+|Tue 27-Sep 2022|[Stuffed pasta shells #418](https://github.com/jcallaghan/The-Cookbook/issues/418)|
 |Wed 28-Sep 2022|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
 |Thu 29-Sep 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 ||[Garlic Bread #355](https://github.com/jcallaghan/The-Cookbook/issues/355)|
@@ -21,42 +21,40 @@ This shopping list has been automatically generated with the ingredients from th
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|450g|
-|[Chicken stock or water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20stock%20or%20water)|100ml|
 |[Chipotle chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chipotle%20chillies%20flakes)|2 tbsp|
-|[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
+|[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|2|
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
-|[Drained capers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Drained%20capers)|1 tbsp|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|2|
+|[Enchilada sauce(250 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Enchilada%20sauce(250%20g))|1 cup|
 |[Garlic covers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20covers)|2|
-|[Grated parmesan](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grated%20parmesan)|1 tbsp|
-|[Green beans](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20beans)|300g|
-|[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)|1|
+|[Green bell peppers(35 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20bell%20peppers(35%20g))|⅓ cup|
+|[Ground beef(455 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20beef(455%20g))|1 lb|
+|[Jumbo shell(455 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Jumbo%20shell(455%20g))|1 lb|
+|[Mexican blend cheese(100 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mexican%20blend%20cheese(100%20g))|1 cup|
 |[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g|
-|[New potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/New%20potatoes)|200g|
 |[Of fennel seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20fennel%20seeds)|1 tbsp|
 |[Of paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20paprika)|2 tsp|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|½ + 2|
+|[Onions(75 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions(75%20g))|½ cup|
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)||
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
-|[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
+|[Red bell peppers(35 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20bell%20peppers(35%20g))|⅓ cup|
 |[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
 |[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|3|
-|[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Shallots onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots%20onions)|1|
-|[Skinless chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Skinless%20chicken%20breasts)|2|
-|[Small garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20garlic%20cloves)|2|
-|[Spring greens](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20greens)|200g|
+|[Tablespoon taco seasoning](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20taco%20seasoning)|1|
+|[Teaspoons oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20oil)|2|
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
-|[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
 |[X 400g can tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20can%20tomatoes)|1|
+|[Yellow bell peppers(35 g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Yellow%20bell%20peppers(35%20g))|⅓ cup|
 
 ## 🗒️ Notes
 
@@ -66,7 +64,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Butter, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Olive oil, Salt, Seasoning, Smoked paprika and Tomato purée.
+Butter, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Salt, Seasoning, Smoked paprika and Tomato purée.
 
 
-_This shopping list was generated at 26-09-2022 09:57:06._
+_This shopping list was generated at 26-09-2022 20:57:43._
