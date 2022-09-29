@@ -76,6 +76,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Pie and chips
 1. Nandos
 
 ## 🏪 Pantry Ingredients
@@ -85,4 +86,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Salt, Seasoning, Smoked paprika and Tomato purée.
 
 
-_This shopping list was generated at 29-09-2022 20:03:07._
+_This shopping list was generated at 29-09-2022 20:11:21._
