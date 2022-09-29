@@ -22,6 +22,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 02-Oct 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Mon 03-Oct 2022|[Grilled chicken couscous #378](https://github.com/jcallaghan/The-Cookbook/issues/378)|
 |Wed 05-Oct 2022|[Red pepper dip #12](https://github.com/jcallaghan/The-Cookbook/issues/12)|
+|Thu 06-Oct 2022|[Beef and broccoli stir-fry #6](https://github.com/jcallaghan/The-Cookbook/issues/6)|
 
 ## 🛒 Shopping List
 
@@ -34,9 +35,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[#341 seared beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/#341%20seared%20beef)||
 |[Alaska roll smoked salmon (smoked)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Alaska%20roll%20smoked%20salmon%20(smoked))||
 |[Avocado](https://www.sainsburys.co.uk/gol-ui/SearchResults/Avocado)|1|
+|[Basmati rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Basmati%20rice)||
+|[Broccoli florets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Broccoli%20florets)|300g|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|450g|
 |[Chipotle chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chipotle%20chillies%20flakes)|2 tbsp|
 |[Cointreau triple sec](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cointreau%20triple%20sec)|30ml|
+|[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Crayfish tails](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crayfish%20tails)||
@@ -46,11 +50,14 @@ This shopping list has been automatically generated with the ingredients from th
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|2|
 |[Fresh lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemon%20juice)|30ml|
 |[Garlic covers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20covers)|2|
+|[Ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger)|1 tbsp|
+|[Medium carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots)|1|
 |[Midori (or other melon liqueur)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Midori%20(or%20other%20melon%20liqueur))|30ml|
 |[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g|
 |[Of fennel seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20fennel%20seeds)|1 tbsp|
 |[Of paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20paprika)|2 tsp|
-|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|½ + 2|
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|½ + 2 + 3|
+|[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|110ml|
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)||
 |[Philadelphia roll smoked salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Philadelphia%20roll%20smoked%20salmon)||
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
@@ -64,11 +71,15 @@ This shopping list has been automatically generated with the ingredients from th
 |[Salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salmon)||
 |[Seattle cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seattle%20cucumber)||
 |[Seattle roll cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seattle%20roll%20cucumber)||
+|[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Shallots onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots%20onions)|1|
+|[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)|2|
 |[Soho crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soho%20crab)||
+|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)||
 |[Tobiko (or masago)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tobiko%20(or%20masago))|50g|
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
+|[Total time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2025%20minutes)||
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
@@ -83,7 +94,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Butter, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Salt, Seasoning, Smoked paprika and Tomato purée.
+Baking soda, Butter, Chicken stock, Cornflour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Light brown sugar, Salt, Seasoning, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce, Tomato purée and Vegetable oil.
 
 
-_This shopping list was generated at 29-09-2022 20:11:21._
+_This shopping list was generated at 29-09-2022 20:17:55._
