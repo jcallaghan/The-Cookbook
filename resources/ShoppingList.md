@@ -18,9 +18,10 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Nigiri Sushi #121](https://github.com/jcallaghan/The-Cookbook/issues/121)|
 ||[Sushi - Avocado roll #120](https://github.com/jcallaghan/The-Cookbook/issues/120)|
 ||[Sushi - Cucumber roll #119](https://github.com/jcallaghan/The-Cookbook/issues/119)|
-|Sun 02-Oct 2022|[Red pepper dip #12](https://github.com/jcallaghan/The-Cookbook/issues/12)|
+|Sun 02-Oct 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Mon 03-Oct 2022|[Grilled chicken couscous #378](https://github.com/jcallaghan/The-Cookbook/issues/378)|
 |Tue 04-Oct 2022|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
+|Wed 05-Oct 2022|[Red pepper dip #12](https://github.com/jcallaghan/The-Cookbook/issues/12)|
 
 ## 🛒 Shopping List
 
@@ -41,6 +42,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Crayfish tails](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crayfish%20tails)||
 |[Cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cucumber)|1|
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
+|[Duck breast fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Duck%20breast%20fillets)|2|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|2|
 |[Fresh lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemon%20juice)|30ml|
 |[Garlic covers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20covers)|2|
@@ -72,6 +74,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
 |[X 400g can tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20can%20tomatoes)|1|
 
+## 🗒️ Notes
+
+1. Nandos
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
@@ -79,4 +85,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Salt, Seasoning, Smoked paprika and Tomato purée.
 
 
-_This shopping list was generated at 29-09-2022 19:51:31._
+_This shopping list was generated at 29-09-2022 20:00:12._
