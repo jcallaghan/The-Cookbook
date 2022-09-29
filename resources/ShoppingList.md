@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 29-Sep 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
+|Fri 30-Sep 2022|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 |Sat 01-Oct 2022|[Japanese Slipper #415](https://github.com/jcallaghan/The-Cookbook/issues/415)|
 ||[Sushi #29](https://github.com/jcallaghan/The-Cookbook/issues/29)|
 ||[Sushi - Worsley Roll #341](https://github.com/jcallaghan/The-Cookbook/issues/341)|
@@ -20,7 +21,6 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Sushi - Cucumber roll #119](https://github.com/jcallaghan/The-Cookbook/issues/119)|
 |Sun 02-Oct 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Mon 03-Oct 2022|[Grilled chicken couscous #378](https://github.com/jcallaghan/The-Cookbook/issues/378)|
-|Tue 04-Oct 2022|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 |Wed 05-Oct 2022|[Red pepper dip #12](https://github.com/jcallaghan/The-Cookbook/issues/12)|
 
 ## 🛒 Shopping List
@@ -85,4 +85,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Salt, Seasoning, Smoked paprika and Tomato purée.
 
 
-_This shopping list was generated at 29-09-2022 20:00:12._
+_This shopping list was generated at 29-09-2022 20:03:07._
