@@ -18,6 +18,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Sushi - California roll #122](https://github.com/jcallaghan/The-Cookbook/issues/122)|
 ||[Sushi - Boston Roll #123](https://github.com/jcallaghan/The-Cookbook/issues/123)|
 ||[Sushi seaweed salad #127](https://github.com/jcallaghan/The-Cookbook/issues/127)|
+|Wed 12-Oct 2022|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 
 ## 🛒 Shopping List
 
@@ -73,4 +74,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Chicken stock, Cornflour, Crushed chillies, Dried basil, Garlic cloves, Light brown sugar, Seasoning, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce, Tomato purée and Vegetable oil.
 
 
-_This shopping list was generated at 05-10-2022 23:19:28._
+_This shopping list was generated at 05-10-2022 23:39:12._
