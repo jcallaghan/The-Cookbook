@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:17c293b2-61a3-434a-8461-4d244521e592
-DTSTAMP:20221005T231833
+UID:7703f18b-ec51-4019-bcf3-9886243c91bf
+DTSTAMP:20221005T231936
 DTSTART:20221005T184500
 DTEND:20221005T203000
 SUMMARY:Nandos and Red pepper dip #12 for dinner
@@ -33,8 +33,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:159a03f6-a5c6-48f7-89e1-143dc6e43a28
-DTSTAMP:20221005T231833
+UID:ff8bb58c-71f0-48a8-8652-b6b0681b5a93
+DTSTAMP:20221005T231937
 DTSTART:20221006T184500
 DTEND:20221006T203000
 SUMMARY:Beef and broccoli stir-fry #6 for dinner
@@ -44,12 +44,30 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:dca1cb3e-6817-463a-b165-f15440d676a0
-DTSTAMP:20221005T231833
+UID:db9161ef-0c49-4e84-94c8-42232ac21a21
+DTSTAMP:20221005T231937
 DTSTART:20221008T184500
 DTEND:20221008T203000
 SUMMARY:Lunch at Jas' parents for dinner
 DESCRIPTION:Note: Lunch at Jas' parents
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8028a8c2-b159-4857-9aa7-4611bc460fed
+DTSTAMP:20221005T231938
+DTSTART:20221009T184500
+DTEND:20221009T203000
+SUMMARY:Japanese Slipper #415, Sushi #29, Sushi - Worsley Roll #341, Sushi - Cucumber roll #119, Sushi - Avocado roll #120, Sushi - California roll #122, Sushi - Boston Roll #123 and Sushi seaweed salad #127 for dinner
+DESCRIPTION:Japanese Slipper #415 - https://github.com/jcallaghan/The-Cookbook/issues/415
+Sushi #29 - https://github.com/jcallaghan/The-Cookbook/issues/29
+Sushi - Worsley Roll #341 - https://github.com/jcallaghan/The-Cookbook/issues/341
+Sushi - Cucumber roll #119 - https://github.com/jcallaghan/The-Cookbook/issues/119
+Sushi - Avocado roll #120 - https://github.com/jcallaghan/The-Cookbook/issues/120
+Sushi - California roll #122 - https://github.com/jcallaghan/The-Cookbook/issues/122
+Sushi - Boston Roll #123 - https://github.com/jcallaghan/The-Cookbook/issues/123
+Sushi seaweed salad #127 - https://github.com/jcallaghan/The-Cookbook/issues/127
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
