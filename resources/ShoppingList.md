@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 06-Oct 2022|[Beef and broccoli stir-fry #6](https://github.com/jcallaghan/The-Cookbook/issues/6)|
+|Sat 08-Oct 2022|[Tarhana Soup #91](https://github.com/jcallaghan/The-Cookbook/issues/91)|
 |Sun 09-Oct 2022|[Japanese Slipper #415](https://github.com/jcallaghan/The-Cookbook/issues/415)|
 ||[Sushi #29](https://github.com/jcallaghan/The-Cookbook/issues/29)|
 ||[Sushi - Worsley Roll #341](https://github.com/jcallaghan/The-Cookbook/issues/341)|
@@ -90,4 +91,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Chicken stock, Cornflour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Light brown sugar, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Tomato purée and Vegetable oil.
 
 
-_This shopping list was generated at 06-10-2022 20:57:16._
+_This shopping list was generated at 06-10-2022 21:25:42._
