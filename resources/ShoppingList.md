@@ -20,8 +20,8 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Sushi seaweed salad #127](https://github.com/jcallaghan/The-Cookbook/issues/127)|
 |Mon 10-Oct 2022|[Creamy smoked salmon pasta #1](https://github.com/jcallaghan/The-Cookbook/issues/1)|
 |Wed 12-Oct 2022|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
-|Fri 14-Oct 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 |Thu 13-Oct 2022|[Beef pasta bake #138](https://github.com/jcallaghan/The-Cookbook/issues/138)|
+|Fri 14-Oct 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 
 ## 🛒 Shopping List
 
@@ -46,16 +46,16 @@ This shopping list has been automatically generated with the ingredients from th
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|100ml|
 |[Dried fennel](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20fennel)|½ tsp|
 |[Dried thyme](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20thyme)|1 tsp|
-|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|2 + 2|
+|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|2|
 |[Farfalle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Farfalle%20pasta)|250g|
 |[Fresh chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20chives)||
 |[Fresh lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemon%20juice)|30ml|
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
-|[Garlic covers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20covers)|2 + 2|
+|[Garlic covers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20covers)|2|
 |[Ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger)|1 tbsp|
 |[Medium carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots)|1|
 |[Midori (or other melon liqueur)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Midori%20(or%20other%20melon%20liqueur))|30ml|
-|[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g + 500g + 500g|
+|[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g + 500g|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|½|
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|110ml|
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)||
@@ -98,4 +98,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Chicken stock, Cornflour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Light brown sugar, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Tomato purée and Vegetable oil.
 
 
-_This shopping list was generated at 06-10-2022 21:35:36._
+_This shopping list was generated at 06-10-2022 21:36:05._
