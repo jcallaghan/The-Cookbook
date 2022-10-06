@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 05-Oct 2022 - Sat 15-Oct 2022
+Thu 06-Oct 2022 - Sun 16-Oct 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 05-Oct 2022|[Red pepper dip #12](https://github.com/jcallaghan/The-Cookbook/issues/12)|
 |Thu 06-Oct 2022|[Beef and broccoli stir-fry #6](https://github.com/jcallaghan/The-Cookbook/issues/6)|
 |Sun 09-Oct 2022|[Japanese Slipper #415](https://github.com/jcallaghan/The-Cookbook/issues/415)|
 ||[Sushi #29](https://github.com/jcallaghan/The-Cookbook/issues/29)|
@@ -33,7 +32,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Avocado](https://www.sainsburys.co.uk/gol-ui/SearchResults/Avocado)|1|
 |[Basmati rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Basmati%20rice)||
 |[Broccoli florets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Broccoli%20florets)|300g|
-|[Chipotle chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chipotle%20chillies%20flakes)|2 tbsp|
 |[Cointreau triple sec](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cointreau%20triple%20sec)|30ml|
 |[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
 |[Crayfish tails](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crayfish%20tails)||
@@ -49,29 +47,25 @@ This shopping list has been automatically generated with the ingredients from th
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Raw salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Raw%20salmon)||
 |[Raw tuna](https://www.sainsburys.co.uk/gol-ui/SearchResults/Raw%20tuna)||
-|[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|3|
 |[Salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salmon)||
 |[Seattle cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seattle%20cucumber)||
 |[Seattle roll cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seattle%20roll%20cucumber)||
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
-|[Shallots onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots%20onions)|1|
 |[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)|2|
 |[Soho crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soho%20crab)||
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)||
 |[Tobiko (or masago)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tobiko%20(or%20masago))|50g|
 |[Total time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2025%20minutes)||
-|[X 400g can tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20can%20tomatoes)|1|
 
 ## 🗒️ Notes
 
-1. Nandos
 1. Lunch at Jas' parents
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Baking soda, Chicken stock, Cornflour, Crushed chillies, Dried basil, Garlic cloves, Light brown sugar, Seasoning, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce, Tomato purée and Vegetable oil.
+Baking soda, Chicken stock, Cornflour, Crushed chillies, Garlic cloves, Light brown sugar, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 05-10-2022 23:39:12._
+_This shopping list was generated at 06-10-2022 18:04:46._
