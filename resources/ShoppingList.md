@@ -17,7 +17,8 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Sushi - California roll #122](https://github.com/jcallaghan/The-Cookbook/issues/122)|
 ||[Sushi - Boston Roll #123](https://github.com/jcallaghan/The-Cookbook/issues/123)|
 ||[Sushi seaweed salad #127](https://github.com/jcallaghan/The-Cookbook/issues/127)|
-|Tue 11-Oct 2022|[Salmon & broccoli traybake #139](https://github.com/jcallaghan/The-Cookbook/issues/139)|
+|Mon 10-Oct 2022|[Salmon & broccoli traybake #139](https://github.com/jcallaghan/The-Cookbook/issues/139)|
+||[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Wed 12-Oct 2022|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 |Thu 13-Oct 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 
@@ -78,4 +79,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Chicken stock, Cornflour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Light brown sugar, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Tomato purée and Vegetable oil.
 
 
-_This shopping list was generated at 06-10-2022 20:54:26._
+_This shopping list was generated at 06-10-2022 20:55:16._
