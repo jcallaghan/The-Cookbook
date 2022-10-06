@@ -17,7 +17,9 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Sushi - California roll #122](https://github.com/jcallaghan/The-Cookbook/issues/122)|
 ||[Sushi - Boston Roll #123](https://github.com/jcallaghan/The-Cookbook/issues/123)|
 ||[Sushi seaweed salad #127](https://github.com/jcallaghan/The-Cookbook/issues/127)|
+|Tue 11-Oct 2022|[Salmon & broccoli traybake #139](https://github.com/jcallaghan/The-Cookbook/issues/139)|
 |Wed 12-Oct 2022|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
+|Thu 13-Oct 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 
 ## 🛒 Shopping List
 
@@ -34,28 +36,36 @@ This shopping list has been automatically generated with the ingredients from th
 |[Broccoli florets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Broccoli%20florets)|300g|
 |[Cointreau triple sec](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cointreau%20triple%20sec)|30ml|
 |[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
+|[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
 |[Crayfish tails](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crayfish%20tails)||
 |[Cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cucumber)|1|
+|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|2|
 |[Fresh lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemon%20juice)|30ml|
+|[Garlic covers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20covers)|2|
 |[Ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger)|1 tbsp|
 |[Medium carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots)|1|
 |[Midori (or other melon liqueur)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Midori%20(or%20other%20melon%20liqueur))|30ml|
-|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|3|
+|[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g|
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|½|
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|110ml|
+|[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)||
 |[Philadelphia roll smoked salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Philadelphia%20roll%20smoked%20salmon)||
 |[Prawn (query crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prawn%20(query%20crab)|20|
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Raw salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Raw%20salmon)||
 |[Raw tuna](https://www.sainsburys.co.uk/gol-ui/SearchResults/Raw%20tuna)||
+|[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
 |[Salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salmon)||
 |[Seattle cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seattle%20cucumber)||
 |[Seattle roll cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seattle%20roll%20cucumber)||
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
+|[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)|2|
 |[Soho crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soho%20crab)||
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)||
 |[Tobiko (or masago)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tobiko%20(or%20masago))|50g|
 |[Total time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2025%20minutes)||
+|[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
 
 ## 🗒️ Notes
 
@@ -65,7 +75,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Baking soda, Chicken stock, Cornflour, Crushed chillies, Garlic cloves, Light brown sugar, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
+Baking soda, Chicken stock, Cornflour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Light brown sugar, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Tomato purée and Vegetable oil.
 
 
-_This shopping list was generated at 06-10-2022 18:04:46._
+_This shopping list was generated at 06-10-2022 20:54:26._
