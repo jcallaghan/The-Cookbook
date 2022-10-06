@@ -71,6 +71,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Lunch at Jas' parents
+1. Rudie's Pizza
 
 ## 🏪 Pantry Ingredients
 
@@ -79,4 +80,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Chicken stock, Cornflour, Crushed chillies, Dried basil, Dried oregano, Garlic cloves, Light brown sugar, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Tomato purée and Vegetable oil.
 
 
-_This shopping list was generated at 06-10-2022 20:55:16._
+_This shopping list was generated at 06-10-2022 20:56:22._
