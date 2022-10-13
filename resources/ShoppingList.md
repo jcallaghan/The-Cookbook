@@ -46,6 +46,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. F&C
 1. Take-out?
+1. Ready meal or take-out
 
 ## 🏪 Pantry Ingredients
 
@@ -54,4 +55,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Dried basil, Dried oregano, Garlic cloves and Plain flour.
 
 
-_This shopping list was generated at 13-10-2022 18:09:05._
+_This shopping list was generated at 13-10-2022 18:10:00._
