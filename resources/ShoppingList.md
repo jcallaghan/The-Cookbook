@@ -38,6 +38,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. F&C
+1. Take-out?
 
 ## 🏪 Pantry Ingredients
 
@@ -46,4 +47,4 @@ The following items have not been added to the shopping list as they are like in
 Dried basil, Dried oregano, Garlic cloves, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 13-10-2022 18:01:59._
+_This shopping list was generated at 13-10-2022 18:02:34._
