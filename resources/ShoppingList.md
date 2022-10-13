@@ -50,7 +50,6 @@ This shopping list has been automatically generated with the ingredients from th
 1. Basil and Philadelphia Ravioli
 1. Beef and ricotta ravioli
 1. Pumkin and sage ravioli 
-1. Pumkin and sage ravioli 
 
 ## 🏪 Pantry Ingredients
 
@@ -59,4 +58,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Dried basil, Dried oregano, Garlic cloves and Plain flour.
 
 
-_This shopping list was generated at 13-10-2022 18:17:42._
+_This shopping list was generated at 13-10-2022 20:15:44._
