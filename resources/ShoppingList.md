@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 14-Oct 2022|[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
 |Sat 15-Oct 2022|[Fish pie #171](https://github.com/jcallaghan/The-Cookbook/issues/171)|
 |Sun 16-Oct 2022|[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
+|Mon 17-Oct 2022|[Smoked salmon pasta #422](https://github.com/jcallaghan/The-Cookbook/issues/422)|
 
 ## 🛒 Shopping List
 
@@ -53,4 +54,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Dried basil, Dried oregano, Garlic cloves and Plain flour.
 
 
-_This shopping list was generated at 13-10-2022 18:04:31._
+_This shopping list was generated at 13-10-2022 18:05:49._
