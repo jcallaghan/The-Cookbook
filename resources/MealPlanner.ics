@@ -21,82 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:addde2af-91c2-430d-acc8-e263abb35eec
-DTSTAMP:20221006T213557
-DTSTART:20221006T184500
-DTEND:20221006T203000
-SUMMARY:Beef and broccoli stir-fry #6 for dinner
-DESCRIPTION:Beef and broccoli stir-fry #6 - https://github.com/jcallaghan/The-Cookbook/issues/6
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:4504adb5-386b-40f8-9b67-45066dcee64e
-DTSTAMP:20221006T213557
-DTSTART:20221008T184500
-DTEND:20221008T203000
-SUMMARY:Lunch at Jas' parents and Tarhana Soup #91 for dinner
-DESCRIPTION:Note: Lunch at Jas' parents
-Tarhana Soup #91 - https://github.com/jcallaghan/The-Cookbook/issues/91
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:189dc4f9-7963-4959-92f3-cb7e4a4692be
-DTSTAMP:20221006T213559
-DTSTART:20221009T184500
-DTEND:20221009T203000
-SUMMARY:Japanese Slipper #415, Sushi #29, Sushi - Worsley Roll #341, Sushi - Cucumber roll #119, Sushi - Avocado roll #120, Sushi - California roll #122, Sushi - Boston Roll #123 and Sushi seaweed salad #127 for dinner
-DESCRIPTION:Japanese Slipper #415 - https://github.com/jcallaghan/The-Cookbook/issues/415
-Sushi #29 - https://github.com/jcallaghan/The-Cookbook/issues/29
-Sushi - Worsley Roll #341 - https://github.com/jcallaghan/The-Cookbook/issues/341
-Sushi - Cucumber roll #119 - https://github.com/jcallaghan/The-Cookbook/issues/119
-Sushi - Avocado roll #120 - https://github.com/jcallaghan/The-Cookbook/issues/120
-Sushi - California roll #122 - https://github.com/jcallaghan/The-Cookbook/issues/122
-Sushi - Boston Roll #123 - https://github.com/jcallaghan/The-Cookbook/issues/123
-Sushi seaweed salad #127 - https://github.com/jcallaghan/The-Cookbook/issues/127
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:6c45c436-ac81-4224-8a63-828057e3ba30
-DTSTAMP:20221006T213559
-DTSTART:20221010T184500
-DTEND:20221010T203000
-SUMMARY:Creamy smoked salmon pasta #1 for dinner
-DESCRIPTION:Creamy smoked salmon pasta #1 - https://github.com/jcallaghan/The-Cookbook/issues/1
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:c314a9bd-c2c6-4a34-82ad-491b18bed9c8
-DTSTAMP:20221006T213559
-DTSTART:20221011T184500
-DTEND:20221011T203000
-SUMMARY:Rudie's Pizza for dinner
-DESCRIPTION:Note: Rudie's Pizza
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:6ed8d01c-bb80-4444-a1f4-c3719b2046bc
-DTSTAMP:20221006T213600
-DTSTART:20221012T184500
-DTEND:20221012T203000
-SUMMARY:Chicken Caesar salad #382 for dinner
-DESCRIPTION:Chicken Caesar salad #382 - https://github.com/jcallaghan/The-Cookbook/issues/382
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:d19a5557-fb2c-4030-bc15-7cf24f11ff67
-DTSTAMP:20221006T213600
+UID:07e19d73-5224-4763-bc81-95e4bd3e7fc9
+DTSTAMP:20221013T180151
 DTSTART:20221013T184500
 DTEND:20221013T203000
 SUMMARY:Beef pasta bake #138 for dinner
@@ -106,12 +32,23 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:96510705-1aad-4c3f-adfc-2c2347e33455
-DTSTAMP:20221006T213601
+UID:4e5cdaab-f8bc-45fc-bd2b-0ccea4038f2f
+DTSTAMP:20221013T180152
 DTSTART:20221014T184500
 DTEND:20221014T203000
 SUMMARY:Meatballs #59 for dinner
 DESCRIPTION:Meatballs #59 - https://github.com/jcallaghan/The-Cookbook/issues/59
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e09ceaed-5fd2-451b-a45d-c14ee9e9fcc8
+DTSTAMP:20221013T180153
+DTSTART:20221015T184500
+DTEND:20221015T203000
+SUMMARY:F&C for dinner
+DESCRIPTION:Note: F&C
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
