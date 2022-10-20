@@ -11,11 +11,12 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 21-Oct 2022|[Sticky black pepper beef  #386](https://github.com/jcallaghan/The-Cookbook/issues/386)|
 ||[Thai Beef Noodles #323](https://github.com/jcallaghan/The-Cookbook/issues/323)|
 |Sat 22-Oct 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
-|Sun 23-Oct 2022|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
+|Sun 23-Oct 2022|[Mediterranean chicken flatbreads #417](https://github.com/jcallaghan/The-Cookbook/issues/417)|
+|Mon 24-Oct 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
 |Tue 25-Oct 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
-||[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
-|Wed 26-Oct 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
-|Thu 27-Oct 2022|[Mediterranean chicken flatbreads #417](https://github.com/jcallaghan/The-Cookbook/issues/417)|
+||[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
+|Wed 26-Oct 2022|[Fish pie #171](https://github.com/jcallaghan/The-Cookbook/issues/171)|
+|Thu 27-Oct 2022|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
 |Sat 29-Oct 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 
 ## 🛒 Shopping List
@@ -36,11 +37,15 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cook time:  15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%20%2015%20minutes)||
 |[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
+|[Cook time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2025%20minutes)||
 |[Cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream)|1 tbsp|
 |[Dijon mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20mustard)|½ tsp|
+|[Dijon or english mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20or%20english%20mustard)|1 tsp|
 |[Drained capers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Drained%20capers)|1 tbsp|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|2|
 |[Extra lean beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Extra%20lean%20beef)|250g|
+|[Fish pie mix (cod](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fish%20pie%20mix%20(cod)|1|
+|[Fresh chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20chives)||
 |[Fresh coriander](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20coriander)||
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)|1|
 |[Freshly ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20ground%20black%20peppers)||
@@ -50,6 +55,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[Green beans](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20beans)|300g|
 |[Green peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20peppers)|1|
 |[Green pesto](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20pesto)|4 tbsp|
+|[Handful frozen petits pois](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20frozen%20petits%20pois)||
+|[Handful frozen sweetcorn](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20frozen%20sweetcorn)||
+|[Handful grated cheddar or grated mozzarella cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20grated%20cheddar%20or%20grated%20mozzarella%20cheese)||
 |[Hoisin sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hoisin%20sauce)|1 tbsp|
 |[Italian herb seasoning](https://www.sainsburys.co.uk/gol-ui/SearchResults/Italian%20herb%20seasoning)|1tbsp|
 |[Js folded flat breads](https://www.sainsburys.co.uk/gol-ui/SearchResults/Js%20folded%20flat%20breads)|6|
@@ -57,6 +65,8 @@ This shopping list has been automatically generated with the ingredients from th
 |[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)|1|
 |[Lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon%20juice)|1½ tbsp|
 |[Lighter mayonnaise](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lighter%20mayonnaise)|3tbsp|
+|[Maris piper potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Maris%20piper%20potatoes)|1kg|
+|[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|400ml|
 |[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g + 450g|
 |[New potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/New%20potatoes)|200g|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
@@ -64,23 +74,27 @@ This shopping list has been automatically generated with the ingredients from th
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)||
 |[Prep time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%200%20minutes)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
+|[Prep time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2020%20minutes)||
 |[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
 |[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
 |[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|1|
 |[Rice wine vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20wine%20vinegar)|1 tbsp|
 |[Seabass fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seabass%20fillets)|2|
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
+|[Serves: 3](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%203)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Skinless chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Skinless%20chicken%20breasts)|2|
 |[Small garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20garlic%20cloves)|2|
 |[Spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spaghetti)||
 |[Spring greens](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20greens)|200g|
+|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|4|
 |[Sugar snap peas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar%20snap%20peas)||
 |[Sweet chillies sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sweet%20chillies%20sauce)|1 tbsp|
 |[Tagliatelle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tagliatelle%20pasta)|300g|
 |[Total time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2015%20minutes)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
+|[Total time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2045%20minutes)||
 |[Young spinach leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Young%20spinach%20leaves)|35g|
 
 ## 🗒️ Notes
@@ -88,12 +102,13 @@ This shopping list has been automatically generated with the ingredients from th
 1. Basil and Philadelphia Ravioli
 1. Beef and ricotta ravioli
 1. Chicken soup and noodles?
+1. Lunch as Jas' parents
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Butter, Cumin, Dried basil, Dried oregano, Garlic powder, Olive oil, Seasoning, Soy sauce, Tomato puree and Tomato purée.
+Butter, Cumin, Dried basil, Dried oregano, Garlic powder, Olive oil, Plain flour, Seasoning, Soy sauce, Tomato puree and Tomato purée.
 
 
-_This shopping list was generated at 20-10-2022 19:02:09._
+_This shopping list was generated at 20-10-2022 19:03:47._
