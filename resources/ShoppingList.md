@@ -9,7 +9,6 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Fri 21-Oct 2022|[Sticky black pepper beef  #386](https://github.com/jcallaghan/The-Cookbook/issues/386)|
-||[Thai Beef Noodles #323](https://github.com/jcallaghan/The-Cookbook/issues/323)|
 |Sat 22-Oct 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 |Sun 23-Oct 2022|[Mediterranean chicken flatbreads #417](https://github.com/jcallaghan/The-Cookbook/issues/417)|
 |Mon 24-Oct 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
@@ -98,7 +97,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Basil and Philadelphia Ravioli
 1. Beef and ricotta ravioli
-1. Chicken soup and noodles?
 1. Lunch as Jas' parents
 
 ## 🏪 Pantry Ingredients
@@ -108,4 +106,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Chicken stock, Cumin, Dried basil, Dried oregano, Garlic powder, Olive oil, Plain flour, Seasoning, Soy sauce, Tomato puree and Tomato purée.
 
 
-_This shopping list was generated at 20-10-2022 19:04:46._
+_This shopping list was generated at 20-10-2022 20:04:25._
