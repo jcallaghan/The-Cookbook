@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3e7906f8-f934-4541-b348-9b5c7d822087
-DTSTAMP:20221020T185649
+UID:d1d47b37-34be-4673-bd7c-50086ab97714
+DTSTAMP:20221020T190112
 DTSTART:20221020T184500
 DTEND:20221020T203000
 SUMMARY:Basil and Philadelphia Ravioli and Beef and ricotta ravioli for dinner
@@ -33,19 +33,21 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:0b00561c-5fea-4619-a298-f78f28f44f70
-DTSTAMP:20221020T185649
+UID:638cadc0-79dd-4ba9-b48c-52e6d605a83e
+DTSTAMP:20221020T190112
 DTSTART:20221021T184500
 DTEND:20221021T203000
-SUMMARY:Chicken soup and noodles? for dinner
+SUMMARY:Chicken soup and noodles?, Sticky black pepper beef  #386 and Thai Beef Noodles #323 for dinner
 DESCRIPTION:Note: Chicken soup and noodles?
+Sticky black pepper beef  #386 - https://github.com/jcallaghan/The-Cookbook/issues/386
+Thai Beef Noodles #323 - https://github.com/jcallaghan/The-Cookbook/issues/323
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9ef42878-7511-48b8-91fc-0a30df15a307
-DTSTAMP:20221020T185649
+UID:ebe6bca8-1ac5-4711-945f-582933775bd5
+DTSTAMP:20221020T190113
 DTSTART:20221022T184500
 DTEND:20221022T203000
 SUMMARY:Meatballs #59 for dinner
@@ -55,23 +57,47 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a3fb927f-5fff-4ff9-97b8-3a1c1e75d000
-DTSTAMP:20221020T185649
+UID:e1531b0c-b661-4aff-b834-2396d768cf07
+DTSTAMP:20221020T190113
 DTSTART:20221023T184500
 DTEND:20221023T203000
-SUMMARY:Chicken piccata #286 for dinner
-DESCRIPTION:Chicken piccata #286 - https://github.com/jcallaghan/The-Cookbook/issues/286
+SUMMARY:Spaghetti  Bolognese #264 and Chicken piccata #286 for dinner
+DESCRIPTION:Spaghetti  Bolognese #264 - https://github.com/jcallaghan/The-Cookbook/issues/264
+Chicken piccata #286 - https://github.com/jcallaghan/The-Cookbook/issues/286
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:16084086-34a2-42f0-b17a-5a03f11b83fb
-DTSTAMP:20221020T185650
+UID:0a008e3b-ef99-4eec-b32d-af67462a2d2e
+DTSTAMP:20221020T190114
+DTSTART:20221025T184500
+DTEND:20221025T203000
+SUMMARY:Chicken Alfredo Penne #414 for dinner
+DESCRIPTION:Chicken Alfredo Penne #414 - https://github.com/jcallaghan/The-Cookbook/issues/414
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c0b06c4d-18fe-44ba-8809-a36cb4da478e
+DTSTAMP:20221020T190114
+DTSTART:20221026T184500
+DTEND:20221026T203000
+SUMMARY:Mediterranean chicken flatbreads #417 for dinner
+DESCRIPTION:Mediterranean chicken flatbreads #417 - https://github.com/jcallaghan/The-Cookbook/issues/417
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:843c2f79-d157-47b2-82ca-e2f1396fb6fd
+DTSTAMP:20221020T190114
 DTSTART:20221027T184500
 DTEND:20221027T203000
-SUMMARY:Pesto chicken pasta #137 for dinner
-DESCRIPTION:Pesto chicken pasta #137 - https://github.com/jcallaghan/The-Cookbook/issues/137
+SUMMARY:Pesto tagliatelle with sea bass #177 and Pesto chicken pasta #137 for dinner
+DESCRIPTION:Pesto tagliatelle with sea bass #177 - https://github.com/jcallaghan/The-Cookbook/issues/177
+Pesto chicken pasta #137 - https://github.com/jcallaghan/The-Cookbook/issues/137
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
