@@ -9,10 +9,10 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 27-Oct 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
-|Fri 28-Oct 2022|[General TSO's Chicken #424](https://github.com/jcallaghan/The-Cookbook/issues/424)|
-||[Air Fried Crispy Beef #420](https://github.com/jcallaghan/The-Cookbook/issues/420)|
+|Fri 28-Oct 2022|[Air Fried Crispy Beef #420](https://github.com/jcallaghan/The-Cookbook/issues/420)|
 |Tue 01-Nov 2022|[Taiwanese popcorn chicken #425](https://github.com/jcallaghan/The-Cookbook/issues/425)|
 |Wed 02-Nov 2022|[Roasted Pepper Pasta #400](https://github.com/jcallaghan/The-Cookbook/issues/400)|
+|Fri 04-Nov 2022|[General TSO's Chicken #424](https://github.com/jcallaghan/The-Cookbook/issues/424)|
 |Sat 05-Nov 2022|[Thattukada Chicken Curry #361](https://github.com/jcallaghan/The-Cookbook/issues/361)|
 |Sun 06-Nov 2022|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
 
@@ -88,4 +88,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Dried basil, Dried oregano, Garlic cloves, Olive oil, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 27-10-2022 21:04:40._
+_This shopping list was generated at 27-10-2022 21:13:03._
