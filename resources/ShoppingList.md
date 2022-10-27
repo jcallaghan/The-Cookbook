@@ -76,6 +76,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. 3 rump + Canadian steak
 1. Dinner out
 1. Takeout
 1. Nandos
@@ -88,4 +89,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Dried basil, Dried oregano, Garlic cloves, Olive oil, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 27-10-2022 21:13:03._
+_This shopping list was generated at 27-10-2022 21:13:56._
