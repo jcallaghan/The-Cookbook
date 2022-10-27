@@ -9,9 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 27-Oct 2022|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
-|Tue 01-Nov 2022|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
-|Wed 02-Nov 2022|[Cous-cous recipes #117](https://github.com/jcallaghan/The-Cookbook/issues/117)|
-|Thu 03-Nov 2022|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
+|Sun 06-Nov 2022|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
 
 ## 🛒 Shopping List
 
@@ -32,6 +30,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Nandos
+1. Fishcakes
 
 ## 🏪 Pantry Ingredients
 
@@ -40,4 +39,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock and Olive oil.
 
 
-_This shopping list was generated at 27-10-2022 18:03:17._
+_This shopping list was generated at 27-10-2022 20:41:56._
