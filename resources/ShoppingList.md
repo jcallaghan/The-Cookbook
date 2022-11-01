@@ -11,7 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 03-Nov 2022|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Fri 04-Nov 2022|[General TSO's Chicken #424](https://github.com/jcallaghan/The-Cookbook/issues/424)|
 |Sat 05-Nov 2022|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
-|Sun 06-Nov 2022|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
+|Tue 08-Nov 2022|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
 
 ## 🛒 Shopping List
 
@@ -66,6 +66,7 @@ This shopping list has been automatically generated with the ingredients from th
 1. Fishcakes
 1. M&S Dinner
 1. Nandos
+1. Lunch at Jas' Parents
 
 ## 🏪 Pantry Ingredients
 
@@ -74,4 +75,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Cornflour, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 01-11-2022 23:33:45._
+_This shopping list was generated at 01-11-2022 23:34:36._
