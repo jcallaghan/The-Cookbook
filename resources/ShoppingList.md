@@ -1,6 +1,6 @@
 # Shopping List
 
-Tue 01-Nov 2022 - Fri 11-Nov 2022
+Wed 02-Nov 2022 - Sat 12-Nov 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -63,7 +63,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Fishcakes
 1. M&S Dinner
 1. Nandos
 1. Lunch at Jas' Parents
@@ -75,4 +74,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Cornflour, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 01-11-2022 23:34:36._
+_This shopping list was generated at 02-11-2022 11:12:49._
