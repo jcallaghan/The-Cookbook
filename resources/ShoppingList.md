@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Fri 04-Nov 2022|[Chicken Kiev Pasta #428](https://github.com/jcallaghan/The-Cookbook/issues/428)|
 |Sat 05-Nov 2022|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
+|Sun 06-Nov 2022|[Rack of beef or lamb, mint yoghurt and mash #158](https://github.com/jcallaghan/The-Cookbook/issues/158)|
 |Tue 08-Nov 2022|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
 |Wed 09-Nov 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
 |Thu 10-Nov 2022|[Creamy chicken broccoli pasta #19](https://github.com/jcallaghan/The-Cookbook/issues/19)|
@@ -54,4 +55,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock and Olive oil.
 
 
-_This shopping list was generated at 03-11-2022 21:38:48._
+_This shopping list was generated at 03-11-2022 21:40:32._
