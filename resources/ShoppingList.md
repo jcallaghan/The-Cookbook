@@ -15,7 +15,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 07-Nov 2022|[Creamy chicken broccoli pasta #19](https://github.com/jcallaghan/The-Cookbook/issues/19)|
 |Tue 08-Nov 2022|[Beef pasta bake #138](https://github.com/jcallaghan/The-Cookbook/issues/138)|
 |Wed 09-Nov 2022|[Chicken pie #70](https://github.com/jcallaghan/The-Cookbook/issues/70)|
-||[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
+|Thu 10-Nov 2022|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
 
 ## 🛒 Shopping List
 
@@ -77,4 +77,4 @@ The following items have not been added to the shopping list as they are like in
 Chicken stock, Dried basil, Dried oregano, Garlic cloves and Olive oil.
 
 
-_This shopping list was generated at 03-11-2022 21:42:20._
+_This shopping list was generated at 03-11-2022 21:42:49._
