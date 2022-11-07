@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 03-Nov 2022 - Sun 13-Nov 2022
+Mon 07-Nov 2022 - Thu 17-Nov 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,12 +8,10 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Fri 04-Nov 2022|[Chicken Kiev Pasta #428](https://github.com/jcallaghan/The-Cookbook/issues/428)|
-|Sat 05-Nov 2022|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
-|Sun 06-Nov 2022|[General TSO's Chicken #424](https://github.com/jcallaghan/The-Cookbook/issues/424)|
-|Mon 07-Nov 2022|[Creamy chicken broccoli pasta #19](https://github.com/jcallaghan/The-Cookbook/issues/19)|
+|Mon 07-Nov 2022|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
 |Tue 08-Nov 2022|[Beef pasta bake #138](https://github.com/jcallaghan/The-Cookbook/issues/138)|
 |Thu 10-Nov 2022|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
+||[Creamy chicken broccoli pasta #19](https://github.com/jcallaghan/The-Cookbook/issues/19)|
 
 ## 🛒 Shopping List
 
@@ -21,11 +19,9 @@ This shopping list has been automatically generated with the ingredients from th
 |----------|-----------|
 |[Baby leeks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baby%20leeks)|200g|
 |[Baby spinach](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baby%20spinach)|200g|
-|[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)||
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|1|
 |[Celery stick](https://www.sainsburys.co.uk/gol-ui/SearchResults/Celery%20stick)|1|
 |[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|3|
-|[Chicken thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thighs)|300g|
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Dried fennel](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20fennel)|½ tsp|
 |[Dried thyme](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20thyme)|1 tsp|
@@ -34,28 +30,21 @@ This shopping list has been automatically generated with the ingredients from th
 |[Fresh rosemary](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20rosemary)|1 tbsp|
 |[Fresh sage leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20sage%20leaves)|1 tbsp|
 |[Frozen peas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Frozen%20peas)|100g|
-|[Garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic)||
-|[Ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger)||
 |[Greek yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Greek%20yoghurt)|50g|
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|2 tbsp|
 |[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
-|[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)||
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)|30g|
 |[Pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pasta)|300g|
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|800g|
 |[Prep time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2025%20minutes)||
 |[Rated cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rated%20cheese)|100 g|
-|[Red chillies's](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies's)||
 |[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|½|
 |[Rose harissa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rose%20harissa)|2 tbsp|
 |[Serves: 4 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204%20servings)||
 |[Single cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Single%20cream)|100ml|
-|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)||
-|[Sriracha chillies sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sriracha%20chillies%20sauce)||
 |[Streaky bacon slices](https://www.sainsburys.co.uk/gol-ui/SearchResults/Streaky%20bacon%20slices)|9|
 |[Strong white bread flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Strong%20white%20bread%20flour)|300g|
-|[Sweet chillies sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sweet%20chillies%20sauce)||
 |[Thyme sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thyme%20sprigs)|5|
 |[Tinned chopped tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tinned%20chopped%20tomatoes)|400 ml|
 |[Tomato puree or tomato paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20puree%20or%20tomato%20paste)|3 tbsp|
@@ -63,15 +52,13 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Nandos
-1. Lunch at Jas' Parents
 1. Beef pot pie - https://dinnerthendessert.com/roast-beef-pot-pie-leftover-recipe/
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Chicken stock, Dried basil, Dried oregano, Garlic cloves, Olive oil and Soy sauce.
+Chicken stock, Dried basil, Dried oregano, Garlic cloves and Olive oil.
 
 
-_This shopping list was generated at 03-11-2022 22:16:30._
+_This shopping list was generated at 07-11-2022 10:31:47._
