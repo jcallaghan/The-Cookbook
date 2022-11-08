@@ -1,6 +1,6 @@
 # Pasta
 
-There are 34 pasta recipes in the cookbook.
+There are 35 pasta recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -13,6 +13,7 @@ There are 34 pasta recipes in the cookbook.
 ||[359](https://github.com/jcallaghan/The-Cookbook/issues/359)|[Cacio e Peppe](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/cacio-e-peppe.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/cacio-e-peppe-1.jpg' alt='Cacio e Peppe' width='200'/>|Style / Pasta 🍝<br>Style / Vegetarian<br>Meal / Main<br>Ingredient / Cheese 🧀<br>Style / Italian 🇮🇹<br>Chef 🧑🏼‍🍳 / Alex<br>⚙ Published|
 ||[414](https://github.com/jcallaghan/The-Cookbook/issues/414)|[Chicken Alfredo Penne](https://github.com/jcallaghan/The-Cookbook/issues/414)| |Style / Pasta 🍝<br>Ingredient / Meat / Chicken 🐔<br>Meal / Main|
 ||[162](https://github.com/jcallaghan/The-Cookbook/issues/162)|[Chicken Carbonara](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-carbonara.md)| |Style / Pasta 🍝<br>Ingredient / Meat / Chicken 🐔<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>Meal / Main<br>Favourite 🥰 / Florence<br>⚙ Published|
+||[428](https://github.com/jcallaghan/The-Cookbook/issues/428)|[Chicken Kiev Pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-kiev-pasta.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-kiev-pasta-1.jpg' alt='Chicken Kiev Pasta' width='200'/>|Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>⚙ Published<br>Jas Shares|
 ||[187](https://github.com/jcallaghan/The-Cookbook/issues/187)|[Chicken pasta bake](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-pasta-bake.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-pasta-bake-1.jpg' alt='Chicken pasta bake' width='200'/>|Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Meal / Main<br>⚙ Needs Pictures ✅<br>Style / Pasta 🍝 / Bakes<br>⚙ Published|
 ||[141](https://github.com/jcallaghan/The-Cookbook/issues/141)|[Crab tortellini](https://github.com/jcallaghan/The-Cookbook/issues/141)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Crab|
 ||[19](https://github.com/jcallaghan/The-Cookbook/issues/19)|[Creamy chicken broccoli pasta](https://github.com/jcallaghan/The-Cookbook/issues/19)| |Style / Pasta 🍝<br>Ingredient / Meat / Chicken 🐔<br>ℹ️ Quick & Easy<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Jas Shares|
@@ -49,4 +50,4 @@ There are 34 pasta recipes in the cookbook.
 | V||||
 ||[383](https://github.com/jcallaghan/The-Cookbook/issues/383)|[Vayia Shrimp Pasta](https://github.com/jcallaghan/The-Cookbook/issues/383)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Food Memories|
 
-_This index was automatically generated at 07-11-2022 00:23:54 using a custom Python script and GitHub Action._
+_This index was automatically generated at 08-11-2022 00:24:18 using a custom Python script and GitHub Action._
