@@ -32,6 +32,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Poached eggs and salmon + muffin
 1. Take-out
 
 ## 🏪 Pantry Ingredients
@@ -41,4 +42,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Flour, Plain flour and Vegetable oil.
 
 
-_This shopping list was generated at 10-11-2022 15:41:42._
+_This shopping list was generated at 10-11-2022 15:42:29._
