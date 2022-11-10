@@ -34,6 +34,10 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Poached eggs and salmon + muffin
 1. Take-out
+1. Steak baguette
+1. Teriyaki beef stir fry
+1. Chicken curry
+1. Pizza
 
 ## 🏪 Pantry Ingredients
 
@@ -42,4 +46,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Flour, Plain flour and Vegetable oil.
 
 
-_This shopping list was generated at 10-11-2022 15:42:29._
+_This shopping list was generated at 10-11-2022 15:43:49._
