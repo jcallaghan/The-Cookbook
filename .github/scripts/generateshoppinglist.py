@@ -264,7 +264,7 @@ def main():
         # Output the pantry ingredientsShoppingListDict used to the console.
         print("\nPANTRY:\n" + pantryingredientsShoppingListDictUsed + "\n")  
         # This adds the pantry items to a markdown content block.
-        markdowncontent = markdowncontent + (f"\n## 🏪 Pantry Ingredients\n\nThe following items have not been added to the shopping list as they are like in the pantry already.\n\n" + pantryingredientsShoppingListDictUsed + "\n")   
+        markdowncontent = markdowncontent + (f"\n## 🏪 Pantry Ingredients\n\nThe following items have not been added to the shopping list as they are likey in the pantry already.\n\n" + pantryingredientsShoppingListDictUsed + "\n")   
         markdowncontent = markdowncontent + (f"\n\n_This shopping list was generated at " + datetime.today().strftime('%d-%m-%Y %H:%M:%S') + "._")
 
     export_to_markdown(markdowncontent)
