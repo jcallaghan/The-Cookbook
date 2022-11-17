@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 20-Nov 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
 ||[Chicken Gyoza #333](https://github.com/jcallaghan/The-Cookbook/issues/333)|
 |Mon 21-Nov 2022|[Prawn and brie pasta #129](https://github.com/jcallaghan/The-Cookbook/issues/129)|
+|Wed 23-Nov 2022|[Smoked salmon pasta #422](https://github.com/jcallaghan/The-Cookbook/issues/422)|
 
 ## 🛒 Shopping List
 
@@ -52,4 +53,4 @@ The following items have not been added to the shopping list as they are like in
 Caster sugar, Cornflour, Light soy sauce, Plain flour, Salt, Sea salt, Seasoning, Sesame oil, Shichimi powder, Vegetable oil and Water.
 
 
-_This shopping list was generated at 17-11-2022 11:46:49._
+_This shopping list was generated at 17-11-2022 11:47:32._
