@@ -65,6 +65,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Pizza
+1. Fishcake, greens, and baby potatoes
 1. Meatballs
 
 ## 🏪 Pantry Ingredients
@@ -74,4 +75,4 @@ The following items have not been added to the shopping list as they are like in
 Caster sugar, Chicken stock, Cornflour, Light soy sauce, Olive oil, Plain flour, Salt, Sea salt, Seasoning, Sesame oil, Shichimi powder, Vegetable oil and Water.
 
 
-_This shopping list was generated at 17-11-2022 11:56:16._
+_This shopping list was generated at 17-11-2022 11:57:22._
