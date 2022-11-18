@@ -35,7 +35,7 @@ There are 35 pasta recipes in the cookbook.
 ||[137](https://github.com/jcallaghan/The-Cookbook/issues/137)|[Pesto chicken pasta](https://github.com/jcallaghan/The-Cookbook/issues/137)| |Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Jas Shares|
 ||[177](https://github.com/jcallaghan/The-Cookbook/issues/177)|[Pesto tagliatelle with sea bass](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/pesto-tagliatelle-with-sea-bass.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/pesto-tagliatelle-with-sea-bass-1.jpg' alt='Pesto tagliatelle with sea bass' width='200'/>|Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Fish 🐟 / Sea Bass<br>Favourite 🥰 / James<br>Meal / Main<br>Ingredient / Pesto<br>⚙ Published|
 ||[347](https://github.com/jcallaghan/The-Cookbook/issues/347)|[Prawn Alfredo](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/prawn-alfredo.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/prawn-alfredo-1.jpg' alt='Prawn Alfredo' width='200'/>|Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Fish 🐟 / Prawn<br>ℹ️ Quick & Easy<br>Meal / Main<br>⚙ Published|
-||[129](https://github.com/jcallaghan/The-Cookbook/issues/129)|[Prawn and brie pasta](https://github.com/jcallaghan/The-Cookbook/issues/129)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn|
+||[129](https://github.com/jcallaghan/The-Cookbook/issues/129)|[Prawn and brie pasta](https://github.com/jcallaghan/The-Cookbook/issues/129)| |Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Fish 🐟 / Prawn|
 | R||||
 ||[167](https://github.com/jcallaghan/The-Cookbook/issues/167)|[Ravioli](https://github.com/jcallaghan/The-Cookbook/issues/167)| |Style / Pasta 🍝|
 ||[400](https://github.com/jcallaghan/The-Cookbook/issues/400)|[Roasted Pepper Pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/roasted-pepper-pasta.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/roasted-pepper-pasta-1.jpg' alt='Roasted Pepper Pasta' width='200'/>|Style / Pasta 🍝<br>Style / Vegetarian<br>Meal / Main<br>⚙ Needs Pictures ✅<br>⚙ Published|
@@ -50,4 +50,4 @@ There are 35 pasta recipes in the cookbook.
 | V||||
 ||[383](https://github.com/jcallaghan/The-Cookbook/issues/383)|[Vayia Shrimp Pasta](https://github.com/jcallaghan/The-Cookbook/issues/383)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Food Memories|
 
-_This index was automatically generated at 17-11-2022 00:24:33 using a custom Python script and GitHub Action._
+_This index was automatically generated at 18-11-2022 00:27:59 using a custom Python script and GitHub Action._
