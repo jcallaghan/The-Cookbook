@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 56 all recipes recipes in the cookbook.
+There are 57 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -40,6 +40,7 @@ There are 56 all recipes recipes in the cookbook.
 | G||||
 ||[233](https://github.com/jcallaghan/The-Cookbook/issues/233)|[Garlic dough balls](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/garlic-dough-balls.md)| |Meal / Appetiser<br>Meal / Side Dish<br>Pizza 🍕<br>Pizza 🍕 / Side<br>Style / Party Food 🥳<br>Equipment / Pizza Oven 🍕🔥<br>⚙ Published|
 ||[79](https://github.com/jcallaghan/The-Cookbook/issues/79)|[Granddads carrot soup](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/granddads-carrot-soup.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/granddads-carrot-soup-1.jpg' alt='Granddads carrot soup' width='200'/>|Style / Vegetarian<br>Favourite 🥰 / James<br>Style / Soup<br>Favourite 🥰 / Florence<br>Ingredient / Vegetable<br>Meal / Starter<br>⚙ Published|
+||[437](https://github.com/jcallaghan/The-Cookbook/issues/437)|[Green pea chowder](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/green-pea-chowder.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/green-pea-chowder-1.jpg' alt='Green pea chowder' width='200'/>|Style / Soup<br>Ingredient / Vegetable<br>⚙ Published|
 ||[58](https://github.com/jcallaghan/The-Cookbook/issues/58)|[Grilled steak ratatouille and saffron rice](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/grilled-steak-ratatouille-and-saffron-rice.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/grilled-steak-ratatouille-and-saffron-rice-1.jpg' alt='Grilled steak ratatouille and saffron rice' width='200'/>|Style / Vegetarian<br>Ingredient / Meat / Beef<br>Ingredient / Rice<br>Favourite 🥰 / Jas<br>Ingredient / Steak<br>Style / Dinner Party 🥳<br>Favourite 🥰 / James<br>⚙ Published|
 | J||||
 ||[415](https://github.com/jcallaghan/The-Cookbook/issues/415)|[Japanese Slipper](https://github.com/jcallaghan/The-Cookbook/issues/415)| |Drink / Cocktail 🍸<br>Favourite 🥰 / James<br>⚙ Published<br>Drink / Cointreau Triple Sec<br>Drink / Midori|
@@ -75,4 +76,4 @@ There are 56 all recipes recipes in the cookbook.
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 17-11-2022 00:23:47 using a custom Python script and GitHub Action._
+_This index was automatically generated at 18-11-2022 00:27:10 using a custom Python script and GitHub Action._
