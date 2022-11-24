@@ -61,6 +61,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Out
 1. Gyoza
 1. Burgers and chips
 
@@ -71,4 +72,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Dried basil, Dried oregano, Garlic cloves, Olive oil, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 24-11-2022 22:06:32._
+_This shopping list was generated at 24-11-2022 22:07:46._
