@@ -15,6 +15,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Wed 07-Dec 2022|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
 ||[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 ||[Beef Orange Stir-Fry #320](https://github.com/jcallaghan/The-Cookbook/issues/320)|
+||[Asian glazed salmon #160](https://github.com/jcallaghan/The-Cookbook/issues/160)|
 |Thu 08-Dec 2022|[Beef Stroganoff #8](https://github.com/jcallaghan/The-Cookbook/issues/8)|
 |Fri 09-Dec 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
 
@@ -28,7 +29,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[Brie](https://www.sainsburys.co.uk/gol-ui/SearchResults/Brie)||
 |[Cherry tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cherry%20tomatoes)||
 |[Chicken thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thighs)|300g|
+|[Chill ???](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chill%20???)||
 |[Cook time:  15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%20%2015%20minutes)||
+|[Cook time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%200%20minutes)||
 |[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
 |[Cook time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2025%20minutes)||
@@ -44,13 +47,16 @@ This shopping list has been automatically generated with the ingredients from th
 |[Garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic)||
 |[Garlic covers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20covers)|2|
 |[Ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger)||
+|[Ginger ???](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger%20???)||
 |[Green pesto](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20pesto)|4 tbsp|
+|[Honey ???](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey%20???)||
 |[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g|
 |[Mushrooms](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mushrooms)|250g|
 |[Nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Nutmeg)||
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
 |[Optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Optional)||
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)||
+|[Pak choi](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pak%20choi)||
 |[Parmesan](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan)||
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)||
 |[Parmesan to serve](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20to%20serve)||
@@ -61,9 +67,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[Prep time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2025%20minutes)||
 |[Red chillies's](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies's)||
 |[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
+|[Rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice)||
 |[Rigatoni pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rigatoni%20pasta)||
+|[Salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salmon)||
 |[Seabass fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seabass%20fillets)|2|
 |[Seasoning to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seasoning%20to%20taste)||
+|[Serves 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves%202)||
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
@@ -74,6 +83,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Sriracha chillies sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sriracha%20chillies%20sauce)||
 |[Sweet chillies sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sweet%20chillies%20sauce)||
 |[Tagliatelle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tagliatelle%20pasta)|300g|
+|[Total time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%200%20minutes)||
 |[Total time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2015%20minutes)||
 |[Total time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2025%20minutes)||
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
@@ -89,7 +99,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Butter, Dried basil, Dried oregano, Garlic cloves, Olive oil, Plain flour, Seasoning, Soy sauce and Tomato purée.
+Butter, Dried basil, Dried oregano, Garlic cloves, Olive oil, Plain flour, Seasoning, Sesame seeds, Soy sauce and Tomato purée.
 
 
-_This shopping list was generated at 01-12-2022 19:29:35._
+_This shopping list was generated at 01-12-2022 19:30:06._
