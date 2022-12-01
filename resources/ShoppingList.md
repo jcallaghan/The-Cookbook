@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 30-Nov 2022 - Sat 10-Dec 2022
+Thu 01-Dec 2022 - Sun 11-Dec 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -32,4 +32,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 30-11-2022 23:07:55._
+_This shopping list was generated at 01-12-2022 18:03:05._
