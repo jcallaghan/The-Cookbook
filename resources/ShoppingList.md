@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 02-Dec 2022|[Chicken Kiev Pasta #428](https://github.com/jcallaghan/The-Cookbook/issues/428)|
 |Mon 05-Dec 2022|[Prawn and brie pasta #129](https://github.com/jcallaghan/The-Cookbook/issues/129)|
 |Tue 06-Dec 2022|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
+|Wed 07-Dec 2022|[Slow cooker Beef Curry #402](https://github.com/jcallaghan/The-Cookbook/issues/402)|
 |Thu 08-Dec 2022|[Beef Stroganoff #8](https://github.com/jcallaghan/The-Cookbook/issues/8)|
 |Fri 09-Dec 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
 
@@ -80,4 +81,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Dried basil, Dried oregano, Garlic cloves, Olive oil, Plain flour, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 01-12-2022 18:49:28._
+_This shopping list was generated at 01-12-2022 19:28:06._
