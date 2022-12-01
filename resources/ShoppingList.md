@@ -68,6 +68,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Total time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2045%20minutes)||
 |[X chicken kiev's or chicken stitzel's](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20chicken%20kiev's%20or%20chicken%20stitzel's)|2|
 
+## 🗒️ Notes
+
+1. Food out
+1. Lunch out
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -75,4 +80,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Dried basil, Dried oregano, Garlic cloves, Olive oil, Plain flour, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 01-12-2022 18:48:39._
+_This shopping list was generated at 01-12-2022 18:49:06._
