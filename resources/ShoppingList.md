@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 08-Dec 2022 - Tue 27-Dec 2022
+Thu 08-Dec 2022 - Tue 03-Jan 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -47,4 +47,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Olive oil, Plain flour and Seasoning.
 
 
-_This shopping list was generated at 08-12-2022 21:11:13._
+_This shopping list was generated at 08-12-2022 21:14:24._
