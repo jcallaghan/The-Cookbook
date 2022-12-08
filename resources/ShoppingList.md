@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 08-Dec 2022|[Beef Stroganoff #8](https://github.com/jcallaghan/The-Cookbook/issues/8)|
 |Fri 09-Dec 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
 |Tue 27-Dec 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
+|Wed 28-Dec 2022|[Dutch potato croquettes #69](https://github.com/jcallaghan/The-Cookbook/issues/69)|
 |Fri 30-Dec 2022|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Sat 31-Dec 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
 |Sun 01-Jan 2023|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
@@ -78,4 +79,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 08-12-2022 21:17:23._
+_This shopping list was generated at 08-12-2022 21:17:55._
