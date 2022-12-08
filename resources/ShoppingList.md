@@ -81,6 +81,8 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Jas out
+1. Turkey + stuffing, roasties, pigs & blankets, peas, carrots and parsnips, stuffing balls, Yorkshires, cauliflower cheese and gravy
+1. Christmas puddings
 1. Steak and chips
 
 ## 🏪 Pantry Ingredients
@@ -90,4 +92,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 08-12-2022 21:18:55._
+_This shopping list was generated at 08-12-2022 21:24:32._
