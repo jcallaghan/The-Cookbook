@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 08-Dec 2022|[Beef Stroganoff #8](https://github.com/jcallaghan/The-Cookbook/issues/8)|
 |Fri 09-Dec 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
 |Tue 13-Dec 2022|[Beef pasta bake #138](https://github.com/jcallaghan/The-Cookbook/issues/138)|
+|Wed 14-Dec 2022|[Baked sea bass #195](https://github.com/jcallaghan/The-Cookbook/issues/195)|
 |Sun 25-Dec 2022|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 |Tue 27-Dec 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Wed 28-Dec 2022|[Dutch potato croquettes #69](https://github.com/jcallaghan/The-Cookbook/issues/69)|
@@ -52,6 +53,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Green pesto](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20pesto)|4 tbsp|
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
+|[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)||
 |[Mache or boston lettuce leaves to serve](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mache%20or%20boston%20lettuce%20leaves%20to%20serve)||
 |[Malt vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Malt%20vinegar)|5 tbsp|
 |[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g|
@@ -70,6 +72,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1|
 |[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|½|
 |[Seabass fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seabass%20fillets)|2|
+|[Seasoning to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seasoning%20to%20taste)||
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
@@ -87,6 +90,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Total time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2045%20minutes)||
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
+|[Whole sea bass](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20sea%20bass)||
 
 ## 🗒️ Notes
 
@@ -102,4 +106,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Caster sugar, Cornflour, Dried basil, Dried oregano, Garlic cloves, Light soy sauce, Olive oil, Plain flour, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 08-12-2022 21:25:03._
+_This shopping list was generated at 08-12-2022 21:27:09._
