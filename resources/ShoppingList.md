@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 08-Dec 2022|[Beef Stroganoff #8](https://github.com/jcallaghan/The-Cookbook/issues/8)|
 |Fri 09-Dec 2022|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
+|Tue 27-Dec 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 
 ## 🛒 Shopping List
 
@@ -21,6 +22,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
 |[Cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream)|1 tbsp|
 |[Crème fraîche](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crème%20fraîche)|150g|
+|[Duck breast fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Duck%20breast%20fillets)|2|
 |[English mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/English%20mustard)|1 tsp|
 |[Fillet steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fillet%20steak)|500g|
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
@@ -47,4 +49,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Olive oil, Plain flour and Seasoning.
 
 
-_This shopping list was generated at 08-12-2022 21:14:24._
+_This shopping list was generated at 08-12-2022 21:15:04._
