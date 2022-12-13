@@ -13,7 +13,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 15-Dec 2022|[Tacos #113](https://github.com/jcallaghan/The-Cookbook/issues/113)|
 |Sat 17-Dec 2022|[Jacket Potato #228](https://github.com/jcallaghan/The-Cookbook/issues/228)|
 |Tue 20-Dec 2022|[Mediterranean chicken flatbreads #417](https://github.com/jcallaghan/The-Cookbook/issues/417)|
-|Wed 21-Dec 2022|[Slow cooker Beef Curry #402](https://github.com/jcallaghan/The-Cookbook/issues/402)|
+|Wed 21-Dec 2022|[Sausage and Bean Hotpot #348](https://github.com/jcallaghan/The-Cookbook/issues/348)|
+|Thu 22-Dec 2022|[Slow cooker Beef Curry #402](https://github.com/jcallaghan/The-Cookbook/issues/402)|
 |Sun 25-Dec 2022|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 |Tue 27-Dec 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Wed 28-Dec 2022|[Dutch potato croquettes #69](https://github.com/jcallaghan/The-Cookbook/issues/69)|
@@ -26,17 +27,25 @@ This shopping list has been automatically generated with the ingredients from th
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
+|[Bay leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bay%20leaves)|2|
+|[Bbq sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bbq%20sauce)|50ml|
 |[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
+|[Can of butter beans](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20of%20butter%20beans)|1|
+|[Can of kidney beans](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20of%20kidney%20beans)|1|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|1 + 450g|
+|[Cayenne peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cayenne%20peppers)|1 tsp|
 |[Celery stick](https://www.sainsburys.co.uk/gol-ui/SearchResults/Celery%20stick)|1|
 |[Chicken breast fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breast%20fillets)|350g|
 |[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|2|
 |[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)||
 |[Chopped fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chopped%20fresh%20parsley)|1tbsp|
+|[Chorizo](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chorizo)|1|
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
+|[Cook time: 60 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2060%20minutes)||
 |[Coriander sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander%20sprigs)|3|
+|[Crushed chicken stock cube](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crushed%20chicken%20stock%20cube)|1|
 |[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
 |[Dijon mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20mustard)|½ tsp|
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
@@ -47,10 +56,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[Flour + seasoning (salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Flour%20+%20seasoning%20(salt)||
 |[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)|2 tbsp|
 |[Freshly ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20ground%20black%20peppers)||
+|[Handful cherry tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20cherry%20tomatoes)|1|
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
 |[Italian herb seasoning](https://www.sainsburys.co.uk/gol-ui/SearchResults/Italian%20herb%20seasoning)|1tbsp|
 |[Js folded flat breads](https://www.sainsburys.co.uk/gol-ui/SearchResults/Js%20folded%20flat%20breads)|6|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
+|[Large onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20onions)|1|
 |[Lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon%20juice)|1½ tbsp|
 |[Lighter mayonnaise](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lighter%20mayonnaise)|3tbsp|
 |[Mache or boston lettuce leaves to serve](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mache%20or%20boston%20lettuce%20leaves%20to%20serve)||
@@ -62,6 +73,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
 |[Panko](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko)||
 |[Pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pasta)|300g|
+|[Pearl barley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pearl%20barley)|100g|
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
@@ -69,6 +81,8 @@ This shopping list has been automatically generated with the ingredients from th
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1|
 |[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|½|
 |[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|1|
+|[Rosemary](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rosemary)|1 tsp|
+|[Sausages (2-3 cumberland sausages per serving)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sausages%20(2-3%20cumberland%20sausages%20per%20serving))||
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
@@ -76,9 +90,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|3-4|
 |[Squid](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squid)|200g|
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tbsp|
+|[Thyme](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thyme)|1 tsp|
 |[Tinned chopped tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tinned%20chopped%20tomatoes)|400 ml|
 |[Tomato puree or tomato paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20puree%20or%20tomato%20paste)|3 tbsp|
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
+|[Total time: 1 hour 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%2010%20minutes)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
@@ -95,7 +111,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Butter, Caster sugar, Cornflour, Dried basil, Dried oregano, Garlic cloves, Light soy sauce, Olive oil, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Soy sauce, Vegetable oil and Water.
+Butter, Caster sugar, Cornflour, Dried basil, Dried oregano, Garlic cloves, Light soy sauce, Olive oil, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Tomato puree, Vegetable oil and Water.
 
 
-_This shopping list was generated at 13-12-2022 18:29:50._
+_This shopping list was generated at 13-12-2022 18:30:31._
