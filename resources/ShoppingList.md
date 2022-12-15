@@ -1,6 +1,6 @@
 # Shopping List
 
-Tue 13-Dec 2022 - Tue 03-Jan 2023
+Thu 15-Dec 2022 - Tue 03-Jan 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,8 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Tue 13-Dec 2022|[Beef pasta bake #138](https://github.com/jcallaghan/The-Cookbook/issues/138)|
-|Wed 14-Dec 2022|[Cous-cous recipes #117](https://github.com/jcallaghan/The-Cookbook/issues/117)|
 |Thu 15-Dec 2022|[Tacos #113](https://github.com/jcallaghan/The-Cookbook/issues/113)|
 |Fri 16-Dec 2022|[Chilli con carne #319](https://github.com/jcallaghan/The-Cookbook/issues/319)|
 |Sat 17-Dec 2022|[Jacket Potato #228](https://github.com/jcallaghan/The-Cookbook/issues/228)|
@@ -34,9 +32,8 @@ This shopping list has been automatically generated with the ingredients from th
 |[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
 |[Can of butter beans](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20of%20butter%20beans)|1|
 |[Can of kidney beans](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20of%20kidney%20beans)|1|
-|[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|1 + 450g|
+|[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|450g|
 |[Cayenne peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cayenne%20peppers)|1 tsp|
-|[Celery stick](https://www.sainsburys.co.uk/gol-ui/SearchResults/Celery%20stick)|1|
 |[Chicken breast fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breast%20fillets)|350g|
 |[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|2|
 |[Chillies powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20powder)||
@@ -53,8 +50,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
 |[Dijon mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20mustard)|½ tsp|
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
-|[Dried fennel](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20fennel)|½ tsp|
-|[Dried thyme](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20thyme)|1 tsp|
 |[Drizzle sesame oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Drizzle%20sesame%20oil)||
 |[Duck breast fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Duck%20breast%20fillets)|2|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)||
@@ -75,21 +70,17 @@ This shopping list has been automatically generated with the ingredients from th
 |[Lime quarter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lime%20quarter)||
 |[Mache or boston lettuce leaves to serve](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mache%20or%20boston%20lettuce%20leaves%20to%20serve)||
 |[Malt vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Malt%20vinegar)|5 tbsp|
-|[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g|
 |[Of fennel seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20fennel%20seeds)|1 tbsp|
 |[Of paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20paprika)|2 tsp|
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|2 tbsp|
 |[Panko](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko)||
-|[Pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pasta)|300g|
 |[Pearl barley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pearl%20barley)|100g|
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
-|[Rated cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rated%20cheese)|100 g|
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1|
-|[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|½|
 |[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|1|
 |[Rice noodles](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20noodles)|300g|
 |[Rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20vinegar)|1 tsp|
@@ -106,8 +97,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Sweet radish](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sweet%20radish)|1 tbsp|
 |[Tbsp](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tbsp)|1|
 |[Thyme](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thyme)|1 tsp|
-|[Tinned chopped tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tinned%20chopped%20tomatoes)|400 ml|
-|[Tomato puree or tomato paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20puree%20or%20tomato%20paste)|3 tbsp|
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
 |[Total time: 1 hour 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%2010%20minutes)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
@@ -127,7 +116,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Butter, Caster sugar, Cornflour, Dried basil, Dried oregano, Garlic cloves, Light soy sauce, Olive oil, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Tomato puree, Vegetable oil and Water.
+Butter, Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Olive oil, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Tomato puree, Vegetable oil and Water.
 
 
-_This shopping list was generated at 13-12-2022 18:32:14._
+_This shopping list was generated at 15-12-2022 18:02:48._
