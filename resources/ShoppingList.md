@@ -9,7 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 15-Dec 2022|[Tacos #113](https://github.com/jcallaghan/The-Cookbook/issues/113)|
-|Fri 16-Dec 2022|[Chilli con carne #319](https://github.com/jcallaghan/The-Cookbook/issues/319)|
+|Fri 16-Dec 2022|[Loaded Nachos #440](https://github.com/jcallaghan/The-Cookbook/issues/440)|
+||[Chilli con carne #319](https://github.com/jcallaghan/The-Cookbook/issues/319)|
 |Sat 17-Dec 2022|[Jacket Potato #228](https://github.com/jcallaghan/The-Cookbook/issues/228)|
 |Sun 18-Dec 2022|[Prawn Pad Thai #324](https://github.com/jcallaghan/The-Cookbook/issues/324)|
 |Tue 20-Dec 2022|[Mediterranean chicken flatbreads #417](https://github.com/jcallaghan/The-Cookbook/issues/417)|
@@ -107,7 +108,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Cod and Beef
-1. Loaded Nachos
 1. Turkey + stuffing, roasties, pigs & blankets, peas, carrots and parsnips, stuffing balls, Yorkshires, cauliflower cheese and gravy
 1. Christmas puddings
 1. Steak and chips
@@ -119,4 +119,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Olive oil, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Tomato puree, Vegetable oil and Water.
 
 
-_This shopping list was generated at 15-12-2022 21:37:04._
+_This shopping list was generated at 15-12-2022 21:37:39._
