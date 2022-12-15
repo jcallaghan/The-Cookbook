@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 17-Dec 2022|[Jacket Potato #228](https://github.com/jcallaghan/The-Cookbook/issues/228)|
 |Sun 18-Dec 2022|[Prawn Pad Thai #324](https://github.com/jcallaghan/The-Cookbook/issues/324)|
 |Mon 19-Dec 2022|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
+|Tue 20-Dec 2022|[Chicken Kiev Pasta #428](https://github.com/jcallaghan/The-Cookbook/issues/428)|
 |Wed 21-Dec 2022|[Sausage and Bean Hotpot #348](https://github.com/jcallaghan/The-Cookbook/issues/348)|
 |Thu 22-Dec 2022|[Slow cooker Beef Curry #402](https://github.com/jcallaghan/The-Cookbook/issues/402)|
 |Sun 25-Dec 2022|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
@@ -39,6 +40,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)||
 |[Chorizo](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chorizo)|1|
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
+|[Cook time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2025%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
 |[Cook time: 60 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2060%20minutes)||
@@ -55,6 +57,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Fish sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fish%20sauce)|2 tbsp|
 |[Flour + seasoning (salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Flour%20+%20seasoning%20(salt)||
 |[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)|2 tbsp|
+|[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
 |[Greek yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Greek%20yoghurt)|50g|
 |[Handful bean sprouts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20bean%20sprouts)|150g|
 |[Handful cherry tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20cherry%20tomatoes)|1|
@@ -71,6 +74,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|3 + 2|
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|2 tbsp|
 |[Panko](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko)||
+|[Parmesan to serve](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20to%20serve)||
 |[Pearl barley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pearl%20barley)|100g|
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
@@ -88,6 +92,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Serves: 4 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204%20servings)||
 |[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)||
+|[Spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spaghetti)||
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|3 + 3-4|
 |[Squid](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squid)|200g|
 |[Strong white bread flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Strong%20white%20bread%20flour)|300g|
@@ -99,8 +104,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
 |[Total time: 1 hour 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%2010%20minutes)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
+|[Total time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2025%20minutes)||
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
+|[X chicken kiev's or chicken stitzel's](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20chicken%20kiev's%20or%20chicken%20stitzel's)|2|
 
 ## 🗒️ Notes
 
@@ -116,4 +123,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Olive oil, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Tomato puree, Vegetable oil and Water.
 
 
-_This shopping list was generated at 15-12-2022 21:54:24._
+_This shopping list was generated at 15-12-2022 22:12:29._
