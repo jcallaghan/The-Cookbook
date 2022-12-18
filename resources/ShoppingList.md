@@ -1,6 +1,6 @@
 # Shopping List
 
-Sun 18-Dec 2022 - Tue 03-Jan 2023
+Sun 18-Dec 2022 - Wed 04-Jan 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -16,6 +16,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 25-Dec 2022|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 |Tue 27-Dec 2022|[Classic duck breast #184](https://github.com/jcallaghan/The-Cookbook/issues/184)|
 |Wed 28-Dec 2022|[Dutch potato croquettes #69](https://github.com/jcallaghan/The-Cookbook/issues/69)|
+|Thu 29-Dec 2022|[Beef Wellington #413](https://github.com/jcallaghan/The-Cookbook/issues/413)|
 |Fri 30-Dec 2022|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Sat 31-Dec 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
 |Sun 01-Jan 2023|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
@@ -119,4 +120,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Olive oil, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Tomato puree, Vegetable oil and Water.
 
 
-_This shopping list was generated at 18-12-2022 14:31:54._
+_This shopping list was generated at 18-12-2022 14:32:22._
