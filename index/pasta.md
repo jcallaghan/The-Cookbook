@@ -1,6 +1,6 @@
 # Pasta
 
-There are 35 pasta recipes in the cookbook.
+There are 36 pasta recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -16,6 +16,7 @@ There are 35 pasta recipes in the cookbook.
 ||[428](https://github.com/jcallaghan/The-Cookbook/issues/428)|[Chicken Kiev Pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-kiev-pasta.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-kiev-pasta-1.jpg' alt='Chicken Kiev Pasta' width='200'/>|Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>⚙ Published<br>Jas Shares|
 ||[187](https://github.com/jcallaghan/The-Cookbook/issues/187)|[Chicken pasta bake](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-pasta-bake.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-pasta-bake-1.jpg' alt='Chicken pasta bake' width='200'/>|Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Meal / Main<br>⚙ Needs Pictures ✅<br>Style / Pasta 🍝 / Bakes<br>⚙ Published|
 ||[141](https://github.com/jcallaghan/The-Cookbook/issues/141)|[Crab tortellini](https://github.com/jcallaghan/The-Cookbook/issues/141)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Crab|
+||[441](https://github.com/jcallaghan/The-Cookbook/issues/441)|[Creamy Tomato Chicken and Chorizo Pasta](https://github.com/jcallaghan/The-Cookbook/issues/441)| |Style / Pasta 🍝<br>Ingredient / Meat / Chicken 🐔<br>Ingredient / Chorizo|
 ||[19](https://github.com/jcallaghan/The-Cookbook/issues/19)|[Creamy chicken broccoli pasta](https://github.com/jcallaghan/The-Cookbook/issues/19)| |Style / Pasta 🍝<br>Ingredient / Meat / Chicken 🐔<br>ℹ️ Quick & Easy<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Jas Shares|
 ||[1](https://github.com/jcallaghan/The-Cookbook/issues/1)|[Creamy smoked salmon pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/creamy-smoked-salmon-pasta.md)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Salmon<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>Meal / Main<br>ℹ️ One Pot Wonder 💪<br>ℹ️ 30 minutes or less ⏰<br>⚙ Needs Pictures ✅<br>⚙ Published|
 | G||||
@@ -50,4 +51,4 @@ There are 35 pasta recipes in the cookbook.
 | V||||
 ||[383](https://github.com/jcallaghan/The-Cookbook/issues/383)|[Vayia Shrimp Pasta](https://github.com/jcallaghan/The-Cookbook/issues/383)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Food Memories|
 
-_This index was automatically generated at 22-12-2022 00:20:38 using a custom Python script and GitHub Action._
+_This index was automatically generated at 23-12-2022 00:21:01 using a custom Python script and GitHub Action._
