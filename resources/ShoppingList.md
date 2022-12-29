@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 31-Dec 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
 |Sun 01-Jan 2023|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
 |Wed 04-Jan 2023|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
+|Thu 05-Jan 2023|[Macaroni Cheese #380](https://github.com/jcallaghan/The-Cookbook/issues/380)|
 |Fri 06-Jan 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 
 ## 🛒 Shopping List
@@ -67,4 +68,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 29-12-2022 22:32:29._
+_This shopping list was generated at 29-12-2022 22:35:37._
