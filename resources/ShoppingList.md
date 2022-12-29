@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 28-Dec 2022 - Sat 07-Jan 2023
+Thu 29-Dec 2022 - Sun 08-Jan 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 28-Dec 2022|[Buttermilk chicken sandwich #304](https://github.com/jcallaghan/The-Cookbook/issues/304)|
 |Thu 29-Dec 2022|[Beef Wellington #413](https://github.com/jcallaghan/The-Cookbook/issues/413)|
 |Fri 30-Dec 2022|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Sat 31-Dec 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
@@ -57,4 +56,4 @@ The following items have not been added to the shopping list as they are likey i
 Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 28-12-2022 14:51:00._
+_This shopping list was generated at 29-12-2022 18:02:49._
