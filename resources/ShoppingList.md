@@ -12,7 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 30-Dec 2022|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Sat 31-Dec 2022|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
 |Sun 01-Jan 2023|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
-|Mon 02-Jan 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
+|Fri 06-Jan 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 
 ## 🛒 Shopping List
 
@@ -48,6 +48,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Steak and chips
+1. Steak sandwich?
 
 ## 🏪 Pantry Ingredients
 
@@ -56,4 +57,4 @@ The following items have not been added to the shopping list as they are likey i
 Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 29-12-2022 18:02:49._
+_This shopping list was generated at 29-12-2022 22:18:51._
