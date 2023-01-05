@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 05-Jan 2023|[Macaroni Cheese #380](https://github.com/jcallaghan/The-Cookbook/issues/380)|
 |Sat 07-Jan 2023|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
 |Sun 08-Jan 2023|[Rotisserie chicken #17](https://github.com/jcallaghan/The-Cookbook/issues/17)|
+|Mon 09-Jan 2023|[Smoked salmon pasta #422](https://github.com/jcallaghan/The-Cookbook/issues/422)|
 |Tue 10-Jan 2023|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 
 ## 🛒 Shopping List
@@ -51,4 +52,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Dried basil, Dried oregano, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 05-01-2023 20:58:30._
+_This shopping list was generated at 05-01-2023 21:00:44._
