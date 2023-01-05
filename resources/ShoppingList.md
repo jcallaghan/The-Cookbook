@@ -29,6 +29,8 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Pizza
+1. Tabasco turkey sandwich
+1. Toasted Croissant 
 
 ## 🏪 Pantry Ingredients
 
@@ -37,4 +39,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter and Seasoning.
 
 
-_This shopping list was generated at 05-01-2023 20:53:53._
+_This shopping list was generated at 05-01-2023 20:54:44._
