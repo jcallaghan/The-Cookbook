@@ -9,4 +9,4 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 05-Jan 2023|[Macaroni Cheese #380](https://github.com/jcallaghan/The-Cookbook/issues/380)|
-|Fri 06-Jan 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
+|Sun 08-Jan 2023|[Rotisserie chicken #17](https://github.com/jcallaghan/The-Cookbook/issues/17)|
