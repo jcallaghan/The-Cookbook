@@ -1,6 +1,6 @@
 # Shopping List
 
-Mon 09-Jan 2023 - Thu 19-Jan 2023
+Tue 10-Jan 2023 - Fri 20-Jan 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Mon 09-Jan 2023|[Smoked salmon pasta #422](https://github.com/jcallaghan/The-Cookbook/issues/422)|
 |Tue 10-Jan 2023|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 |Wed 11-Jan 2023|[Chilli Beef Noodles #444](https://github.com/jcallaghan/The-Cookbook/issues/444)|
 |Thu 12-Jan 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
@@ -63,4 +62,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Olive oil, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 09-01-2023 11:53:44._
+_This shopping list was generated at 10-01-2023 11:29:19._
