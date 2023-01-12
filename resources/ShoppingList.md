@@ -42,6 +42,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Toasted Croissant 
+1. Fish cakes + new potatoes
 
 ## 🏪 Pantry Ingredients
 
@@ -50,4 +51,4 @@ The following items have not been added to the shopping list as they are likey i
 O, l, i, v, e,  , o, i and l.
 
 
-_This shopping list was generated at 12-01-2023 21:36:51._
+_This shopping list was generated at 12-01-2023 21:37:24._
