@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 15-Jan 2023|[Beef Skewers #429](https://github.com/jcallaghan/The-Cookbook/issues/429)|
 |Tue 17-Jan 2023|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
 |Wed 18-Jan 2023|[Beef Orange Stir-Fry #320](https://github.com/jcallaghan/The-Cookbook/issues/320)|
+|Thu 19-Jan 2023|[Chorizo, pepper and potato Spanish omelette #445](https://github.com/jcallaghan/The-Cookbook/issues/445)|
 |Wed 25-Jan 2023|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
 
 ## 🛒 Shopping List
@@ -57,4 +58,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Dried basil, Dried oregano, Garlic cloves, Olive oil and Tomato puree.
 
 
-_This shopping list was generated at 12-01-2023 22:08:38._
+_This shopping list was generated at 12-01-2023 22:23:46._
