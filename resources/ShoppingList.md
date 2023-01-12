@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 12-Jan 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 |Sun 15-Jan 2023|[Grilled steak ratatouille and saffron rice #58](https://github.com/jcallaghan/The-Cookbook/issues/58)|
+||[Beef Skewers #429](https://github.com/jcallaghan/The-Cookbook/issues/429)|
 
 ## 🛒 Shopping List
 
@@ -49,4 +50,4 @@ The following items have not been added to the shopping list as they are likey i
 O, l, i, v, e,  , o, i and l.
 
 
-_This shopping list was generated at 12-01-2023 21:34:38._
+_This shopping list was generated at 12-01-2023 21:36:51._
