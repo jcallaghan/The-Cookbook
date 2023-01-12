@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 12-Jan 2023 - Sun 22-Jan 2023
+Thu 12-Jan 2023 - Wed 25-Jan 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -12,7 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 14-Jan 2023|[Tomato, garlic and prawn pasta #394](https://github.com/jcallaghan/The-Cookbook/issues/394)|
 |Sun 15-Jan 2023|[Beef Skewers #429](https://github.com/jcallaghan/The-Cookbook/issues/429)|
 |Tue 17-Jan 2023|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
-|Wed 18-Jan 2023|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
+|Wed 25-Jan 2023|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
 
 ## 🛒 Shopping List
 
@@ -55,4 +55,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Dried basil, Dried oregano, Garlic cloves, Olive oil and Tomato puree.
 
 
-_This shopping list was generated at 12-01-2023 21:58:28._
+_This shopping list was generated at 12-01-2023 22:02:13._
