@@ -45,6 +45,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Toasted Croissant 
 1. Fish cakes + new potatoes
+1. Fish pate
 1. Roast potatoes
 
 ## 🏪 Pantry Ingredients
@@ -54,4 +55,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Dried basil, Dried oregano, Garlic cloves, Olive oil and Tomato puree.
 
 
-_This shopping list was generated at 12-01-2023 21:45:25._
+_This shopping list was generated at 12-01-2023 21:58:28._
