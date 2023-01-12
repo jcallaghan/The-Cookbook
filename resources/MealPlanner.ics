@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:77d165fc-936d-4197-9060-4d881b14c7f7
-DTSTAMP:20230112T213443
+UID:1c32509b-6a8e-4aab-a54e-1e3de1b7ee63
+DTSTAMP:20230112T213650
 DTSTART:20230112T184500
 DTEND:20230112T203000
 SUMMARY:Toasted Croissant  and Chicken Caesar salad #382 for dinner
@@ -33,12 +33,13 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:95e5f962-8743-47c7-9f02-1e035b23528e
-DTSTAMP:20230112T213444
+UID:8efa6e96-99d9-47fa-85f3-f0e5cae38dd2
+DTSTAMP:20230112T213651
 DTSTART:20230115T184500
 DTEND:20230115T203000
-SUMMARY:Grilled steak ratatouille and saffron rice #58 for dinner
+SUMMARY:Grilled steak ratatouille and saffron rice #58 and Beef Skewers #429 for dinner
 DESCRIPTION:Grilled steak ratatouille and saffron rice #58 - https://github.com/jcallaghan/The-Cookbook/issues/58
+Beef Skewers #429 - https://github.com/jcallaghan/The-Cookbook/issues/429
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
