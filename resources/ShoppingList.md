@@ -66,6 +66,7 @@ This shopping list has been automatically generated with the ingredients from th
 1. Soup
 1. Turkey steak
 1. Chicken wrap
+1. Sausage Caramelized Onion Cheese Quiche
 
 ## 🏪 Pantry Ingredients
 
@@ -74,4 +75,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Corn flour, Cornflour, Flour, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 15-01-2023 17:07:00._
+_This shopping list was generated at 15-01-2023 17:12:50._
