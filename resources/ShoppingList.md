@@ -65,6 +65,8 @@ This shopping list has been automatically generated with the ingredients from th
 1. Soup
 1. Egg bagel
 1. Turkey steak
+1. Whisky Haggis sauce
+1. Haggis & Tatties
 
 ## 🏪 Pantry Ingredients
 
@@ -73,4 +75,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Corn flour, Cornflour, Flour, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 16-01-2023 13:05:08._
+_This shopping list was generated at 16-01-2023 13:11:09._
