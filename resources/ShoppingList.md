@@ -1,6 +1,6 @@
 # Shopping List
 
-Sun 15-Jan 2023 - Wed 25-Jan 2023
+Mon 16-Jan 2023 - Thu 26-Jan 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Sun 15-Jan 2023|[Beef Skewers #429](https://github.com/jcallaghan/The-Cookbook/issues/429)|
 |Tue 17-Jan 2023|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
 |Wed 18-Jan 2023|[Beef Orange Stir-Fry #320](https://github.com/jcallaghan/The-Cookbook/issues/320)|
 |Thu 19-Jan 2023|[Chorizo, pepper and potato Spanish omelette #445](https://github.com/jcallaghan/The-Cookbook/issues/445)|
@@ -62,11 +61,10 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Roast potatoes
-1. Egg bagel
-1. Soup
-1. Turkey steak
 1. Chicken wrap
+1. Soup
+1. Egg bagel
+1. Turkey steak
 
 ## 🏪 Pantry Ingredients
 
@@ -75,4 +73,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Corn flour, Cornflour, Flour, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 15-01-2023 17:13:21._
+_This shopping list was generated at 16-01-2023 13:03:43._
