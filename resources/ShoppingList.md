@@ -1,6 +1,6 @@
 # Shopping List
 
-Mon 16-Jan 2023 - Thu 26-Jan 2023
+Mon 16-Jan 2023 - Fri 27-Jan 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -16,7 +16,8 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Sun 22-Jan 2023|[Sausage Caramelized Onion Cheese Quiche #446](https://github.com/jcallaghan/The-Cookbook/issues/446)|
 |Mon 23-Jan 2023|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
-|Wed 25-Jan 2023|[Whisky Haggis sauce #447](https://github.com/jcallaghan/The-Cookbook/issues/447)|
+|Wed 25-Jan 2023|[Chicken Balmoral #449](https://github.com/jcallaghan/The-Cookbook/issues/449)|
+||[Whisky Haggis sauce #447](https://github.com/jcallaghan/The-Cookbook/issues/447)|
 ||[Haggis & Tatties #448](https://github.com/jcallaghan/The-Cookbook/issues/448)|
 
 ## 🛒 Shopping List
@@ -31,8 +32,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Chicken thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thighs)|450g|
 |[Cold sparkling water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cold%20sparkling%20water)|120ml|
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
+|[Cook time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2030%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
+|[Cook time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2050%20minutes)||
 |[Crushed red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crushed%20red%20peppers)|¼ tsp|
 |[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
 |[Dijon mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20mustard)|1 tsp|
@@ -49,13 +52,16 @@ This shopping list has been automatically generated with the ingredients from th
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
 |[Knob of butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Knob%20of%20butter)||
+|[Large chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20chicken%20breasts)|2|
 |[Milk we use full fat](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk%20we%20use%20full%20fat)|100ml|
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)||
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)|30g|
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)||
 |[Prep time: 0 minutes.](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%200%20minutes.)||
+|[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
+|[Rashers of bacon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rashers%20of%20bacon)|4|
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1-2|
 |[Rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20vinegar)|30ml|
 |[Salted butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salted%20butter)|100g|
@@ -68,10 +74,14 @@ This shopping list has been automatically generated with the ingredients from th
 |[Streaky bacon slices](https://www.sainsburys.co.uk/gol-ui/SearchResults/Streaky%20bacon%20slices)|9|
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tbsp|
 |[Swede/neeps](https://www.sainsburys.co.uk/gol-ui/SearchResults/Swede/neeps)||
+|[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
 |[Total time: 1 hour 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%2030%20minutes)||
 |[Total time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2010%20minutes)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
+|[Total time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2045%20minutes)||
+|[Vegetables of your choice to serve with](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetables%20of%20your%20choice%20to%20serve%20with)||
 |[Whisky](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whisky)|3-4 tbsp|
+|[Whisky sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whisky%20sauce)||
 
 ## 🗒️ Notes
 
@@ -87,4 +97,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Corn flour, Cornflour, Flour, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 16-01-2023 13:22:16._
+_This shopping list was generated at 16-01-2023 14:33:08._
