@@ -15,7 +15,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Crispy Sesame Chicken #369](https://github.com/jcallaghan/The-Cookbook/issues/369)|
 ||[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Sun 22-Jan 2023|[Sausage Caramelized Onion Cheese Quiche #446](https://github.com/jcallaghan/The-Cookbook/issues/446)|
-|Wed 25-Jan 2023|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
+|Mon 23-Jan 2023|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
 
 ## 🛒 Shopping List
 
@@ -73,4 +73,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Corn flour, Cornflour, Flour, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 16-01-2023 13:03:43._
+_This shopping list was generated at 16-01-2023 13:05:08._
