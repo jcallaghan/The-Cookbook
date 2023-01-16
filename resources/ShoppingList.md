@@ -16,6 +16,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Sun 22-Jan 2023|[Sausage Caramelized Onion Cheese Quiche #446](https://github.com/jcallaghan/The-Cookbook/issues/446)|
 |Mon 23-Jan 2023|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
+|Wed 25-Jan 2023|[Whisky Haggis sauce #447](https://github.com/jcallaghan/The-Cookbook/issues/447)|
 
 ## 🛒 Shopping List
 
@@ -32,6 +33,8 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
 |[Crushed red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crushed%20red%20peppers)|¼ tsp|
 |[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
+|[Dijon mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20mustard)|1 tsp|
+|[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|100ml|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)||
 |[Eggs whites](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20whites)|2|
 |[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)|2 tbsp|
@@ -42,6 +45,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger)|1 tsp|
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
+|[Knob of butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Knob%20of%20butter)||
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)||
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)|30g|
@@ -49,6 +53,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1-2|
 |[Rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20vinegar)|30ml|
+|[Seasoning to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seasoning%20to%20taste)||
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Single cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Single%20cream)|100ml|
@@ -58,6 +63,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tbsp|
 |[Total time: 1 hour 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%2030%20minutes)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
+|[Whisky](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whisky)|3-4 tbsp|
 
 ## 🗒️ Notes
 
@@ -65,7 +71,6 @@ This shopping list has been automatically generated with the ingredients from th
 1. Soup
 1. Egg bagel
 1. Turkey steak
-1. Whisky Haggis sauce
 1. Haggis & Tatties
 
 ## 🏪 Pantry Ingredients
@@ -75,4 +80,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Corn flour, Cornflour, Flour, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 16-01-2023 13:11:31._
+_This shopping list was generated at 16-01-2023 13:13:59._
