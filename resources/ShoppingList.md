@@ -17,6 +17,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 22-Jan 2023|[Sausage Caramelized Onion Cheese Quiche #446](https://github.com/jcallaghan/The-Cookbook/issues/446)|
 |Mon 23-Jan 2023|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
 |Wed 25-Jan 2023|[Whisky Haggis sauce #447](https://github.com/jcallaghan/The-Cookbook/issues/447)|
+||[Haggis & Tatties #448](https://github.com/jcallaghan/The-Cookbook/issues/448)|
 
 ## 🛒 Shopping List
 
@@ -29,6 +30,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|3|
 |[Chicken thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thighs)|450g|
 |[Cold sparkling water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cold%20sparkling%20water)|120ml|
+|[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
 |[Crushed red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crushed%20red%20peppers)|¼ tsp|
@@ -43,16 +45,20 @@ This shopping list has been automatically generated with the ingredients from th
 |[Frozen peas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Frozen%20peas)|100g|
 |[Garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic)|2|
 |[Ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger)|1 tsp|
+|[Haggis](https://www.sainsburys.co.uk/gol-ui/SearchResults/Haggis)||
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
 |[Knob of butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Knob%20of%20butter)||
+|[Milk we use full fat](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk%20we%20use%20full%20fat)|100ml|
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)||
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)|30g|
-|[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|800g|
+|[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)||
+|[Prep time: 0 minutes.](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%200%20minutes.)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1-2|
 |[Rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20vinegar)|30ml|
+|[Salted butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salted%20butter)|100g|
 |[Seasoning to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seasoning%20to%20taste)||
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
@@ -61,7 +67,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|3-4|
 |[Streaky bacon slices](https://www.sainsburys.co.uk/gol-ui/SearchResults/Streaky%20bacon%20slices)|9|
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tbsp|
+|[Swede/neeps](https://www.sainsburys.co.uk/gol-ui/SearchResults/Swede/neeps)||
 |[Total time: 1 hour 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%2030%20minutes)||
+|[Total time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2010%20minutes)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Whisky](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whisky)|3-4 tbsp|
 
@@ -71,7 +79,6 @@ This shopping list has been automatically generated with the ingredients from th
 1. Soup
 1. Egg bagel
 1. Turkey steak
-1. Haggis & Tatties
 
 ## 🏪 Pantry Ingredients
 
@@ -80,4 +87,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Corn flour, Cornflour, Flour, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 16-01-2023 13:13:59._
+_This shopping list was generated at 16-01-2023 13:22:16._
