@@ -15,10 +15,10 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Crispy Sesame Chicken #369](https://github.com/jcallaghan/The-Cookbook/issues/369)|
 ||[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Sun 22-Jan 2023|[Sausage Caramelized Onion Cheese Quiche #446](https://github.com/jcallaghan/The-Cookbook/issues/446)|
-|Mon 23-Jan 2023|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
-|Wed 25-Jan 2023|[Chicken Balmoral #449](https://github.com/jcallaghan/The-Cookbook/issues/449)|
+|Mon 23-Jan 2023|[Haggis & Tatties #448](https://github.com/jcallaghan/The-Cookbook/issues/448)|
 ||[Whisky Haggis sauce #447](https://github.com/jcallaghan/The-Cookbook/issues/447)|
-||[Haggis & Tatties #448](https://github.com/jcallaghan/The-Cookbook/issues/448)|
+|Wed 25-Jan 2023|[Chicken Balmoral #449](https://github.com/jcallaghan/The-Cookbook/issues/449)|
+|Fri 27-Jan 2023|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
 
 ## 🛒 Shopping List
 
@@ -48,7 +48,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Frozen peas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Frozen%20peas)|100g|
 |[Garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic)|2|
 |[Ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger)|1 tsp|
-|[Haggis](https://www.sainsburys.co.uk/gol-ui/SearchResults/Haggis)||
+|[Haggis](https://www.sainsburys.co.uk/gol-ui/SearchResults/Haggis)|70g-100g|
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
 |[Knob of butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Knob%20of%20butter)||
@@ -97,4 +97,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Corn flour, Cornflour, Flour, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 16-01-2023 14:33:08._
+_This shopping list was generated at 16-01-2023 14:33:50._
