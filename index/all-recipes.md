@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 57 all recipes recipes in the cookbook.
+There are 60 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -18,6 +18,7 @@ There are 57 all recipes recipes in the cookbook.
 ||[351](https://github.com/jcallaghan/The-Cookbook/issues/351)|[Carrot cake](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/carrot-cake.md)| |Style / Baking<br>Favourite 🥰 / Jas<br>Baking / Cake<br>Favourite 🥰 / James<br>Baking / Frosting<br>⚙ Published|
 ||[111](https://github.com/jcallaghan/The-Cookbook/issues/111)|[Cauliflower cheese](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/cauliflower-cheese.md)| |Style / Vegetarian<br>Meal / Side Dish<br>Favourite 🥰 / Jas<br>Favourite 🥰 / Florence<br>Style / Roast<br>⚙ Needs Pictures ✅<br>⚙ Published|
 ||[290](https://github.com/jcallaghan/The-Cookbook/issues/290)|[Charred onion & whipped feta flatbreads](https://github.com/jcallaghan/The-Cookbook/issues/290)| |Style / Vegetarian<br>Meal / Appetiser<br>Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Style / Dinner Party 🥳<br>Favourite 🥰 / James<br>Ingredient / Cheese 🧀 / Feta<br>Baking / Flat Bread<br>⚙ Published|
+||[449](https://github.com/jcallaghan/The-Cookbook/issues/449)|[Chicken Balmoral](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-balmoral.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-balmoral-1.jpg' alt='Chicken Balmoral' width='200'/>|Ingredient / Meat / Lamb<br>Ingredient / Meat / Chicken 🐔<br>Meal / Main<br>⚙ Published<br>Style / Scottish|
 ||[162](https://github.com/jcallaghan/The-Cookbook/issues/162)|[Chicken Carbonara](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-carbonara.md)| |Style / Pasta 🍝<br>Ingredient / Meat / Chicken 🐔<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>Meal / Main<br>Favourite 🥰 / Florence<br>⚙ Published|
 ||[333](https://github.com/jcallaghan/The-Cookbook/issues/333)|[Chicken Gyoza](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-gyoza.md)| |Favourite 🥰 / Jas<br>Meal / Main<br>Baking / Dough<br>Style / Copycat<br>ℹ️ Make ahead of time ⏰<br>Style / Japanese<br>Brand / Wagamama<br>⚙ Published|
 ||[148](https://github.com/jcallaghan/The-Cookbook/issues/148)|[Chicken Katsu curry](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-katsu-curry.md)| |Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Meal / Main<br>Style / Asian<br>Style / Curry<br>Style / Frying<br>Style / Japanese<br>⚙ Published|
@@ -42,6 +43,8 @@ There are 57 all recipes recipes in the cookbook.
 ||[79](https://github.com/jcallaghan/The-Cookbook/issues/79)|[Granddads carrot soup](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/granddads-carrot-soup.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/granddads-carrot-soup-1.jpg' alt='Granddads carrot soup' width='200'/>|Style / Vegetarian<br>Favourite 🥰 / James<br>Style / Soup<br>Favourite 🥰 / Florence<br>Ingredient / Vegetable<br>Meal / Starter<br>⚙ Published|
 ||[437](https://github.com/jcallaghan/The-Cookbook/issues/437)|[Green pea chowder](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/green-pea-chowder.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/green-pea-chowder-1.jpg' alt='Green pea chowder' width='200'/>|Style / Soup<br>Ingredient / Vegetable<br>⚙ Published|
 ||[58](https://github.com/jcallaghan/The-Cookbook/issues/58)|[Grilled steak ratatouille and saffron rice](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/grilled-steak-ratatouille-and-saffron-rice.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/grilled-steak-ratatouille-and-saffron-rice-1.jpg' alt='Grilled steak ratatouille and saffron rice' width='200'/>|Style / Vegetarian<br>Ingredient / Meat / Beef<br>Ingredient / Rice<br>Favourite 🥰 / Jas<br>Ingredient / Steak<br>Style / Dinner Party 🥳<br>Favourite 🥰 / James<br>⚙ Published|
+| H||||
+||[448](https://github.com/jcallaghan/The-Cookbook/issues/448)|[Haggis & Tatties](https://github.com/jcallaghan/The-Cookbook/issues/448)| |Ingredient / Meat / Lamb<br>Ingredient / Vegetable / Potato<br>⚙ Published<br>Style / Scottish|
 | J||||
 ||[415](https://github.com/jcallaghan/The-Cookbook/issues/415)|[Japanese Slipper](https://github.com/jcallaghan/The-Cookbook/issues/415)| |Drink / Cocktail 🍸<br>Favourite 🥰 / James<br>⚙ Published<br>Drink / Cointreau Triple Sec<br>Drink / Midori|
 | L||||
@@ -73,7 +76,8 @@ There are 57 all recipes recipes in the cookbook.
 ||[394](https://github.com/jcallaghan/The-Cookbook/issues/394)|[Tomato, garlic and prawn pasta](https://github.com/jcallaghan/The-Cookbook/issues/394)| |Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Fish 🐟 / Prawn<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>Meal / Main<br>⚙ Published<br>Travel Memories|
 | W||||
 ||[310](https://github.com/jcallaghan/The-Cookbook/issues/310)|[Whiskey Sour](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/whiskey-sour.md)| |Drink / Cocktail 🍸<br>Favourite 🥰 / James<br>Ingredient / Egg<br>Drink / Whiskey<br>Drink / Cocktail Cards Index<br>⚙ Published|
+||[447](https://github.com/jcallaghan/The-Cookbook/issues/447)|[Whisky Haggis sauce](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/whisky-haggis-sauce.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/whisky-haggis-sauce-1.jpg' alt='Whisky Haggis sauce' width='200'/>|Style / Sauce<br>Drink / Whiskey<br>⚙ Published<br>Style / Scottish|
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 16-01-2023 00:21:03 using a custom Python script and GitHub Action._
+_This index was automatically generated at 17-01-2023 00:21:00 using a custom Python script and GitHub Action._
