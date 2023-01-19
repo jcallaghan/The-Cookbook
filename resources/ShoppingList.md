@@ -9,7 +9,6 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 19-Jan 2023|[Chorizo, pepper and potato Spanish omelette #445](https://github.com/jcallaghan/The-Cookbook/issues/445)|
-|Fri 20-Jan 2023|[Fish cakes #109](https://github.com/jcallaghan/The-Cookbook/issues/109)|
 |Mon 23-Jan 2023|[Haggis & Tatties #448](https://github.com/jcallaghan/The-Cookbook/issues/448)|
 ||[Whisky Haggis sauce #447](https://github.com/jcallaghan/The-Cookbook/issues/447)|
 |Tue 24-Jan 2023|[Egg fried rice #330](https://github.com/jcallaghan/The-Cookbook/issues/330)|
@@ -88,4 +87,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Corn flour, Cornflour, Flour, Garlic cloves, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 19-01-2023 18:04:47._
+_This shopping list was generated at 19-01-2023 20:44:16._
