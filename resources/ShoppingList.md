@@ -14,8 +14,6 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 24-Jan 2023|[Sausage Caramelized Onion Cheese Quiche #446](https://github.com/jcallaghan/The-Cookbook/issues/446)|
 |Wed 25-Jan 2023|[Chorizo, pepper and potato Spanish omelette #445](https://github.com/jcallaghan/The-Cookbook/issues/445)|
 |Thu 26-Jan 2023|[Chicken Balmoral #449](https://github.com/jcallaghan/The-Cookbook/issues/449)|
-||[Stuffed chicken #136](https://github.com/jcallaghan/The-Cookbook/issues/136)|
-||[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 ||[Chicken stuffed with sun-dried mozzarella and spinach #90](https://github.com/jcallaghan/The-Cookbook/issues/90)|
 |Fri 27-Jan 2023|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
 |Sat 28-Jan 2023|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
@@ -86,4 +84,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cornflour, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 19-01-2023 21:14:46._
+_This shopping list was generated at 19-01-2023 21:15:46._
