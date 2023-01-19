@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Whisky Haggis sauce #447](https://github.com/jcallaghan/The-Cookbook/issues/447)|
 |Tue 24-Jan 2023|[Sausage Caramelized Onion Cheese Quiche #446](https://github.com/jcallaghan/The-Cookbook/issues/446)|
 |Wed 25-Jan 2023|[Chicken Balmoral #449](https://github.com/jcallaghan/The-Cookbook/issues/449)|
+|Thu 26-Jan 2023|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 |Fri 27-Jan 2023|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
 |Sat 28-Jan 2023|[Egg fried rice #330](https://github.com/jcallaghan/The-Cookbook/issues/330)|
 ||[Crispy Sesame Chicken #369](https://github.com/jcallaghan/The-Cookbook/issues/369)|
@@ -75,6 +76,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Turkey steak
+1. Jas out
 1. Bosnian pie
 
 ## 🏪 Pantry Ingredients
@@ -84,4 +86,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Corn flour, Cornflour, Flour, Garlic cloves, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 19-01-2023 15:21:35._
+_This shopping list was generated at 19-01-2023 15:25:54._
