@@ -8,7 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Fri 20-Jan 2023|[Egg fried rice #330](https://github.com/jcallaghan/The-Cookbook/issues/330)|
+|Fri 20-Jan 2023|[Chicken and vegetable fried rice #78](https://github.com/jcallaghan/The-Cookbook/issues/78)|
 |Mon 23-Jan 2023|[Haggis & Tatties #448](https://github.com/jcallaghan/The-Cookbook/issues/448)|
 ||[Whisky Haggis sauce #447](https://github.com/jcallaghan/The-Cookbook/issues/447)|
 |Tue 24-Jan 2023|[Sausage Caramelized Onion Cheese Quiche #446](https://github.com/jcallaghan/The-Cookbook/issues/446)|
@@ -64,7 +64,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Turkey steak
 1. Jas out
 1. Bosnian pie
 
@@ -75,4 +74,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cornflour, Garlic cloves, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 19-01-2023 21:10:21._
+_This shopping list was generated at 19-01-2023 21:13:13._
