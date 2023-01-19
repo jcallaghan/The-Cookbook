@@ -9,10 +9,10 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 19-Jan 2023|[Chorizo, pepper and potato Spanish omelette #445](https://github.com/jcallaghan/The-Cookbook/issues/445)|
+|Fri 20-Jan 2023|[Egg fried rice #330](https://github.com/jcallaghan/The-Cookbook/issues/330)|
 |Mon 23-Jan 2023|[Haggis & Tatties #448](https://github.com/jcallaghan/The-Cookbook/issues/448)|
 ||[Whisky Haggis sauce #447](https://github.com/jcallaghan/The-Cookbook/issues/447)|
-|Tue 24-Jan 2023|[Egg fried rice #330](https://github.com/jcallaghan/The-Cookbook/issues/330)|
-||[Crispy Sesame Chicken #369](https://github.com/jcallaghan/The-Cookbook/issues/369)|
+|Tue 24-Jan 2023|[Crispy Sesame Chicken #369](https://github.com/jcallaghan/The-Cookbook/issues/369)|
 |Wed 25-Jan 2023|[Sausage Caramelized Onion Cheese Quiche #446](https://github.com/jcallaghan/The-Cookbook/issues/446)|
 |Thu 26-Jan 2023|[Chicken Balmoral #449](https://github.com/jcallaghan/The-Cookbook/issues/449)|
 ||[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
@@ -76,8 +76,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. https://jcallaghan.com/2018/12/chicken-and-vegetable-egg-fried-rice/
 1. Turkey steak
+1. https://jcallaghan.com/2018/12/chicken-and-vegetable-egg-fried-rice/
 1. Jas out
 1. Bosnian pie
 
@@ -88,4 +88,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Corn flour, Cornflour, Flour, Garlic cloves, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 19-01-2023 20:47:18._
+_This shopping list was generated at 19-01-2023 20:49:26._
