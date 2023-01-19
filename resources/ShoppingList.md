@@ -65,7 +65,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Turkey steak
-1. https://jcallaghan.com/2018/12/chicken-and-vegetable-egg-fried-rice/
 1. Jas out
 1. Bosnian pie
 
@@ -76,4 +75,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cornflour, Garlic cloves, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 19-01-2023 20:59:31._
+_This shopping list was generated at 19-01-2023 21:10:21._
