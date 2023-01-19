@@ -21,43 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:837f6bd3-ae3d-4dfd-8f90-058524df1ef5
-DTSTAMP:20230116T143303
-DTSTART:20230116T184500
-DTEND:20230116T203000
-SUMMARY:Chicken wrap and Soup for dinner
-DESCRIPTION:Note: Chicken wrap
-Note: Soup
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:d118fcd2-97f7-469c-95b9-ac4c024cdb8b
-DTSTAMP:20230116T143303
-DTSTART:20230117T184500
-DTEND:20230117T203000
-SUMMARY:Chicken, greens and potato gratin #57 for dinner
-DESCRIPTION:Chicken, greens and potato gratin #57 - https://github.com/jcallaghan/The-Cookbook/issues/57
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:924848cf-fe49-46d2-8696-9695333f0ac4
-DTSTAMP:20230116T143303
-DTSTART:20230118T184500
-DTEND:20230118T203000
-SUMMARY:Egg bagel and Beef Orange Stir-Fry #320 for dinner
-DESCRIPTION:Note: Egg bagel
-Beef Orange Stir-Fry #320 - https://github.com/jcallaghan/The-Cookbook/issues/320
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:a9629f30-4b5c-4c53-bd29-a3fedf5479fe
-DTSTAMP:20230116T143304
+UID:7f60a0a8-a018-4891-bd41-06927ce089c2
+DTSTAMP:20230119T152119
 DTSTART:20230119T184500
 DTEND:20230119T203000
 SUMMARY:Chorizo, pepper and potato Spanish omelette #445 for dinner
@@ -67,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:427aea2d-c71f-4e9d-8dde-4c50a4e4afbd
-DTSTAMP:20230116T143304
+UID:2c109bd8-6c07-4c1d-afee-5e0fd1a805e6
+DTSTAMP:20230119T152119
 DTSTART:20230120T184500
 DTEND:20230120T203000
 SUMMARY:Turkey steak for dinner
@@ -78,23 +43,33 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2b6d1dea-0e20-4716-8cd3-5e73037d6725
-DTSTAMP:20230116T143305
-DTSTART:20230121T184500
-DTEND:20230121T203000
-SUMMARY:Egg fried rice #330, Crispy Sesame Chicken #369 and Crispy beef with egg fried rice #102 for dinner
-DESCRIPTION:Egg fried rice #330 - https://github.com/jcallaghan/The-Cookbook/issues/330
-Crispy Sesame Chicken #369 - https://github.com/jcallaghan/The-Cookbook/issues/369
-Crispy beef with egg fried rice #102 - https://github.com/jcallaghan/The-Cookbook/issues/102
+UID:c0cedf0b-a807-401a-84b5-02cfb8ed469c
+DTSTAMP:20230119T152120
+DTSTART:20230122T184500
+DTEND:20230122T203000
+SUMMARY:Bosnian pie for dinner
+DESCRIPTION:Note: Bosnian pie
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3b89cc90-f4b3-446c-8800-29b05a208e11
-DTSTAMP:20230116T143305
-DTSTART:20230122T184500
-DTEND:20230122T203000
+UID:8b3182dd-df6f-424e-aa84-1edf18d3693d
+DTSTAMP:20230119T152120
+DTSTART:20230123T184500
+DTEND:20230123T203000
+SUMMARY:Haggis & Tatties #448 and Whisky Haggis sauce #447 for dinner
+DESCRIPTION:Haggis & Tatties #448 - https://github.com/jcallaghan/The-Cookbook/issues/448
+Whisky Haggis sauce #447 - https://github.com/jcallaghan/The-Cookbook/issues/447
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6b523bb7-919c-4a79-90c9-4461ca3fbd65
+DTSTAMP:20230119T152121
+DTSTART:20230124T184500
+DTEND:20230124T203000
 SUMMARY:Sausage Caramelized Onion Cheese Quiche #446 for dinner
 DESCRIPTION:Sausage Caramelized Onion Cheese Quiche #446 - https://github.com/jcallaghan/The-Cookbook/issues/446
 SEQUENCE:0
@@ -102,10 +77,21 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:af6264da-27d0-44d5-83a9-a53f3f7b0df1
-DTSTAMP:20230116T143305
-DTSTART:20230123T184500
-DTEND:20230123T203000
+UID:06e60984-de51-453d-ab0d-7ee125a65238
+DTSTAMP:20230119T152121
+DTSTART:20230125T184500
+DTEND:20230125T203000
+SUMMARY:Chicken Balmoral #449 for dinner
+DESCRIPTION:Chicken Balmoral #449 - https://github.com/jcallaghan/The-Cookbook/issues/449
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb977a3-eabd-443e-b580-fe6ea2929ccd
+DTSTAMP:20230119T152122
+DTSTART:20230127T184500
+DTEND:20230127T203000
 SUMMARY:Lemon sole #381 for dinner
 DESCRIPTION:Lemon sole #381 - https://github.com/jcallaghan/The-Cookbook/issues/381
 SEQUENCE:0
@@ -113,14 +99,14 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:98522a2a-db93-4953-a636-c7f433a28e56
-DTSTAMP:20230116T143306
-DTSTART:20230125T184500
-DTEND:20230125T203000
-SUMMARY:Chicken Balmoral #449, Whisky Haggis sauce #447 and Haggis & Tatties #448 for dinner
-DESCRIPTION:Chicken Balmoral #449 - https://github.com/jcallaghan/The-Cookbook/issues/449
-Whisky Haggis sauce #447 - https://github.com/jcallaghan/The-Cookbook/issues/447
-Haggis & Tatties #448 - https://github.com/jcallaghan/The-Cookbook/issues/448
+UID:03cc3231-8832-4a86-ae07-081cddfe08cc
+DTSTAMP:20230119T152123
+DTSTART:20230128T184500
+DTEND:20230128T203000
+SUMMARY:Egg fried rice #330, Crispy Sesame Chicken #369 and Crispy beef with egg fried rice #102 for dinner
+DESCRIPTION:Egg fried rice #330 - https://github.com/jcallaghan/The-Cookbook/issues/330
+Crispy Sesame Chicken #369 - https://github.com/jcallaghan/The-Cookbook/issues/369
+Crispy beef with egg fried rice #102 - https://github.com/jcallaghan/The-Cookbook/issues/102
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
