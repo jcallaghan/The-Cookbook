@@ -1,6 +1,6 @@
 # Shopping List
 
-Mon 16-Jan 2023 - Fri 27-Jan 2023
+Thu 19-Jan 2023 - Sun 29-Jan 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,29 +8,24 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Tue 17-Jan 2023|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
-|Wed 18-Jan 2023|[Beef Orange Stir-Fry #320](https://github.com/jcallaghan/The-Cookbook/issues/320)|
 |Thu 19-Jan 2023|[Chorizo, pepper and potato Spanish omelette #445](https://github.com/jcallaghan/The-Cookbook/issues/445)|
-|Sat 21-Jan 2023|[Egg fried rice #330](https://github.com/jcallaghan/The-Cookbook/issues/330)|
-||[Crispy Sesame Chicken #369](https://github.com/jcallaghan/The-Cookbook/issues/369)|
-||[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
-|Sun 22-Jan 2023|[Sausage Caramelized Onion Cheese Quiche #446](https://github.com/jcallaghan/The-Cookbook/issues/446)|
+|Sat 28-Jan 2023|[Crispy Sesame Chicken #369](https://github.com/jcallaghan/The-Cookbook/issues/369)|
+|Sat 21-Jan 2023|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Mon 23-Jan 2023|[Haggis & Tatties #448](https://github.com/jcallaghan/The-Cookbook/issues/448)|
 ||[Whisky Haggis sauce #447](https://github.com/jcallaghan/The-Cookbook/issues/447)|
+|Tue 24-Jan 2023|[Sausage Caramelized Onion Cheese Quiche #446](https://github.com/jcallaghan/The-Cookbook/issues/446)|
 |Wed 25-Jan 2023|[Chicken Balmoral #449](https://github.com/jcallaghan/The-Cookbook/issues/449)|
 |Fri 27-Jan 2023|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
+|Sat 28-Jan 2023|[Egg fried rice #330](https://github.com/jcallaghan/The-Cookbook/issues/330)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
-|[Baby leeks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baby%20leeks)|200g|
-|[Baby spinach](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baby%20spinach)|200g|
 |[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
-|[Brown sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Brown%20sugar)|100g|
-|[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|3|
-|[Chicken thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thighs)|450g|
-|[Cold sparkling water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cold%20sparkling%20water)|120ml|
+|[Brown sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Brown%20sugar)|100g + 100g|
+|[Chicken thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thighs)|450g + 450g|
+|[Cold sparkling water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cold%20sparkling%20water)|120ml + 120ml|
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2030%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
@@ -43,11 +38,8 @@ This shopping list has been automatically generated with the ingredients from th
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)||
 |[Eggs whites](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20whites)|2|
 |[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)|2 tbsp|
-|[Fresh rosemary](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20rosemary)|1 tbsp|
-|[Fresh sage leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20sage%20leaves)|1 tbsp|
-|[Frozen peas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Frozen%20peas)|100g|
-|[Garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic)|2|
-|[Ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger)|1 tsp|
+|[Garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic)|2 + 2|
+|[Ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger)|1 tsp + 1 tsp|
 |[Haggis](https://www.sainsburys.co.uk/gol-ui/SearchResults/Haggis)|70g-100g|
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
@@ -56,22 +48,19 @@ This shopping list has been automatically generated with the ingredients from th
 |[Milk we use full fat](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk%20we%20use%20full%20fat)|100ml|
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)||
-|[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)|30g|
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)||
 |[Prep time: 0 minutes.](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%200%20minutes.)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Rashers of bacon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rashers%20of%20bacon)|4|
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1-2|
-|[Rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20vinegar)|30ml|
+|[Rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20vinegar)|30ml + 30ml|
 |[Salted butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salted%20butter)|100g|
 |[Seasoning to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seasoning%20to%20taste)||
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
-|[Single cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Single%20cream)|100ml|
 |[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)||
-|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|3-4|
-|[Streaky bacon slices](https://www.sainsburys.co.uk/gol-ui/SearchResults/Streaky%20bacon%20slices)|9|
+|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)||
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tbsp|
 |[Swede/neeps](https://www.sainsburys.co.uk/gol-ui/SearchResults/Swede/neeps)||
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
@@ -85,16 +74,14 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Chicken wrap
-1. Soup
-1. Egg bagel
 1. Turkey steak
+1. Bosnian pie
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Chicken stock, Corn flour, Cornflour, Flour, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Vegetable oil and Water.
+Chicken stock, Corn flour, Cornflour, Flour, Garlic cloves, Seasoning, Sesame oil, Sesame seeds, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 16-01-2023 14:33:50._
+_This shopping list was generated at 19-01-2023 15:20:38._
