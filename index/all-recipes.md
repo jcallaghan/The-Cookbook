@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 60 all recipes recipes in the cookbook.
+There are 61 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -24,6 +24,7 @@ There are 60 all recipes recipes in the cookbook.
 ||[148](https://github.com/jcallaghan/The-Cookbook/issues/148)|[Chicken Katsu curry](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-katsu-curry.md)| |Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Meal / Main<br>Style / Asian<br>Style / Curry<br>Style / Frying<br>Style / Japanese<br>⚙ Published|
 ||[428](https://github.com/jcallaghan/The-Cookbook/issues/428)|[Chicken Kiev Pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-kiev-pasta.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-kiev-pasta-1.jpg' alt='Chicken Kiev Pasta' width='200'/>|Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>⚙ Published<br>Jas Shares|
 ||[256](https://github.com/jcallaghan/The-Cookbook/issues/256)|[Chicken Schnitzel ](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-schnitzel-.md)| |Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Favourite 🥰 / James<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Style / Frying<br>Style / Fried<br>⚙ Published|
+||[78](https://github.com/jcallaghan/The-Cookbook/issues/78)|[Chicken and vegetable fried rice](https://github.com/jcallaghan/The-Cookbook/issues/78)| |Ingredient / Rice<br>Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Style / Wok<br>⚙ Published|
 ||[220](https://github.com/jcallaghan/The-Cookbook/issues/220)|[Chicken broth soup](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-broth-soup.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-broth-soup-1.jpg' alt='Chicken broth soup' width='200'/>|Ingredient / Meat / Chicken 🐔<br>Favourite 🥰 / James<br>Style / Soup<br>Equipment / Pressure Cooker<br>Style / Broth<br>⚙ Published<br>Ingredient / Dumpling|
 ||[187](https://github.com/jcallaghan/The-Cookbook/issues/187)|[Chicken pasta bake](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-pasta-bake.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-pasta-bake-1.jpg' alt='Chicken pasta bake' width='200'/>|Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Meal / Main<br>⚙ Needs Pictures ✅<br>Style / Pasta 🍝 / Bakes<br>⚙ Published|
 ||[286](https://github.com/jcallaghan/The-Cookbook/issues/286)|[Chicken piccata](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-piccata.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-piccata-1.jpg' alt='Chicken piccata' width='200'/>|Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Favourite 🥰 / James<br>Meal / Main<br>Favourite 🥰 / Florence<br>⚙ Needs Pictures Updating ✅<br>⚙ Published|
@@ -80,4 +81,4 @@ There are 60 all recipes recipes in the cookbook.
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 20-01-2023 00:22:14 using a custom Python script and GitHub Action._
+_This index was automatically generated at 21-01-2023 00:21:23 using a custom Python script and GitHub Action._
