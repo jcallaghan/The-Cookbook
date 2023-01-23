@@ -1,6 +1,6 @@
 # Soups
 
-There are 12 soups recipes in the cookbook.
+There are 13 soups recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -12,6 +12,7 @@ There are 12 soups recipes in the cookbook.
 ||[220](https://github.com/jcallaghan/The-Cookbook/issues/220)|[Chicken broth soup](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-broth-soup.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-broth-soup-1.jpg' alt='Chicken broth soup' width='200'/>|Ingredient / Meat / Chicken 🐔<br>Favourite 🥰 / James<br>Style / Soup<br>Equipment / Pressure Cooker<br>Style / Broth<br>⚙ Published<br>Ingredient / Dumpling|
 ||[104](https://github.com/jcallaghan/The-Cookbook/issues/104)|[Cream of mushroom soup](https://github.com/jcallaghan/The-Cookbook/issues/104)| |Style / Vegetarian<br>ℹ️ One Pot Wonder 💪<br>Style / Soup<br>Equipment / Pressure Cooker|
 | G||||
+||[451](https://github.com/jcallaghan/The-Cookbook/issues/451)|[Grah - Bosnian Bean Soup](https://github.com/jcallaghan/The-Cookbook/issues/451)| |Style / Soup<br>Style / Bosnian 🇧🇦<br>Chef 🧑🏼‍🍳 / Mummy Jas|
 ||[79](https://github.com/jcallaghan/The-Cookbook/issues/79)|[Granddads carrot soup](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/granddads-carrot-soup.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/granddads-carrot-soup-1.jpg' alt='Granddads carrot soup' width='200'/>|Style / Vegetarian<br>Favourite 🥰 / James<br>Style / Soup<br>Favourite 🥰 / Florence<br>Ingredient / Vegetable<br>Meal / Starter<br>⚙ Published|
 ||[437](https://github.com/jcallaghan/The-Cookbook/issues/437)|[Green pea chowder](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/green-pea-chowder.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/green-pea-chowder-1.jpg' alt='Green pea chowder' width='200'/>|Style / Soup<br>Ingredient / Vegetable<br>⚙ Published|
 | L||||
@@ -21,4 +22,4 @@ There are 12 soups recipes in the cookbook.
 ||[438](https://github.com/jcallaghan/The-Cookbook/issues/438)|[Sweet corn chowder](https://github.com/jcallaghan/The-Cookbook/issues/438)| |Style / Soup<br>Ingredient / Vegetable|
 ||[345](https://github.com/jcallaghan/The-Cookbook/issues/345)|[Sweet potato, coconut and Harissa soup](https://github.com/jcallaghan/The-Cookbook/issues/345)| |Style / Soup<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Ingredient / Vegetable|
 
-_This index was automatically generated at 22-01-2023 00:24:18 using a custom Python script and GitHub Action._
+_This index was automatically generated at 23-01-2023 00:21:15 using a custom Python script and GitHub Action._
