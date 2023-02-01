@@ -1,6 +1,6 @@
 # Shopping List
 
-Mon 30-Jan 2023 - Thu 09-Feb 2023
+Tue 31-Jan 2023 - Fri 10-Feb 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,12 +8,12 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Mon 30-Jan 2023|[Fish cakes #109](https://github.com/jcallaghan/The-Cookbook/issues/109)|
 |Tue 31-Jan 2023|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 |Wed 01-Feb 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Thu 02-Feb 2023|[Tacos #113](https://github.com/jcallaghan/The-Cookbook/issues/113)|
-|Sat 04-Feb 2023|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
-|Sun 05-Feb 2023|[Cacio e Peppe #359](https://github.com/jcallaghan/The-Cookbook/issues/359)|
+|Sat 04-Feb 2023|[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
+|Mon 06-Feb 2023|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
+|Wed 08-Feb 2023|[Cacio e Peppe #359](https://github.com/jcallaghan/The-Cookbook/issues/359)|
 
 ## 🛒 Shopping List
 
@@ -41,8 +41,8 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Chicken wrap
-1. Turkey
 1. Fish finger toastie / wrap
+1. Turkey
 
 ## 🏪 Pantry Ingredients
 
@@ -51,4 +51,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 31-01-2023 00:04:40._
+_This shopping list was generated at 01-02-2023 00:10:47._
