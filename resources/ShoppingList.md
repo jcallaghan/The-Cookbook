@@ -81,6 +81,9 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Fish finger toastie / wrap
 1. Pizza
+1. Croissant 
+1. Chicken wrap
+1. Bagel
 
 ## 🏪 Pantry Ingredients
 
@@ -89,4 +92,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking soda, Butter, Caster sugar, Chicken stock, Cornflour, Crushed chillies, Curry powder, Garam masala, Garlic cloves, Light brown sugar, Light soy sauce, Plain flour, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 02-02-2023 22:42:23._
+_This shopping list was generated at 02-02-2023 22:43:31._
