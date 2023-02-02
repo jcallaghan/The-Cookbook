@@ -14,7 +14,6 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 06-Feb 2023|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
 |Tue 07-Feb 2023|[Aloo Chana #454](https://github.com/jcallaghan/The-Cookbook/issues/454)|
 ||[Slow cooker Beef Curry #402](https://github.com/jcallaghan/The-Cookbook/issues/402)|
-|Wed 08-Feb 2023|[Cacio e Peppe #359](https://github.com/jcallaghan/The-Cookbook/issues/359)|
 |Thu 09-Feb 2023|[Beef Orange Stir-Fry #320](https://github.com/jcallaghan/The-Cookbook/issues/320)|
 ||[Beef and broccoli stir-fry #6](https://github.com/jcallaghan/The-Cookbook/issues/6)|
 
@@ -54,27 +53,22 @@ This shopping list has been automatically generated with the ingredients from th
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)|3 tbsp|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1 + 3|
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|110ml|
-|[Pecorino romano cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pecorino%20romano%20cheese)|200g|
 |[Peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Peppers)||
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|200 g|
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2020%20minutes)||
-|[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1|
-|[Salted pasta water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salted%20pasta%20water)|3l|
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Serves: 3](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%203)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)|2|
-|[Spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spaghetti)|300g|
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)||
 |[Squid](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squid)|200g|
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2025%20minutes)||
 |[Total time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2045%20minutes)||
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
-|[Whole tellicherry black peppercorns](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20tellicherry%20black%20peppercorns)|2 tbsp|
 
 ## 🗒️ Notes
 
@@ -87,4 +81,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking soda, Butter, Caster sugar, Chicken stock, Cornflour, Crushed chillies, Garam masala, Garlic cloves, Light brown sugar, Light soy sauce, Plain flour, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 02-02-2023 22:30:00._
+_This shopping list was generated at 02-02-2023 22:35:50._
