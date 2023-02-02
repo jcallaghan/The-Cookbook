@@ -9,9 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 02-Feb 2023|[Tacos #113](https://github.com/jcallaghan/The-Cookbook/issues/113)|
-|Fri 03-Feb 2023|[Nando's spicy rice #110](https://github.com/jcallaghan/The-Cookbook/issues/110)|
-|Sat 04-Feb 2023|[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
-||[Fish pie #171](https://github.com/jcallaghan/The-Cookbook/issues/171)|
+|Sat 04-Feb 2023|[Fish pie #171](https://github.com/jcallaghan/The-Cookbook/issues/171)|
 |Sun 05-Feb 2023|[Sweet Potato Soup #453](https://github.com/jcallaghan/The-Cookbook/issues/453)|
 ||[Spiced Parsnip Soup #452](https://github.com/jcallaghan/The-Cookbook/issues/452)|
 |Mon 06-Feb 2023|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
@@ -50,7 +48,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Handful of chopped parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20of%20chopped%20parsley)||
 |[Large cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20cloves%20garlic)|3|
 |[Lime](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lime)|1/2|
-|[Long grain rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Long%20grain%20rice)|300g|
 |[Maris piper potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Maris%20piper%20potatoes)|1kg|
 |[Medium carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots)|1|
 |[Medium potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20potatoes)|4|
@@ -66,7 +63,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2020%20minutes)||
 |[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
-|[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|1|
 |[Salted pasta water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salted%20pasta%20water)|3l|
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 3](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%203)||
@@ -89,14 +85,13 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Fish finger toastie / wrap
-1. Nandos
 1. Steak and chips
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Baking soda, Butter, Chicken stock, Cornflour, Crushed chillies, Curry powder, Garam masala, Garlic cloves, Light brown sugar, Olive oil, Plain flour, Salt, Seasoning, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce, Turmeric and Vegetable oil.
+Baking soda, Butter, Chicken stock, Cornflour, Crushed chillies, Curry powder, Garam masala, Garlic cloves, Light brown sugar, Plain flour, Salt, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 02-02-2023 19:03:54._
+_This shopping list was generated at 02-02-2023 22:28:26._
