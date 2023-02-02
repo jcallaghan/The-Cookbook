@@ -1,6 +1,6 @@
 # Soups
 
-There are 13 soups recipes in the cookbook.
+There are 15 soups recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -19,7 +19,9 @@ There are 13 soups recipes in the cookbook.
 ||[260](https://github.com/jcallaghan/The-Cookbook/issues/260)|[Lyonnaise onion soup](https://github.com/jcallaghan/The-Cookbook/issues/260)| |Style / Soup|
 | S||||
 ||[405](https://github.com/jcallaghan/The-Cookbook/issues/405)|[Slow cooker Cheesy Potato & Bacon Soup](https://github.com/jcallaghan/The-Cookbook/issues/405)| |Style / Slow cook<br>Meal / Main<br>Style / Soup|
+||[452](https://github.com/jcallaghan/The-Cookbook/issues/452)|[Spiced Parsnip Soup](https://github.com/jcallaghan/The-Cookbook/issues/452)| |Style / Vegetarian<br>Style / Soup|
+||[453](https://github.com/jcallaghan/The-Cookbook/issues/453)|[Sweet Potato Soup](https://github.com/jcallaghan/The-Cookbook/issues/453)| |Style / Vegetarian<br>Style / Soup|
 ||[438](https://github.com/jcallaghan/The-Cookbook/issues/438)|[Sweet corn chowder](https://github.com/jcallaghan/The-Cookbook/issues/438)| |Style / Soup<br>Ingredient / Vegetable|
 ||[345](https://github.com/jcallaghan/The-Cookbook/issues/345)|[Sweet potato, coconut and Harissa soup](https://github.com/jcallaghan/The-Cookbook/issues/345)| |Style / Soup<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Ingredient / Vegetable|
 
-_This index was automatically generated at 01-02-2023 00:26:28 using a custom Python script and GitHub Action._
+_This index was automatically generated at 02-02-2023 00:23:01 using a custom Python script and GitHub Action._
