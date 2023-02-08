@@ -1,6 +1,6 @@
 # Pasta
 
-There are 36 pasta recipes in the cookbook.
+There are 37 pasta recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -11,6 +11,7 @@ There are 36 pasta recipes in the cookbook.
 ||[112](https://github.com/jcallaghan/The-Cookbook/issues/112)|[Béchamel sauce](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/béchamel-sauce.md)| |Style / Pasta 🍝<br>Ingredient / Cheese 🧀<br>⚙ Needs Pictures Updating ✅<br>Style / Classic<br>Style / Sauce<br>⚙ Published|
 | C||||
 ||[359](https://github.com/jcallaghan/The-Cookbook/issues/359)|[Cacio e Peppe](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/cacio-e-peppe.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/cacio-e-peppe-1.jpg' alt='Cacio e Peppe' width='200'/>|Style / Pasta 🍝<br>Style / Vegetarian<br>Meal / Main<br>Ingredient / Cheese 🧀<br>Style / Italian 🇮🇹<br>Chef 🧑🏼‍🍳 / Alex<br>⚙ Published|
+||[455](https://github.com/jcallaghan/The-Cookbook/issues/455)|[Carbonara](https://github.com/jcallaghan/The-Cookbook/issues/455)| |Style / Pasta 🍝<br>Favourite 🥰 / James<br>Favourite 🥰 / Florence<br>Style / Italian 🇮🇹|
 ||[414](https://github.com/jcallaghan/The-Cookbook/issues/414)|[Chicken Alfredo Penne](https://github.com/jcallaghan/The-Cookbook/issues/414)| |Style / Pasta 🍝<br>Ingredient / Meat / Chicken 🐔<br>Meal / Main|
 ||[162](https://github.com/jcallaghan/The-Cookbook/issues/162)|[Chicken Carbonara](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-carbonara.md)| |Style / Pasta 🍝<br>Ingredient / Meat / Chicken 🐔<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>Meal / Main<br>Favourite 🥰 / Florence<br>⚙ Published|
 ||[428](https://github.com/jcallaghan/The-Cookbook/issues/428)|[Chicken Kiev Pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-kiev-pasta.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-kiev-pasta-1.jpg' alt='Chicken Kiev Pasta' width='200'/>|Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>⚙ Published<br>Jas Shares|
@@ -51,4 +52,4 @@ There are 36 pasta recipes in the cookbook.
 | V||||
 ||[383](https://github.com/jcallaghan/The-Cookbook/issues/383)|[Vayia Shrimp Pasta](https://github.com/jcallaghan/The-Cookbook/issues/383)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Food Memories|
 
-_This index was automatically generated at 07-02-2023 00:23:58 using a custom Python script and GitHub Action._
+_This index was automatically generated at 08-02-2023 00:21:30 using a custom Python script and GitHub Action._
