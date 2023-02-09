@@ -60,6 +60,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Bagel
+1. Pie and chips
 
 ## 🏪 Pantry Ingredients
 
@@ -68,4 +69,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking soda, Butter, Chicken stock, Cornflour, Crushed chillies, Garlic cloves, Light brown sugar, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 09-02-2023 18:25:27._
+_This shopping list was generated at 09-02-2023 18:26:00._
