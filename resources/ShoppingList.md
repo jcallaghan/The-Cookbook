@@ -1,6 +1,6 @@
 # Shopping List
 
-Sun 05-Feb 2023 - Wed 15-Feb 2023
+Thu 09-Feb 2023 - Sun 19-Feb 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,12 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Sun 05-Feb 2023|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
-||[Chicken kickers #175](https://github.com/jcallaghan/The-Cookbook/issues/175)|
-|Mon 06-Feb 2023|[Vayia Shrimp Pasta #383](https://github.com/jcallaghan/The-Cookbook/issues/383)|
-|Tue 07-Feb 2023|[Aloo Chana #454](https://github.com/jcallaghan/The-Cookbook/issues/454)|
-||[Slow cooker Beef Curry #402](https://github.com/jcallaghan/The-Cookbook/issues/402)|
-|Wed 08-Feb 2023|[Spiced Parsnip Soup #452](https://github.com/jcallaghan/The-Cookbook/issues/452)|
 |Thu 09-Feb 2023|[Beef and broccoli stir-fry #6](https://github.com/jcallaghan/The-Cookbook/issues/6)|
 
 ## 🛒 Shopping List
@@ -22,60 +16,26 @@ This shopping list has been automatically generated with the ingredients from th
 |----------|-----------|
 |[Basmati rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Basmati%20rice)||
 |[Broccoli florets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Broccoli%20florets)|300g|
-|[Butter beans](https://www.sainsburys.co.uk/gol-ui/SearchResults/Butter%20beans)|400g|
-|[Cardamom pods](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cardamom%20pods)|3|
-|[Chicken stock (can use vegetable stock to make vegetarian)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20stock%20(can%20use%20vegetable%20stock%20to%20make%20vegetarian))|500 ml|
-|[Chickpeas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chickpeas)|800 g|
-|[Chopped tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chopped%20tomatoes)|400 g|
-|[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
-|[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
-|[Cook time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2030%20minutes)||
-|[Coriander sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander%20sprigs)|3|
-|[Cracked black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cracked%20black%20peppers)|1/2 tsp|
-|[Cumin powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cumin%20powder)|1 tsp|
-|[Freshly chopped thyme leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20chopped%20thyme%20leaves)|2 tsp|
 |[Ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger)|1 tbsp|
-|[Ground allspice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20allspice)|1 tsp|
-|[Handful of chopped parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20of%20chopped%20parsley)||
-|[Large cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20cloves%20garlic)|3|
-|[Lime](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lime)|1/2|
-|[Malt vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Malt%20vinegar)|5 tbsp|
 |[Medium carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots)|1|
-|[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)|3 tbsp|
-|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1 + 3|
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|3|
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|110ml|
-|[Parsnip crisps](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parsnip%20crisps)||
-|[Parsnips](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parsnips)|500g|
-|[Peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Peppers)||
-|[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|200 g|
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
-|[Prep time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2020%20minutes)||
-|[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1|
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
-|[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
-|[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)|2|
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)||
-|[Sprinkle of smoked paprika *optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sprinkle%20of%20smoked%20paprika%20*optional)||
-|[Squid](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squid)|200g|
-|[Toasted pumpkin seeds *optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Toasted%20pumpkin%20seeds%20*optional)||
-|[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2025%20minutes)||
-|[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
-|[Vegetable stock cube](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock%20cube)|1|
 
 ## 🗒️ Notes
 
-1. Croissant 
-1. Chicken wrap
 1. Bagel
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Baking soda, Caster sugar, Chicken stock, Cornflour, Crushed chillies, Curry powder, Garam masala, Garlic cloves, Light brown sugar, Light soy sauce, Salt, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Smoked paprika, Soy sauce, Vegetable oil and Water.
+Baking soda, Chicken stock, Cornflour, Crushed chillies, Garlic cloves, Light brown sugar, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 05-02-2023 17:45:31._
+_This shopping list was generated at 09-02-2023 18:02:57._
