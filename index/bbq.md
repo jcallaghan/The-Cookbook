@@ -1,6 +1,6 @@
 # BBQ
 
-There are 29 bbq recipes in the cookbook.
+There are 30 bbq recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -37,9 +37,10 @@ There are 29 bbq recipes in the cookbook.
 ||[206](https://github.com/jcallaghan/The-Cookbook/issues/206)|[Rotisserie drip pan potatoes](https://github.com/jcallaghan/The-Cookbook/issues/206)| |Meal / Side Dish<br>Style / Roast<br>Style / BBQ / Rotisserie|
 ||[15](https://github.com/jcallaghan/The-Cookbook/issues/15)|[Rotisserie recipes](https://github.com/jcallaghan/The-Cookbook/issues/15)| |Style / BBQ|
 | S||||
+||[457](https://github.com/jcallaghan/The-Cookbook/issues/457)|[Slow Cooker Pulled Smokey Chicken](https://github.com/jcallaghan/The-Cookbook/issues/457)| |Style / BBQ<br>Ingredient / Meat / Chicken 🐔<br>⚙ New Recipe 👀<br>Ingredient / Meat / Burger 🍔<br>Jas Shares|
 ||[26](https://github.com/jcallaghan/The-Cookbook/issues/26)|[Smoked Watermelon](https://github.com/jcallaghan/The-Cookbook/issues/26)| |Style / BBQ|
 ||[371](https://github.com/jcallaghan/The-Cookbook/issues/371)|[Steak pinwheels](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/steak-pinwheels.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/steak-pinwheels-1.jpg' alt='Steak pinwheels' width='200'/>|Style / BBQ<br>Ingredient / Steak<br>Meal / Main<br>⚙ New Recipe 👀<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>⚙ Published|
 | T||||
 ||[239](https://github.com/jcallaghan/The-Cookbook/issues/239)|[Texas BBQ Pizza](https://github.com/jcallaghan/The-Cookbook/issues/239)| |Style / BBQ<br>Pizza 🍕<br>Equipment / Pizza Oven 🍕🔥|
 
-_This index was automatically generated at 09-02-2023 00:21:44 using a custom Python script and GitHub Action._
+_This index was automatically generated at 10-02-2023 00:24:06 using a custom Python script and GitHub Action._
