@@ -21,32 +21,20 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bb14f485-7e02-4816-a060-8391d348f669
-DTSTAMP:20230212T180821
-DTSTART:20230212T184500
-DTEND:20230212T203000
-SUMMARY:Classic duck breast #184 and Hasselback potatoes #470 for dinner
-DESCRIPTION:Classic duck breast #184 - https://github.com/jcallaghan/The-Cookbook/issues/184
-Hasselback potatoes #470 - https://github.com/jcallaghan/The-Cookbook/issues/470
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:d2f5e690-4546-4525-979c-3a11c9f7fe0c
-DTSTAMP:20230212T180822
+UID:2c42cd6a-6992-498f-a980-c8b7b92e671a
+DTSTAMP:20230213T131548
 DTSTART:20230213T184500
 DTEND:20230213T203000
-SUMMARY:Cream cheese and cucumber #469 and Pie and chips for dinner
-DESCRIPTION:Cream cheese and cucumber #469 - https://github.com/jcallaghan/The-Cookbook/issues/469
+SUMMARY:Fish finger sandwich and Pie and chips for dinner
+DESCRIPTION:Note: Fish finger sandwich
 Note: Pie and chips
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e27f88c3-6d90-4c65-b37a-212c96472b20
-DTSTAMP:20230212T180822
+UID:e439e2a3-cbe7-4d82-9535-2e1b542784a7
+DTSTAMP:20230213T131548
 DTSTART:20230214T184500
 DTEND:20230214T203000
 SUMMARY:Turkey and Charred onion & whipped feta flatbreads #290 for dinner
@@ -57,20 +45,20 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:120002a3-d1ca-4be9-9af7-d24b4cb93956
-DTSTAMP:20230212T180822
+UID:4ea4a6d7-d03e-42ee-b481-000ff1acf239
+DTSTAMP:20230213T131549
 DTSTART:20230215T184500
 DTEND:20230215T203000
-SUMMARY:Fish finger sandwich and Chicken garlic parmesan pasta #468 for dinner
-DESCRIPTION:Note: Fish finger sandwich
+SUMMARY:Cream cheese and cucumber #469 and Chicken garlic parmesan pasta #468 for dinner
+DESCRIPTION:Cream cheese and cucumber #469 - https://github.com/jcallaghan/The-Cookbook/issues/469
 Chicken garlic parmesan pasta #468 - https://github.com/jcallaghan/The-Cookbook/issues/468
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:26535821-baee-4878-934d-6553cc7022c2
-DTSTAMP:20230212T180823
+UID:e70d0fe7-8d95-4348-8957-0ada7b589213
+DTSTAMP:20230213T131549
 DTSTART:20230216T184500
 DTEND:20230216T203000
 SUMMARY:Egg bagel, Carbonara #455 and Chicken Carbonara #162 for dinner
@@ -82,8 +70,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b1d0db62-d902-4d45-a0a9-e70cf4d525b7
-DTSTAMP:20230212T180823
+UID:cb530ee7-2ec1-4a4f-99fa-d8640ea6c53e
+DTSTAMP:20230213T131550
 DTSTART:20230219T184500
 DTEND:20230219T203000
 SUMMARY:Croissants and Chicken Parmigiana #458 for dinner
