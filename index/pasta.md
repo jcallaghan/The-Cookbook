@@ -1,6 +1,6 @@
 # Pasta
 
-There are 40 pasta recipes in the cookbook.
+There are 41 pasta recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -26,6 +26,8 @@ There are 40 pasta recipes in the cookbook.
 | G||||
 ||[354](https://github.com/jcallaghan/The-Cookbook/issues/354)|[Garlic Prawn Bacon Alfredo](https://github.com/jcallaghan/The-Cookbook/issues/354)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ New Recipe 👀<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Ingredient / Meat / Pork / Bacon|
 ||[100](https://github.com/jcallaghan/The-Cookbook/issues/100)|[Grilled salmon fillet pasta salad](https://github.com/jcallaghan/The-Cookbook/issues/100)| |Style / Pasta 🍝<br>Favourite 🥰<br>Ingredient / Fish 🐟 / Salmon<br>Style / Salad|
+| H||||
+||[473](https://github.com/jcallaghan/The-Cookbook/issues/473)|[Ham and egg linguine](https://github.com/jcallaghan/The-Cookbook/issues/473)| |Style / Pasta 🍝<br>Meal / Main<br>Ingredient / Egg<br>Ingredient / Meat / Pork / Ham|
 | I||||
 ||[267](https://github.com/jcallaghan/The-Cookbook/issues/267)|[Instant Pot King Ranch Chicken](https://github.com/jcallaghan/The-Cookbook/issues/267)| |Style / Pasta 🍝<br>Ingredient / Meat / Chicken 🐔<br>ℹ️ One Pot Wonder 💪|
 | L||||
@@ -55,4 +57,4 @@ There are 40 pasta recipes in the cookbook.
 | V||||
 ||[383](https://github.com/jcallaghan/The-Cookbook/issues/383)|[Vayia Shrimp Pasta](https://github.com/jcallaghan/The-Cookbook/issues/383)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Food Memories|
 
-_This index was automatically generated at 13-02-2023 00:23:58 using a custom Python script and GitHub Action._
+_This index was automatically generated at 14-02-2023 00:23:21 using a custom Python script and GitHub Action._
