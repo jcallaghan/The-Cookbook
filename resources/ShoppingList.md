@@ -14,8 +14,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 18-Feb 2023|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Mon 20-Feb 2023|[Roasted Pepper Pasta #400](https://github.com/jcallaghan/The-Cookbook/issues/400)|
 |Tue 21-Feb 2023|[Crispy Chicken Traybake #463](https://github.com/jcallaghan/The-Cookbook/issues/463)|
-|Wed 22-Feb 2023|[Asian glazed salmon #160](https://github.com/jcallaghan/The-Cookbook/issues/160)|
 |Thu 23-Feb 2023|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
+|Fri 24-Feb 2023|[Asian glazed salmon #160](https://github.com/jcallaghan/The-Cookbook/issues/160)|
 
 ## 🛒 Shopping List
 
@@ -110,4 +110,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cornflour, Dried basil, Dried oregano, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Tomato puree.
 
 
-_This shopping list was generated at 16-02-2023 21:09:24._
+_This shopping list was generated at 16-02-2023 21:10:21._
