@@ -101,6 +101,7 @@ This shopping list has been automatically generated with the ingredients from th
 1. Soup
 1. Pie
 1. Fish finger sandwich
+1. Seabass, sugar snaps, potatoes and parsley sauce
 1. Croissants
 
 ## 🏪 Pantry Ingredients
@@ -110,4 +111,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cornflour, Dried basil, Dried oregano, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Tomato puree.
 
 
-_This shopping list was generated at 16-02-2023 21:10:21._
+_This shopping list was generated at 16-02-2023 21:17:35._
