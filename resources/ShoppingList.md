@@ -99,6 +99,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Egg bagel
 1. Soup
+1. Pie
 1. Fish finger sandwich
 1. Croissants
 
@@ -109,4 +110,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cornflour, Dried basil, Dried oregano, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Tomato puree.
 
 
-_This shopping list was generated at 16-02-2023 21:05:47._
+_This shopping list was generated at 16-02-2023 21:09:24._
