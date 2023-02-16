@@ -21,44 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2c42cd6a-6992-498f-a980-c8b7b92e671a
-DTSTAMP:20230213T131548
-DTSTART:20230213T184500
-DTEND:20230213T203000
-SUMMARY:Fish finger sandwich and Pie and chips for dinner
-DESCRIPTION:Note: Fish finger sandwich
-Note: Pie and chips
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:e439e2a3-cbe7-4d82-9535-2e1b542784a7
-DTSTAMP:20230213T131548
-DTSTART:20230214T184500
-DTEND:20230214T203000
-SUMMARY:Turkey and Charred onion & whipped feta flatbreads #290 for dinner
-DESCRIPTION:Note: Turkey
-Charred onion & whipped feta flatbreads #290 - https://github.com/jcallaghan/The-Cookbook/issues/290
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:4ea4a6d7-d03e-42ee-b481-000ff1acf239
-DTSTAMP:20230213T131549
-DTSTART:20230215T184500
-DTEND:20230215T203000
-SUMMARY:Cream cheese and cucumber #469 and Chicken garlic parmesan pasta #468 for dinner
-DESCRIPTION:Cream cheese and cucumber #469 - https://github.com/jcallaghan/The-Cookbook/issues/469
-Chicken garlic parmesan pasta #468 - https://github.com/jcallaghan/The-Cookbook/issues/468
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:e70d0fe7-8d95-4348-8957-0ada7b589213
-DTSTAMP:20230213T131549
+UID:aef9ccba-2e58-4501-ac8e-27cf8fb5c809
+DTSTAMP:20230216T195015
 DTSTART:20230216T184500
 DTEND:20230216T203000
 SUMMARY:Egg bagel, Carbonara #455 and Chicken Carbonara #162 for dinner
@@ -70,13 +34,48 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cb530ee7-2ec1-4a4f-99fa-d8640ea6c53e
-DTSTAMP:20230213T131550
+UID:7c071e7b-b8fd-4cc4-bce6-e8a0bc344fae
+DTSTAMP:20230216T195015
+DTSTART:20230218T184500
+DTEND:20230218T203000
+SUMMARY:Tomato bruschetta #198 for dinner
+DESCRIPTION:Tomato bruschetta #198 - https://github.com/jcallaghan/The-Cookbook/issues/198
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:04e692ad-b6c7-4217-aecb-5439a9f417aa
+DTSTAMP:20230216T195016
 DTSTART:20230219T184500
 DTEND:20230219T203000
-SUMMARY:Croissants and Chicken Parmigiana #458 for dinner
+SUMMARY:Croissants, Chicken Parmigiana #458, Beef roast #282 and Apple Crumble #161 for dinner
 DESCRIPTION:Note: Croissants
 Chicken Parmigiana #458 - https://github.com/jcallaghan/The-Cookbook/issues/458
+Beef roast #282 - https://github.com/jcallaghan/The-Cookbook/issues/282
+Apple Crumble #161 - https://github.com/jcallaghan/The-Cookbook/issues/161
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e6ab2f0-e068-4b00-ae65-43b66e49b509
+DTSTAMP:20230216T195018
+DTSTART:20230222T184500
+DTEND:20230222T203000
+SUMMARY:Asian glazed salmon #160 for dinner
+DESCRIPTION:Asian glazed salmon #160 - https://github.com/jcallaghan/The-Cookbook/issues/160
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:36aa6a9b-1173-454d-a4ae-b9452cefd88e
+DTSTAMP:20230216T195018
+DTSTART:20230223T184500
+DTEND:20230223T203000
+SUMMARY:Spaghetti  Bolognese #264 for dinner
+DESCRIPTION:Spaghetti  Bolognese #264 - https://github.com/jcallaghan/The-Cookbook/issues/264
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
