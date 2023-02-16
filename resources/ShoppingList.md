@@ -12,8 +12,6 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Chicken Carbonara #162](https://github.com/jcallaghan/The-Cookbook/issues/162)|
 |Fri 17-Feb 2023|[Tomato bruschetta #198](https://github.com/jcallaghan/The-Cookbook/issues/198)|
 |Sat 18-Feb 2023|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
-|Sun 19-Feb 2023|[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
-||[Apple Crumble #161](https://github.com/jcallaghan/The-Cookbook/issues/161)|
 |Mon 20-Feb 2023|[Roasted Pepper Pasta #400](https://github.com/jcallaghan/The-Cookbook/issues/400)|
 |Tue 21-Feb 2023|[Crispy Chicken Traybake #463](https://github.com/jcallaghan/The-Cookbook/issues/463)|
 |Wed 22-Feb 2023|[Asian glazed salmon #160](https://github.com/jcallaghan/The-Cookbook/issues/160)|
@@ -28,7 +26,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Balsamic vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Balsamic%20vinegar)|30ml|
 |[Black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20peppers)|2g/.07oz|
 |[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
-|[Bramley apples](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bramley%20apples)|900g|
 |[Can tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20tomatoes)|1|
 |[Cashews](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cashews)|50g|
 |[Chicken breast](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breast)|2|
@@ -41,7 +38,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
 |[Cornstarch](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cornstarch)|1 tbsp|
 |[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
-|[Demarara sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Demarara%20sugar)|100g|
 |[Dijon mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20mustard)|1 tbsp|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)||
 |[Eggs yolks organic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20yolks%20organic)|4|
@@ -54,12 +50,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Full-fat crème fraîche](https://www.sainsburys.co.uk/gol-ui/SearchResults/Full-fat%20crème%20fraîche)|150g|
 |[Ginger ???](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger%20???)||
 |[Grated pecorino romano or parmesan cheese for serving optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grated%20pecorino%20romano%20or%20parmesan%20cheese%20for%20serving%20optional)||
-|[Ground cinnamon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cinnamon)|1 tsp|
 |[Guanciale](https://www.sainsburys.co.uk/gol-ui/SearchResults/Guanciale)|200g/7oz|
 |[Handful flat-leaf parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20flat-leaf%20parsley)|1|
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
 |[Honey ???](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey%20???)||
-|[Jumbo oats](https://www.sainsburys.co.uk/gol-ui/SearchResults/Jumbo%20oats)|175g|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
 |[Leaves of fresh basil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Leaves%20of%20fresh%20basil)|6-8|
 |[Loaf crusty bread](https://www.sainsburys.co.uk/gol-ui/SearchResults/Loaf%20crusty%20bread)|1|
@@ -112,7 +106,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Butter, Caster sugar, Chicken stock, Cornflour, Dried basil, Dried oregano, Garlic cloves, Olive oil, Plain flour, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Tomato puree.
+Chicken stock, Cornflour, Dried basil, Dried oregano, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Tomato puree.
 
 
-_This shopping list was generated at 16-02-2023 21:01:14._
+_This shopping list was generated at 16-02-2023 21:05:47._
