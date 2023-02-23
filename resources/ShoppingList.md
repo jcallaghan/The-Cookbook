@@ -61,6 +61,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[Total time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2015%20minutes)||
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
 
+## 🗒️ Notes
+
+1. Cucumber + cream cheese
+1. Turkey sandwich
+1. Toastie / egg bagel
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -68,4 +74,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock and Sesame seeds.
 
 
-_This shopping list was generated at 23-02-2023 22:02:28._
+_This shopping list was generated at 23-02-2023 22:15:54._
