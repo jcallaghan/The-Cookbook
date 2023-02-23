@@ -12,15 +12,20 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 24-Feb 2023|[Cavolo Nero and Chorizo Eggs #460](https://github.com/jcallaghan/The-Cookbook/issues/460)|
 |Sun 26-Feb 2023|[Rotisserie chicken #17](https://github.com/jcallaghan/The-Cookbook/issues/17)|
 |Wed 01-Mar 2023|[Asian glazed salmon #160](https://github.com/jcallaghan/The-Cookbook/issues/160)|
+|Thu 02-Mar 2023|[Chicken garlic parmesan pasta #468](https://github.com/jcallaghan/The-Cookbook/issues/468)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
+|[Angel hair or thin spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Angel%20hair%20or%20thin%20spaghetti)|10oz|
 |[Baby potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baby%20potatoes)|300g|
+|[Basil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Basil)|1/4t|
 |[Cavolo nero](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cavolo%20nero)|200g|
+|[Chicken broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20broth)|2C|
 |[Chill ???](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chill%20???)||
 |[Chorizo](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chorizo)|200g|
+|[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|3-4|
 |[Cook time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%200%20minutes)||
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
@@ -34,8 +39,13 @@ This shopping list has been automatically generated with the ingredients from th
 |[Handful flat-leaf parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20flat-leaf%20parsley)|1|
 |[Honey ???](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey%20???)||
 |[Mayonnaise](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mayonnaise)|4 tbsp|
+|[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|1C|
 |[Mini chicken breast fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mini%20chicken%20breast%20fillets)|500g|
+|[Onions powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions%20powder)|1/4t|
+|[Oregano](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oregano)|1/4t|
 |[Pak choi](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pak%20choi)||
+|[Parmesan](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan)|1/2C|
+|[Peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Peppers)|1/4t|
 |[Prep time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%200%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
@@ -46,6 +56,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Slices sourdough bread](https://www.sainsburys.co.uk/gol-ui/SearchResults/Slices%20sourdough%20bread)|4|
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)||
+|[Thyme](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thyme)|1/4t|
 |[Total time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%200%20minutes)||
 |[Total time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2015%20minutes)||
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
@@ -57,4 +68,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock and Sesame seeds.
 
 
-_This shopping list was generated at 23-02-2023 18:03:06._
+_This shopping list was generated at 23-02-2023 22:02:28._
