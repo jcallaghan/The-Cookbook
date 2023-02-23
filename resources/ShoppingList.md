@@ -1,6 +1,6 @@
 # Shopping List
 
-Tue 21-Feb 2023 - Fri 03-Mar 2023
+Thu 23-Feb 2023 - Sun 05-Mar 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 23-Feb 2023|[Crispy Chicken Traybake #463](https://github.com/jcallaghan/The-Cookbook/issues/463)|
+|Sun 26-Feb 2023|[Rotisserie chicken #17](https://github.com/jcallaghan/The-Cookbook/issues/17)|
 |Wed 01-Mar 2023|[Asian glazed salmon #160](https://github.com/jcallaghan/The-Cookbook/issues/160)|
 
 ## 🛒 Shopping List
@@ -41,11 +42,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Total time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%200%20minutes)||
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
 
-## 🗒️ Notes
-
-1. Seabass, sugar snaps, potatoes and parsley sauce
-1. Croissants
-
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -53,4 +49,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock and Sesame seeds.
 
 
-_This shopping list was generated at 21-02-2023 23:20:44._
+_This shopping list was generated at 23-02-2023 10:47:08._
