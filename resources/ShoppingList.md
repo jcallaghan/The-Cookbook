@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 23-Feb 2023|[Crispy Chicken Traybake #463](https://github.com/jcallaghan/The-Cookbook/issues/463)|
+|Fri 24-Feb 2023|[Cavolo Nero and Chorizo Eggs #460](https://github.com/jcallaghan/The-Cookbook/issues/460)|
 |Sun 26-Feb 2023|[Rotisserie chicken #17](https://github.com/jcallaghan/The-Cookbook/issues/17)|
 |Wed 01-Mar 2023|[Asian glazed salmon #160](https://github.com/jcallaghan/The-Cookbook/issues/160)|
 
@@ -17,10 +18,14 @@ This shopping list has been automatically generated with the ingredients from th
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
 |[Baby potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baby%20potatoes)|300g|
+|[Cavolo nero](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cavolo%20nero)|200g|
 |[Chill ???](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chill%20???)||
+|[Chorizo](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chorizo)|200g|
 |[Cook time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%200%20minutes)||
+|[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
 |[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
 |[Dijon mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20mustard)|1 tbsp|
+|[Free range eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Free%20range%20eggs)|4|
 |[Frozen broccoli florets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Frozen%20broccoli%20florets)|400g|
 |[Frozen sliced leeks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Frozen%20sliced%20leeks)|300g|
 |[Frozen sweetcorn](https://www.sainsburys.co.uk/gol-ui/SearchResults/Frozen%20sweetcorn)|170g|
@@ -33,20 +38,23 @@ This shopping list has been automatically generated with the ingredients from th
 |[Pak choi](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pak%20choi)||
 |[Prep time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%200%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
+|[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
 |[Puffed rice cereal](https://www.sainsburys.co.uk/gol-ui/SearchResults/Puffed%20rice%20cereal)|100g|
 |[Rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice)||
 |[Salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salmon)||
 |[Serves 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves%202)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
+|[Slices sourdough bread](https://www.sainsburys.co.uk/gol-ui/SearchResults/Slices%20sourdough%20bread)|4|
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)||
 |[Total time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%200%20minutes)||
+|[Total time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2015%20minutes)||
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Chicken stock and Sesame seeds.
+Butter, Chicken stock and Sesame seeds.
 
 
-_This shopping list was generated at 23-02-2023 10:47:08._
+_This shopping list was generated at 23-02-2023 12:13:35._
