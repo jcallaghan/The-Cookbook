@@ -24,4 +24,4 @@ There are 15 soups recipes in the cookbook.
 ||[438](https://github.com/jcallaghan/The-Cookbook/issues/438)|[Sweet corn chowder](https://github.com/jcallaghan/The-Cookbook/issues/438)| |Style / Soup<br>Ingredient / Vegetable|
 ||[345](https://github.com/jcallaghan/The-Cookbook/issues/345)|[Sweet potato, coconut and Harissa soup](https://github.com/jcallaghan/The-Cookbook/issues/345)| |Style / Soup<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Ingredient / Vegetable|
 
-_This index was automatically generated at 25-02-2023 00:23:40 using a custom Python script and GitHub Action._
+_This index was automatically generated at 26-02-2023 00:25:19 using a custom Python script and GitHub Action._
