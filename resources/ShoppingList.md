@@ -28,6 +28,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Toastie / egg bagel
+1. Jas parents
 
 ## 🏪 Pantry Ingredients
 
@@ -36,4 +37,4 @@ The following items have not been added to the shopping list as they are likey i
 B, u, t, t, e and r.
 
 
-_This shopping list was generated at 02-03-2023 18:03:04._
+_This shopping list was generated at 02-03-2023 21:49:29._
