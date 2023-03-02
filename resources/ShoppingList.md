@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 02-Mar 2023|[Chicken garlic parmesan pasta #468](https://github.com/jcallaghan/The-Cookbook/issues/468)|
 |Tue 07-Mar 2023|[Beef and broccoli stir-fry #6](https://github.com/jcallaghan/The-Cookbook/issues/6)|
+|Wed 08-Mar 2023|[Teriyaki chicken #285](https://github.com/jcallaghan/The-Cookbook/issues/285)|
 
 ## 🛒 Shopping List
 
@@ -52,4 +53,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking soda, Butter, Chicken stock, Cornflour, Crushed chillies, Garlic cloves, Light brown sugar, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 02-03-2023 22:01:58._
+_This shopping list was generated at 02-03-2023 22:04:46._
