@@ -41,6 +41,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Toastie / egg bagel
+1. Thai Beef Curry
 1. Jas parents
 
 ## 🏪 Pantry Ingredients
@@ -50,4 +51,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking soda, Butter, Chicken stock, Cornflour, Crushed chillies, Garlic cloves, Light brown sugar, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 02-03-2023 21:52:47._
+_This shopping list was generated at 02-03-2023 21:58:58._
