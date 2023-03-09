@@ -9,7 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 09-Mar 2023|[Cream of Chicken Soup #389](https://github.com/jcallaghan/The-Cookbook/issues/389)|
-|Sat 11-Mar 2023|[Sticky Pepper Chicken / Kung-Po Chicken / Dragon chicken #495](https://github.com/jcallaghan/The-Cookbook/issues/495)|
+|Sun 12-Mar 2023|[Sticky Pepper Chicken / Kung-Po Chicken / Dragon chicken #495](https://github.com/jcallaghan/The-Cookbook/issues/495)|
 ||[Kung Pao Chicken #450](https://github.com/jcallaghan/The-Cookbook/issues/450)|
 |Mon 13-Mar 2023|[Cacio e Peppe #359](https://github.com/jcallaghan/The-Cookbook/issues/359)|
 |Tue 14-Mar 2023|[Beef Fajitas #143](https://github.com/jcallaghan/The-Cookbook/issues/143)|
@@ -87,4 +87,4 @@ The following items have not been added to the shopping list as they are likey i
 Salt and Seasoning.
 
 
-_This shopping list was generated at 09-03-2023 21:58:56._
+_This shopping list was generated at 09-03-2023 22:01:01._
