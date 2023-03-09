@@ -42,3 +42,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Teaspoons turmeric](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20turmeric)|0.25|
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Whole tellicherry black peppercorns](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20tellicherry%20black%20peppercorns)|2 tbsp|
+
+## 🗒️ Notes
+
+1. Cajun Garlic-Parmesan Alfredo
