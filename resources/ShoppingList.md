@@ -119,6 +119,9 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Day old rice 
+1. Southern fried wrap
+1. Turkey sandwich
+1. Egg bagel
 
 ## 🏪 Pantry Ingredients
 
@@ -127,4 +130,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cornflour, Garlic cloves, Salt, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 09-03-2023 22:06:11._
+_This shopping list was generated at 09-03-2023 22:19:15._
