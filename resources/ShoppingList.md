@@ -9,6 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 09-Mar 2023|[Cream of Chicken Soup #389](https://github.com/jcallaghan/The-Cookbook/issues/389)|
+|Fri 10-Mar 2023|[Lemon sole #381](https://github.com/jcallaghan/The-Cookbook/issues/381)|
+|Sat 11-Mar 2023|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Sun 12-Mar 2023|[Sticky Pepper Chicken / Kung-Po Chicken / Dragon chicken #495](https://github.com/jcallaghan/The-Cookbook/issues/495)|
 ||[Kung Pao Chicken #450](https://github.com/jcallaghan/The-Cookbook/issues/450)|
 |Mon 13-Mar 2023|[Cacio e Peppe #359](https://github.com/jcallaghan/The-Cookbook/issues/359)|
@@ -21,14 +23,19 @@ This shopping list has been automatically generated with the ingredients from th
 |----------|-----------|
 |[#155](https://www.sainsburys.co.uk/gol-ui/SearchResults/#155)||
 |[Beef sirloin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Beef%20sirloin)||
+|[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
 |[Cloves of garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20of%20garlic)|5|
 |[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
 |[Cook time: 20 mins](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20mins)||
+|[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
 |[Cornstarch](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cornstarch)|0.67 cups water mixed with 1 tsp|
 |[Cups oil for frying](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20oil%20for%20frying)|1|
+|[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
 |[Dried chilies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20chilies)|10|
+|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)||
 |[Eggs (whisked)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20(whisked))|1|
 |[Fajita seasoning (cumin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fajita%20seasoning%20(cumin)||
+|[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)|2 tbsp|
 |[Fresh lime juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lime%20juice)||
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
 |[Garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic)||
@@ -37,6 +44,8 @@ This shopping list has been automatically generated with the ingredients from th
 |[Grams onions (thinly sliced)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grams%20onions%20(thinly%20sliced))|100|
 |[Green onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20onions)|4|
 |[Green onions for garnish](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20onions%20for%20garnish)|2|
+|[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
+|[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
 |[Lettuce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lettuce)||
 |[Mushrooms](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mushrooms)||
 |[Nachos side](https://www.sainsburys.co.uk/gol-ui/SearchResults/Nachos%20side)||
@@ -54,16 +63,23 @@ This shopping list has been automatically generated with the ingredients from th
 |[Of roasted/unsalted peanuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20roasted/unsalted%20peanuts)|1/3 cup|
 |[Of sesame oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20sesame%20oil)|1 tsp|
 |[Of soy sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20soy%20sauce)|1 tbsp + 1 tbsp|
+|[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)||
 |[Pecorino romano cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pecorino%20romano%20cheese)|200g|
 |[Peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Peppers)||
 |[Prep time: 10 mins](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20mins)||
+|[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
+|[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1-2|
 |[Salsa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salsa)||
 |[Salted pasta water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salted%20pasta%20water)|3l|
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
+|[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
+|[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)||
 |[Sour cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sour%20cream)||
 |[Spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spaghetti)|300g|
+|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|3-4|
+|[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tbsp|
 |[Tablespoon chili sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20chili%20sauce)|2|
 |[Tablespoons cornstarch](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20cornstarch)|6|
 |[Tablespoons dark soy sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20dark%20soy%20sauce)|1|
@@ -84,7 +100,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Salt and Seasoning.
+Cornflour, Garlic cloves, Salt, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 09-03-2023 22:01:01._
+_This shopping list was generated at 09-03-2023 22:02:27._
