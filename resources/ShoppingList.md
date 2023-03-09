@@ -116,6 +116,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
 |[Whole tellicherry black peppercorns](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20tellicherry%20black%20peppercorns)|2 tbsp|
 
+## 🗒️ Notes
+
+1. Day old rice 
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -123,4 +127,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cornflour, Garlic cloves, Salt, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 09-03-2023 22:04:29._
+_This shopping list was generated at 09-03-2023 22:06:11._
