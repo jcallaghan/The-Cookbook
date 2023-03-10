@@ -1,6 +1,6 @@
 # Soups
 
-There are 15 soups recipes in the cookbook.
+There are 16 soups recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -10,6 +10,7 @@ There are 15 soups recipes in the cookbook.
 | C||||
 ||[107](https://github.com/jcallaghan/The-Cookbook/issues/107)|[Cauliflower soup](https://github.com/jcallaghan/The-Cookbook/issues/107)| |Style / Soup<br>Equipment / Pressure Cooker<br>Equipment / Hand blender|
 ||[220](https://github.com/jcallaghan/The-Cookbook/issues/220)|[Chicken broth soup](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-broth-soup.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-broth-soup-1.jpg' alt='Chicken broth soup' width='200'/>|Ingredient / Meat / Chicken 🐔<br>Favourite 🥰 / James<br>Style / Soup<br>Equipment / Pressure Cooker<br>Style / Broth<br>⚙ Published<br>Ingredient / Dumpling|
+||[389](https://github.com/jcallaghan/The-Cookbook/issues/389)|[Cream of Chicken Soup](https://github.com/jcallaghan/The-Cookbook/issues/389)| |Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Favourite 🥰 / James<br>Meal / Main<br>Style / Soup|
 ||[104](https://github.com/jcallaghan/The-Cookbook/issues/104)|[Cream of mushroom soup](https://github.com/jcallaghan/The-Cookbook/issues/104)| |Style / Vegetarian<br>ℹ️ One Pot Wonder 💪<br>Style / Soup<br>Equipment / Pressure Cooker|
 | G||||
 ||[451](https://github.com/jcallaghan/The-Cookbook/issues/451)|[Grah - Bosnian Bean Soup](https://github.com/jcallaghan/The-Cookbook/issues/451)| |Style / Soup<br>Style / Bosnian 🇧🇦<br>Chef 🧑🏼‍🍳 / Mummy Jas|
@@ -24,4 +25,4 @@ There are 15 soups recipes in the cookbook.
 ||[438](https://github.com/jcallaghan/The-Cookbook/issues/438)|[Sweet corn chowder](https://github.com/jcallaghan/The-Cookbook/issues/438)| |Style / Soup<br>Ingredient / Vegetable|
 ||[345](https://github.com/jcallaghan/The-Cookbook/issues/345)|[Sweet potato, coconut and Harissa soup](https://github.com/jcallaghan/The-Cookbook/issues/345)| |Style / Soup<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Ingredient / Vegetable|
 
-_This index was automatically generated at 09-03-2023 00:24:42 using a custom Python script and GitHub Action._
+_This index was automatically generated at 10-03-2023 00:24:05 using a custom Python script and GitHub Action._
