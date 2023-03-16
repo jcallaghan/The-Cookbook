@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 16-Mar 2023|[Crispy Chicken Traybake #463](https://github.com/jcallaghan/The-Cookbook/issues/463)|
 |Fri 17-Mar 2023|[Chicken garlic parmesan pasta #468](https://github.com/jcallaghan/The-Cookbook/issues/468)|
 |Sun 19-Mar 2023|[Thai Beef Curry #485](https://github.com/jcallaghan/The-Cookbook/issues/485)|
+|Mon 20-Mar 2023|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
 |Tue 21-Mar 2023|[Tacos #113](https://github.com/jcallaghan/The-Cookbook/issues/113)|
 |Thu 23-Mar 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Fri 24-Mar 2023|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
@@ -20,6 +21,7 @@ This shopping list has been automatically generated with the ingredients from th
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
 |[4 ounces) beef broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/4%20ounces)%20beef%20broth)|1|
+|[[optional] cherry tomatoes on the vine](https://www.sainsburys.co.uk/gol-ui/SearchResults/[optional]%20cherry%20tomatoes%20on%20the%20vine)||
 |[Angel hair or thin spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Angel%20hair%20or%20thin%20spaghetti)|10oz|
 |[Baby potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baby%20potatoes)|300g|
 |[Basil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Basil)|1/4t|
@@ -28,9 +30,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)||
 |[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|3-4|
 |[Coconut milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coconut%20milk)|600 ml|
+|[Cook time:  15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%20%2015%20minutes)||
 |[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
+|[Cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream)|1 tbsp|
 |[Diced tomato](https://www.sainsburys.co.uk/gol-ui/SearchResults/Diced%20tomato)||
 |[Dijon mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20mustard)|1 tbsp|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)||
@@ -40,6 +44,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Frozen sliced leeks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Frozen%20sliced%20leeks)|300g|
 |[Frozen sweetcorn](https://www.sainsburys.co.uk/gol-ui/SearchResults/Frozen%20sweetcorn)|170g|
 |[Full-fat crème fraîche](https://www.sainsburys.co.uk/gol-ui/SearchResults/Full-fat%20crème%20fraîche)|150g|
+|[Green pesto](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20pesto)|4 tbsp|
 |[Guacamole](https://www.sainsburys.co.uk/gol-ui/SearchResults/Guacamole)||
 |[Handful flat-leaf parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20flat-leaf%20parsley)|1|
 |[Juice from 1 lime](https://www.sainsburys.co.uk/gol-ui/SearchResults/Juice%20from%201%20lime)||
@@ -56,6 +61,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Parmesan](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan)|1/2C|
 |[Peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Peppers)|1/4t|
 |[Pinch each of flaky sea salt and freshly ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20each%20of%20flaky%20sea%20salt%20and%20freshly%20ground%20black%20peppers)|1|
+|[Prep time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%200%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Puffed rice cereal](https://www.sainsburys.co.uk/gol-ui/SearchResults/Puffed%20rice%20cereal)|100g|
 |[Rant rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rant%20rice)|340 g|
@@ -64,7 +70,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[Roasted peanuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Roasted%20peanuts)|75g|
 |[Rump steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rump%20steak)|450g|
 |[Salsa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salsa)||
+|[Seabass fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seabass%20fillets)|2|
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
+|[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Shredded cheddar cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shredded%20cheddar%20cheese)||
 |[Shredded lettuce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shredded%20lettuce)||
@@ -72,12 +80,14 @@ This shopping list has been automatically generated with the ingredients from th
 |[Stalks of fresh lemongrass](https://www.sainsburys.co.uk/gol-ui/SearchResults/Stalks%20of%20fresh%20lemongrass)|2|
 |[Tablespoon ground cumin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20ground%20cumin)|1/2|
 |[Tablespoon onions powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20onions%20powder)|1/2|
+|[Tagliatelle pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tagliatelle%20pasta)|300g|
 |[Teaspoon garlic powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20garlic%20powder)|1|
 |[Teaspoon peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20peppers)|1/4|
 |[Teaspoon salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20salt)|1|
 |[Thai basil leaves (optional)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thai%20basil%20leaves%20(optional))|10-15|
 |[Thyme](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thyme)|1/4t|
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
+|[Total time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2015%20minutes)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
 |[Warm flour or corn tortillas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Warm%20flour%20or%20corn%20tortillas)||
@@ -87,12 +97,13 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Egg bagel
+1. Take-out
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Butter, Chicken stock and Water.
+Butter, Chicken stock, Seasoning and Water.
 
 
-_This shopping list was generated at 16-03-2023 21:09:15._
+_This shopping list was generated at 16-03-2023 21:18:23._
