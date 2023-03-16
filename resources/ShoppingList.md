@@ -107,6 +107,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Egg bagel
 1. Take-out
+1. Chicken wrap
 
 ## 🏪 Pantry Ingredients
 
@@ -115,4 +116,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Salt, Seasoning and Water.
 
 
-_This shopping list was generated at 16-03-2023 21:18:53._
+_This shopping list was generated at 16-03-2023 21:20:32._
