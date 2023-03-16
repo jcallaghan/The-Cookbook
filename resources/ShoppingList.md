@@ -10,9 +10,9 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 16-Mar 2023|[Crispy Chicken Traybake #463](https://github.com/jcallaghan/The-Cookbook/issues/463)|
 |Fri 17-Mar 2023|[Chicken garlic parmesan pasta #468](https://github.com/jcallaghan/The-Cookbook/issues/468)|
-|Sat 18-Mar 2023|[Tacos #113](https://github.com/jcallaghan/The-Cookbook/issues/113)|
-|Mon 20-Mar 2023|[Thai Beef Curry #485](https://github.com/jcallaghan/The-Cookbook/issues/485)|
-|Tue 21-Mar 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
+|Sun 19-Mar 2023|[Thai Beef Curry #485](https://github.com/jcallaghan/The-Cookbook/issues/485)|
+|Tue 21-Mar 2023|[Tacos #113](https://github.com/jcallaghan/The-Cookbook/issues/113)|
+|Thu 23-Mar 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Fri 24-Mar 2023|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
 
 ## 🛒 Shopping List
@@ -95,4 +95,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock and Water.
 
 
-_This shopping list was generated at 16-03-2023 20:57:56._
+_This shopping list was generated at 16-03-2023 21:09:15._
