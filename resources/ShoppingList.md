@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 19-Mar 2023|[Thai Beef Curry #485](https://github.com/jcallaghan/The-Cookbook/issues/485)|
 |Mon 20-Mar 2023|[Pesto tagliatelle with sea bass #177](https://github.com/jcallaghan/The-Cookbook/issues/177)|
 |Tue 21-Mar 2023|[Tacos #113](https://github.com/jcallaghan/The-Cookbook/issues/113)|
+|Wed 22-Mar 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 |Thu 23-Mar 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Fri 24-Mar 2023|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
 
@@ -25,6 +26,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Angel hair or thin spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Angel%20hair%20or%20thin%20spaghetti)|10oz|
 |[Baby potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baby%20potatoes)|300g|
 |[Basil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Basil)|1/4t|
+|[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|450g|
 |[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|2|
 |[Chicken broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20broth)|2C|
 |[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)||
@@ -37,6 +39,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream)|1 tbsp|
 |[Diced tomato](https://www.sainsburys.co.uk/gol-ui/SearchResults/Diced%20tomato)||
 |[Dijon mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20mustard)|1 tbsp|
+|[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)||
 |[Fish sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fish%20sauce)|45ml|
 |[Flour + seasoning (salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Flour%20+%20seasoning%20(salt)||
@@ -53,7 +56,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Mayonnaise](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mayonnaise)|4 tbsp|
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|1C|
 |[Mini chicken breast fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mini%20chicken%20breast%20fillets)|500g|
+|[Of fennel seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20fennel%20seeds)|1 tbsp|
+|[Of paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20paprika)|2 tsp|
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
 |[Onions powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions%20powder)|1/4t|
 |[Oregano](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oregano)|1/4t|
 |[Palm sugar or soft brown sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Palm%20sugar%20or%20soft%20brown%20sugar)|30ml|
@@ -61,6 +67,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Parmesan](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan)|1/2C|
 |[Peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Peppers)|1/4t|
 |[Pinch each of flaky sea salt and freshly ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20each%20of%20flaky%20sea%20salt%20and%20freshly%20ground%20black%20peppers)|1|
+|[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
 |[Prep time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%200%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Puffed rice cereal](https://www.sainsburys.co.uk/gol-ui/SearchResults/Puffed%20rice%20cereal)|100g|
@@ -90,7 +97,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[Total time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2015%20minutes)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
+|[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[Warm flour or corn tortillas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Warm%20flour%20or%20corn%20tortillas)||
+|[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
 |[½ pounds boneless chuck roast](https://www.sainsburys.co.uk/gol-ui/SearchResults/½%20pounds%20boneless%20chuck%20roast)|2|
 |[½ tablespoons chili powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/½%20tablespoons%20chili%20powder)|1|
 
@@ -103,7 +112,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Butter, Chicken stock, Seasoning and Water.
+Butter, Chicken stock, Salt, Seasoning and Water.
 
 
-_This shopping list was generated at 16-03-2023 21:18:23._
+_This shopping list was generated at 16-03-2023 21:18:53._
