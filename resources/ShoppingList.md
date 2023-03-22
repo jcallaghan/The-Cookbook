@@ -9,7 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 23-Mar 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
-|Sun 26-Mar 2023|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
+|Sat 25-Mar 2023|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
+|Mon 27-Mar 2023|[Asian glazed salmon #160](https://github.com/jcallaghan/The-Cookbook/issues/160)|
 |Tue 28-Mar 2023|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 |Wed 29-Mar 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 |Thu 30-Mar 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
@@ -20,7 +21,9 @@ This shopping list has been automatically generated with the ingredients from th
 |----------|-----------|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|450g|
 |[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|2|
+|[Chill ???](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chill%20???)||
 |[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)||
+|[Cook time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%200%20minutes)||
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
@@ -28,20 +31,29 @@ This shopping list has been automatically generated with the ingredients from th
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|2|
 |[Flour + seasoning (salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Flour%20+%20seasoning%20(salt)||
 |[Garlic covers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20covers)|2|
+|[Ginger ???](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger%20???)||
+|[Honey ???](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey%20???)||
 |[Mache or boston lettuce leaves to serve](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mache%20or%20boston%20lettuce%20leaves%20to%20serve)||
 |[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g|
 |[Of fennel seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20fennel%20seeds)|1 tbsp|
 |[Of paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20paprika)|2 tsp|
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|½ + 2|
+|[Pak choi](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pak%20choi)||
 |[Panko](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko)||
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)||
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
+|[Prep time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%200%20minutes)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
+|[Rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice)||
+|[Salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salmon)||
+|[Serves 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves%202)||
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
+|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)||
+|[Total time: 0 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%200%20minutes)||
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
 |[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
@@ -51,12 +63,14 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Fish finger sandwich
+1. F&C?
+1. Roast?
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Butter, Dried basil, Dried oregano, Salt, Seasoning and Tomato purée.
+Butter, Dried basil, Dried oregano, Salt, Seasoning, Sesame seeds and Tomato purée.
 
 
-_This shopping list was generated at 22-03-2023 20:58:04._
+_This shopping list was generated at 22-03-2023 20:58:44._
