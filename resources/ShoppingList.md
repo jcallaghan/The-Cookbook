@@ -11,6 +11,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 23-Mar 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Sat 25-Mar 2023|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
 |Mon 27-Mar 2023|[Asian glazed salmon #160](https://github.com/jcallaghan/The-Cookbook/issues/160)|
+||[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
+||[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 |Tue 28-Mar 2023|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 |Wed 29-Mar 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 |Thu 30-Mar 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
@@ -73,4 +75,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Dried basil, Dried oregano, Salt, Seasoning, Sesame seeds and Tomato purée.
 
 
-_This shopping list was generated at 22-03-2023 20:58:44._
+_This shopping list was generated at 22-03-2023 20:59:13._
