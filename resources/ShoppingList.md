@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 22-Mar 2023 - Sat 01-Apr 2023
+Thu 23-Mar 2023 - Sun 02-Apr 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -75,4 +75,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Dried basil, Dried oregano, Salt, Seasoning, Sesame seeds and Tomato purée.
 
 
-_This shopping list was generated at 22-03-2023 20:59:13._
+_This shopping list was generated at 23-03-2023 18:03:20._
