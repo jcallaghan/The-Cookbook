@@ -46,6 +46,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[X 400g tin chopped tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20tin%20chopped%20tomatoes)|1|
 |[X round lettuce](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20round%20lettuce)|1|
 
+## 🗒️ Notes
+
+1. Crotia Steak & Prawns
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -53,4 +57,4 @@ The following items have not been added to the shopping list as they are likey i
 Bay leaf, Butter, Flour, Olive oil, Salt, Seasoning, Tomato purée and Worcestershire sauce.
 
 
-_This shopping list was generated at 29-03-2023 13:22:28._
+_This shopping list was generated at 29-03-2023 13:24:04._
