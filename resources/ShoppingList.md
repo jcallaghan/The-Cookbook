@@ -11,8 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 30-Mar 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 |Sat 01-Apr 2023|[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
 |Mon 03-Apr 2023|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
-|Tue 04-Apr 2023|[Canadian steak sandwich #208](https://github.com/jcallaghan/The-Cookbook/issues/208)|
-||[Thai Beef Curry #485](https://github.com/jcallaghan/The-Cookbook/issues/485)|
+|Tue 04-Apr 2023|[Thai Beef Curry #485](https://github.com/jcallaghan/The-Cookbook/issues/485)|
 |Thu 06-Apr 2023|[Grilled Cheese Toastie #489](https://github.com/jcallaghan/The-Cookbook/issues/489)|
 ||[Slow-cooker chicken casserole #190](https://github.com/jcallaghan/The-Cookbook/issues/190)|
 ||[Lasagne  #128](https://github.com/jcallaghan/The-Cookbook/issues/128)|
@@ -23,7 +22,6 @@ This shopping list has been automatically generated with the ingredients from th
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
 |[(2 tbsp) red wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/(2%20tbsp)%20red%20wine)|30ml|
-|[Beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Beef)||
 |[Can tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20tomatoes)|1|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|450g|
 |[Cheddar cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cheddar%20cheese)|60g|
@@ -35,7 +33,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Dijon mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20mustard)|1 tsp|
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
-|[English mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/English%20mustard)||
 |[Fish sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fish%20sauce)|45ml|
 |[For the salad](https://www.sainsburys.co.uk/gol-ui/SearchResults/For%20the%20salad)||
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)|1|
@@ -46,7 +43,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Large carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20carrots)|1|
 |[Large onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20onions)|½|
 |[Linguine pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Linguine%20pasta)|200g|
-|[Mayo](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mayo)||
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|50ml + 300ml|
 |[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|300g + 450g|
 |[Nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Nutmeg)||
@@ -79,7 +75,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[Whipping cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whipping%20cream)|300ml|
-|[White bread](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20bread)||
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
 |[White wine (riesling or chardonnay)](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine%20(riesling%20or%20chardonnay))|100ml|
 |[White wine vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine%20vinegar)|1 tbsp|
@@ -99,4 +94,4 @@ The following items have not been added to the shopping list as they are likey i
 Bay leaf, Butter, Chicken stock, Cooking oil, Dried oregano, Flour, Garlic cloves, Olive oil, Salt, Seasoning, Tomato puree, Tomato purée, Water and Worcestershire sauce.
 
 
-_This shopping list was generated at 30-03-2023 20:53:32._
+_This shopping list was generated at 30-03-2023 20:54:44._
