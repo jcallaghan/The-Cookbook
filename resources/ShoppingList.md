@@ -13,7 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 01-Apr 2023|[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
 |Mon 03-Apr 2023|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Tue 04-Apr 2023|[Canadian steak sandwich #208](https://github.com/jcallaghan/The-Cookbook/issues/208)|
-|Wed 05-Apr 2023|[Thai Beef Curry #485](https://github.com/jcallaghan/The-Cookbook/issues/485)|
+||[Thai Beef Curry #485](https://github.com/jcallaghan/The-Cookbook/issues/485)|
 |Thu 06-Apr 2023|[Grilled Cheese Toastie #489](https://github.com/jcallaghan/The-Cookbook/issues/489)|
 ||[Slow-cooker chicken casserole #190](https://github.com/jcallaghan/The-Cookbook/issues/190)|
 ||[Lasagne  #128](https://github.com/jcallaghan/The-Cookbook/issues/128)|
@@ -101,4 +101,4 @@ The following items have not been added to the shopping list as they are likey i
 Bay leaf, Butter, Chicken stock, Cooking oil, Flour, Garlic cloves, Olive oil, Salt, Seasoning, Tomato purée, Water and Worcestershire sauce.
 
 
-_This shopping list was generated at 30-03-2023 14:13:24._
+_This shopping list was generated at 30-03-2023 14:13:57._
