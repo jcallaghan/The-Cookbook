@@ -17,6 +17,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 06-Apr 2023|[Grilled Cheese Toastie #489](https://github.com/jcallaghan/The-Cookbook/issues/489)|
 ||[Slow-cooker chicken casserole #190](https://github.com/jcallaghan/The-Cookbook/issues/190)|
 ||[Lasagne  #128](https://github.com/jcallaghan/The-Cookbook/issues/128)|
+||[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
 
 ## 🛒 Shopping List
 
@@ -24,10 +25,12 @@ This shopping list has been automatically generated with the ingredients from th
 |----------|-----------|
 |[(2 tbsp) red wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/(2%20tbsp)%20red%20wine)|30ml|
 |[Beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Beef)||
+|[Can tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20tomatoes)|1|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|450g|
 |[Cheddar cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cheddar%20cheese)|60g|
 |[Chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chillies%20flakes)|1 tsp|
 |[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|2|
+|[Cloves garlic chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic%20chopped)|3|
 |[Coconut milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coconut%20milk)|600 ml|
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
 |[Cook time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2025%20minutes)||
@@ -37,8 +40,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[English mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/English%20mustard)||
 |[Fish sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fish%20sauce)|45ml|
 |[For the salad](https://www.sainsburys.co.uk/gol-ui/SearchResults/For%20the%20salad)||
-|[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
+|[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)|1|
 |[Freshly grated parmesan cheese (keep some back for serving)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20grated%20parmesan%20cheese%20(keep%20some%20back%20for%20serving))|100g|
+|[Grated pecorino romano or parmesan cheese for serving optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grated%20pecorino%20romano%20or%20parmesan%20cheese%20for%20serving%20optional)||
 |[Kaffir lime leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kaffir%20lime%20leaves)|5|
 |[King prawns](https://www.sainsburys.co.uk/gol-ui/SearchResults/King%20prawns)|300g|
 |[Large carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20carrots)|1|
@@ -46,11 +50,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Linguine pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Linguine%20pasta)|200g|
 |[Mayo](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mayo)||
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|50ml + 300ml|
-|[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|300g|
+|[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|300g + 450g|
 |[Nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Nutmeg)||
 |[Of fennel seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20fennel%20seeds)|1 tbsp|
 |[Of paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20paprika)|2 tsp|
-|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
 |[Palm sugar or soft brown sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Palm%20sugar%20or%20soft%20brown%20sugar)|30ml|
 |[Paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Paprika)|1 tsp|
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)|30g|
@@ -98,7 +102,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Bay leaf, Butter, Chicken stock, Cooking oil, Flour, Garlic cloves, Olive oil, Salt, Seasoning, Tomato purée, Water and Worcestershire sauce.
+Bay leaf, Butter, Chicken stock, Cooking oil, Dried oregano, Flour, Garlic cloves, Olive oil, Salt, Seasoning, Tomato puree, Tomato purée, Water and Worcestershire sauce.
 
 
-_This shopping list was generated at 30-03-2023 14:13:57._
+_This shopping list was generated at 30-03-2023 14:15:42._
