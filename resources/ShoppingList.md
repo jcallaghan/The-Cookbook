@@ -13,7 +13,6 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 03-Apr 2023|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Tue 04-Apr 2023|[Thai Beef Curry #485](https://github.com/jcallaghan/The-Cookbook/issues/485)|
 |Thu 06-Apr 2023|[Grilled Cheese Toastie #489](https://github.com/jcallaghan/The-Cookbook/issues/489)|
-||[Slow-cooker chicken casserole #190](https://github.com/jcallaghan/The-Cookbook/issues/190)|
 ||[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
 
 ## 🛒 Shopping List
@@ -78,4 +77,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Cooking oil, Dried oregano, Garlic cloves, Olive oil, Salt, Seasoning, Tomato puree and Water.
 
 
-_This shopping list was generated at 30-03-2023 21:00:12._
+_This shopping list was generated at 30-03-2023 21:00:44._
