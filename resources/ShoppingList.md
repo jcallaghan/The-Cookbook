@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 30-Mar 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
+|Fri 31-Mar 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Sat 01-Apr 2023|[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
 |Mon 03-Apr 2023|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Tue 04-Apr 2023|[Thai Beef Curry #485](https://github.com/jcallaghan/The-Cookbook/issues/485)|
@@ -65,7 +66,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Fishcake?
 1. Crotia Steak & Prawns
 1. Jas' parents
 1. Turkey
@@ -77,4 +77,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Cooking oil, Dried oregano, Garlic cloves, Olive oil, Salt, Seasoning, Tomato puree and Water.
 
 
-_This shopping list was generated at 30-03-2023 21:00:44._
+_This shopping list was generated at 30-03-2023 21:05:15._
