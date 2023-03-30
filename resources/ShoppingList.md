@@ -9,7 +9,6 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 30-Mar 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
-|Fri 31-Mar 2023|[Chicken Kiev Pasta #428](https://github.com/jcallaghan/The-Cookbook/issues/428)|
 |Sat 01-Apr 2023|[Prawn Alfredo #347](https://github.com/jcallaghan/The-Cookbook/issues/347)|
 |Mon 03-Apr 2023|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Tue 04-Apr 2023|[Canadian steak sandwich #208](https://github.com/jcallaghan/The-Cookbook/issues/208)|
@@ -33,7 +32,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cloves garlic chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic%20chopped)|3|
 |[Coconut milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coconut%20milk)|600 ml|
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
-|[Cook time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2025%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Dijon mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20mustard)|1 tsp|
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
@@ -58,14 +56,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[Palm sugar or soft brown sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Palm%20sugar%20or%20soft%20brown%20sugar)|30ml|
 |[Paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Paprika)|1 tsp|
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)|30g|
-|[Parmesan to serve](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20to%20serve)||
 |[Pinch each of flaky sea salt and freshly ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20each%20of%20flaky%20sea%20salt%20and%20freshly%20ground%20black%20peppers)|1|
 |[Pinch of ground nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20ground%20nutmeg)||
 |[Pinches dried oregano](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinches%20dried%20oregano)|2|
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
-|[Prep time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2025%20minutes)||
 |[Rant rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rant%20rice)|340 g|
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1-2|
 |[Red curry paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20curry%20paste)|15–45ml|
@@ -80,7 +76,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Stalks of fresh lemongrass](https://www.sainsburys.co.uk/gol-ui/SearchResults/Stalks%20of%20fresh%20lemongrass)|2|
 |[Thai basil leaves (optional)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thai%20basil%20leaves%20(optional))|10-15|
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
-|[Total time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2025%20minutes)||
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[Whipping cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whipping%20cream)|300ml|
@@ -89,7 +84,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[White wine (riesling or chardonnay)](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine%20(riesling%20or%20chardonnay))|100ml|
 |[White wine vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine%20vinegar)|1 tbsp|
 |[X 400g tin chopped tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20tin%20chopped%20tomatoes)|1|
-|[X chicken kiev's or chicken stitzel's](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20chicken%20kiev's%20or%20chicken%20stitzel's)|2|
 |[X round lettuce](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20round%20lettuce)|1|
 
 ## 🗒️ Notes
@@ -105,4 +99,4 @@ The following items have not been added to the shopping list as they are likey i
 Bay leaf, Butter, Chicken stock, Cooking oil, Dried oregano, Flour, Garlic cloves, Olive oil, Salt, Seasoning, Tomato puree, Tomato purée, Water and Worcestershire sauce.
 
 
-_This shopping list was generated at 30-03-2023 18:03:15._
+_This shopping list was generated at 30-03-2023 20:53:32._
