@@ -44,6 +44,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. F&C
 1. Pesto Chicken Orzo
+1. Chicken tikka biyani
+1. Chicken florentine
 
 ## 🏪 Pantry Ingredients
 
@@ -52,4 +54,4 @@ The following items have not been added to the shopping list as they are likey i
 Cornflour, Dried oregano, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Tomato puree.
 
 
-_This shopping list was generated at 06-04-2023 20:44:41._
+_This shopping list was generated at 06-04-2023 20:54:57._
