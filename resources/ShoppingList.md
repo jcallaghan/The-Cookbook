@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 06-Apr 2023|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
 |Sat 08-Apr 2023|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
+|Mon 10-Apr 2023|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 |Tue 11-Apr 2023|[Grilled Cheese Toastie #489](https://github.com/jcallaghan/The-Cookbook/issues/489)|
 
 ## 🛒 Shopping List
@@ -51,4 +52,4 @@ The following items have not been added to the shopping list as they are likey i
 Cornflour, Dried oregano, Garlic cloves, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Tomato puree.
 
 
-_This shopping list was generated at 06-04-2023 20:44:04._
+_This shopping list was generated at 06-04-2023 20:44:41._
