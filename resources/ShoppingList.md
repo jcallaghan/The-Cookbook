@@ -8,8 +8,9 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Fri 14-Apr 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
-||[Chicken and vegetable fried rice #78](https://github.com/jcallaghan/The-Cookbook/issues/78)|
+|Fri 14-Apr 2023|[Chicken and vegetable fried rice #78](https://github.com/jcallaghan/The-Cookbook/issues/78)|
+|Mon 17-Apr 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
+|Wed 19-Apr 2023|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 
 ## 🛒 Shopping List
 
@@ -43,4 +44,4 @@ The following items have not been added to the shopping list as they are likey i
 Seasoning, Sesame oil, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 13-04-2023 21:17:51._
+_This shopping list was generated at 13-04-2023 21:18:18._
