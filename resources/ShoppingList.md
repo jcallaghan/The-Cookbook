@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 13-Apr 2023 - Sun 23-Apr 2023
+Tue 18-Apr 2023 - Fri 28-Apr 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,9 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Mon 17-Apr 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
-|Tue 18-Apr 2023|[Chicken and vegetable fried rice #78](https://github.com/jcallaghan/The-Cookbook/issues/78)|
-|Wed 19-Apr 2023|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
+|Wed 19-Apr 2023|[Chicken and vegetable fried rice #78](https://github.com/jcallaghan/The-Cookbook/issues/78)|
 
 ## 🛒 Shopping List
 
@@ -33,12 +31,9 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Chicken florentine
-1. Chicken and potatoes 
-1. Grilled cheese toastie
 1. Chicken wrap
-1. Fish finger wrap
 1. Fish pie?
+1. Fish finger wrap
 1. Beef roast?
 
 ## 🏪 Pantry Ingredients
@@ -48,4 +43,4 @@ The following items have not been added to the shopping list as they are likey i
 Seasoning, Sesame oil, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 13-04-2023 21:43:02._
+_This shopping list was generated at 18-04-2023 10:51:17._
