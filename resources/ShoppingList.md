@@ -62,10 +62,12 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Fish finger wrap
 1. Pie?
 1. Beef roast?
+1. Fish finger wrap
 1. Jas out
+1. Croisant
+1. Cheese toastie
 
 ## 🏪 Pantry Ingredients
 
@@ -74,4 +76,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Dried basil, Dried oregano, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 20-04-2023 18:03:11._
+_This shopping list was generated at 20-04-2023 21:10:38._
