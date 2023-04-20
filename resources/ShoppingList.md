@@ -62,9 +62,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Egg bagel
 1. Fish cake
-1. Pie?
 1. Fish finger wrap
 1. Jas out
 1. Croisant
@@ -77,4 +75,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Dried basil, Dried oregano, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 20-04-2023 21:26:02._
+_This shopping list was generated at 20-04-2023 21:31:24._
