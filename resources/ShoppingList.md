@@ -8,6 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
+|Mon 24-Apr 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Tue 25-Apr 2023|[Beef pasta bake #138](https://github.com/jcallaghan/The-Cookbook/issues/138)|
 |Fri 28-Apr 2023|[Cavolo Nero and Chorizo Eggs #460](https://github.com/jcallaghan/The-Cookbook/issues/460)|
 
@@ -52,4 +53,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Dried basil, Dried oregano and Garlic cloves.
 
 
-_This shopping list was generated at 20-04-2023 21:15:03._
+_This shopping list was generated at 20-04-2023 21:15:47._
