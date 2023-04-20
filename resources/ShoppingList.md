@@ -26,7 +26,9 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Fish finger wrap
+1. Pie?
 1. Beef roast?
+1. Jas out
 
 ## 🏪 Pantry Ingredients
 
@@ -35,4 +37,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 20-04-2023 16:22:24._
+_This shopping list was generated at 20-04-2023 16:23:57._
