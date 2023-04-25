@@ -51,7 +51,7 @@ There are 61 all recipes recipes in the cookbook.
 | L||||
 ||[346](https://github.com/jcallaghan/The-Cookbook/issues/346)|[Lamb Rogan Josh](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/lamb-rogan-josh.md)| |Ingredient / Meat / Lamb<br>Meal / Main<br>Style / Curry<br>Style / Marinade<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 | M||||
-||[235](https://github.com/jcallaghan/The-Cookbook/issues/235)|[Margherita pizza](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/margherita-pizza.md)| |Style / Vegetarian<br>Pizza 🍕<br>⚙ Needs Pictures ✅<br>Equipment / Pizza Oven 🍕🔥<br>⚙ Published|
+||[235](https://github.com/jcallaghan/The-Cookbook/issues/235)|[Margherita pizza](https://github.com/jcallaghan/The-Cookbook/issues/235)| |Style / Vegetarian<br>Pizza 🍕<br>⚙ Needs Pictures ✅<br>Equipment / Pizza Oven 🍕🔥<br>⚙ Published|
 ||[280](https://github.com/jcallaghan/The-Cookbook/issues/280)|[Mash potato](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/mash-potato.md)| |Style / Vegetarian<br>Meal / Side Dish<br>⚙ Needs Pictures ✅<br>Ingredient / Vegetable / Potato<br>⚙ Published|
 ||[59](https://github.com/jcallaghan/The-Cookbook/issues/59)|[Meatballs](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/meatballs.md)| |Style / Pasta 🍝<br>Ingredient / Meat / Beef<br>Favourite 🥰 / James<br>Meal / Main<br>Favourite 🥰 / Florence<br>⚙ Needs Pictures ✅<br>⚙ Published|
 ||[76](https://github.com/jcallaghan/The-Cookbook/issues/76)|[Mums delicious chocolate brownies](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/mums-delicious-chocolate-brownies.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/mums-delicious-chocolate-brownies-1.jpg' alt='Mums delicious chocolate brownies' width='200'/>|Style / BBQ<br>Baking / Sweets & Treats<br>Style / Dinner Party 🥳<br>Meal / Dessert<br>Ingredient / Chocolate 🍫<br>Baking / Brownies<br>⚙ Published|
@@ -81,4 +81,4 @@ There are 61 all recipes recipes in the cookbook.
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 24-04-2023 00:20:36 using a custom Python script and GitHub Action._
+_This index was automatically generated at 25-04-2023 00:24:29 using a custom Python script and GitHub Action._
