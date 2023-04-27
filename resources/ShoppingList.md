@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 28-Apr 2023|[Cavolo Nero and Chorizo Eggs #460](https://github.com/jcallaghan/The-Cookbook/issues/460)|
 |Sat 29-Apr 2023|[Chicken Kiev Pasta #428](https://github.com/jcallaghan/The-Cookbook/issues/428)|
 |Sun 30-Apr 2023|[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
+|Mon 01-May 2023|[Slow cooker Beef Curry #402](https://github.com/jcallaghan/The-Cookbook/issues/402)|
 
 ## 🛒 Shopping List
 
@@ -60,4 +61,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 27-04-2023 16:19:35._
+_This shopping list was generated at 27-04-2023 16:20:13._
