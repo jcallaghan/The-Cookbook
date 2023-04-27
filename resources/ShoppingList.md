@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 29-Apr 2023|[Chicken Kiev Pasta #428](https://github.com/jcallaghan/The-Cookbook/issues/428)|
 |Sun 30-Apr 2023|[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
 |Mon 01-May 2023|[Slow cooker Beef Curry #402](https://github.com/jcallaghan/The-Cookbook/issues/402)|
+|Tue 02-May 2023|[Tuscan Chicken #406](https://github.com/jcallaghan/The-Cookbook/issues/406)|
 
 ## 🛒 Shopping List
 
@@ -61,4 +62,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 27-04-2023 18:02:58._
+_This shopping list was generated at 27-04-2023 18:07:22._
