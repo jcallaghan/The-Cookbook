@@ -52,7 +52,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Croisant
-1. Sourdough and crab
 1. Cheese toastie
 
 ## 🏪 Pantry Ingredients
@@ -62,4 +61,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 27-04-2023 18:07:22._
+_This shopping list was generated at 27-04-2023 18:19:01._
