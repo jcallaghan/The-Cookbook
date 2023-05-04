@@ -39,6 +39,8 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. BBQ / Pizza?
+1. Jas out
+1. Jas out
 
 ## 🏪 Pantry Ingredients
 
@@ -47,4 +49,4 @@ The following items have not been added to the shopping list as they are likey i
 Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 04-05-2023 20:55:57._
+_This shopping list was generated at 04-05-2023 20:56:43._
