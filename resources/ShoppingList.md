@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 27-Apr 2023 - Sun 07-May 2023
+Thu 04-May 2023 - Sun 14-May 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,75 +8,43 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 27-Apr 2023|[Crispy Chicken Traybake #463](https://github.com/jcallaghan/The-Cookbook/issues/463)|
-|Fri 28-Apr 2023|[Cavolo Nero and Chorizo Eggs #460](https://github.com/jcallaghan/The-Cookbook/issues/460)|
-|Sat 29-Apr 2023|[Chicken Kiev Pasta #428](https://github.com/jcallaghan/The-Cookbook/issues/428)|
-|Sun 30-Apr 2023|[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
-|Mon 01-May 2023|[Slow cooker Beef Curry #402](https://github.com/jcallaghan/The-Cookbook/issues/402)|
-|Tue 02-May 2023|[Tuscan Chicken #406](https://github.com/jcallaghan/The-Cookbook/issues/406)|
-|Wed 03-May 2023|[Crab linguine #202](https://github.com/jcallaghan/The-Cookbook/issues/202)|
-||[Crab tortellini #141](https://github.com/jcallaghan/The-Cookbook/issues/141)|
+|Sat 06-May 2023|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
+||[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
-|[00 flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/00%20flour)|250g|
-|[Baby potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baby%20potatoes)|300g|
-|[Bowl of water for sealing the pasta sheets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bowl%20of%20water%20for%20sealing%20the%20pasta%20sheets)||
-|[Brown crab meat](https://www.sainsburys.co.uk/gol-ui/SearchResults/Brown%20crab%20meat)|50g|
-|[Cavolo nero](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cavolo%20nero)|200g|
-|[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)||
-|[Chorizo](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chorizo)|200g|
+|[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
 |[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
-|[Cook time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2025%20minutes)||
-|[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
-|[Cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream)|150ml|
-|[Creme fresh](https://www.sainsburys.co.uk/gol-ui/SearchResults/Creme%20fresh)|2 x tbsp|
-|[Dijon mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20mustard)|1 tbsp|
-|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|5|
-|[Free range eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Free%20range%20eggs)|4|
-|[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
-|[Frozen broccoli florets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Frozen%20broccoli%20florets)|400g|
-|[Frozen sliced leeks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Frozen%20sliced%20leeks)|300g|
-|[Frozen sweetcorn](https://www.sainsburys.co.uk/gol-ui/SearchResults/Frozen%20sweetcorn)|170g|
-|[Full-fat crème fraîche](https://www.sainsburys.co.uk/gol-ui/SearchResults/Full-fat%20crème%20fraîche)|150g|
-|[Handful flat-leaf parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20flat-leaf%20parsley)|1|
-|[Mayonnaise](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mayonnaise)|4 tbsp|
-|[Mini chicken breast fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mini%20chicken%20breast%20fillets)|500g|
-|[Parmesan to serve](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20to%20serve)||
-|[Pinch saffron / fennel](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20saffron%20/%20fennel)|1|
+|[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
+|[Coriander sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander%20sprigs)|3|
+|[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
+|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)||
+|[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)|2 tbsp|
+|[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
+|[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
+|[Malt vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Malt%20vinegar)|5 tbsp|
+|[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
+|[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
-|[Prep time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2025%20minutes)||
-|[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
-|[Puffed rice cereal](https://www.sainsburys.co.uk/gol-ui/SearchResults/Puffed%20rice%20cereal)|100g|
-|[Semolina flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Semolina%20flour)|250g|
-|[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
-|[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
-|[Slices sourdough bread](https://www.sainsburys.co.uk/gol-ui/SearchResults/Slices%20sourdough%20bread)|4|
-|[Spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spaghetti)||
-|[Strain](https://www.sainsburys.co.uk/gol-ui/SearchResults/Strain)||
-|[Total time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2015%20minutes)||
-|[Total time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2025%20minutes)||
-|[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
-|[White wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine)|50ml|
-|[X chicken kiev's or chicken stitzel's](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20chicken%20kiev's%20or%20chicken%20stitzel's)|2|
-|[X eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20eggs)|1|
-|[X garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20garlic%20cloves)|1|
-|[X live crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20live%20crab)|1|
-|[X shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20shallots)|1|
-|[Zest of a lemon and a little of the juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Zest%20of%20a%20lemon%20and%20a%20little%20of%20the%20juice)||
+|[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1|
+|[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
+|[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)||
+|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|3-4|
+|[Squid](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squid)|200g|
+|[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tbsp|
+|[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
 
 ## 🗒️ Notes
 
-1. Croisant
-1. Cheese toastie
+1. BBQ / Pizza?
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Butter, Chicken stock, Garlic cloves and Seasoning.
+Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Soy sauce, Vegetable oil and Water.
 
 
-_This shopping list was generated at 27-04-2023 18:21:09._
+_This shopping list was generated at 04-05-2023 20:55:57._
