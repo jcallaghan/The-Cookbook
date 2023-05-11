@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Sat 13-May 2023|[Chicken and vegetable fried rice #78](https://github.com/jcallaghan/The-Cookbook/issues/78)|
 |Tue 16-May 2023|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
+|Thu 18-May 2023|[Chicken Alfredo Penne #414](https://github.com/jcallaghan/The-Cookbook/issues/414)|
 
 ## 🛒 Shopping List
 
@@ -42,4 +43,4 @@ The following items have not been added to the shopping list as they are likey i
 Seasoning, Sesame oil, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 11-05-2023 16:05:57._
+_This shopping list was generated at 11-05-2023 16:16:00._
