@@ -8,7 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Fri 12-May 2023|[Braised Beef Tortelloni with Truffle Butter #465](https://github.com/jcallaghan/The-Cookbook/issues/465)|
+|Fri 12-May 2023|[Cous-cous recipes #117](https://github.com/jcallaghan/The-Cookbook/issues/117)|
 |Sat 13-May 2023|[Chicken and vegetable fried rice #78](https://github.com/jcallaghan/The-Cookbook/issues/78)|
 |Sun 14-May 2023|[Turkish eggs and toast #478](https://github.com/jcallaghan/The-Cookbook/issues/478)|
 ||[Chicken Parmigiana #458](https://github.com/jcallaghan/The-Cookbook/issues/458)|
@@ -69,4 +69,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Seasoning, Sesame oil, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 11-05-2023 18:35:35._
+_This shopping list was generated at 11-05-2023 21:48:10._
