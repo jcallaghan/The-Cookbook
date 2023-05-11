@@ -8,9 +8,10 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Fri 12-May 2023|[Chicken Parmigiana #458](https://github.com/jcallaghan/The-Cookbook/issues/458)|
+|Fri 12-May 2023|[Braised Beef Tortelloni with Truffle Butter #465](https://github.com/jcallaghan/The-Cookbook/issues/465)|
 |Sat 13-May 2023|[Chicken and vegetable fried rice #78](https://github.com/jcallaghan/The-Cookbook/issues/78)|
 |Sun 14-May 2023|[Turkish eggs and toast #478](https://github.com/jcallaghan/The-Cookbook/issues/478)|
+||[Chicken Parmigiana #458](https://github.com/jcallaghan/The-Cookbook/issues/458)|
 |Tue 16-May 2023|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 ||[Roasted Pepper Pasta #400](https://github.com/jcallaghan/The-Cookbook/issues/400)|
 |Wed 17-May 2023|[Sausage Caramelized Onion Cheese Quiche #446](https://github.com/jcallaghan/The-Cookbook/issues/446)|
@@ -31,7 +32,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cups of rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20of%20rice)|2|
 |[Dashi powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dashi%20powder)|1 tsp|
 |[Dijon mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20mustard)|1 tbsp|
-|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|5 + 3|
+|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|3 + 5|
 |[Flat-leaf parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Flat-leaf%20parsley)|10g|
 |[Grated mozzarella](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grated%20mozzarella)|100g|
 |[Greek-style yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Greek-style%20yoghurt)|300g|
@@ -80,4 +81,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Dried basil, Dried oregano, Garlic cloves, Seasoning, Sesame oil, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 11-05-2023 16:41:16._
+_This shopping list was generated at 11-05-2023 16:42:55._
