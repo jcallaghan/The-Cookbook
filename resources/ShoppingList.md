@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 04-May 2023 - Sun 14-May 2023
+Thu 11-May 2023 - Sun 21-May 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,45 +8,38 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Sun 07-May 2023|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
-|Mon 08-May 2023|[Chilli squid #334](https://github.com/jcallaghan/The-Cookbook/issues/334)|
+|Sat 13-May 2023|[Chicken and vegetable fried rice #78](https://github.com/jcallaghan/The-Cookbook/issues/78)|
+|Tue 16-May 2023|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
-|[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
-|[Cook time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2010%20minutes)||
-|[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
-|[Coriander sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander%20sprigs)|3|
-|[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
-|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)||
-|[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)|2 tbsp|
-|[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
-|[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
-|[Malt vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Malt%20vinegar)|5 tbsp|
-|[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
-|[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
-|[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
-|[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1|
-|[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
-|[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)||
-|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|3-4|
-|[Squid](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squid)|200g|
-|[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tbsp|
-|[Total time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2020%20minutes)||
+|[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
+|[Crushed chicken stock cube](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crushed%20chicken%20stock%20cube)|1 tsp|
+|[Cups of rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20of%20rice)|2|
+|[Dashi powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dashi%20powder)|1 tsp|
+|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|3|
+|[Large chicken breast](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20chicken%20breast)|1|
+|[Large onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20onions)|1|
+|[Medium carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots)|2|
+|[Minced garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20garlic)|1 tbsp|
+|[Prep time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2025%20minutes)||
+|[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
+|[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|3|
+|[Total time: 40 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2040%20minutes)||
+|[Unsalted butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Unsalted%20butter)|2 tsp|
 
 ## 🗒️ Notes
 
-1. BBQ / Pizza?
-1. Jas out
-1. Jas out
+1. Chicken soup
+1. Salmon salad
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Caster sugar, Cornflour, Garlic cloves, Light soy sauce, Sea salt, Seasoning, Sesame oil, Sesame seeds, Shichimi powder, Soy sauce, Vegetable oil and Water.
+Seasoning, Sesame oil, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 04-05-2023 21:03:31._
+_This shopping list was generated at 11-05-2023 16:05:57._
