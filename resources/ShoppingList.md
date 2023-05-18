@@ -33,6 +33,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Tex-mex dips](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tex-mex%20dips)||
 |[Tortillas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tortillas)||
 
+## 🗒️ Notes
+
+1. Leak and watercress soup
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -40,4 +44,4 @@ The following items have not been added to the shopping list as they are likey i
 S, a, l and t.
 
 
-_This shopping list was generated at 18-05-2023 11:01:39._
+_This shopping list was generated at 18-05-2023 11:03:09._
