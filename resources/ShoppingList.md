@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 18-May 2023 - Sun 28-May 2023
+Mon 22-May 2023 - Thu 01-Jun 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,10 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Fri 19-May 2023|[Fish cakes #109](https://github.com/jcallaghan/The-Cookbook/issues/109)|
-|Sun 21-May 2023|[Pepperoni pizza  #251](https://github.com/jcallaghan/The-Cookbook/issues/251)|
-|Mon 22-May 2023|[Beef Fajitas #143](https://github.com/jcallaghan/The-Cookbook/issues/143)|
-|Tue 23-May 2023|[Leak and watercress soup #510](https://github.com/jcallaghan/The-Cookbook/issues/510)|
+|Mon 22-May 2023|[Leak and watercress soup #510](https://github.com/jcallaghan/The-Cookbook/issues/510)|
+|Tue 23-May 2023|[Beef Fajitas #143](https://github.com/jcallaghan/The-Cookbook/issues/143)|
 |Thu 25-May 2023|[Slow cooker Beef Curry #402](https://github.com/jcallaghan/The-Cookbook/issues/402)|
 
 ## 🛒 Shopping List
@@ -54,4 +52,4 @@ The following items have not been added to the shopping list as they are likey i
 Salt and Seasoning.
 
 
-_This shopping list was generated at 18-05-2023 19:51:20._
+_This shopping list was generated at 22-05-2023 10:23:31._
