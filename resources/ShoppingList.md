@@ -14,6 +14,9 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Salmon pasta
+1. Sweetcorn cobs
+1. Hot dogs
+1. Chicken kebabs & flatbreads /Turkish
 1. Chicken kebabs & flatbreads / Turkish
 1. Cous couse
 1. Halloumi
