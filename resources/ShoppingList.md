@@ -28,6 +28,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Salmon pasta
+1. Lamb kebabs
 1. Burgers and seeded buns
 1. Sweetcorn cobs
 1. Hot dogs
