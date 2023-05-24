@@ -9,7 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 25-May 2023|[Slow cooker Beef Curry #402](https://github.com/jcallaghan/The-Cookbook/issues/402)|
-|Sat 27-May 2023|[Mums delicious chocolate brownies #76](https://github.com/jcallaghan/The-Cookbook/issues/76)|
+|Sat 27-May 2023|[Pizza dogs #234](https://github.com/jcallaghan/The-Cookbook/issues/234)|
+||[Mums delicious chocolate brownies #76](https://github.com/jcallaghan/The-Cookbook/issues/76)|
 ||[BBQ chicken kebabs #13](https://github.com/jcallaghan/The-Cookbook/issues/13)|
 ||[Italian onion flat bread focaccia #45](https://github.com/jcallaghan/The-Cookbook/issues/45)|
 ||[BBQ Halloumi #231](https://github.com/jcallaghan/The-Cookbook/issues/231)|
@@ -18,6 +19,8 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Rocket salad #181](https://github.com/jcallaghan/The-Cookbook/issues/181)|
 |Mon 29-May 2023|[Sausage Ragu #21](https://github.com/jcallaghan/The-Cookbook/issues/21)|
 |Tue 30-May 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
+|Wed 31-May 2023|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
+|Thu 01-Jun 2023|[Pepperoni pizza  #251](https://github.com/jcallaghan/The-Cookbook/issues/251)|
 
 ## 🛒 Shopping List
 
@@ -29,19 +32,30 @@ This shopping list has been automatically generated with the ingredients from th
 |[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)||
 |[Coarse black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coarse%20black%20peppers)|1 tbsp|
 |[Cook time:  45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%20%2045%20minutes)||
+|[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Courgette](https://www.sainsburys.co.uk/gol-ui/SearchResults/Courgette)||
+|[Crispy bacon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crispy%20bacon)||
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|2|
 |[Eggs yolk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20yolk)|1|
 |[Eggs yolks organic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20yolks%20organic)|4|
+|[Fast-action dried yeast](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fast-action%20dried%20yeast)|7g|
+|[Feta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Feta)|100g|
+|[Fried onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fried%20onions)||
+|[Greek yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Greek%20yoghurt)|50g|
 |[Guanciale](https://www.sainsburys.co.uk/gol-ui/SearchResults/Guanciale)|200g/7oz|
+|[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|2 tbsp|
+|[Hot dog or frankfurters](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20dog%20or%20frankfurters)||
 |[Juice from 1 lime or half lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Juice%20from%201%20lime%20or%20half%20lemon)||
+|[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)||
 |[Ketchup or spicy bbq sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup%20or%20spicy%20bbq%20sauce)|1 tbsp|
 |[Lime](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lime)||
 |[Maple syrup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Maple%20syrup)|2 tbsp|
+|[Mozzarella](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mozzarella)||
 |[Of buckwheat flour or regular all-purpose flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20buckwheat%20flour%20or%20regular%20all-purpose%20flour)|1 cup|
 |[Of paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20paprika)|1 tsp|
 |[Of soy cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20soy%20cream)|1 cup|
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)|2 tbsp|
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|3|
 |[Panko breadcrumbs (omit for a gluten-free version)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko%20breadcrumbs%20(omit%20for%20a%20gluten-free%20version))||
 |[Paprika powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Paprika%20powder)||
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)||
@@ -50,19 +64,27 @@ This shopping list has been automatically generated with the ingredients from th
 |[Peppers (red and green)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Peppers%20(red%20and%20green))|2|
 |[Pinch of sea salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20sea%20salt)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
+|[Prep time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2025%20minutes)||
 |[Quality plain chocolate such as lindt or hotel chocolat](https://www.sainsburys.co.uk/gol-ui/SearchResults/Quality%20plain%20chocolate%20such%20as%20lindt%20or%20hotel%20chocolat)|200g|
 |[Red and white onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20and%20white%20onions)||
 |[Rocket](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rocket)||
+|[Rose harissa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rose%20harissa)|2 tbsp|
 |[Salt & peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salt%20&%20peppers)||
 |[Serves: 12 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%2012%20servings)||
+|[Serves: 4 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204%20servings)||
 |[Sesame seeds to serve](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sesame%20seeds%20to%20serve)||
 |[Spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spaghetti)|280g/10oz|
 |[Sriracha sauce (optional)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sriracha%20sauce%20(optional))||
+|[Strong white bread flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Strong%20white%20bread%20flour)|300g|
 |[Teaspoon barbecue spice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20barbecue%20spice)|1|
 |[Teriyaki sauce or yakisoba sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teriyaki%20sauce%20or%20yakisoba%20sauce)|100 ml|
+|[Thyme sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thyme%20sprigs)|5|
+|[Tomato sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20sauce)||
+|[Total time: 1 hour 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%2010%20minutes)||
 |[Total time: 55 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2055%20minutes)||
 |[Unsalted butter softened plus a small amount for lining the baking tin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Unsalted%20butter%20softened%20plus%20a%20small%20amount%20for%20lining%20the%20baking%20tin)|140g|
 |[Vanilla extract / vanilla paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vanilla%20extract%20/%20vanilla%20paste)|2 tsp|
+|[Yellow mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Yellow%20mustard)||
 
 ## 🗒️ Notes
 
@@ -82,4 +104,4 @@ The following items have not been added to the shopping list as they are likey i
 Caster sugar, Garlic powder, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Water.
 
 
-_This shopping list was generated at 24-05-2023 11:29:36._
+_This shopping list was generated at 24-05-2023 11:32:25._
