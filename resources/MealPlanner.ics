@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:299060a6-1548-466d-83e3-893b982cebbc
-DTSTAMP:20230524T112904
+UID:105e9199-cf80-4922-9272-07e2d9f80a1e
+DTSTAMP:20230524T112934
 DTSTART:20230524T184500
 DTEND:20230524T203000
 SUMMARY:Salmon pasta for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7b852929-5900-4f49-bf44-0f493b487e41
-DTSTAMP:20230524T112905
+UID:d0927704-fa64-4faf-8f2a-5217280e6d56
+DTSTAMP:20230524T112934
 DTSTART:20230525T184500
 DTEND:20230525T203000
 SUMMARY:Slow cooker Beef Curry #402 for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a432771a-14a7-45f1-9fc2-837b3bcc1dda
-DTSTAMP:20230524T112905
+UID:637213f8-7e64-4182-a2a4-fd51a4c87130
+DTSTAMP:20230524T112934
 DTSTART:20230526T184500
 DTEND:20230526T203000
 SUMMARY:F&C for dinner
@@ -54,11 +54,11 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5a0ef009-f667-47df-8d8f-e845c55d4313
-DTSTAMP:20230524T112906
+UID:74185bc9-02e6-40a9-bef6-a8b2807b3b25
+DTSTAMP:20230524T112936
 DTSTART:20230527T184500
 DTEND:20230527T203000
-SUMMARY:Scones, Mums delicious chocolate brownies #76, Lamb kebabs, BBQ chicken kebabs #13, Burgers and seeded buns, Sweetcorn cobs, Hot dogs, Chicken kebabs & flatbreads / Turkish, Italian onion flat bread focaccia #45, Cous-cous recipes #117, BBQ Halloumi #231, Cauliflower Hot Wings #265, Caprese salad - tomato mozzarella basil #37 and Rocket salad #181 for dinner
+SUMMARY:Scones, Mums delicious chocolate brownies #76, Lamb kebabs, BBQ chicken kebabs #13, Burgers and seeded buns, Sweetcorn cobs, Hot dogs, Chicken kebabs & flatbreads / Turkish, Italian onion flat bread focaccia #45, BBQ Halloumi #231, Cauliflower Hot Wings #265, Caprese salad - tomato mozzarella basil #37 and Rocket salad #181 for dinner
 DESCRIPTION:Note: Scones
 Mums delicious chocolate brownies #76 - https://github.com/jcallaghan/The-Cookbook/issues/76
 Note: Lamb kebabs
@@ -68,7 +68,6 @@ Note: Sweetcorn cobs
 Note: Hot dogs
 Note: Chicken kebabs & flatbreads / Turkish
 Italian onion flat bread focaccia #45 - https://github.com/jcallaghan/The-Cookbook/issues/45
-Cous-cous recipes #117 - https://github.com/jcallaghan/The-Cookbook/issues/117
 BBQ Halloumi #231 - https://github.com/jcallaghan/The-Cookbook/issues/231
 Cauliflower Hot Wings #265 - https://github.com/jcallaghan/The-Cookbook/issues/265
 Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
@@ -78,8 +77,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:aa30242e-66c6-4189-a425-946f52440f22
-DTSTAMP:20230524T112907
+UID:b0f9e8aa-6fee-454e-8ecc-f5803625e8c8
+DTSTAMP:20230524T112937
 DTSTART:20230529T184500
 DTEND:20230529T203000
 SUMMARY:Sausage Ragu #21 for dinner
@@ -89,8 +88,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:30c714c1-954c-4430-bdae-a7e7c75fa458
-DTSTAMP:20230524T112907
+UID:afc82d1d-edc5-42fc-848e-365630cfc1d4
+DTSTAMP:20230524T112937
 DTSTART:20230530T184500
 DTEND:20230530T203000
 SUMMARY:Spaghetti Carbonara #455 for dinner
