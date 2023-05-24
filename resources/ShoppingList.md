@@ -9,8 +9,10 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 25-May 2023|[Slow cooker Beef Curry #402](https://github.com/jcallaghan/The-Cookbook/issues/402)|
+|Sat 27-May 2023|[Caprese salad - tomato mozzarella basil #37](https://github.com/jcallaghan/The-Cookbook/issues/37)|
 
 ## 🗒️ Notes
 
 1. Salmon pasta
+1. Cous couse
 1. Halloumi
