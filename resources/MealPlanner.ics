@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0b1bb07c-46f7-42a7-8b36-cf069b55bb16
-DTSTAMP:20230524T110455
+UID:8d2a178a-e6ab-42c8-87ee-8112bff385b9
+DTSTAMP:20230524T110602
 DTSTART:20230524T184500
 DTEND:20230524T203000
 SUMMARY:Salmon pasta for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:0cc0c04c-4ba5-410b-8e7f-7fbbc8fb4a94
-DTSTAMP:20230524T110455
+UID:dab0d573-71a4-4055-b71b-e4495d1a8caf
+DTSTAMP:20230524T110602
 DTSTART:20230525T184500
 DTEND:20230525T203000
 SUMMARY:Slow cooker Beef Curry #402 for dinner
@@ -43,12 +43,13 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:655e571b-f350-4bbc-a7b7-b1cc02444851
-DTSTAMP:20230524T110456
+UID:df8ebbf2-3475-420d-8112-deafd2a22806
+DTSTAMP:20230524T110603
 DTSTART:20230527T184500
 DTEND:20230527T203000
-SUMMARY:Cous couse, Halloumi and Caprese salad - tomato mozzarella basil #37 for dinner
-DESCRIPTION:Note: Cous couse
+SUMMARY:Chicken kebabs & flatbreads / Turkish, Cous couse, Halloumi and Caprese salad - tomato mozzarella basil #37 for dinner
+DESCRIPTION:Note: Chicken kebabs & flatbreads / Turkish
+Note: Cous couse
 Note: Halloumi
 Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
 SEQUENCE:0
