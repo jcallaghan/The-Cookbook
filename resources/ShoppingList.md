@@ -16,6 +16,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[BBQ Halloumi #231](https://github.com/jcallaghan/The-Cookbook/issues/231)|
 ||[Cauliflower Hot Wings #265](https://github.com/jcallaghan/The-Cookbook/issues/265)|
 ||[Caprese salad - tomato mozzarella basil #37](https://github.com/jcallaghan/The-Cookbook/issues/37)|
+||[Rocket salad #181](https://github.com/jcallaghan/The-Cookbook/issues/181)|
 |Mon 29-May 2023|[Sausage Ragu #21](https://github.com/jcallaghan/The-Cookbook/issues/21)|
 |Tue 30-May 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
 
@@ -23,6 +24,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
+|[Balsamic glaze](https://www.sainsburys.co.uk/gol-ui/SearchResults/Balsamic%20glaze)||
 |[Black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20peppers)|2g/.07oz|
 |[Chicken breast](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breast)||
 |[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)||
@@ -43,6 +45,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)|2 tbsp|
 |[Panko breadcrumbs (omit for a gluten-free version)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko%20breadcrumbs%20(omit%20for%20a%20gluten-free%20version))||
 |[Paprika powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Paprika%20powder)||
+|[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)||
 |[Part grana padano cheese grated (parm reggiano as substitute)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Part%20grana%20padano%20cheese%20grated%20(parm%20reggiano%20as%20substitute))|30g/1oz|
 |[Part pecorino romano cheese grated](https://www.sainsburys.co.uk/gol-ui/SearchResults/Part%20pecorino%20romano%20cheese%20grated)|20g/.7oz|
 |[Peppers (red and green)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Peppers%20(red%20and%20green))|2|
@@ -50,6 +53,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Quality plain chocolate such as lindt or hotel chocolat](https://www.sainsburys.co.uk/gol-ui/SearchResults/Quality%20plain%20chocolate%20such%20as%20lindt%20or%20hotel%20chocolat)|200g|
 |[Red and white onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20and%20white%20onions)||
+|[Rocket](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rocket)||
 |[Salt & peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salt%20&%20peppers)||
 |[Serves: 12 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%2012%20servings)||
 |[Sesame seeds to serve](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sesame%20seeds%20to%20serve)||
@@ -75,7 +79,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Caster sugar, Garlic powder, Plain flour, Sea salt, Sesame oil, Sesame seeds, Soy sauce and Water.
+Caster sugar, Garlic powder, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Water.
 
 
-_This shopping list was generated at 24-05-2023 11:15:29._
+_This shopping list was generated at 24-05-2023 11:16:22._
