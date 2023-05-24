@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b57eac26-b7a2-4244-9367-40bf756d3279
-DTSTAMP:20230524T110824
+UID:a3a6f584-a670-4496-9a36-e82c006ebd21
+DTSTAMP:20230524T111050
 DTSTART:20230524T184500
 DTEND:20230524T203000
 SUMMARY:Salmon pasta for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c7290777-2e41-4564-b0f8-06f1e11d0ed3
-DTSTAMP:20230524T110825
+UID:ef239454-f393-4711-aafd-8c13b6c9a9f3
+DTSTAMP:20230524T111050
 DTSTART:20230525T184500
 DTEND:20230525T203000
 SUMMARY:Slow cooker Beef Curry #402 for dinner
@@ -43,20 +43,41 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:93122b4f-591c-4b38-be2f-c8a448c7118d
-DTSTAMP:20230524T110826
+UID:c6cf981a-00ee-46b0-a0e0-801c1f62314c
+DTSTAMP:20230524T111051
 DTSTART:20230527T184500
 DTEND:20230527T203000
-SUMMARY:Burgers and seeded buns, Sweetcorn cobs, Hot dogs, Chicken kebabs & flatbreads /Turkish, Chicken kebabs & flatbreads / Turkish, Italian onion flat bread focaccia #45, Cous couse, Halloumi and Caprese salad - tomato mozzarella basil #37 for dinner
+SUMMARY:Burgers and seeded buns, Sweetcorn cobs, Hot dogs, Chicken kebabs & flatbreads / Turkish, Italian onion flat bread focaccia #45, Couscous, Halloumi and Caprese salad - tomato mozzarella basil #37 for dinner
 DESCRIPTION:Note: Burgers and seeded buns
 Note: Sweetcorn cobs
 Note: Hot dogs
-Note: Chicken kebabs & flatbreads /Turkish
 Note: Chicken kebabs & flatbreads / Turkish
 Italian onion flat bread focaccia #45 - https://github.com/jcallaghan/The-Cookbook/issues/45
-Note: Cous couse
+Note: Couscous
 Note: Halloumi
 Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:14cda726-cbb0-449c-9d29-6864cc575f91
+DTSTAMP:20230524T111052
+DTSTART:20230529T184500
+DTEND:20230529T203000
+SUMMARY:Sausage Ragu #21 for dinner
+DESCRIPTION:Sausage Ragu #21 - https://github.com/jcallaghan/The-Cookbook/issues/21
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5a9216b3-662d-4f86-8649-7bb9c962a962
+DTSTAMP:20230524T111053
+DTSTART:20230530T184500
+DTEND:20230530T203000
+SUMMARY:Spaghetti Carbonara #455 for dinner
+DESCRIPTION:Spaghetti Carbonara #455 - https://github.com/jcallaghan/The-Cookbook/issues/455
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
