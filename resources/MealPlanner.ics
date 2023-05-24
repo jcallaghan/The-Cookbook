@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bd272c92-64a0-49fe-8697-402d9ca4ce04
-DTSTAMP:20230524T111521
+UID:7c752adc-3c7e-4396-848c-d6f25c337983
+DTSTAMP:20230524T111620
 DTSTART:20230524T184500
 DTEND:20230524T203000
 SUMMARY:Salmon pasta for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:67486827-dfbe-4ef4-a813-3201bdfa9976
-DTSTAMP:20230524T111522
+UID:7d870948-3457-400c-973a-1f5e6c50be88
+DTSTAMP:20230524T111620
 DTSTART:20230525T184500
 DTEND:20230525T203000
 SUMMARY:Slow cooker Beef Curry #402 for dinner
@@ -43,11 +43,11 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cd335973-22a3-43cf-8fb7-7c806e7b7905
-DTSTAMP:20230524T111523
+UID:dd47e0da-54ef-412e-8670-6c5b50297885
+DTSTAMP:20230524T111622
 DTSTART:20230527T184500
 DTEND:20230527T203000
-SUMMARY:Scones, Mums delicious chocolate brownies #76, Lamb kebabs, BBQ chicken kebabs #13, Burgers and seeded buns, Sweetcorn cobs, Hot dogs, Chicken kebabs & flatbreads / Turkish, Italian onion flat bread focaccia #45, Cous-cous recipes #117, BBQ Halloumi #231, Cauliflower Hot Wings #265 and Caprese salad - tomato mozzarella basil #37 for dinner
+SUMMARY:Scones, Mums delicious chocolate brownies #76, Lamb kebabs, BBQ chicken kebabs #13, Burgers and seeded buns, Sweetcorn cobs, Hot dogs, Chicken kebabs & flatbreads / Turkish, Italian onion flat bread focaccia #45, Cous-cous recipes #117, BBQ Halloumi #231, Cauliflower Hot Wings #265, Caprese salad - tomato mozzarella basil #37 and Rocket salad #181 for dinner
 DESCRIPTION:Note: Scones
 Mums delicious chocolate brownies #76 - https://github.com/jcallaghan/The-Cookbook/issues/76
 Note: Lamb kebabs
@@ -61,13 +61,14 @@ Cous-cous recipes #117 - https://github.com/jcallaghan/The-Cookbook/issues/117
 BBQ Halloumi #231 - https://github.com/jcallaghan/The-Cookbook/issues/231
 Cauliflower Hot Wings #265 - https://github.com/jcallaghan/The-Cookbook/issues/265
 Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
+Rocket salad #181 - https://github.com/jcallaghan/The-Cookbook/issues/181
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cb9f7166-a1d9-4599-baac-be97a914e7a6
-DTSTAMP:20230524T111523
+UID:0e19f003-8ab3-437d-a4d2-4a607e4f56d2
+DTSTAMP:20230524T111622
 DTSTART:20230529T184500
 DTEND:20230529T203000
 SUMMARY:Sausage Ragu #21 for dinner
@@ -77,8 +78,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:dfe97637-8bbe-4215-8567-360d897e6f3b
-DTSTAMP:20230524T111524
+UID:6008e1ca-9ce2-4781-a618-16016bf6cc34
+DTSTAMP:20230524T111623
 DTSTART:20230530T184500
 DTEND:20230530T203000
 SUMMARY:Spaghetti Carbonara #455 for dinner
