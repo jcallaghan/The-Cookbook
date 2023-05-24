@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e566626c-3c0e-41dc-9c2d-3e99c6f29ed8
-DTSTAMP:20230524T111246
+UID:033b5a29-eaca-4456-acf6-407c65141442
+DTSTAMP:20230524T111339
 DTSTART:20230524T184500
 DTEND:20230524T203000
 SUMMARY:Salmon pasta for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:60f3449d-1227-4e14-8528-d44a0d618c8c
-DTSTAMP:20230524T111246
+UID:53eeb4c9-0b87-4102-bd44-a8a5649e91dd
+DTSTAMP:20230524T111340
 DTSTART:20230525T184500
 DTEND:20230525T203000
 SUMMARY:Slow cooker Beef Curry #402 for dinner
@@ -43,27 +43,30 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2bada9b1-62ce-4add-b1d2-6d3fe96d4793
-DTSTAMP:20230524T111247
+UID:26d331b8-1cc3-46c1-a0d4-70e91014ece6
+DTSTAMP:20230524T111341
 DTSTART:20230527T184500
 DTEND:20230527T203000
-SUMMARY:Lamb kebabs, Burgers and seeded buns, Sweetcorn cobs, Hot dogs, Chicken kebabs & flatbreads / Turkish, Italian onion flat bread focaccia #45, Couscous, Halloumi and Caprese salad - tomato mozzarella basil #37 for dinner
+SUMMARY:Lamb kebabs, BBQ chicken kebabs #13, Burgers and seeded buns, Sweetcorn cobs, Hot dogs, Chicken kebabs & flatbreads / Turkish, Italian onion flat bread focaccia #45, Couscous, BBQ Halloumi #231, Halloumi, Cauliflower Hot Wings #265 and Caprese salad - tomato mozzarella basil #37 for dinner
 DESCRIPTION:Note: Lamb kebabs
+BBQ chicken kebabs #13 - https://github.com/jcallaghan/The-Cookbook/issues/13
 Note: Burgers and seeded buns
 Note: Sweetcorn cobs
 Note: Hot dogs
 Note: Chicken kebabs & flatbreads / Turkish
 Italian onion flat bread focaccia #45 - https://github.com/jcallaghan/The-Cookbook/issues/45
 Note: Couscous
+BBQ Halloumi #231 - https://github.com/jcallaghan/The-Cookbook/issues/231
 Note: Halloumi
+Cauliflower Hot Wings #265 - https://github.com/jcallaghan/The-Cookbook/issues/265
 Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9ee0d316-292e-40b4-8a3f-656ee292ccc4
-DTSTAMP:20230524T111247
+UID:eb6491a6-1953-48f2-b781-6b40d81de064
+DTSTAMP:20230524T111342
 DTSTART:20230529T184500
 DTEND:20230529T203000
 SUMMARY:Sausage Ragu #21 for dinner
@@ -73,8 +76,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9ac22048-72a4-4f60-841d-659053065dd2
-DTSTAMP:20230524T111248
+UID:e204f432-d84d-42c6-8495-54e87af33b15
+DTSTAMP:20230524T111342
 DTSTART:20230530T184500
 DTEND:20230530T203000
 SUMMARY:Spaghetti Carbonara #455 for dinner
