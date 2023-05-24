@@ -12,7 +12,6 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 27-May 2023|[Mums delicious chocolate brownies #76](https://github.com/jcallaghan/The-Cookbook/issues/76)|
 ||[BBQ chicken kebabs #13](https://github.com/jcallaghan/The-Cookbook/issues/13)|
 ||[Italian onion flat bread focaccia #45](https://github.com/jcallaghan/The-Cookbook/issues/45)|
-||[Cous-cous recipes #117](https://github.com/jcallaghan/The-Cookbook/issues/117)|
 ||[BBQ Halloumi #231](https://github.com/jcallaghan/The-Cookbook/issues/231)|
 ||[Cauliflower Hot Wings #265](https://github.com/jcallaghan/The-Cookbook/issues/265)|
 ||[Caprese salad - tomato mozzarella basil #37](https://github.com/jcallaghan/The-Cookbook/issues/37)|
@@ -83,4 +82,4 @@ The following items have not been added to the shopping list as they are likey i
 Caster sugar, Garlic powder, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Water.
 
 
-_This shopping list was generated at 24-05-2023 11:29:12._
+_This shopping list was generated at 24-05-2023 11:29:36._
