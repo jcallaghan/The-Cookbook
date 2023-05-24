@@ -68,6 +68,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Salmon pasta
+1. F&C
 1. Scones
 1. Lamb kebabs
 1. Burgers and seeded buns
@@ -82,4 +83,4 @@ The following items have not been added to the shopping list as they are likey i
 Caster sugar, Garlic powder, Olive oil, Plain flour, Sea salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Water.
 
 
-_This shopping list was generated at 24-05-2023 11:16:22._
+_This shopping list was generated at 24-05-2023 11:29:12._
