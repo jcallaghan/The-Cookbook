@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:82e4aa4a-7b69-449c-aa77-9cba9675f304
-DTSTAMP:20230525T210056
+UID:0a8e40e6-55f6-43b6-be02-dd3e3c3adbe3
+DTSTAMP:20230525T210218
 DTSTART:20230525T184500
 DTEND:20230525T203000
 SUMMARY:Slow cooker Beef Curry #402 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:94d93b87-8871-4a39-96d8-2d7eae1a52e8
-DTSTAMP:20230525T210056
+UID:177b612f-a1db-40d6-8d3b-b74e7cb1ec3e
+DTSTAMP:20230525T210218
 DTSTART:20230526T184500
 DTEND:20230526T203000
 SUMMARY:Chinese  for dinner
@@ -43,13 +43,12 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b562e97a-c7a5-44ac-81f4-cd9d40396957
-DTSTAMP:20230525T210058
+UID:d4018c02-051c-46ff-97c2-7934d96495a8
+DTSTAMP:20230525T210220
 DTSTART:20230527T184500
 DTEND:20230527T203000
-SUMMARY:BBQ Asparagus #511, Pizza dogs #234, Scones and clotted cream #514, Carrot cake #351, Mums delicious chocolate brownies #76, Lamb kebabs, BBQ chicken kebabs #13, Burgers and seeded buns, BBQ Sweetcorn #515, Hot dogs #512, Chicken kebabs & flatbreads / Turkish, Italian onion flat bread focaccia #45, BBQ Halloumi #231, Cauliflower Hot Wings #265 and Caprese salad - tomato mozzarella basil #37 for dinner
+SUMMARY:BBQ Asparagus #511, Scones and clotted cream #514, Carrot cake #351, Mums delicious chocolate brownies #76, Lamb kebabs, BBQ chicken kebabs #13, Burgers and seeded buns, BBQ Sweetcorn #515, Hot dogs #512, Chicken kebabs & flatbreads / Turkish, Italian onion flat bread focaccia #45, BBQ Halloumi #231, Cauliflower Hot Wings #265 and Caprese salad - tomato mozzarella basil #37 for dinner
 DESCRIPTION:BBQ Asparagus #511 - https://github.com/jcallaghan/The-Cookbook/issues/511
-Pizza dogs #234 - https://github.com/jcallaghan/The-Cookbook/issues/234
 Scones and clotted cream #514 - https://github.com/jcallaghan/The-Cookbook/issues/514
 Carrot cake #351 - https://github.com/jcallaghan/The-Cookbook/issues/351
 Mums delicious chocolate brownies #76 - https://github.com/jcallaghan/The-Cookbook/issues/76
@@ -68,8 +67,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:eeac5a62-01ea-4b80-bbf4-45eb6d3f4039
-DTSTAMP:20230525T210058
+UID:a6f7274b-f908-42a7-8e95-fa3546763124
+DTSTAMP:20230525T210220
 DTSTART:20230528T184500
 DTEND:20230528T203000
 SUMMARY:Eggs hollandaise #435 for dinner
@@ -79,8 +78,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:79e262cc-2a67-4082-b4d7-467309f5a81f
-DTSTAMP:20230525T210059
+UID:f1ba2690-1de5-44d2-ab26-4d333a5ef57c
+DTSTAMP:20230525T210220
 DTSTART:20230529T184500
 DTEND:20230529T203000
 SUMMARY:Tandoori chicken #261 for dinner
@@ -90,8 +89,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:96c752c0-90d6-4fd3-a3e7-73cb96457ba0
-DTSTAMP:20230525T210059
+UID:90f10036-790a-4f52-bd59-9447da554681
+DTSTAMP:20230525T210221
 DTSTART:20230530T184500
 DTEND:20230530T203000
 SUMMARY:Spaghetti Carbonara #455 for dinner
@@ -101,8 +100,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7bd7d1ff-51ac-4a3e-aaed-33fc41de31ab
-DTSTAMP:20230525T210059
+UID:0fd643d4-09fd-4052-ac51-46d522c5c387
+DTSTAMP:20230525T210221
 DTSTART:20230531T184500
 DTEND:20230531T203000
 SUMMARY:Charred onion & whipped feta flatbreads #290 for dinner
@@ -112,13 +111,14 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:21f8568e-228c-4508-a067-2a77c3d76006
-DTSTAMP:20230525T210100
+UID:0dba0a77-7e8c-45d0-9272-f9107c5b6bb0
+DTSTAMP:20230525T210222
 DTSTART:20230601T184500
 DTEND:20230601T203000
-SUMMARY:Pepperoni pizza  #251 and Garlic dough balls #233 for dinner
+SUMMARY:Pepperoni pizza  #251, Garlic dough balls #233 and Pizza dogs #234 for dinner
 DESCRIPTION:Pepperoni pizza  #251 - https://github.com/jcallaghan/The-Cookbook/issues/251
 Garlic dough balls #233 - https://github.com/jcallaghan/The-Cookbook/issues/233
+Pizza dogs #234 - https://github.com/jcallaghan/The-Cookbook/issues/234
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
