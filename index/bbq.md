@@ -1,10 +1,11 @@
 # BBQ
 
-There are 30 bbq recipes in the cookbook.
+There are 33 bbq recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
 | B||||
+||[511](https://github.com/jcallaghan/The-Cookbook/issues/511)|[BBQ Asparagus](https://github.com/jcallaghan/The-Cookbook/issues/511)| |Style / BBQ<br>Meal / Side Dish|
 ||[231](https://github.com/jcallaghan/The-Cookbook/issues/231)|[BBQ Halloumi](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/bbq-halloumi.md)| |Style / Vegetarian<br>Style / BBQ<br>Meal / Appetiser<br>Meal / Side Dish<br>Ingredient / Cheese 🧀<br>⚙ Needs Pictures ✅<br>⚙ Published|
 ||[13](https://github.com/jcallaghan/The-Cookbook/issues/13)|[BBQ chicken kebabs](https://github.com/jcallaghan/The-Cookbook/issues/13)| |Style / BBQ<br>Favourite 🥰<br>Favourite 🥰 / Jas|
 ||[403](https://github.com/jcallaghan/The-Cookbook/issues/403)|[BBQ pulled Chicken](https://github.com/jcallaghan/The-Cookbook/issues/403)| |Style / BBQ<br>Ingredient / Meat / Chicken 🐔<br>Meal / Main|
@@ -15,10 +16,12 @@ There are 30 bbq recipes in the cookbook.
 | C||||
 ||[37](https://github.com/jcallaghan/The-Cookbook/issues/37)|[Caprese salad - tomato mozzarella basil](https://github.com/jcallaghan/The-Cookbook/issues/37)| |Style / Vegetarian<br>Style / BBQ<br>Favourite 🥰<br>Meal / Appetiser|
 ||[262](https://github.com/jcallaghan/The-Cookbook/issues/262)|[Chicken & halloumi burgers](https://github.com/jcallaghan/The-Cookbook/issues/262)| |Style / BBQ<br>Ingredient / Meat / Chicken 🐔<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Ingredient / Meat / Burger 🍔<br>Ingredient / Cheese 🧀 / Halloumi|
+||[513](https://github.com/jcallaghan/The-Cookbook/issues/513)|[Chicken and chorizo skewers](https://github.com/jcallaghan/The-Cookbook/issues/513)| |Style / BBQ|
 | D||||
 ||[219](https://github.com/jcallaghan/The-Cookbook/issues/219)|[Deviled eggs](https://github.com/jcallaghan/The-Cookbook/issues/219)| |Style / BBQ<br>Style / Dinner Party 🥳<br>Style / Picnic<br>Meal / Snack|
 | H||||
 ||[126](https://github.com/jcallaghan/The-Cookbook/issues/126)|[Halloumi sticks](https://github.com/jcallaghan/The-Cookbook/issues/126)| |Style / Vegetarian<br>Style / BBQ<br>Meal / Side Dish<br>Ingredient / Cheese 🧀<br>Favourite 🥰 / Florence<br>Brand / Nando's|
+||[512](https://github.com/jcallaghan/The-Cookbook/issues/512)|[Hot dogs](https://github.com/jcallaghan/The-Cookbook/issues/512)| |Style / BBQ<br>Meal / Side Dish|
 | J||||
 ||[38](https://github.com/jcallaghan/The-Cookbook/issues/38)|[Jacob's Ladder](https://github.com/jcallaghan/The-Cookbook/issues/38)| |Style / BBQ<br>Ingredient / Meat / Beef<br>Style / Slow cook|
 | L||||
@@ -43,4 +46,4 @@ There are 30 bbq recipes in the cookbook.
 | T||||
 ||[239](https://github.com/jcallaghan/The-Cookbook/issues/239)|[Texas BBQ Pizza](https://github.com/jcallaghan/The-Cookbook/issues/239)| |Style / BBQ<br>Pizza 🍕<br>Equipment / Pizza Oven 🍕🔥|
 
-_This index was automatically generated at 24-05-2023 00:19:55 using a custom Python script and GitHub Action._
+_This index was automatically generated at 25-05-2023 00:19:54 using a custom Python script and GitHub Action._
