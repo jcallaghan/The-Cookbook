@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:933d125f-45ec-40e8-bf3d-d30fd1c71a73
-DTSTAMP:20230525T191900
+UID:0a4c8a38-74db-455f-9e2a-5ab6ac449a18
+DTSTAMP:20230525T210023
 DTSTART:20230525T184500
 DTEND:20230525T203000
 SUMMARY:Slow cooker Beef Curry #402 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8b9283a5-e504-4a0e-a0d4-293e44310e3f
-DTSTAMP:20230525T191900
+UID:940ee0f9-a6db-4fc2-bf47-283757b2a1ce
+DTSTAMP:20230525T210023
 DTSTART:20230526T184500
 DTEND:20230526T203000
 SUMMARY:Chinese  for dinner
@@ -43,11 +43,11 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7ac5e5e9-b519-4a0e-a079-d1ac4b489ef4
-DTSTAMP:20230525T191903
+UID:00ec88bf-6491-4aae-b354-0455871fc974
+DTSTAMP:20230525T210026
 DTSTART:20230527T184500
 DTEND:20230527T203000
-SUMMARY:Chicken and chorizo skewers #513, BBQ Asparagus #511, Pizza dogs #234, Scones and clotted cream #514, Carrot cake #351, Mums delicious chocolate brownies #76, Lamb kebabs, BBQ chicken kebabs #13, Burgers and seeded buns, BBQ Sweetcorn #515, Hot dogs #512, Chicken kebabs & flatbreads / Turkish, Italian onion flat bread focaccia #45, BBQ Halloumi #231, Cauliflower Hot Wings #265, Caprese salad - tomato mozzarella basil #37 and Rocket salad #181 for dinner
+SUMMARY:Chicken and chorizo skewers #513, BBQ Asparagus #511, Pizza dogs #234, Scones and clotted cream #514, Carrot cake #351, Mums delicious chocolate brownies #76, Lamb kebabs, BBQ chicken kebabs #13, Burgers and seeded buns, BBQ Sweetcorn #515, Hot dogs #512, Chicken kebabs & flatbreads / Turkish, Italian onion flat bread focaccia #45, BBQ Halloumi #231, Cauliflower Hot Wings #265 and Caprese salad - tomato mozzarella basil #37 for dinner
 DESCRIPTION:Chicken and chorizo skewers #513 - https://github.com/jcallaghan/The-Cookbook/issues/513
 BBQ Asparagus #511 - https://github.com/jcallaghan/The-Cookbook/issues/511
 Pizza dogs #234 - https://github.com/jcallaghan/The-Cookbook/issues/234
@@ -64,14 +64,13 @@ Italian onion flat bread focaccia #45 - https://github.com/jcallaghan/The-Cookbo
 BBQ Halloumi #231 - https://github.com/jcallaghan/The-Cookbook/issues/231
 Cauliflower Hot Wings #265 - https://github.com/jcallaghan/The-Cookbook/issues/265
 Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
-Rocket salad #181 - https://github.com/jcallaghan/The-Cookbook/issues/181
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e86c028d-2c86-4502-9a96-a8c81ebfabc2
-DTSTAMP:20230525T191904
+UID:e7b5c35f-629f-4509-b2e1-2070e0cc5dd8
+DTSTAMP:20230525T210027
 DTSTART:20230528T184500
 DTEND:20230528T203000
 SUMMARY:Eggs hollandaise #435 for dinner
@@ -81,8 +80,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:daabf7c1-12dd-4cdb-8da9-313dff370d7f
-DTSTAMP:20230525T191904
+UID:a08b0b52-01fa-4b87-9b9c-7d4a91346170
+DTSTAMP:20230525T210027
 DTSTART:20230529T184500
 DTEND:20230529T203000
 SUMMARY:Tandoori chicken #261 for dinner
@@ -92,8 +91,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:96c03968-edc5-421a-81d0-c16bd51729e5
-DTSTAMP:20230525T191905
+UID:10d76f24-c0f4-4f86-bf83-9a3573b0685f
+DTSTAMP:20230525T210028
 DTSTART:20230530T184500
 DTEND:20230530T203000
 SUMMARY:Spaghetti Carbonara #455 for dinner
@@ -103,8 +102,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f711cfa2-1157-4cfe-8177-265cbd3e5efa
-DTSTAMP:20230525T191905
+UID:8b3fc9e1-e6b8-4b24-af33-880c281a0e7c
+DTSTAMP:20230525T210028
 DTSTART:20230531T184500
 DTEND:20230531T203000
 SUMMARY:Charred onion & whipped feta flatbreads #290 for dinner
@@ -114,8 +113,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:09f88d49-8162-43b9-9884-d006d2534b70
-DTSTAMP:20230525T191906
+UID:b161f8c7-8074-41ca-b915-0ed29acafbab
+DTSTAMP:20230525T210029
 DTSTART:20230601T184500
 DTEND:20230601T203000
 SUMMARY:Pepperoni pizza  #251 and Garlic dough balls #233 for dinner
