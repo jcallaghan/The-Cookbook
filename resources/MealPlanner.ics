@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:08364b74-5d8a-4896-8ad3-d182e9cc253e
-DTSTAMP:20230530T111313
+UID:003af178-ada4-417f-b7ba-eb45724baadc
+DTSTAMP:20230530T112811
 DTSTART:20230530T184500
 DTEND:20230530T203000
 SUMMARY:Spaghetti Carbonara #455 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3aa89a0c-f1e4-4fae-a170-ddc8b8aaaa25
-DTSTAMP:20230530T111314
+UID:cdad07b5-22e9-4df0-82f7-eb2adf053c65
+DTSTAMP:20230530T112811
 DTSTART:20230531T184500
 DTEND:20230531T203000
 SUMMARY:Charred onion & whipped feta flatbreads #290 for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:851e4990-ce2a-416f-91bc-7a2032c051f6
-DTSTAMP:20230530T111314
+UID:f02a84a5-7d5e-44ac-88a2-9782f5341e26
+DTSTAMP:20230530T112812
 DTSTART:20230601T184500
 DTEND:20230601T203000
 SUMMARY:Pepperoni pizza  #251, Garlic dough balls #233 and Pizza dogs #234 for dinner
@@ -56,8 +56,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ae36f8e8-a961-483c-ac89-c174639986c1
-DTSTAMP:20230530T111316
+UID:c602ef0c-3eee-4dfd-a221-8f7e1efd3f2f
+DTSTAMP:20230530T112815
 DTSTART:20230610T184500
 DTEND:20230610T203000
 SUMMARY:Snack bowls
@@ -79,7 +79,7 @@ J
 24 butchers burgers
 Turkish flatbread
 18 seeded buns
-18 hotdog buns, Crisps and snack nuts, BBQ chicken kebabs #13, Caprese, asparagus and halloumi on a rocket salad bed, Caprese salad - tomato mozzarella basil #37, BBQ Asparagus #511, BBQ Halloumi #231, Sweetcorn cobs, Butchers minted lamb koftas, Butchers lamb koftas, Butchers burgers, Sausages / hotdogs , Carrot cake #351, Scones and clotted cream, Fresh fruit platter and Mums delicious chocolate brownies #76 for dinner
+18 hotdog buns, Crisps and snack nuts, BBQ chicken kebabs #13, Caprese, asparagus and halloumi on a rocket salad bed, Caprese salad - tomato mozzarella basil #37, BBQ Asparagus #511, Sausages / hotdogs , BBQ Halloumi #231, Sweetcorn cobs, Butchers minted lamb koftas, Butchers lamb koftas, Butchers burgers, Carrot cake #351, Scones and clotted cream, Fresh fruit platter and Mums delicious chocolate brownies #76 for dinner
 DESCRIPTION:Note: Snack bowls
 Circular center bowl
 Platter plate
@@ -106,12 +106,12 @@ BBQ chicken kebabs #13 - https://github.com/jcallaghan/The-Cookbook/issues/13
 Note: Caprese, asparagus and halloumi on a rocket salad bed
 Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
 BBQ Asparagus #511 - https://github.com/jcallaghan/The-Cookbook/issues/511
+Note: Sausages / hotdogs 
 BBQ Halloumi #231 - https://github.com/jcallaghan/The-Cookbook/issues/231
 Note: Sweetcorn cobs
 Note: Butchers minted lamb koftas
 Note: Butchers lamb koftas
 Note: Butchers burgers
-Note: Sausages / hotdogs 
 Carrot cake #351 - https://github.com/jcallaghan/The-Cookbook/issues/351
 Note: Scones and clotted cream
 Note: Fresh fruit platter
