@@ -23,6 +23,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Deviled eggs #219](https://github.com/jcallaghan/The-Cookbook/issues/219)|
 ||[Grilled Courgette #523](https://github.com/jcallaghan/The-Cookbook/issues/523)|
 ||[Bacon Wrapped Chicken and Apricot Kebabs #524](https://github.com/jcallaghan/The-Cookbook/issues/524)|
+||[Feta corn salad #525](https://github.com/jcallaghan/The-Cookbook/issues/525)|
 
 ## 🛒 Shopping List
 
@@ -151,4 +152,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Salt, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 30-05-2023 13:06:48._
+_This shopping list was generated at 30-05-2023 13:09:22._
