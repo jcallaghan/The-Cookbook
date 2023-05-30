@@ -80,11 +80,13 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Butchers burgers
+1. Caprese and halloumi on a rocket salad bed
 1. Crisps and snack nuts
 1. Sweetcorn cobs
 1. Butchers minted lamb koftas
 1. Butchers lamb koftas
+1. Butchers burgers
+1. Sausages / hotdogs 
 
 ## 🏪 Pantry Ingredients
 
@@ -93,4 +95,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Garlic powder, Olive oil, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 30-05-2023 10:59:02._
+_This shopping list was generated at 30-05-2023 10:59:54._
