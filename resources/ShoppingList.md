@@ -19,23 +19,17 @@ This shopping list has been automatically generated with the ingredients from th
 ||[BBQ Halloumi #231](https://github.com/jcallaghan/The-Cookbook/issues/231)|
 ||[Carrot cake #351](https://github.com/jcallaghan/The-Cookbook/issues/351)|
 ||[Mums delicious chocolate brownies #76](https://github.com/jcallaghan/The-Cookbook/issues/76)|
-||[Filipino Barbecue Chicken #522](https://github.com/jcallaghan/The-Cookbook/issues/522)|
-||[Deviled eggs #219](https://github.com/jcallaghan/The-Cookbook/issues/219)|
-||[Feta corn salad #525](https://github.com/jcallaghan/The-Cookbook/issues/525)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
 |[Bicarbonate of soda](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bicarbonate%20of%20soda)|½ tsp|
-|[Black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20peppers)|1 tsp|
-|[Bouillon cube](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bouillon%20cube)|1|
-|[Brown sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Brown%20sugar)|2 tbsp|
+|[Black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20peppers)|2g/.07oz|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|300g|
 |[Chicken breast](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breast)||
 |[Classic pizza dough](https://www.sainsburys.co.uk/gol-ui/SearchResults/Classic%20pizza%20dough)|500g|
 |[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|3-4|
-|[Cloves garlic crushed](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic%20crushed)|6|
 |[Coarse black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coarse%20black%20peppers)|1 tbsp|
 |[Cook time:  45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%20%2045%20minutes)||
 |[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
@@ -58,13 +52,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Hot dog or frankfurters](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20dog%20or%20frankfurters)||
 |[Icing sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Icing%20sugar)|350g|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)||
-|[Lbs chicken thighs cut into small pieces (at the shelter they keep the bone in)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lbs%20chicken%20thighs%20cut%20into%20small%20pieces%20(at%20the%20shelter%20they%20keep%20the%20bone%20in))|2|
 |[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)||
-|[Lime juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lime%20juice)|2 tbsp|
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|1-2 tbsp|
 |[Mozzarella](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mozzarella)||
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|3|
-|[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|2 tbsp|
 |[Part grana padano cheese grated (parm reggiano as substitute)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Part%20grana%20padano%20cheese%20grated%20(parm%20reggiano%20as%20substitute))|30g/1oz|
 |[Part pecorino romano cheese grated](https://www.sainsburys.co.uk/gol-ui/SearchResults/Part%20pecorino%20romano%20cheese%20grated)|20g/.7oz|
 |[Pecan nuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pecan%20nuts)|50g|
@@ -112,7 +103,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Salt, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
+Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 30-05-2023 20:18:38._
+_This shopping list was generated at 30-05-2023 20:19:32._
