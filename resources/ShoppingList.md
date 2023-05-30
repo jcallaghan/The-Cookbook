@@ -90,6 +90,15 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. 12 heads
+S & A
+C & P
+R
+H
+S
+PW
+S
+J
 1. Crisps and snack nuts
 1. Caprese, asparagus and halloumi on a rocket salad bed
 1. Sweetcorn cobs
@@ -107,4 +116,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 30-05-2023 11:01:41._
+_This shopping list was generated at 30-05-2023 11:02:27._
