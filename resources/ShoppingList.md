@@ -15,6 +15,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Pizza dogs #234](https://github.com/jcallaghan/The-Cookbook/issues/234)|
 |Sat 10-Jun 2023|[Carrot cake #351](https://github.com/jcallaghan/The-Cookbook/issues/351)|
 ||[Caprese salad - tomato mozzarella basil #37](https://github.com/jcallaghan/The-Cookbook/issues/37)|
+||[BBQ Asparagus #511](https://github.com/jcallaghan/The-Cookbook/issues/511)|
 
 ## 🛒 Shopping List
 
@@ -76,4 +77,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Olive oil and Self-raising flour.
 
 
-_This shopping list was generated at 30-05-2023 10:24:08._
+_This shopping list was generated at 30-05-2023 10:24:31._
