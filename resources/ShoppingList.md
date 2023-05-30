@@ -144,6 +144,10 @@ Turkish flatbread
 1. Butchers burgers
 1. Scones and clotted cream
 1. Fresh fruit platter
+- Kiwi
+- Strawberries
+- Watermelon
+- Pineapple
 
 ## 🏪 Pantry Ingredients
 
@@ -152,4 +156,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Salt, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 30-05-2023 13:09:22._
+_This shopping list was generated at 30-05-2023 13:09:51._
