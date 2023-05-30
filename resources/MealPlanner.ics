@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:074519c0-17a3-4d55-baa7-c98d61621e4b
-DTSTAMP:20230530T201930
+UID:2c0b7034-ea50-4419-a663-788364ba6843
+DTSTAMP:20230530T202403
 DTSTART:20230530T184500
 DTEND:20230530T203000
 SUMMARY:Spaghetti Carbonara #455 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7a8bc06a-d5bd-4e79-8927-474d0f02ae18
-DTSTAMP:20230530T201931
+UID:722ab8e3-1c0d-4233-8ab8-052a20b09b36
+DTSTAMP:20230530T202403
 DTSTART:20230531T184500
 DTEND:20230531T203000
 SUMMARY:Charred onion & whipped feta flatbreads #290 for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6d104245-bceb-4992-9be3-319cba1a6285
-DTSTAMP:20230530T201931
+UID:11f5eddc-4676-47f3-a289-51619252f816
+DTSTAMP:20230530T202404
 DTSTART:20230601T184500
 DTEND:20230601T203000
 SUMMARY:Pepperoni pizza  #251, Garlic dough balls #233 and Pizza dogs #234 for dinner
@@ -56,8 +56,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d57d08a8-20b3-4c34-aba7-b0e7f303b87f
-DTSTAMP:20230530T201932
+UID:d4230494-4f1e-4f8c-b9d4-d62ad2fb5de2
+DTSTAMP:20230530T202404
 DTSTART:20230602T184500
 DTEND:20230602T203000
 SUMMARY:Late lunch: F&C local pub and Steak sandwich? for dinner
@@ -68,11 +68,11 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7b97ebe7-516c-4961-a1ab-174bc00f3273
-DTSTAMP:20230530T201934
+UID:3446def8-5788-4c2c-9041-14a9cb0f792b
+DTSTAMP:20230530T202407
 DTSTART:20230610T184500
 DTEND:20230610T203000
-SUMMARY:BBQ chicken kebabs #13, Caprese salad - tomato mozzarella basil #37, BBQ Asparagus #511, BBQ Halloumi #231, Carrot cake #351, Scones and clotted cream, Fresh fruit platter
+SUMMARY:BBQ chicken kebabs #13, Caprese salad - tomato mozzarella basil #37, BBQ Asparagus #511, Hot dogs #529, BBQ Halloumi #231, Carrot cake #351, Scones and clotted cream, Fresh fruit platter
 - Kiwi
 - Strawberries
 - Watermelon
@@ -80,6 +80,7 @@ SUMMARY:BBQ chicken kebabs #13, Caprese salad - tomato mozzarella basil #37, BBQ
 DESCRIPTION:BBQ chicken kebabs #13 - https://github.com/jcallaghan/The-Cookbook/issues/13
 Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
 BBQ Asparagus #511 - https://github.com/jcallaghan/The-Cookbook/issues/511
+Hot dogs #529 - https://github.com/jcallaghan/The-Cookbook/issues/529
 BBQ Halloumi #231 - https://github.com/jcallaghan/The-Cookbook/issues/231
 Carrot cake #351 - https://github.com/jcallaghan/The-Cookbook/issues/351
 Note: Scones and clotted cream
