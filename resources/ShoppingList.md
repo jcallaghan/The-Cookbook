@@ -59,7 +59,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Grams streaky bacon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grams%20streaky%20bacon)|125|
 |[Greek yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Greek%20yoghurt)|50g|
 |[Ground cinnamon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cinnamon)|1 tsp|
-|[Guanciale](https://www.sainsburys.co.uk/gol-ui/SearchResults/Guanciale)|200g/7oz|
+|[Guanciale / pancetta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Guanciale%20/%20pancetta)|200g/7oz|
 |[Handful parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20parsley)||
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|2 tbsp|
 |[Hot dog or frankfurters](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20dog%20or%20frankfurters)||
@@ -110,10 +110,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Late lunch: F&C local pub
 1. Steak sandwich?
-1. Extras: 
-Coleslaw, mint leaves, apricot, lemons + oranges. Large moz x 3, Beef tomatos x 10
-1. Onion to clean
-Potato to prevent sticking
 1. Snack bowls
 Circular center bowl
 Platter plate
@@ -156,4 +152,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Salt, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 30-05-2023 13:09:51._
+_This shopping list was generated at 30-05-2023 16:25:13._
