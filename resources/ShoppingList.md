@@ -78,6 +78,14 @@ This shopping list has been automatically generated with the ingredients from th
 |[Walnuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Walnuts)|100g|
 |[Yellow mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Yellow%20mustard)||
 
+## 🗒️ Notes
+
+1. Butchers burgers
+1. Crisps and snack nuts
+1. Sweetcorn cobs
+1. Butchers minted lamb koftas
+1. Butchers lamb koftas
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -85,4 +93,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Garlic powder, Olive oil, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 30-05-2023 10:57:32._
+_This shopping list was generated at 30-05-2023 10:59:02._
