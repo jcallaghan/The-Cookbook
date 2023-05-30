@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:565ad7d4-89f1-48e7-80c2-9c586b4dd030
-DTSTAMP:20230530T162739
+UID:325b670d-27b4-42a9-b169-e6fa4cde8817
+DTSTAMP:20230530T162957
 DTSTART:20230530T184500
 DTEND:20230530T203000
 SUMMARY:Spaghetti Carbonara #455 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4cebbd9e-98e6-47b8-a1b5-9a0ea4bf3339
-DTSTAMP:20230530T162739
+UID:7ef7c895-15b6-433a-b470-89dda16c0c9d
+DTSTAMP:20230530T162957
 DTSTART:20230531T184500
 DTEND:20230531T203000
 SUMMARY:Charred onion & whipped feta flatbreads #290 for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8df2386c-e74f-4660-b088-3594a00b3c46
-DTSTAMP:20230530T162740
+UID:db399126-f7fa-4cd5-af05-175d4ffb2478
+DTSTAMP:20230530T162958
 DTSTART:20230601T184500
 DTEND:20230601T203000
 SUMMARY:Pepperoni pizza  #251, Garlic dough balls #233 and Pizza dogs #234 for dinner
@@ -56,8 +56,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2462edbb-22fc-47bc-8954-90c0f7300f12
-DTSTAMP:20230530T162740
+UID:582d8941-26f1-4622-8078-19f9ca0e3902
+DTSTAMP:20230530T162958
 DTSTART:20230602T184500
 DTEND:20230602T203000
 SUMMARY:Late lunch: F&C local pub and Steak sandwich? for dinner
@@ -68,48 +68,16 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:55662105-8670-4041-84f9-3288cd0657e8
-DTSTAMP:20230530T162744
+UID:69b85980-ac08-4d6c-8d40-5d546ed43cd6
+DTSTAMP:20230530T163001
 DTSTART:20230610T184500
 DTEND:20230610T203000
-SUMMARY:12 heads
-S & A
-C & P
-R
-H
-S
-PW
-S
-J
-
-3 x asparagus
-12/12 minted/non-minted butchers kebabs
-24 butchers burgers
-Turkish flatbread
-18 seeded buns
-18 hotdog buns, Crisps and snack nuts, BBQ chicken kebabs #13, Caprese, asparagus and halloumi on a rocket salad bed, Caprese salad - tomato mozzarella basil #37, BBQ Asparagus #511, Sausages / hotdogs , BBQ Halloumi #231, Sweetcorn cobs, Butchers minted lamb koftas, Butchers lamb koftas, Butchers burgers, Carrot cake #351, Scones and clotted cream, Fresh fruit platter
+SUMMARY:BBQ chicken kebabs #13, Caprese, asparagus and halloumi on a rocket salad bed, Caprese salad - tomato mozzarella basil #37, BBQ Asparagus #511, Sausages / hotdogs , BBQ Halloumi #231, Sweetcorn cobs, Butchers minted lamb koftas, Butchers lamb koftas, Butchers burgers, Carrot cake #351, Scones and clotted cream, Fresh fruit platter
 - Kiwi
 - Strawberries
 - Watermelon
 - Pineapple, Mums delicious chocolate brownies #76, Filipino Barbecue Chicken #522, Deviled eggs #219, Grilled Courgette #523, Bacon Wrapped Chicken and Apricot Kebabs #524 and Feta corn salad #525 for dinner
-DESCRIPTION:Note: 12 heads
-S & A
-C & P
-R
-H
-S
-PW
-S
-J
-
-3 x asparagus
-12/12 minted/non-minted butchers kebabs
-24 butchers burgers
-Turkish flatbread
-18 seeded buns
-18 hotdog buns
-Note: Crisps and snack nuts
-BBQ chicken kebabs #13 - https://github.com/jcallaghan/The-Cookbook/issues/13
+DESCRIPTION:BBQ chicken kebabs #13 - https://github.com/jcallaghan/The-Cookbook/issues/13
 Note: Caprese, asparagus and halloumi on a rocket salad bed
 Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
 BBQ Asparagus #511 - https://github.com/jcallaghan/The-Cookbook/issues/511
