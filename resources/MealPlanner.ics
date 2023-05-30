@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7a315135-f90b-4689-8a5e-f54e43eee9d5
-DTSTAMP:20230530T105758
+UID:d34fec50-2c9f-4816-89c9-dd6175a4f13b
+DTSTAMP:20230530T105858
 DTSTART:20230530T184500
 DTEND:20230530T203000
 SUMMARY:Spaghetti Carbonara #455 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8dd6f7c4-5e61-4877-80a2-9a9af085ca54
-DTSTAMP:20230530T105758
+UID:306c37f7-7507-4e30-aa1f-0c701d33d0a3
+DTSTAMP:20230530T105859
 DTSTART:20230531T184500
 DTEND:20230531T203000
 SUMMARY:Charred onion & whipped feta flatbreads #290 for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:46830e0f-4df2-4fa9-91ff-be05502d32ce
-DTSTAMP:20230530T105759
+UID:816d7d48-97ef-4846-89b1-8c09c80f1612
+DTSTAMP:20230530T105859
 DTSTART:20230601T184500
 DTEND:20230601T203000
 SUMMARY:Pepperoni pizza  #251, Garlic dough balls #233 and Pizza dogs #234 for dinner
@@ -56,17 +56,20 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:934da990-bf22-48f0-be77-08d9903920d4
-DTSTAMP:20230530T105801
+UID:a7931176-6a2e-4932-ae52-c709f6461589
+DTSTAMP:20230530T105901
 DTSTART:20230610T184500
 DTEND:20230610T203000
-SUMMARY:Butchers lamb koftas, BBQ chicken kebabs #13, Caprese salad - tomato mozzarella basil #37, BBQ Asparagus #511, BBQ Halloumi #231, Butchers minted lamb koftas and Carrot cake #351 for dinner
-DESCRIPTION:Note: Butchers lamb koftas
+SUMMARY:Butchers burgers, Crisps and snack nuts, BBQ chicken kebabs #13, Caprese salad - tomato mozzarella basil #37, BBQ Asparagus #511, BBQ Halloumi #231, Sweetcorn cobs, Butchers minted lamb koftas, Butchers lamb koftas and Carrot cake #351 for dinner
+DESCRIPTION:Note: Butchers burgers
+Note: Crisps and snack nuts
 BBQ chicken kebabs #13 - https://github.com/jcallaghan/The-Cookbook/issues/13
 Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
 BBQ Asparagus #511 - https://github.com/jcallaghan/The-Cookbook/issues/511
 BBQ Halloumi #231 - https://github.com/jcallaghan/The-Cookbook/issues/231
+Note: Sweetcorn cobs
 Note: Butchers minted lamb koftas
+Note: Butchers lamb koftas
 Carrot cake #351 - https://github.com/jcallaghan/The-Cookbook/issues/351
 SEQUENCE:0
 LOCATION:
