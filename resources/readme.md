@@ -16,23 +16,65 @@
 |Chopping board||
 |Scales||
 |Pasta machine||
-|Pressure cooker||
-|Le Creuset collection||
+|Slow cooker, air fryer, pressure cooker||
+|Fryer ||
+|Pans||
 |Sous-vide||
 |Wok||
 |Blender||
 |Mixer||
+|BBQ ||
+|Pizza oven | |
 |Meater thermometers||
+|Coffee machine||
 
 ## Books
 TBC
 
 ## Other resources
 
+### Inspiration Chefs
+- Jamie Oliver
+- Tom Kerridge
+- Gordon Ramsay
+- Marcus Wareing
+- Monica Galetti
+- Nigella Lawson
+- Rick Stein
+- Angela Hartnett
+- Marco Pierre White
+- Jennifer Paterson
+- Ken Hom
+- Clare Smyth
+- Michel Roux Jr
+- Tom Aikens
+- Antony Worrall Thompson
+- Raymond Blanc
+- Hugh Fearnley-Whittingstall
+- Lisa Goodwin-Allen
+- Kim Ratcharoen
+- Nancy Lam
+- Heston Blumenthal
+- James Martin
+- Tom Kitchin
+- Nigel Slater
+- Mery Berry
+- Brian Turner
+
+### TV
+- BBQ comp
+- Master Chef
+- Somebody feed Phil
+
 ### Recipe sites
 * [Cookipedia](https://www.cookipedia.co.uk/recipes_wiki/Welcome_to_Cookipedia)
 * [Best Recipes UK](https://bestrecipesuk.com/)
 * [Co-op](https://www.coop.co.uk/recipes)
+* [Ocado](https://www.ocado.com/webshop/recipes/)
+* [M&S](https://sparkslive.marksandspencer.com/recipes)
+* [Sainsbury's Magazine](https://www.sainsburysmagazine.co.uk/recipes)
+* [Delish](https://www.delish.com/uk)
+* [Top Secret Recipes](https://topsecretrecipes.com)
 
 ### Online food suppliers
 * Fresh pasta delivered to your door by [Pasta Evangelists](https://pastaevangelists.com/)
