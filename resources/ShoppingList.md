@@ -113,11 +113,11 @@ Turkish flatbread
 18 hotdog buns
 1. Crisps and snack nuts
 1. Caprese, asparagus and halloumi on a rocket salad bed
+1. Sausages / hotdogs 
 1. Sweetcorn cobs
 1. Butchers minted lamb koftas
 1. Butchers lamb koftas
 1. Butchers burgers
-1. Sausages / hotdogs 
 1. Scones and clotted cream
 1. Fresh fruit platter
 
@@ -128,4 +128,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 30-05-2023 11:13:18._
+_This shopping list was generated at 30-05-2023 11:28:20._
