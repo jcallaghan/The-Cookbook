@@ -99,6 +99,13 @@ S
 PW
 S
 J
+
+3 x asparagus
+12/12 minted/non-minted butchers kebabs
+24 butchers burgers
+Turkish flatbread
+18 seeded buns
+18 hotdog buns
 1. Crisps and snack nuts
 1. Caprese, asparagus and halloumi on a rocket salad bed
 1. Sweetcorn cobs
@@ -116,4 +123,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 30-05-2023 11:02:27._
+_This shopping list was generated at 30-05-2023 11:03:48._
