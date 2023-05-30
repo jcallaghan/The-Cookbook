@@ -90,6 +90,11 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Snack bowls
+Circular center bowl
+Platter plate
+Bread basket / fly cover
+Cake stand
 1. 12 heads
 S & A
 C & P
@@ -123,4 +128,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 30-05-2023 11:03:48._
+_This shopping list was generated at 30-05-2023 11:13:18._
