@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ee6dca11-8a57-453f-84c5-cdba07604500
-DTSTAMP:20230530T125016
+UID:1fcbfd19-0d7d-4d05-9f50-4f4b788c0de1
+DTSTAMP:20230530T125323
 DTSTART:20230530T184500
 DTEND:20230530T203000
 SUMMARY:Spaghetti Carbonara #455 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:478af020-c791-4ad0-bd9e-d59799f7c7e6
-DTSTAMP:20230530T125017
+UID:c1ae1652-e0fc-458b-8d08-c738fbe538f2
+DTSTAMP:20230530T125323
 DTSTART:20230531T184500
 DTEND:20230531T203000
 SUMMARY:Charred onion & whipped feta flatbreads #290 for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:57f284eb-ec15-4e83-adb7-f301d5ca43c1
-DTSTAMP:20230530T125018
+UID:faff0e3c-94a6-48b2-8100-b9cdbf1fa5bb
+DTSTAMP:20230530T125324
 DTSTART:20230601T184500
 DTEND:20230601T203000
 SUMMARY:Pepperoni pizza  #251, Garlic dough balls #233 and Pizza dogs #234 for dinner
@@ -56,8 +56,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7d696577-f50e-476c-8f45-b30ee80fd361
-DTSTAMP:20230530T125018
+UID:6cee35d5-d24a-4a4d-b986-b9853e529d9b
+DTSTAMP:20230530T125324
 DTSTART:20230602T184500
 DTEND:20230602T203000
 SUMMARY:Late lunch: F&C local pub and Steak sandwich? for dinner
@@ -68,11 +68,12 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:dc4f4ef3-c772-4d20-8839-f4cf61c218eb
-DTSTAMP:20230530T125021
+UID:86aa357d-40da-45ba-966a-ccd6da9da8f1
+DTSTAMP:20230530T125326
 DTSTART:20230610T184500
 DTEND:20230610T203000
-SUMMARY:Onion to clean
+SUMMARY:Extras: 
+Coleslaw, mint leaves, apricot, lemons + oranges. Large moz x 3, Beef tomatos x 10, Onion to clean
 Potato to prevent sticking, Snack bowls
 Circular center bowl
 Platter plate
@@ -93,7 +94,9 @@ J
 Turkish flatbread
 18 seeded buns
 18 hotdog buns, Crisps and snack nuts, BBQ chicken kebabs #13, Caprese, asparagus and halloumi on a rocket salad bed, Caprese salad - tomato mozzarella basil #37, BBQ Asparagus #511, Sausages / hotdogs , BBQ Halloumi #231, Sweetcorn cobs, Butchers minted lamb koftas, Butchers lamb koftas, Butchers burgers, Carrot cake #351, Scones and clotted cream, Fresh fruit platter, Mums delicious chocolate brownies #76 and Filipino Barbecue Chicken #522 for dinner
-DESCRIPTION:Note: Onion to clean
+DESCRIPTION:Note: Extras: 
+Coleslaw, mint leaves, apricot, lemons + oranges. Large moz x 3, Beef tomatos x 10
+Note: Onion to clean
 Potato to prevent sticking
 Note: Snack bowls
 Circular center bowl
