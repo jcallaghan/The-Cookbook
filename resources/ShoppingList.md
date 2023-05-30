@@ -110,9 +110,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Late lunch: F&C local pub
 1. Steak sandwich?
-1. Butchers minted lamb koftas
-1. Butchers lamb koftas
-1. Butchers burgers
 1. Scones and clotted cream
 1. Fresh fruit platter
 - Kiwi
@@ -127,4 +124,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Salt, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 30-05-2023 16:36:06._
+_This shopping list was generated at 30-05-2023 16:37:12._
