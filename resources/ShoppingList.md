@@ -21,15 +21,12 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Mums delicious chocolate brownies #76](https://github.com/jcallaghan/The-Cookbook/issues/76)|
 ||[Filipino Barbecue Chicken #522](https://github.com/jcallaghan/The-Cookbook/issues/522)|
 ||[Deviled eggs #219](https://github.com/jcallaghan/The-Cookbook/issues/219)|
-||[Grilled Courgette #523](https://github.com/jcallaghan/The-Cookbook/issues/523)|
-||[Bacon Wrapped Chicken and Apricot Kebabs #524](https://github.com/jcallaghan/The-Cookbook/issues/524)|
 ||[Feta corn salad #525](https://github.com/jcallaghan/The-Cookbook/issues/525)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
-|[150 grams soft dried apricots](https://www.sainsburys.co.uk/gol-ui/SearchResults/150%20grams%20soft%20dried%20apricots)|150 grams Soft Dried Apricots, ( 3/4 cup|
 |[Bicarbonate of soda](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bicarbonate%20of%20soda)|½ tsp|
 |[Black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20peppers)|1 tsp|
 |[Bouillon cube](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bouillon%20cube)|1|
@@ -49,14 +46,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|4 + 2|
 |[Eggs yolk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20yolk)|1|
 |[Eggs yolks organic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20yolks%20organic)|4|
-|[Extra-virgin olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Extra-virgin%20olive%20oil)|1/3 cup|
 |[Fast-action dried yeast](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fast-action%20dried%20yeast)|7g|
 |[Feta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Feta)|100g|
-|[Fresh lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemon%20juice)|1/4 cup|
 |[Fresh nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20nutmeg)|½ tsp|
 |[Fried onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fried%20onions)||
-|[Grams chicken fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grams%20chicken%20fillets)|450|
-|[Grams streaky bacon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grams%20streaky%20bacon)|125|
 |[Greek yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Greek%20yoghurt)|50g|
 |[Ground cinnamon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cinnamon)|1 tsp|
 |[Guanciale / pancetta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Guanciale%20/%20pancetta)|200g/7oz|
@@ -84,7 +77,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Quality plain chocolate such as lindt or hotel chocolat](https://www.sainsburys.co.uk/gol-ui/SearchResults/Quality%20plain%20chocolate%20such%20as%20lindt%20or%20hotel%20chocolat)|200g|
 |[Red and white onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20and%20white%20onions)||
 |[Rose harissa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rose%20harissa)|2 tbsp|
-|[Salt and black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salt%20and%20black%20peppers)||
 |[Serves: 12 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%2012%20servings)||
 |[Serves: 4 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204%20servings)||
 |[Serves: 8](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%208)||
@@ -92,7 +84,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Soft light brown sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soft%20light%20brown%20sugar)|175g|
 |[Spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spaghetti)|280g/10oz|
 |[Strong white bread flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Strong%20white%20bread%20flour)|300g|
-|[Tb smooth apricot jam](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tb%20smooth%20apricot%20jam)|1|
 |[Teriyaki sauce or yakisoba sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teriyaki%20sauce%20or%20yakisoba%20sauce)|100 ml|
 |[Thyme sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thyme%20sprigs)|5|
 |[Tomato sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20sauce)||
@@ -124,4 +115,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Salt, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 30-05-2023 16:37:12._
+_This shopping list was generated at 30-05-2023 20:18:38._
