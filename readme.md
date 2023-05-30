@@ -59,6 +59,9 @@ I'll keep you updated with how I progress with all the geeky stuff, but for now,
 - [x] ~Generate shopping list from meal planner~
 - [ ] Website front-end (search and sharing)
 - [ ] Power BI 'esque statistics from project recipes (analytics)
+- [ ] Recipe suggestions from analytics, meal planner etc
+- [ ] ChatGPT recipe suggestions based on known ingredients
+- [ ] ChatGPT recipe standardisation
 
 ### Bugs
 - Cannot search for issue to add to project column. These are typically issues that have been in the project before. They would have been removed by removing the column from the project. After this the issues in these columns are no longer returned when performing an issue search via the adding cards option.
