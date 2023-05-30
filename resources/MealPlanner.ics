@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1fcbfd19-0d7d-4d05-9f50-4f4b788c0de1
-DTSTAMP:20230530T125323
+UID:87a58c09-edd1-427c-b6a6-91355ab139a8
+DTSTAMP:20230530T125458
 DTSTART:20230530T184500
 DTEND:20230530T203000
 SUMMARY:Spaghetti Carbonara #455 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c1ae1652-e0fc-458b-8d08-c738fbe538f2
-DTSTAMP:20230530T125323
+UID:bf5cf41f-194e-40a6-9b44-ebf144da3a29
+DTSTAMP:20230530T125459
 DTSTART:20230531T184500
 DTEND:20230531T203000
 SUMMARY:Charred onion & whipped feta flatbreads #290 for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:faff0e3c-94a6-48b2-8100-b9cdbf1fa5bb
-DTSTAMP:20230530T125324
+UID:575635df-a03c-4cdf-afc3-be59478f8250
+DTSTAMP:20230530T125500
 DTSTART:20230601T184500
 DTEND:20230601T203000
 SUMMARY:Pepperoni pizza  #251, Garlic dough balls #233 and Pizza dogs #234 for dinner
@@ -56,8 +56,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6cee35d5-d24a-4a4d-b986-b9853e529d9b
-DTSTAMP:20230530T125324
+UID:c77bff1a-b877-4b5e-ae14-ff2bd434bc05
+DTSTAMP:20230530T125500
 DTSTART:20230602T184500
 DTEND:20230602T203000
 SUMMARY:Late lunch: F&C local pub and Steak sandwich? for dinner
@@ -68,8 +68,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:86aa357d-40da-45ba-966a-ccd6da9da8f1
-DTSTAMP:20230530T125326
+UID:40d7067d-b59e-42d9-bd36-ab5ea3dd6ada
+DTSTAMP:20230530T125503
 DTSTART:20230610T184500
 DTEND:20230610T203000
 SUMMARY:Extras: 
@@ -93,7 +93,7 @@ J
 24 butchers burgers
 Turkish flatbread
 18 seeded buns
-18 hotdog buns, Crisps and snack nuts, BBQ chicken kebabs #13, Caprese, asparagus and halloumi on a rocket salad bed, Caprese salad - tomato mozzarella basil #37, BBQ Asparagus #511, Sausages / hotdogs , BBQ Halloumi #231, Sweetcorn cobs, Butchers minted lamb koftas, Butchers lamb koftas, Butchers burgers, Carrot cake #351, Scones and clotted cream, Fresh fruit platter, Mums delicious chocolate brownies #76 and Filipino Barbecue Chicken #522 for dinner
+18 hotdog buns, Crisps and snack nuts, BBQ chicken kebabs #13, Caprese, asparagus and halloumi on a rocket salad bed, Caprese salad - tomato mozzarella basil #37, BBQ Asparagus #511, Sausages / hotdogs , BBQ Halloumi #231, Sweetcorn cobs, Butchers minted lamb koftas, Butchers lamb koftas, Butchers burgers, Carrot cake #351, Scones and clotted cream, Fresh fruit platter, Mums delicious chocolate brownies #76, Filipino Barbecue Chicken #522 and Deviled eggs #219 for dinner
 DESCRIPTION:Note: Extras: 
 Coleslaw, mint leaves, apricot, lemons + oranges. Large moz x 3, Beef tomatos x 10
 Note: Onion to clean
@@ -135,6 +135,7 @@ Note: Scones and clotted cream
 Note: Fresh fruit platter
 Mums delicious chocolate brownies #76 - https://github.com/jcallaghan/The-Cookbook/issues/76
 Filipino Barbecue Chicken #522 - https://github.com/jcallaghan/The-Cookbook/issues/522
+Deviled eggs #219 - https://github.com/jcallaghan/The-Cookbook/issues/219
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
