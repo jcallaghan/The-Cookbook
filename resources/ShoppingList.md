@@ -110,7 +110,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Late lunch: F&C local pub
 1. Steak sandwich?
-1. Caprese, asparagus and halloumi on a rocket salad bed
 1. Sausages / hotdogs 
 1. Sweetcorn cobs
 1. Butchers minted lamb koftas
@@ -130,4 +129,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Salt, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 30-05-2023 16:30:13._
+_This shopping list was generated at 30-05-2023 16:32:57._
