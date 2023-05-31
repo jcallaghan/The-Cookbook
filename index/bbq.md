@@ -1,6 +1,6 @@
 # BBQ
 
-There are 33 bbq recipes in the cookbook.
+There are 43 bbq recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -9,6 +9,7 @@ There are 33 bbq recipes in the cookbook.
 ||[231](https://github.com/jcallaghan/The-Cookbook/issues/231)|[BBQ Halloumi](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/bbq-halloumi.md)| |Style / Vegetarian<br>Style / BBQ<br>Meal / Appetiser<br>Meal / Side Dish<br>Ingredient / Cheese 🧀<br>⚙ Needs Pictures ✅<br>⚙ Published|
 ||[13](https://github.com/jcallaghan/The-Cookbook/issues/13)|[BBQ chicken kebabs](https://github.com/jcallaghan/The-Cookbook/issues/13)| |Style / BBQ<br>Favourite 🥰<br>Favourite 🥰 / Jas|
 ||[403](https://github.com/jcallaghan/The-Cookbook/issues/403)|[BBQ pulled Chicken](https://github.com/jcallaghan/The-Cookbook/issues/403)| |Style / BBQ<br>Ingredient / Meat / Chicken 🐔<br>Meal / Main|
+||[524](https://github.com/jcallaghan/The-Cookbook/issues/524)|[Bacon Wrapped Chicken and Apricot Kebabs](https://github.com/jcallaghan/The-Cookbook/issues/524)| |Style / BBQ|
 ||[399](https://github.com/jcallaghan/The-Cookbook/issues/399)|[Beef Skewers](https://github.com/jcallaghan/The-Cookbook/issues/399)| |Style / BBQ<br>Ingredient / Meat / Beef<br>Meal / Main|
 ||[172](https://github.com/jcallaghan/The-Cookbook/issues/172)|[Beef short ribs](https://github.com/jcallaghan/The-Cookbook/issues/172)| |Style / BBQ<br>Ingredient / Meat / Beef<br>Style / Marinade|
 ||[204](https://github.com/jcallaghan/The-Cookbook/issues/204)|[Bryan's BBQ Pork Ribs](https://github.com/jcallaghan/The-Cookbook/issues/204)| |Style / BBQ<br>ℹ️ Friends Recipes 🥰<br>⚙ New Recipe 👀|
@@ -19,9 +20,15 @@ There are 33 bbq recipes in the cookbook.
 ||[513](https://github.com/jcallaghan/The-Cookbook/issues/513)|[Chicken and chorizo skewers](https://github.com/jcallaghan/The-Cookbook/issues/513)| |Style / BBQ|
 | D||||
 ||[219](https://github.com/jcallaghan/The-Cookbook/issues/219)|[Deviled eggs](https://github.com/jcallaghan/The-Cookbook/issues/219)| |Style / BBQ<br>Style / Dinner Party 🥳<br>Style / Picnic<br>Meal / Snack|
+| F||||
+||[525](https://github.com/jcallaghan/The-Cookbook/issues/525)|[Feta corn salad](https://github.com/jcallaghan/The-Cookbook/issues/525)| |Style / BBQ<br>Meal / Side Dish<br>Style / Salad<br>Style / BBQ / Side|
+||[522](https://github.com/jcallaghan/The-Cookbook/issues/522)|[Filipino Barbecue Chicken](https://github.com/jcallaghan/The-Cookbook/issues/522)| |Style / BBQ<br>⚙ New Recipe 👀<br>Style / Kebab|
+| G||||
+||[530](https://github.com/jcallaghan/The-Cookbook/issues/530)|[Greek Cucumber Cups](https://github.com/jcallaghan/The-Cookbook/issues/530)| |Style / Salad<br>Style / BBQ / Side|
+||[523](https://github.com/jcallaghan/The-Cookbook/issues/523)|[Grilled Courgette](https://github.com/jcallaghan/The-Cookbook/issues/523)| |Style / Vegetarian<br>Style / BBQ|
 | H||||
 ||[126](https://github.com/jcallaghan/The-Cookbook/issues/126)|[Halloumi sticks](https://github.com/jcallaghan/The-Cookbook/issues/126)| |Style / Vegetarian<br>Style / BBQ<br>Meal / Side Dish<br>Ingredient / Cheese 🧀<br>Favourite 🥰 / Florence<br>Brand / Nando's|
-||[512](https://github.com/jcallaghan/The-Cookbook/issues/512)|[Hot dogs](https://github.com/jcallaghan/The-Cookbook/issues/512)| |Style / BBQ<br>Meal / Side Dish|
+||[529](https://github.com/jcallaghan/The-Cookbook/issues/529)|[Hot dogs](https://github.com/jcallaghan/The-Cookbook/issues/529)| |Style / BBQ / Side|
 | J||||
 ||[38](https://github.com/jcallaghan/The-Cookbook/issues/38)|[Jacob's Ladder](https://github.com/jcallaghan/The-Cookbook/issues/38)| |Style / BBQ<br>Ingredient / Meat / Beef<br>Style / Slow cook|
 | L||||
@@ -42,8 +49,13 @@ There are 33 bbq recipes in the cookbook.
 | S||||
 ||[457](https://github.com/jcallaghan/The-Cookbook/issues/457)|[Slow Cooker Pulled Smokey Chicken](https://github.com/jcallaghan/The-Cookbook/issues/457)| |Style / BBQ<br>Ingredient / Meat / Chicken 🐔<br>⚙ New Recipe 👀<br>Ingredient / Meat / Burger 🍔<br>Jas Shares|
 ||[26](https://github.com/jcallaghan/The-Cookbook/issues/26)|[Smoked Watermelon](https://github.com/jcallaghan/The-Cookbook/issues/26)| |Style / BBQ|
+||[527](https://github.com/jcallaghan/The-Cookbook/issues/527)|[Spatchcock Chicken](https://github.com/jcallaghan/The-Cookbook/issues/527)| |Style / BBQ<br>Ingredient / Meat / Chicken 🐔<br>Style / BBQ / Rotisserie|
 ||[371](https://github.com/jcallaghan/The-Cookbook/issues/371)|[Steak pinwheels](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/steak-pinwheels.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/steak-pinwheels-1.jpg' alt='Steak pinwheels' width='200'/>|Style / BBQ<br>Ingredient / Steak<br>Meal / Main<br>⚙ New Recipe 👀<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>⚙ Published|
 | T||||
 ||[239](https://github.com/jcallaghan/The-Cookbook/issues/239)|[Texas BBQ Pizza](https://github.com/jcallaghan/The-Cookbook/issues/239)| |Style / BBQ<br>Pizza 🍕<br>Equipment / Pizza Oven 🍕🔥|
+| V||||
+||[521](https://github.com/jcallaghan/The-Cookbook/issues/521)|[Vegetable kebab skewers](https://github.com/jcallaghan/The-Cookbook/issues/521)| |Style / Vegetarian<br>Style / BBQ|
+| W||||
+||[526](https://github.com/jcallaghan/The-Cookbook/issues/526)|[Watermelon feta salad](https://github.com/jcallaghan/The-Cookbook/issues/526)| |Style / Salad<br>Ingredient / Cheese 🧀 / Feta<br>Style / BBQ / Side|
 
-_This index was automatically generated at 30-05-2023 00:22:22 using a custom Python script and GitHub Action._
+_This index was automatically generated at 31-05-2023 00:23:41 using a custom Python script and GitHub Action._
