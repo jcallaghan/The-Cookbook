@@ -73,6 +73,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Late lunch: F&C local pub
 1. Steak sandwich?
+1. Chicken barm
 
 ## 🏪 Pantry Ingredients
 
@@ -81,4 +82,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 01-06-2023 18:03:14._
+_This shopping list was generated at 01-06-2023 21:28:56._
