@@ -8,10 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 01-Jun 2023|[Pepperoni pizza  #251](https://github.com/jcallaghan/The-Cookbook/issues/251)|
-||[Garlic dough balls #233](https://github.com/jcallaghan/The-Cookbook/issues/233)|
-||[Pizza dogs #234](https://github.com/jcallaghan/The-Cookbook/issues/234)|
 |Mon 05-Jun 2023|[Margherita pizza #235](https://github.com/jcallaghan/The-Cookbook/issues/235)|
+||[Garlic dough balls #233](https://github.com/jcallaghan/The-Cookbook/issues/233)|
 |Tue 06-Jun 2023|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 |Wed 07-Jun 2023|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
 |Sat 10-Jun 2023|[BBQ chicken kebabs #13](https://github.com/jcallaghan/The-Cookbook/issues/13)|
@@ -20,6 +18,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Hot dogs #529](https://github.com/jcallaghan/The-Cookbook/issues/529)|
 ||[BBQ Halloumi #231](https://github.com/jcallaghan/The-Cookbook/issues/231)|
 ||[Carrot cake #351](https://github.com/jcallaghan/The-Cookbook/issues/351)|
+||[Pizza dogs #234](https://github.com/jcallaghan/The-Cookbook/issues/234)|
 ||[Mums delicious chocolate brownies #76](https://github.com/jcallaghan/The-Cookbook/issues/76)|
 
 ## 🛒 Shopping List
@@ -114,4 +113,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Dried basil, Dried oregano, Garlic powder, Olive oil, Plain flour, Sea salt, Seasoning, Self-raising flour, Sesame oil, Sesame seeds, Soy sauce and Tomato purée.
 
 
-_This shopping list was generated at 01-06-2023 21:35:15._
+_This shopping list was generated at 01-06-2023 21:37:54._
