@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Garlic dough balls #233](https://github.com/jcallaghan/The-Cookbook/issues/233)|
 ||[Pizza dogs #234](https://github.com/jcallaghan/The-Cookbook/issues/234)|
 |Mon 05-Jun 2023|[Margherita pizza #235](https://github.com/jcallaghan/The-Cookbook/issues/235)|
+|Wed 07-Jun 2023|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
 |Sat 10-Jun 2023|[BBQ chicken kebabs #13](https://github.com/jcallaghan/The-Cookbook/issues/13)|
 ||[Caprese salad - tomato mozzarella basil #37](https://github.com/jcallaghan/The-Cookbook/issues/37)|
 ||[BBQ Asparagus #511](https://github.com/jcallaghan/The-Cookbook/issues/511)|
@@ -33,15 +34,20 @@ This shopping list has been automatically generated with the ingredients from th
 |[Coarse black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coarse%20black%20peppers)|1 tbsp|
 |[Cook time:  45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%20%2045%20minutes)||
 |[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
+|[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Courgette](https://www.sainsburys.co.uk/gol-ui/SearchResults/Courgette)||
 |[Cream cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream%20cheese)|150g|
 |[Crispy bacon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crispy%20bacon)||
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|4 + 2|
 |[Eggs yolk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20yolk)|1|
+|[Fast-action dried yeast](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fast-action%20dried%20yeast)|7g|
+|[Feta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Feta)|100g|
 |[Fresh nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20nutmeg)|½ tsp|
 |[Fried onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fried%20onions)||
+|[Greek yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Greek%20yoghurt)|50g|
 |[Ground cinnamon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cinnamon)|1 tsp|
 |[Handful parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20parsley)||
+|[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|2 tbsp|
 |[Hot dog or frankfurters](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20dog%20or%20frankfurters)||
 |[Icing sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Icing%20sugar)|350g|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)||
@@ -49,22 +55,29 @@ This shopping list has been automatically generated with the ingredients from th
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|1-2 tbsp|
 |[Mozzarella](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mozzarella)||
 |[Mozzarella cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mozzarella%20cheese)||
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|3|
 |[Pecan nuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pecan%20nuts)|50g|
 |[Pecorino cheese grated](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pecorino%20cheese%20grated)||
 |[Peppers (red and green)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Peppers%20(red%20and%20green))|2|
 |[Pinch of sea salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20sea%20salt)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
+|[Prep time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2025%20minutes)||
 |[Pumpkin pie spice (optional)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pumpkin%20pie%20spice%20(optional))|1 tsp|
 |[Quality plain chocolate such as lindt or hotel chocolat](https://www.sainsburys.co.uk/gol-ui/SearchResults/Quality%20plain%20chocolate%20such%20as%20lindt%20or%20hotel%20chocolat)|200g|
 |[Red and white onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20and%20white%20onions)||
+|[Rose harissa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rose%20harissa)|2 tbsp|
 |[Serves: 12 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%2012%20servings)||
+|[Serves: 4 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204%20servings)||
 |[Serves: 8](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%208)||
 |[Soft butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soft%20butter)|60g|
 |[Soft light brown sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soft%20light%20brown%20sugar)|175g|
+|[Strong white bread flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Strong%20white%20bread%20flour)|300g|
 |[Teriyaki sauce or yakisoba sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teriyaki%20sauce%20or%20yakisoba%20sauce)|100 ml|
+|[Thyme sprigs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thyme%20sprigs)|5|
 |[Tinned san marzano tomatoes blitzed](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tinned%20san%20marzano%20tomatoes%20blitzed)|400g|
 |[Tomato sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20sauce)||
+|[Total time: 1 hour 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%2010%20minutes)||
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
 |[Total time: 55 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2055%20minutes)||
 |[Unsalted butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Unsalted%20butter)|225g + 200g|
@@ -93,4 +106,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 01-06-2023 21:34:15._
+_This shopping list was generated at 01-06-2023 21:34:41._
