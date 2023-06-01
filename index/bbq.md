@@ -1,6 +1,6 @@
 # BBQ
 
-There are 43 bbq recipes in the cookbook.
+There are 44 bbq recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -57,5 +57,7 @@ There are 43 bbq recipes in the cookbook.
 ||[521](https://github.com/jcallaghan/The-Cookbook/issues/521)|[Vegetable kebab skewers](https://github.com/jcallaghan/The-Cookbook/issues/521)| |Style / Vegetarian<br>Style / BBQ|
 | W||||
 ||[526](https://github.com/jcallaghan/The-Cookbook/issues/526)|[Watermelon feta salad](https://github.com/jcallaghan/The-Cookbook/issues/526)| |Style / Salad<br>Ingredient / Cheese 🧀 / Feta<br>Style / BBQ / Side|
+| 🧅||||
+||[537](https://github.com/jcallaghan/The-Cookbook/issues/537)|[🧅➕🥔🟰🧼 BBQ Grill Clean & Non-Stick Trick](https://github.com/jcallaghan/The-Cookbook/issues/537)| |Style / BBQ<br>Resources / Tips & Tricks|
 
-_This index was automatically generated at 31-05-2023 00:23:41 using a custom Python script and GitHub Action._
+_This index was automatically generated at 01-06-2023 00:28:01 using a custom Python script and GitHub Action._
