@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 31-May 2023 - Sat 10-Jun 2023
+Thu 01-Jun 2023 - Sun 11-Jun 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -71,7 +71,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Chicken salad
 1. Late lunch: F&C local pub
 1. Steak sandwich?
 
@@ -82,4 +81,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 31-05-2023 16:14:48._
+_This shopping list was generated at 01-06-2023 18:03:14._
