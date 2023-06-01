@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Garlic dough balls #233](https://github.com/jcallaghan/The-Cookbook/issues/233)|
 |Tue 06-Jun 2023|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 |Wed 07-Jun 2023|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
+|Thu 08-Jun 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Sat 10-Jun 2023|[BBQ chicken kebabs #13](https://github.com/jcallaghan/The-Cookbook/issues/13)|
 ||[Caprese salad - tomato mozzarella basil #37](https://github.com/jcallaghan/The-Cookbook/issues/37)|
 ||[BBQ Asparagus #511](https://github.com/jcallaghan/The-Cookbook/issues/511)|
@@ -113,4 +114,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Dried basil, Dried oregano, Garlic powder, Olive oil, Plain flour, Sea salt, Seasoning, Self-raising flour, Sesame oil, Sesame seeds, Soy sauce and Tomato purée.
 
 
-_This shopping list was generated at 01-06-2023 21:42:00._
+_This shopping list was generated at 01-06-2023 21:44:43._
