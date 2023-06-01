@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 01-Jun 2023|[Pepperoni pizza  #251](https://github.com/jcallaghan/The-Cookbook/issues/251)|
 ||[Garlic dough balls #233](https://github.com/jcallaghan/The-Cookbook/issues/233)|
 ||[Pizza dogs #234](https://github.com/jcallaghan/The-Cookbook/issues/234)|
+|Mon 05-Jun 2023|[Margherita pizza #235](https://github.com/jcallaghan/The-Cookbook/issues/235)|
 |Sat 10-Jun 2023|[BBQ chicken kebabs #13](https://github.com/jcallaghan/The-Cookbook/issues/13)|
 ||[Caprese salad - tomato mozzarella basil #37](https://github.com/jcallaghan/The-Cookbook/issues/37)|
 ||[BBQ Asparagus #511](https://github.com/jcallaghan/The-Cookbook/issues/511)|
@@ -23,6 +24,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
+|[Basil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Basil)||
 |[Bicarbonate of soda](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bicarbonate%20of%20soda)|½ tsp|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|300g|
 |[Chicken breast](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breast)||
@@ -46,7 +48,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)||
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|1-2 tbsp|
 |[Mozzarella](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mozzarella)||
+|[Mozzarella cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mozzarella%20cheese)||
 |[Pecan nuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pecan%20nuts)|50g|
+|[Pecorino cheese grated](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pecorino%20cheese%20grated)||
 |[Peppers (red and green)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Peppers%20(red%20and%20green))|2|
 |[Pinch of sea salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20sea%20salt)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
@@ -59,6 +63,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Soft butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soft%20butter)|60g|
 |[Soft light brown sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soft%20light%20brown%20sugar)|175g|
 |[Teriyaki sauce or yakisoba sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teriyaki%20sauce%20or%20yakisoba%20sauce)|100 ml|
+|[Tinned san marzano tomatoes blitzed](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tinned%20san%20marzano%20tomatoes%20blitzed)|400g|
 |[Tomato sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20sauce)||
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
 |[Total time: 55 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2055%20minutes)||
@@ -88,4 +93,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 01-06-2023 21:32:17._
+_This shopping list was generated at 01-06-2023 21:34:15._
