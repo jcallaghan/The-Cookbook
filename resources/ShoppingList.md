@@ -74,10 +74,11 @@ This shopping list has been automatically generated with the ingredients from th
 1. Late lunch: F&C local pub
 1. Steak sandwich?
 1. Breakfast bagel
-1. Chicken barm
-1. Pub dinner?
+1. Chicken/chicken-sweetcorn barm
+1. Pub dinner
 1. Croisants
 1. Bacon/beef sausage barm
+1. Pub dinner
 1. Croisants
 
 ## 🏪 Pantry Ingredients
@@ -87,4 +88,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic powder, Olive oil, Plain flour, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 01-06-2023 21:31:33._
+_This shopping list was generated at 01-06-2023 21:32:17._
