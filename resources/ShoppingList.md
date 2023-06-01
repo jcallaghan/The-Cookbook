@@ -97,6 +97,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Late lunch: F&C local pub
+1. Cheese and red wine?
 1. Breakfast bagel
 1. Chicken/chicken-sweetcorn barm
 1. Pub dinner
@@ -112,4 +113,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Dried basil, Dried oregano, Garlic powder, Olive oil, Plain flour, Sea salt, Seasoning, Self-raising flour, Sesame oil, Sesame seeds, Soy sauce and Tomato purée.
 
 
-_This shopping list was generated at 01-06-2023 21:40:36._
+_This shopping list was generated at 01-06-2023 21:42:00._
