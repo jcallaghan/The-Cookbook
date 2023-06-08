@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 07-Jun 2023 - Sat 17-Jun 2023
+Thu 08-Jun 2023 - Sun 18-Jun 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 07-Jun 2023|[Rotisserie chicken #17](https://github.com/jcallaghan/The-Cookbook/issues/17)|
 |Thu 08-Jun 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Sat 10-Jun 2023|[BBQ chicken kebabs #13](https://github.com/jcallaghan/The-Cookbook/issues/13)|
 ||[Caprese salad - tomato mozzarella basil #37](https://github.com/jcallaghan/The-Cookbook/issues/37)|
@@ -83,4 +82,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic cloves, Garlic powder, Plain flour, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 07-06-2023 15:49:39._
+_This shopping list was generated at 08-06-2023 18:02:47._
