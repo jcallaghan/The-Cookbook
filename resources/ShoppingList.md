@@ -17,7 +17,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Carrot cake #351](https://github.com/jcallaghan/The-Cookbook/issues/351)|
 ||[Pizza dogs #234](https://github.com/jcallaghan/The-Cookbook/issues/234)|
 ||[Mums delicious chocolate brownies #76](https://github.com/jcallaghan/The-Cookbook/issues/76)|
-|Tue 13-Jun 2023|[Tomato bruschetta #198](https://github.com/jcallaghan/The-Cookbook/issues/198)|
+|Wed 14-Jun 2023|[Tomato bruschetta #198](https://github.com/jcallaghan/The-Cookbook/issues/198)|
 
 ## 🛒 Shopping List
 
@@ -83,4 +83,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic cloves, Garlic powder, Plain flour, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 08-06-2023 20:59:15._
+_This shopping list was generated at 08-06-2023 21:03:32._
