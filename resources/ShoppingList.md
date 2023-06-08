@@ -17,6 +17,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Carrot cake #351](https://github.com/jcallaghan/The-Cookbook/issues/351)|
 ||[Pizza dogs #234](https://github.com/jcallaghan/The-Cookbook/issues/234)|
 ||[Mums delicious chocolate brownies #76](https://github.com/jcallaghan/The-Cookbook/issues/76)|
+|Tue 13-Jun 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
 |Wed 14-Jun 2023|[Tomato bruschetta #198](https://github.com/jcallaghan/The-Cookbook/issues/198)|
 
 ## 🛒 Shopping List
@@ -25,6 +26,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----------|-----------|
 |[Balsamic vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Balsamic%20vinegar)|30ml|
 |[Bicarbonate of soda](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bicarbonate%20of%20soda)|½ tsp|
+|[Black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20peppers)|2g/.07oz|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|300g|
 |[Chicken breast](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breast)||
 |[Coarse black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coarse%20black%20peppers)|1 tbsp|
@@ -35,10 +37,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[Crispy bacon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crispy%20bacon)||
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|4 + 2|
 |[Eggs yolk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20yolk)|1|
+|[Eggs yolks organic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20yolks%20organic)|4|
 |[Extra virgin olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Extra%20virgin%20olive%20oil)|60-80ml|
 |[Fresh nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20nutmeg)|½ tsp|
 |[Fried onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fried%20onions)||
 |[Ground cinnamon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cinnamon)|1 tsp|
+|[Guanciale / pancetta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Guanciale%20/%20pancetta)|200g/7oz|
 |[Hot dog or frankfurters](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20dog%20or%20frankfurters)||
 |[Icing sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Icing%20sugar)|350g|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)||
@@ -48,6 +52,8 @@ This shopping list has been automatically generated with the ingredients from th
 |[Medium tomatoes (about 500g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20tomatoes%20(about%20500g))|8|
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|1-2 tbsp|
 |[Mozzarella](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mozzarella)||
+|[Part grana padano cheese grated (parm reggiano as substitute)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Part%20grana%20padano%20cheese%20grated%20(parm%20reggiano%20as%20substitute))|30g/1oz|
+|[Part pecorino romano cheese grated](https://www.sainsburys.co.uk/gol-ui/SearchResults/Part%20pecorino%20romano%20cheese%20grated)|20g/.7oz|
 |[Pecan nuts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pecan%20nuts)|50g|
 |[Peppers (red and green)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Peppers%20(red%20and%20green))|2|
 |[Pinch of sea salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20sea%20salt)||
@@ -60,6 +66,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Serves: 8](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%208)||
 |[Small red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20red%20onions)|½|
 |[Soft light brown sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soft%20light%20brown%20sugar)|175g|
+|[Spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spaghetti)|280g/10oz|
 |[Teriyaki sauce or yakisoba sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teriyaki%20sauce%20or%20yakisoba%20sauce)|100 ml|
 |[Tomato sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20sauce)||
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
@@ -83,4 +90,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic cloves, Garlic powder, Plain flour, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 08-06-2023 21:03:32._
+_This shopping list was generated at 08-06-2023 21:05:13._
