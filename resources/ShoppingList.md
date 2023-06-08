@@ -74,7 +74,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Chicken salad
-1. Lamb?
+1. Lamb rack and sautéed potatoes
 
 ## 🏪 Pantry Ingredients
 
@@ -83,4 +83,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Caster sugar, Garlic cloves, Garlic powder, Plain flour, Sea salt, Self-raising flour, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 08-06-2023 20:58:10._
+_This shopping list was generated at 08-06-2023 20:59:15._
