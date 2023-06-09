@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:43bdcc30-e3da-4374-aaac-1795d9118d8a
-DTSTAMP:20230609T112300
+UID:ff9c4e31-5473-4e94-9572-b7645cf074a9
+DTSTAMP:20230609T112357
 DTSTART:20230609T184500
 DTEND:20230609T203000
 SUMMARY:Chicken salad for dinner
@@ -32,11 +32,11 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:47bb0427-66a0-4c3a-95be-2208d7740dff
-DTSTAMP:20230609T112301
+UID:50d9c884-d1b2-4235-bbc3-9b94e30c1d2c
+DTSTAMP:20230609T112358
 DTSTART:20230610T184500
 DTEND:20230610T203000
-SUMMARY:BBQ Halloumi #231, BBQ Asparagus #511, BBQ chicken kebabs #13, Carrot Cake Cupcakes #536, Caprese salad - tomato mozzarella basil #37, Hot dogs #529 and Pizza dogs #234 for dinner
+SUMMARY:BBQ Halloumi #231, BBQ Asparagus #511, BBQ chicken kebabs #13, Carrot Cake Cupcakes #536, Caprese salad - tomato mozzarella basil #37, Hot dogs #529, Pizza dogs #234 and Fruit platter #535 for dinner
 DESCRIPTION:BBQ Halloumi #231 - https://github.com/jcallaghan/The-Cookbook/issues/231
 BBQ Asparagus #511 - https://github.com/jcallaghan/The-Cookbook/issues/511
 BBQ chicken kebabs #13 - https://github.com/jcallaghan/The-Cookbook/issues/13
@@ -44,13 +44,14 @@ Carrot Cake Cupcakes #536 - https://github.com/jcallaghan/The-Cookbook/issues/53
 Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
 Hot dogs #529 - https://github.com/jcallaghan/The-Cookbook/issues/529
 Pizza dogs #234 - https://github.com/jcallaghan/The-Cookbook/issues/234
+Fruit platter #535 - https://github.com/jcallaghan/The-Cookbook/issues/535
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:41036e9d-49b8-43c8-a81d-1750930bf7fd
-DTSTAMP:20230609T112301
+UID:c6b95e88-6bea-4e41-a772-bd804ddfd6f4
+DTSTAMP:20230609T112359
 DTSTART:20230611T184500
 DTEND:20230611T203000
 SUMMARY:Lamb rack and sautéed potatoes and French trimmed Rack of Lamb #539 for dinner
@@ -61,8 +62,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c0b2b200-77c1-4265-a0b2-3df13ec694fe
-DTSTAMP:20230609T112302
+UID:ba6b70e5-e1ba-4f0f-b5ff-7a47e91b427b
+DTSTAMP:20230609T112359
 DTSTART:20230612T184500
 DTEND:20230612T203000
 SUMMARY:Beef and broccoli stir-fry #6 for dinner
@@ -72,8 +73,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:519af1d7-b764-4505-af60-6201975d889a
-DTSTAMP:20230609T112302
+UID:4a92c8ca-ef67-42a6-8ff3-58e56a6415e2
+DTSTAMP:20230609T112359
 DTSTART:20230613T184500
 DTEND:20230613T203000
 SUMMARY:Spaghetti Carbonara #455 for dinner
@@ -83,8 +84,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:267de5b6-1022-4653-bf75-dd92dafb9499
-DTSTAMP:20230609T112303
+UID:86572c1d-80e4-40c8-aabd-cc0c5f55a78f
+DTSTAMP:20230609T112400
 DTSTART:20230614T184500
 DTEND:20230614T203000
 SUMMARY:Tomato bruschetta #198 for dinner
@@ -94,8 +95,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4ca0bb31-39aa-42cf-8831-e89aa9a1a9bd
-DTSTAMP:20230609T112303
+UID:043d7f10-29da-4744-83c4-1c9497ca8f1a
+DTSTAMP:20230609T112400
 DTSTART:20230615T184500
 DTEND:20230615T203000
 SUMMARY:Tandoori chicken #261 for dinner
