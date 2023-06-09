@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 08-Jun 2023 - Sun 18-Jun 2023
+Fri 09-Jun 2023 - Mon 19-Jun 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 08-Jun 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Sat 10-Jun 2023|[BBQ chicken kebabs #13](https://github.com/jcallaghan/The-Cookbook/issues/13)|
 ||[Caprese salad - tomato mozzarella basil #37](https://github.com/jcallaghan/The-Cookbook/issues/37)|
 ||[BBQ Asparagus #511](https://github.com/jcallaghan/The-Cookbook/issues/511)|
@@ -17,6 +16,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Carrot cake #351](https://github.com/jcallaghan/The-Cookbook/issues/351)|
 ||[Pizza dogs #234](https://github.com/jcallaghan/The-Cookbook/issues/234)|
 ||[Mums delicious chocolate brownies #76](https://github.com/jcallaghan/The-Cookbook/issues/76)|
+|Sun 11-Jun 2023|[French trimmed Rack of Lamb #539](https://github.com/jcallaghan/The-Cookbook/issues/539)|
 |Mon 12-Jun 2023|[Beef and broccoli stir-fry #6](https://github.com/jcallaghan/The-Cookbook/issues/6)|
 |Tue 13-Jun 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
 |Wed 14-Jun 2023|[Tomato bruschetta #198](https://github.com/jcallaghan/The-Cookbook/issues/198)|
@@ -121,4 +121,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking powder, Baking soda, Caster sugar, Chicken stock, Cornflour, Crushed chillies, Garlic cloves, Garlic powder, Light brown sugar, Plain flour, Salt, Sea salt, Self-raising flour, Sesame oil, Sesame seeds, Soy sauce, Turmeric powder and Vegetable oil.
 
 
-_This shopping list was generated at 08-06-2023 21:08:04._
+_This shopping list was generated at 09-06-2023 11:21:16._
