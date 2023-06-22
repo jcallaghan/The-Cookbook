@@ -21,23 +21,47 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:db1d21df-b5c5-4f6e-86a0-c46759c0537d
-DTSTAMP:20230622T114711
+UID:cb9374de-705e-41dd-b8ab-8d035eb0db65
+DTSTAMP:20230622T114836
 DTSTART:20230625T184500
 DTEND:20230625T203000
-SUMMARY:Tandoori chicken #261 for dinner
-DESCRIPTION:Tandoori chicken #261 - https://github.com/jcallaghan/The-Cookbook/issues/261
+SUMMARY:Roast beef salad #517 and Slow-cooker chicken casserole #190 for dinner
+DESCRIPTION:Roast beef salad #517 - https://github.com/jcallaghan/The-Cookbook/issues/517
+Slow-cooker chicken casserole #190 - https://github.com/jcallaghan/The-Cookbook/issues/190
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e2e1d883-8e6c-4d17-9aae-8cad4d7410c1
-DTSTAMP:20230622T114711
+UID:0d4a030a-9cbb-4a64-9fc9-8785abe8c157
+DTSTAMP:20230622T114836
 DTSTART:20230626T184500
 DTEND:20230626T203000
 SUMMARY:Meatballs #59 for dinner
 DESCRIPTION:Meatballs #59 - https://github.com/jcallaghan/The-Cookbook/issues/59
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c62c736d-3296-47c3-a41a-ed7081107944
+DTSTAMP:20230622T114837
+DTSTART:20230628T184500
+DTEND:20230628T203000
+SUMMARY:Tandoori chicken #261 and Slow-cooker chicken casserole #190 for dinner
+DESCRIPTION:Tandoori chicken #261 - https://github.com/jcallaghan/The-Cookbook/issues/261
+Slow-cooker chicken casserole #190 - https://github.com/jcallaghan/The-Cookbook/issues/190
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f16241d1-c894-4e04-b1a0-36c56d1dbcba
+DTSTAMP:20230622T114837
+DTSTART:20230629T184500
+DTEND:20230629T203000
+SUMMARY:Slow-cooker chicken casserole #190 for dinner
+DESCRIPTION:Slow-cooker chicken casserole #190 - https://github.com/jcallaghan/The-Cookbook/issues/190
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
