@@ -21,86 +21,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c0cecab8-0e52-4756-8777-307be8fa2166
-DTSTAMP:20230609T123022
-DTSTART:20230609T184500
-DTEND:20230609T203000
-SUMMARY:Chicken salad #538 for dinner
-DESCRIPTION:Chicken salad #538 - https://github.com/jcallaghan/The-Cookbook/issues/538
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:348fe087-1f27-4606-bc98-731948f0b44e
-DTSTAMP:20230609T123024
-DTSTART:20230610T184500
-DTEND:20230610T203000
-SUMMARY:BBQ Halloumi #231, BBQ Asparagus #511, BBQ chicken kebabs #13, Carrot Cake Cupcakes #536, Caprese salad - tomato mozzarella basil #37, Hot dogs #529, Pizza dogs #234 and Fruit platter #535 for dinner
-DESCRIPTION:BBQ Halloumi #231 - https://github.com/jcallaghan/The-Cookbook/issues/231
-BBQ Asparagus #511 - https://github.com/jcallaghan/The-Cookbook/issues/511
-BBQ chicken kebabs #13 - https://github.com/jcallaghan/The-Cookbook/issues/13
-Carrot Cake Cupcakes #536 - https://github.com/jcallaghan/The-Cookbook/issues/536
-Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
-Hot dogs #529 - https://github.com/jcallaghan/The-Cookbook/issues/529
-Pizza dogs #234 - https://github.com/jcallaghan/The-Cookbook/issues/234
-Fruit platter #535 - https://github.com/jcallaghan/The-Cookbook/issues/535
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:e35916e3-91dd-4ad8-8d2c-a9da0e44fbdc
-DTSTAMP:20230609T123024
-DTSTART:20230611T184500
-DTEND:20230611T203000
-SUMMARY:Lamb rack and sautéed potatoes and French trimmed Rack of Lamb #539 for dinner
-DESCRIPTION:Note: Lamb rack and sautéed potatoes
-French trimmed Rack of Lamb #539 - https://github.com/jcallaghan/The-Cookbook/issues/539
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:41b13198-9c71-426b-9563-0d308178b9cc
-DTSTAMP:20230609T123025
-DTSTART:20230612T184500
-DTEND:20230612T203000
-SUMMARY:Beef and broccoli stir-fry #6 for dinner
-DESCRIPTION:Beef and broccoli stir-fry #6 - https://github.com/jcallaghan/The-Cookbook/issues/6
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:3ad62031-9cd4-415e-99f2-290b62d34caa
-DTSTAMP:20230609T123025
-DTSTART:20230613T184500
-DTEND:20230613T203000
-SUMMARY:Spaghetti Carbonara #455 for dinner
-DESCRIPTION:Spaghetti Carbonara #455 - https://github.com/jcallaghan/The-Cookbook/issues/455
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:6a9fca9c-eb29-4c30-86bf-3b2ef1b3242e
-DTSTAMP:20230609T123025
-DTSTART:20230614T184500
-DTEND:20230614T203000
-SUMMARY:Tomato bruschetta #198 for dinner
-DESCRIPTION:Tomato bruschetta #198 - https://github.com/jcallaghan/The-Cookbook/issues/198
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:8b34b09f-a9dc-4c34-a3bb-f3c44d2e35dd
-DTSTAMP:20230609T123026
-DTSTART:20230615T184500
-DTEND:20230615T203000
+UID:11db70a5-352c-4612-8fd3-c8379b970bb0
+DTSTAMP:20230622T114650
+DTSTART:20230625T184500
+DTEND:20230625T203000
 SUMMARY:Tandoori chicken #261 for dinner
 DESCRIPTION:Tandoori chicken #261 - https://github.com/jcallaghan/The-Cookbook/issues/261
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aad33101-e8d7-49f0-8ad9-25349f7728d3
+DTSTAMP:20230622T114650
+DTSTART:20230626T184500
+DTEND:20230626T203000
+SUMMARY:Meatballs #59 for dinner
+DESCRIPTION:Meatballs #59 - https://github.com/jcallaghan/The-Cookbook/issues/59
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
