@@ -12,4 +12,4 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 10-Jul 2023|[Grilled steak salad #541](https://github.com/jcallaghan/The-Cookbook/issues/541)|
 |Tue 11-Jul 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 |Wed 12-Jul 2023|[Sticky salmon with broccoli #542](https://github.com/jcallaghan/The-Cookbook/issues/542)|
-|Thu 13-Jul 2023|[Chicken salad #538](https://github.com/jcallaghan/The-Cookbook/issues/538)|
+|Thu 13-Jul 2023|[Quinoa chickpea and chicken salad #543](https://github.com/jcallaghan/The-Cookbook/issues/543)|
