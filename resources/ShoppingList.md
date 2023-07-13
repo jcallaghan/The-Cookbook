@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Fri 14-Jul 2023|[Quinoa chickpea and chicken salad #543](https://github.com/jcallaghan/The-Cookbook/issues/543)|
 |Mon 17-Jul 2023|[Crispy Chicken Traybake #463](https://github.com/jcallaghan/The-Cookbook/issues/463)|
+|Wed 19-Jul 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 
 ## 🛒 Shopping List
 
@@ -37,4 +38,4 @@ The following items have not been added to the shopping list as they are likey i
 C, h, i, c, k, e, n,  , s, t, o, c and k.
 
 
-_This shopping list was generated at 13-07-2023 20:54:33._
+_This shopping list was generated at 13-07-2023 20:55:31._
