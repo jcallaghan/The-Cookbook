@@ -9,10 +9,12 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Fri 14-Jul 2023|[Quinoa chickpea and chicken salad #543](https://github.com/jcallaghan/The-Cookbook/issues/543)|
+|Sat 15-Jul 2023|[Crispy Chicken Traybake #463](https://github.com/jcallaghan/The-Cookbook/issues/463)|
 |Sun 16-Jul 2023|[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
 ||[Yorkshire puddings #294](https://github.com/jcallaghan/The-Cookbook/issues/294)|
-|Mon 17-Jul 2023|[Crispy Chicken Traybake #463](https://github.com/jcallaghan/The-Cookbook/issues/463)|
+|Tue 18-Jul 2023|[Cod Traybake #544](https://github.com/jcallaghan/The-Cookbook/issues/544)|
 |Wed 19-Jul 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
+|Thu 20-Jul 2023|[Goulash Soup #545](https://github.com/jcallaghan/The-Cookbook/issues/545)|
 
 ## 🛒 Shopping List
 
@@ -45,4 +47,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Plain flour and Vegetable oil.
 
 
-_This shopping list was generated at 13-07-2023 21:02:46._
+_This shopping list was generated at 13-07-2023 21:19:31._
