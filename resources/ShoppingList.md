@@ -8,7 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Fri 14-Jul 2023|[Sticky salmon with broccoli #542](https://github.com/jcallaghan/The-Cookbook/issues/542)|
+|Fri 14-Jul 2023|[Beetroot hummus #548](https://github.com/jcallaghan/The-Cookbook/issues/548)|
+||[Sticky salmon with broccoli #542](https://github.com/jcallaghan/The-Cookbook/issues/542)|
 |Sat 15-Jul 2023|[Crispy Chicken Traybake #463](https://github.com/jcallaghan/The-Cookbook/issues/463)|
 |Sun 16-Jul 2023|[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
 ||[Yorkshire puddings #294](https://github.com/jcallaghan/The-Cookbook/issues/294)|
@@ -50,4 +51,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Plain flour and Vegetable oil.
 
 
-_This shopping list was generated at 13-07-2023 21:38:06._
+_This shopping list was generated at 13-07-2023 21:41:55._
