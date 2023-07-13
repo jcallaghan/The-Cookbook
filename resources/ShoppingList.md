@@ -8,4 +8,4 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 13-Jul 2023|[Quinoa chickpea and chicken salad #543](https://github.com/jcallaghan/The-Cookbook/issues/543)|
+|Fri 14-Jul 2023|[Quinoa chickpea and chicken salad #543](https://github.com/jcallaghan/The-Cookbook/issues/543)|
