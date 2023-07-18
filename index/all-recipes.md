@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 62 all recipes recipes in the cookbook.
+There are 63 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -77,9 +77,10 @@ There are 62 all recipes recipes in the cookbook.
 ||[297](https://github.com/jcallaghan/The-Cookbook/issues/297)|[Tomato pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/tomato-pasta.md)| |Style / Pasta 🍝<br>Style / Vegetarian<br>ℹ️ Quick & Easy<br>Meal / Main<br>⚙ Needs Pictures ✅<br>⚙ Published|
 ||[394](https://github.com/jcallaghan/The-Cookbook/issues/394)|[Tomato, garlic and prawn pasta](https://github.com/jcallaghan/The-Cookbook/issues/394)| |Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Fish 🐟 / Prawn<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>Meal / Main<br>⚙ Published<br>Travel Memories|
 | W||||
+||[546](https://github.com/jcallaghan/The-Cookbook/issues/546)|[Warm salmon, beetroot & freekeh salad](https://github.com/jcallaghan/The-Cookbook/issues/546)| |Ingredient / Fish 🐟 / Salmon<br>Style / Health Food<br>Style / Salad<br>⚙ Published|
 ||[310](https://github.com/jcallaghan/The-Cookbook/issues/310)|[Whiskey Sour](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/whiskey-sour.md)| |Drink / Cocktail 🍸<br>Favourite 🥰 / James<br>Ingredient / Egg<br>Drink / Whiskey<br>Drink / Cocktail Cards Index<br>⚙ Published|
 ||[447](https://github.com/jcallaghan/The-Cookbook/issues/447)|[Whisky Haggis sauce](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/whisky-haggis-sauce.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/whisky-haggis-sauce-1.jpg' alt='Whisky Haggis sauce' width='200'/>|Style / Sauce<br>Drink / Whiskey<br>⚙ Published<br>Style / Scottish|
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 17-07-2023 00:26:26 using a custom Python script and GitHub Action._
+_This index was automatically generated at 18-07-2023 00:45:51 using a custom Python script and GitHub Action._
