@@ -70,6 +70,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Salmon and beetroot salad
 1. Scrabbled eggs
 1. Egg mayo
 
@@ -80,4 +81,4 @@ The following items have not been added to the shopping list as they are likey i
 Olive oil, Sesame seeds and Water.
 
 
-_This shopping list was generated at 20-07-2023 21:06:01._
+_This shopping list was generated at 20-07-2023 21:09:35._
