@@ -21,77 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5d92070e-3fc9-4fb5-b06e-80efc52c8cb9
-DTSTAMP:20230714T172525
-DTSTART:20230714T184500
-DTEND:20230714T203000
-SUMMARY:Sticky salmon with broccoli #542 for dinner
-DESCRIPTION:Sticky salmon with broccoli #542 - https://github.com/jcallaghan/The-Cookbook/issues/542
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:d453bf2f-c749-492d-a728-92a42e05fe7e
-DTSTAMP:20230714T172525
-DTSTART:20230715T184500
-DTEND:20230715T203000
-SUMMARY:Crispy Chicken Traybake #463 for dinner
-DESCRIPTION:Crispy Chicken Traybake #463 - https://github.com/jcallaghan/The-Cookbook/issues/463
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:35af3a9b-6e3a-494c-a3aa-289c66616e0a
-DTSTAMP:20230714T172526
-DTSTART:20230716T184500
-DTEND:20230716T203000
-SUMMARY:Beef roast #282 and Yorkshire puddings #294 for dinner
-DESCRIPTION:Beef roast #282 - https://github.com/jcallaghan/The-Cookbook/issues/282
-Yorkshire puddings #294 - https://github.com/jcallaghan/The-Cookbook/issues/294
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:5a36fe05-98f0-4e46-997d-c164c6affad3
-DTSTAMP:20230714T172526
-DTSTART:20230717T184500
-DTEND:20230717T203000
-SUMMARY:Ploughman’s #547 and Warm salmon, beetroot & freekeh salad #546 for dinner
-DESCRIPTION:Ploughman’s #547 - https://github.com/jcallaghan/The-Cookbook/issues/547
-Warm salmon, beetroot & freekeh salad #546 - https://github.com/jcallaghan/The-Cookbook/issues/546
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:b74d48cf-15b1-4362-a459-57af57ecc231
-DTSTAMP:20230714T172527
-DTSTART:20230718T184500
-DTEND:20230718T203000
-SUMMARY:Beetroot hummus #548 and Cod Traybake #544 for dinner
-DESCRIPTION:Beetroot hummus #548 - https://github.com/jcallaghan/The-Cookbook/issues/548
-Cod Traybake #544 - https://github.com/jcallaghan/The-Cookbook/issues/544
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:5cba657b-85ed-4c5c-bb72-620ef6a5e665
-DTSTAMP:20230714T172527
-DTSTART:20230719T184500
-DTEND:20230719T203000
-SUMMARY:Pileći pilav (chicken rice) #392 for dinner
-DESCRIPTION:Pileći pilav (chicken rice) #392 - https://github.com/jcallaghan/The-Cookbook/issues/392
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:8b5ad503-0af4-4ffc-b407-b148d44c97b6
-DTSTAMP:20230714T172528
+UID:9fec96d4-6351-449f-b910-c113ff93c582
+DTSTAMP:20230720T205420
 DTSTART:20230720T184500
 DTEND:20230720T203000
 SUMMARY:Goulash Soup #545 for dinner
@@ -101,12 +32,23 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:48b43506-78bc-4c0b-b75d-3ef1d7053d64
-DTSTAMP:20230714T172528
+UID:fe2d2ebb-6ecf-4dbf-b359-c52b89bd5c7a
+DTSTAMP:20230720T205420
 DTSTART:20230721T184500
 DTEND:20230721T203000
 SUMMARY:Quinoa chickpea and chicken salad #543 for dinner
 DESCRIPTION:Quinoa chickpea and chicken salad #543 - https://github.com/jcallaghan/The-Cookbook/issues/543
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8ed4ece2-26ca-4fe6-a0cf-a2f9623d6735
+DTSTAMP:20230720T205421
+DTSTART:20230725T184500
+DTEND:20230725T203000
+SUMMARY:Shepherd's pie or Cottage pie #215 for dinner
+DESCRIPTION:Shepherd's pie or Cottage pie #215 - https://github.com/jcallaghan/The-Cookbook/issues/215
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
