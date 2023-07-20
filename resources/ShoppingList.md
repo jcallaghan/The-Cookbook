@@ -9,15 +9,15 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 20-Jul 2023|[Goulash Soup #545](https://github.com/jcallaghan/The-Cookbook/issues/545)|
-|Sun 23-Jul 2023|[Grilled steak ratatouille and saffron rice #58](https://github.com/jcallaghan/The-Cookbook/issues/58)|
+|Sun 23-Jul 2023|[Granola and fruit yoghurt breakfast #65](https://github.com/jcallaghan/The-Cookbook/issues/65)|
 ||[Scotch egg #212](https://github.com/jcallaghan/The-Cookbook/issues/212)|
+||[Grilled steak ratatouille and saffron rice #58](https://github.com/jcallaghan/The-Cookbook/issues/58)|
 |Mon 24-Jul 2023|[Ploughman’s #547](https://github.com/jcallaghan/The-Cookbook/issues/547)|
 ||[Shredded Thai Chicken Salad #550](https://github.com/jcallaghan/The-Cookbook/issues/550)|
 |Tue 25-Jul 2023|[Bey’s Soup (Begova Čorba) #391](https://github.com/jcallaghan/The-Cookbook/issues/391)|
 ||[Cream of Chicken Soup #389](https://github.com/jcallaghan/The-Cookbook/issues/389)|
 |Wed 26-Jul 2023|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
-|Thu 27-Jul 2023|[Granola and fruit yoghurt breakfast #65](https://github.com/jcallaghan/The-Cookbook/issues/65)|
-||[Chicken alfredo #551](https://github.com/jcallaghan/The-Cookbook/issues/551)|
+|Thu 27-Jul 2023|[Chicken alfredo #551](https://github.com/jcallaghan/The-Cookbook/issues/551)|
 
 ## 🛒 Shopping List
 
@@ -67,4 +67,4 @@ The following items have not been added to the shopping list as they are likey i
 O, l, i, v, e,  , o, i and l.
 
 
-_This shopping list was generated at 20-07-2023 21:26:40._
+_This shopping list was generated at 20-07-2023 21:29:21._
