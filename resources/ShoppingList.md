@@ -50,6 +50,7 @@ This shopping list has been automatically generated with the ingredients from th
 1. Salmon and beetroot salad
 1. Scrabbled eggs
 1. Egg mayo
+1. Tuna
 
 ## 🏪 Pantry Ingredients
 
@@ -58,4 +59,4 @@ The following items have not been added to the shopping list as they are likey i
 O, l, i, v, e,  , o, i and l.
 
 
-_This shopping list was generated at 20-07-2023 21:19:14._
+_This shopping list was generated at 20-07-2023 21:19:44._
