@@ -13,7 +13,8 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Asian glazed salmon #160](https://github.com/jcallaghan/The-Cookbook/issues/160)|
 |Sun 23-Jul 2023|[Grilled steak ratatouille and saffron rice #58](https://github.com/jcallaghan/The-Cookbook/issues/58)|
 ||[Scotch egg #212](https://github.com/jcallaghan/The-Cookbook/issues/212)|
-|Mon 24-Jul 2023|[Shredded Thai Chicken Salad #550](https://github.com/jcallaghan/The-Cookbook/issues/550)|
+|Mon 24-Jul 2023|[Ploughman’s #547](https://github.com/jcallaghan/The-Cookbook/issues/547)|
+||[Shredded Thai Chicken Salad #550](https://github.com/jcallaghan/The-Cookbook/issues/550)|
 |Tue 25-Jul 2023|[Bey’s Soup (Begova Čorba) #391](https://github.com/jcallaghan/The-Cookbook/issues/391)|
 ||[Cream of Chicken Soup #389](https://github.com/jcallaghan/The-Cookbook/issues/389)|
 |Wed 26-Jul 2023|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
@@ -78,4 +79,4 @@ The following items have not been added to the shopping list as they are likey i
 Olive oil, Sesame seeds and Water.
 
 
-_This shopping list was generated at 20-07-2023 21:04:41._
+_This shopping list was generated at 20-07-2023 21:05:25._
