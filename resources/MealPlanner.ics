@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ce079054-9da6-4722-9cb7-76914e197ea5
-DTSTAMP:20230720T210321
+UID:d56b3f35-f0d4-4c52-b709-1da7eec92b2c
+DTSTAMP:20230720T210444
 DTSTART:20230720T184500
 DTEND:20230720T203000
 SUMMARY:Goulash Soup #545 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:bb880af4-af42-4f39-b87d-d45fc3fc3aeb
-DTSTAMP:20230720T210322
+UID:6bca9a17-0869-4cf0-b914-1b928d87947f
+DTSTAMP:20230720T210445
 DTSTART:20230721T184500
 DTEND:20230721T203000
 SUMMARY:Warm salmon, beetroot & freekeh salad #546 and Asian glazed salmon #160 for dinner
@@ -44,22 +44,31 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e7811403-a40b-41a6-8ab1-c663fb2a3744
-DTSTAMP:20230720T210323
-DTSTART:20230723T184500
-DTEND:20230723T203000
-SUMMARY:Grilled steak ratatouille and saffron rice #58, Scotch egg #212, Bey’s Soup (Begova Čorba) #391 and Cream of Chicken Soup #389 for dinner
-DESCRIPTION:Grilled steak ratatouille and saffron rice #58 - https://github.com/jcallaghan/The-Cookbook/issues/58
-Scotch egg #212 - https://github.com/jcallaghan/The-Cookbook/issues/212
-Bey’s Soup (Begova Čorba) #391 - https://github.com/jcallaghan/The-Cookbook/issues/391
-Cream of Chicken Soup #389 - https://github.com/jcallaghan/The-Cookbook/issues/389
+UID:e22dd559-db91-49ea-a22b-20694fd8f1dd
+DTSTAMP:20230720T210445
+DTSTART:20230722T184500
+DTEND:20230722T203000
+SUMMARY:Scrabbled eggs for dinner
+DESCRIPTION:Note: Scrabbled eggs
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:dbd9f94b-7a69-4687-9cdd-ee3ff261cf13
-DTSTAMP:20230720T210323
+UID:29ef2f4f-2849-4930-a8a7-c92449d353e4
+DTSTAMP:20230720T210446
+DTSTART:20230723T184500
+DTEND:20230723T203000
+SUMMARY:Grilled steak ratatouille and saffron rice #58 and Scotch egg #212 for dinner
+DESCRIPTION:Grilled steak ratatouille and saffron rice #58 - https://github.com/jcallaghan/The-Cookbook/issues/58
+Scotch egg #212 - https://github.com/jcallaghan/The-Cookbook/issues/212
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9fd34960-f5c6-43ce-8217-9fc6af9491b4
+DTSTAMP:20230720T210446
 DTSTART:20230724T184500
 DTEND:20230724T203000
 SUMMARY:Shredded Thai Chicken Salad #550 for dinner
@@ -69,8 +78,20 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ec043027-fd3d-497c-83fd-ac68f5ba0b6c
-DTSTAMP:20230720T210324
+UID:00ae457c-a3e4-4699-9c70-35b6ad30edd0
+DTSTAMP:20230720T210446
+DTSTART:20230725T184500
+DTEND:20230725T203000
+SUMMARY:Bey’s Soup (Begova Čorba) #391 and Cream of Chicken Soup #389 for dinner
+DESCRIPTION:Bey’s Soup (Begova Čorba) #391 - https://github.com/jcallaghan/The-Cookbook/issues/391
+Cream of Chicken Soup #389 - https://github.com/jcallaghan/The-Cookbook/issues/389
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7024e530-32cd-473b-9f28-418501fa98ef
+DTSTAMP:20230720T210447
 DTSTART:20230726T184500
 DTEND:20230726T203000
 SUMMARY:Shepherd's pie or Cottage pie #215 for dinner
