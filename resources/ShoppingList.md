@@ -11,6 +11,9 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 20-Jul 2023|[Goulash Soup #545](https://github.com/jcallaghan/The-Cookbook/issues/545)|
 |Fri 21-Jul 2023|[Quinoa chickpea and chicken salad #543](https://github.com/jcallaghan/The-Cookbook/issues/543)|
 |Sun 23-Jul 2023|[Grilled steak ratatouille and saffron rice #58](https://github.com/jcallaghan/The-Cookbook/issues/58)|
+||[Scotch egg #212](https://github.com/jcallaghan/The-Cookbook/issues/212)|
+||[Bey’s Soup (Begova Čorba) #391](https://github.com/jcallaghan/The-Cookbook/issues/391)|
+||[Cream of Chicken Soup #389](https://github.com/jcallaghan/The-Cookbook/issues/389)|
 |Tue 25-Jul 2023|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
 
 ## 🛒 Shopping List
@@ -47,4 +50,4 @@ The following items have not been added to the shopping list as they are likey i
 O, l, i, v, e,  , o, i and l.
 
 
-_This shopping list was generated at 20-07-2023 20:55:35._
+_This shopping list was generated at 20-07-2023 20:56:33._
