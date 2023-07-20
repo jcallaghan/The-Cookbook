@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:32e73f71-284e-47c2-96ee-ff3b18635fc9
-DTSTAMP:20230720T205535
+UID:208f5a23-fcfa-4f60-ba68-61371eefa60a
+DTSTAMP:20230720T205634
 DTSTART:20230720T184500
 DTEND:20230720T203000
 SUMMARY:Goulash Soup #545 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2f03f696-fff3-4b56-97c1-5bd4f3f1fe61
-DTSTAMP:20230720T205536
+UID:0dd34995-47b5-4f18-996d-37ee7907bcad
+DTSTAMP:20230720T205635
 DTSTART:20230721T184500
 DTEND:20230721T203000
 SUMMARY:Quinoa chickpea and chicken salad #543 for dinner
@@ -43,19 +43,22 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:29cadf9d-05fc-4a57-98ee-f51fe4b12d76
-DTSTAMP:20230720T205536
+UID:319819ad-4037-4cda-bcbd-3c5306b08e3b
+DTSTAMP:20230720T205636
 DTSTART:20230723T184500
 DTEND:20230723T203000
-SUMMARY:Grilled steak ratatouille and saffron rice #58 for dinner
+SUMMARY:Grilled steak ratatouille and saffron rice #58, Scotch egg #212, Bey’s Soup (Begova Čorba) #391 and Cream of Chicken Soup #389 for dinner
 DESCRIPTION:Grilled steak ratatouille and saffron rice #58 - https://github.com/jcallaghan/The-Cookbook/issues/58
+Scotch egg #212 - https://github.com/jcallaghan/The-Cookbook/issues/212
+Bey’s Soup (Begova Čorba) #391 - https://github.com/jcallaghan/The-Cookbook/issues/391
+Cream of Chicken Soup #389 - https://github.com/jcallaghan/The-Cookbook/issues/389
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:09c61c67-a692-498a-8594-11f36dba2b1d
-DTSTAMP:20230720T205537
+UID:9eb654d9-39b0-4b1b-9fce-3893b7d0f927
+DTSTAMP:20230720T205636
 DTSTART:20230725T184500
 DTEND:20230725T203000
 SUMMARY:Shepherd's pie or Cottage pie #215 for dinner
