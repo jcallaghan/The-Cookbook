@@ -16,6 +16,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 25-Jul 2023|[Bey’s Soup (Begova Čorba) #391](https://github.com/jcallaghan/The-Cookbook/issues/391)|
 ||[Cream of Chicken Soup #389](https://github.com/jcallaghan/The-Cookbook/issues/389)|
 |Wed 26-Jul 2023|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
+|Thu 27-Jul 2023|[Chicken alfredo #551](https://github.com/jcallaghan/The-Cookbook/issues/551)|
 
 ## 🛒 Shopping List
 
@@ -57,4 +58,4 @@ The following items have not been added to the shopping list as they are likey i
 O, l, i, v, e,  , o, i and l.
 
 
-_This shopping list was generated at 20-07-2023 21:11:19._
+_This shopping list was generated at 20-07-2023 21:19:14._
