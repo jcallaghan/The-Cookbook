@@ -16,7 +16,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 25-Jul 2023|[Bey’s Soup (Begova Čorba) #391](https://github.com/jcallaghan/The-Cookbook/issues/391)|
 ||[Cream of Chicken Soup #389](https://github.com/jcallaghan/The-Cookbook/issues/389)|
 |Wed 26-Jul 2023|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
-|Thu 27-Jul 2023|[Chicken alfredo #551](https://github.com/jcallaghan/The-Cookbook/issues/551)|
+|Thu 27-Jul 2023|[Granola and fruit yoghurt breakfast #65](https://github.com/jcallaghan/The-Cookbook/issues/65)|
+||[Chicken alfredo #551](https://github.com/jcallaghan/The-Cookbook/issues/551)|
 
 ## 🛒 Shopping List
 
@@ -27,23 +28,30 @@ This shopping list has been automatically generated with the ingredients from th
 |[Anchovies fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Anchovies%20fillets)|2|
 |[Aubergine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Aubergine)|1|
 |[Balsamic vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Balsamic%20vinegar)|1 tbsp|
+|[Banana](https://www.sainsburys.co.uk/gol-ui/SearchResults/Banana)||
+|[Blueberries](https://www.sainsburys.co.uk/gol-ui/SearchResults/Blueberries)||
 |[Cloves of garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20of%20garlic)|2-4|
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Courgette](https://www.sainsburys.co.uk/gol-ui/SearchResults/Courgette)|1|
 |[Dijon mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dijon%20mustard)|1 tsp|
 |[Fresh basil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20basil)||
+|[Granola](https://www.sainsburys.co.uk/gol-ui/SearchResults/Granola)||
 |[Harissa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Harissa)|1 heaped tsp|
 |[Natural yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Natural%20yoghurt)|2 tbsp|
 |[Of basmati rice (carefully not to overcook it)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20basmati%20rice%20(carefully%20not%20to%20overcook%20it))|300g|
+|[Optional maple syrup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Optional%20maple%20syrup)||
 |[Parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parsley)||
 |[Passata](https://www.sainsburys.co.uk/gol-ui/SearchResults/Passata)|700g|
 |[Peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Peppers)|2|
 |[Pinch saffron](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20saffron)|1|
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
+|[Raspberries](https://www.sainsburys.co.uk/gol-ui/SearchResults/Raspberries)||
 |[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
+|[Strawberries](https://www.sainsburys.co.uk/gol-ui/SearchResults/Strawberries)||
 |[Sweet paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sweet%20paprika)|1 tsp|
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
+|[Yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Yoghurt)||
 
 ## 🗒️ Notes
 
@@ -59,4 +67,4 @@ The following items have not been added to the shopping list as they are likey i
 O, l, i, v, e,  , o, i and l.
 
 
-_This shopping list was generated at 20-07-2023 21:19:44._
+_This shopping list was generated at 20-07-2023 21:26:40._
