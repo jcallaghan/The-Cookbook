@@ -13,9 +13,9 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Asian glazed salmon #160](https://github.com/jcallaghan/The-Cookbook/issues/160)|
 |Sun 23-Jul 2023|[Grilled steak ratatouille and saffron rice #58](https://github.com/jcallaghan/The-Cookbook/issues/58)|
 ||[Scotch egg #212](https://github.com/jcallaghan/The-Cookbook/issues/212)|
-||[Bey’s Soup (Begova Čorba) #391](https://github.com/jcallaghan/The-Cookbook/issues/391)|
-||[Cream of Chicken Soup #389](https://github.com/jcallaghan/The-Cookbook/issues/389)|
 |Mon 24-Jul 2023|[Shredded Thai Chicken Salad #550](https://github.com/jcallaghan/The-Cookbook/issues/550)|
+|Tue 25-Jul 2023|[Bey’s Soup (Begova Čorba) #391](https://github.com/jcallaghan/The-Cookbook/issues/391)|
+||[Cream of Chicken Soup #389](https://github.com/jcallaghan/The-Cookbook/issues/389)|
 |Wed 26-Jul 2023|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
 
 ## 🛒 Shopping List
@@ -67,6 +67,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Total time: 40 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2040%20minutes)||
 |[Zaytoun smoky freekeh or plain freekeh](https://www.sainsburys.co.uk/gol-ui/SearchResults/Zaytoun%20smoky%20freekeh%20or%20plain%20freekeh)|40g|
 
+## 🗒️ Notes
+
+1. Scrabbled eggs
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -74,4 +78,4 @@ The following items have not been added to the shopping list as they are likey i
 Olive oil, Sesame seeds and Water.
 
 
-_This shopping list was generated at 20-07-2023 21:03:25._
+_This shopping list was generated at 20-07-2023 21:04:41._
