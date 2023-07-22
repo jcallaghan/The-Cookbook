@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 63 all recipes recipes in the cookbook.
+There are 64 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -28,6 +28,7 @@ There are 63 all recipes recipes in the cookbook.
 ||[220](https://github.com/jcallaghan/The-Cookbook/issues/220)|[Chicken broth soup](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-broth-soup.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-broth-soup-1.jpg' alt='Chicken broth soup' width='200'/>|Ingredient / Meat / Chicken 🐔<br>Favourite 🥰 / James<br>Style / Soup<br>Equipment / Pressure Cooker<br>Style / Broth<br>⚙ Published<br>Ingredient / Dumpling|
 ||[187](https://github.com/jcallaghan/The-Cookbook/issues/187)|[Chicken pasta bake](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-pasta-bake.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-pasta-bake-1.jpg' alt='Chicken pasta bake' width='200'/>|Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Meal / Main<br>⚙ Needs Pictures ✅<br>Style / Pasta 🍝 / Bakes<br>⚙ Published|
 ||[286](https://github.com/jcallaghan/The-Cookbook/issues/286)|[Chicken piccata](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/chicken-piccata.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-piccata-1.jpg' alt='Chicken piccata' width='200'/>|Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Favourite 🥰 / James<br>Meal / Main<br>Favourite 🥰 / Florence<br>⚙ Needs Pictures Updating ✅<br>⚙ Published|
+||[552](https://github.com/jcallaghan/The-Cookbook/issues/552)|[Cinnamon Swirls](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/cinnamon-swirls.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/cinnamon-swirls-1.jpg' alt='Cinnamon Swirls' width='200'/>|Style / Baking<br>Baking / Sweets & Treats<br>Favourite 🥰 / Jas<br>ℹ️ Quick & Easy<br>Baking / Cake<br>Favourite 🥰 / James<br>Favourite 🥰 / Florence<br>⚙ Published|
 ||[184](https://github.com/jcallaghan/The-Cookbook/issues/184)|[Classic duck breast](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/classic-duck-breast.md)| |Ingredient / Meat / Duck<br>Style / Dinner Party 🥳<br>Favourite 🥰 / James<br>Meal / Main<br>⚙ Published|
 ||[281](https://github.com/jcallaghan/The-Cookbook/issues/281)|[Clover club](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/clover-club.md)| |Drink / Cocktail 🍸<br>Favourite 🥰 / Jas<br>Ingredient / Fruit 🍓 🍌<br>Favourite 🥰 / James<br>Ingredient / Egg<br>Drink / Gin<br>⚙ Published<br>Ingredient / Fruit / Raspberry<br>Drink / Vermouth|
 ||[186](https://github.com/jcallaghan/The-Cookbook/issues/186)|[Creamy garlic chicken](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/creamy-garlic-chicken.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/creamy-garlic-chicken-1.jpg' alt='Creamy garlic chicken' width='200'/>|Favourite 🥰 / Jas<br>Ingredient / Meat / Chicken 🐔<br>Favourite 🥰 / James<br>Meal / Main<br>Favourite 🥰 / Florence<br>⚙ Needs Pictures ✅<br>Ingredient / Vegetable / Garlic 🧄<br>⚙ Published|
@@ -83,4 +84,4 @@ There are 63 all recipes recipes in the cookbook.
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 21-07-2023 00:22:16 using a custom Python script and GitHub Action._
+_This index was automatically generated at 22-07-2023 00:22:39 using a custom Python script and GitHub Action._
