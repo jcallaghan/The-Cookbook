@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5ff61700-d629-4b70-b5d1-7050c30f7506
-DTSTAMP:20230725T102835
+UID:cb494716-c079-4a9c-879f-aa060754929b
+DTSTAMP:20230725T142308
 DTSTART:20230725T184500
 DTEND:20230725T203000
 SUMMARY:Shepherd's pie or Cottage pie #215 for dinner
@@ -32,27 +32,27 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8af55f7f-380c-4cc3-8cc9-c7bdeefd21c2
-DTSTAMP:20230725T102835
+UID:11e4551d-a832-424e-ae0e-64a0775a55e7
+DTSTAMP:20230725T142309
 DTSTART:20230726T184500
 DTEND:20230726T203000
-SUMMARY:Tuna, Bey’s Soup (Begova Čorba) #391, Cream of Chicken Soup #389, Ploughman’s #547 and Scotch egg #212 for dinner
-DESCRIPTION:Note: Tuna
-Bey’s Soup (Begova Čorba) #391 - https://github.com/jcallaghan/The-Cookbook/issues/391
+SUMMARY:Bey’s Soup (Begova Čorba) #391, Cream of Chicken Soup #389 and Scotch egg #212 for dinner
+DESCRIPTION:Bey’s Soup (Begova Čorba) #391 - https://github.com/jcallaghan/The-Cookbook/issues/391
 Cream of Chicken Soup #389 - https://github.com/jcallaghan/The-Cookbook/issues/389
-Ploughman’s #547 - https://github.com/jcallaghan/The-Cookbook/issues/547
 Scotch egg #212 - https://github.com/jcallaghan/The-Cookbook/issues/212
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8d75ab4c-8a43-4e66-9540-8f088cef143d
-DTSTAMP:20230725T102836
+UID:d80e10aa-d488-420e-be8e-15d816939237
+DTSTAMP:20230725T142310
 DTSTART:20230727T184500
 DTEND:20230727T203000
-SUMMARY:Egg mayo and Shredded Thai Chicken Salad #550 for dinner
-DESCRIPTION:Note: Egg mayo
+SUMMARY:Tuna, Egg mayo, Ploughman’s #547 and Shredded Thai Chicken Salad #550 for dinner
+DESCRIPTION:Note: Tuna
+Note: Egg mayo
+Ploughman’s #547 - https://github.com/jcallaghan/The-Cookbook/issues/547
 Shredded Thai Chicken Salad #550 - https://github.com/jcallaghan/The-Cookbook/issues/550
 SEQUENCE:0
 LOCATION:
