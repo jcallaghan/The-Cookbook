@@ -21,45 +21,34 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:258a0085-321d-413d-9042-fd3b754400da
-DTSTAMP:20230724T193204
-DTSTART:20230724T184500
-DTEND:20230724T203000
-SUMMARY:Chicken alfredo #551 for dinner
-DESCRIPTION:Chicken alfredo #551 - https://github.com/jcallaghan/The-Cookbook/issues/551
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:3b779d3e-933d-49cb-a621-90d8c5f07bf9
-DTSTAMP:20230724T193205
+UID:5ff61700-d629-4b70-b5d1-7050c30f7506
+DTSTAMP:20230725T102835
 DTSTART:20230725T184500
 DTEND:20230725T203000
-SUMMARY:Scotch egg #212, Ploughman’s #547, Bey’s Soup (Begova Čorba) #391 and Cream of Chicken Soup #389 for dinner
-DESCRIPTION:Scotch egg #212 - https://github.com/jcallaghan/The-Cookbook/issues/212
-Ploughman’s #547 - https://github.com/jcallaghan/The-Cookbook/issues/547
-Bey’s Soup (Begova Čorba) #391 - https://github.com/jcallaghan/The-Cookbook/issues/391
-Cream of Chicken Soup #389 - https://github.com/jcallaghan/The-Cookbook/issues/389
+SUMMARY:Shepherd's pie or Cottage pie #215 for dinner
+DESCRIPTION:Shepherd's pie or Cottage pie #215 - https://github.com/jcallaghan/The-Cookbook/issues/215
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:21861d85-e2cf-40c7-bf1d-ad2b54dfa4c6
-DTSTAMP:20230724T193205
+UID:8af55f7f-380c-4cc3-8cc9-c7bdeefd21c2
+DTSTAMP:20230725T102835
 DTSTART:20230726T184500
 DTEND:20230726T203000
-SUMMARY:Tuna and Shepherd's pie or Cottage pie #215 for dinner
+SUMMARY:Tuna, Bey’s Soup (Begova Čorba) #391, Cream of Chicken Soup #389, Ploughman’s #547 and Scotch egg #212 for dinner
 DESCRIPTION:Note: Tuna
-Shepherd's pie or Cottage pie #215 - https://github.com/jcallaghan/The-Cookbook/issues/215
+Bey’s Soup (Begova Čorba) #391 - https://github.com/jcallaghan/The-Cookbook/issues/391
+Cream of Chicken Soup #389 - https://github.com/jcallaghan/The-Cookbook/issues/389
+Ploughman’s #547 - https://github.com/jcallaghan/The-Cookbook/issues/547
+Scotch egg #212 - https://github.com/jcallaghan/The-Cookbook/issues/212
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6a524ff6-7567-4352-84f9-396162ecd834
-DTSTAMP:20230724T193206
+UID:8d75ab4c-8a43-4e66-9540-8f088cef143d
+DTSTAMP:20230725T102836
 DTSTART:20230727T184500
 DTEND:20230727T203000
 SUMMARY:Egg mayo and Shredded Thai Chicken Salad #550 for dinner
