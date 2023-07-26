@@ -21,20 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1cc501fc-5cb6-4cf9-be01-69ba24f76ac7
-DTSTAMP:20230726T130026
-DTSTART:20230726T184500
-DTEND:20230726T203000
-SUMMARY:Bey’s Soup (Begova Čorba) #391 and Cream of Chicken Soup #389 for dinner
-DESCRIPTION:Bey’s Soup (Begova Čorba) #391 - https://github.com/jcallaghan/The-Cookbook/issues/391
-Cream of Chicken Soup #389 - https://github.com/jcallaghan/The-Cookbook/issues/389
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:d5763344-cd75-4c58-8a07-6c2b3d8f2bde
-DTSTAMP:20230726T130028
+UID:9cf96291-3f63-4e97-be74-708ac2bd5ff7
+DTSTAMP:20230726T161734
 DTSTART:20230727T184500
 DTEND:20230727T203000
 SUMMARY:Granola and fruit yoghurt breakfast #65, Tuna, Egg mayo, Ploughman’s #547, Shredded Thai Chicken Salad #550 and Scotch egg #212 for dinner
