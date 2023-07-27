@@ -51,6 +51,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Yoghurt)||
 |[Zaytoun smoky freekeh or plain freekeh](https://www.sainsburys.co.uk/gol-ui/SearchResults/Zaytoun%20smoky%20freekeh%20or%20plain%20freekeh)|40g|
 
+## 🗒️ Notes
+
+1. Schnitzel Salad
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -58,4 +62,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Seasoning, Tomato purée and Water.
 
 
-_This shopping list was generated at 27-07-2023 19:10:23._
+_This shopping list was generated at 27-07-2023 19:20:05._
