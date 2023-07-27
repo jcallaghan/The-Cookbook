@@ -11,7 +11,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 27-Jul 2023|[Shredded Thai Chicken Salad #550](https://github.com/jcallaghan/The-Cookbook/issues/550)|
 |Sat 29-Jul 2023|[Scotch egg #212](https://github.com/jcallaghan/The-Cookbook/issues/212)|
 |Sun 30-Jul 2023|[Granola and fruit yoghurt breakfast #65](https://github.com/jcallaghan/The-Cookbook/issues/65)|
-|Mon 31-Jul 2023|[Halloumi Salad #553](https://github.com/jcallaghan/The-Cookbook/issues/553)|
+|Mon 31-Jul 2023|[Ploughman’s #547](https://github.com/jcallaghan/The-Cookbook/issues/547)|
+||[Halloumi Salad #553](https://github.com/jcallaghan/The-Cookbook/issues/553)|
 |Wed 02-Aug 2023|[Warm salmon, beetroot & freekeh salad #546](https://github.com/jcallaghan/The-Cookbook/issues/546)|
 
 ## 🛒 Shopping List
@@ -45,4 +46,4 @@ The following items have not been added to the shopping list as they are likey i
 W, a, t, e and r.
 
 
-_This shopping list was generated at 27-07-2023 19:07:07._
+_This shopping list was generated at 27-07-2023 19:08:02._
