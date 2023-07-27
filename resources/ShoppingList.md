@@ -10,3 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 27-Jul 2023|[Shredded Thai Chicken Salad #550](https://github.com/jcallaghan/The-Cookbook/issues/550)|
 |Sat 29-Jul 2023|[Scotch egg #212](https://github.com/jcallaghan/The-Cookbook/issues/212)|
+
+## 🗒️ Notes
+
+1. Halloumi Salad
