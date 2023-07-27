@@ -38,7 +38,6 @@ This shopping list has been automatically generated with the ingredients from th
 1. Batch cook granola
 1. Schnitzel Salad
 1. Seabass, samphire and saulte potatoes
-1. Seabass, samphire and saulte potatoes
 1. Granola
 
 ## 🏪 Pantry Ingredients
@@ -48,4 +47,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 27-07-2023 20:17:44._
+_This shopping list was generated at 27-07-2023 20:18:23._
