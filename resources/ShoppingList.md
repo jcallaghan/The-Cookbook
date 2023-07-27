@@ -45,7 +45,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Steak, potato cake tomato spring onion salad
+1. Steak, potato cake, diced courgetta, and a tomato spring onion salad
 1. Scrambled eggs
 1. Scrambled eggs
 1. Batch cook granola
@@ -59,4 +59,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Seasoning, Tomato purée and Water.
 
 
-_This shopping list was generated at 27-07-2023 20:10:05._
+_This shopping list was generated at 27-07-2023 20:12:18._
