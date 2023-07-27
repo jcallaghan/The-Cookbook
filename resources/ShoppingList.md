@@ -10,11 +10,11 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 27-Jul 2023|[Shredded Thai Chicken Salad #550](https://github.com/jcallaghan/The-Cookbook/issues/550)|
 |Sat 29-Jul 2023|[Scotch egg #212](https://github.com/jcallaghan/The-Cookbook/issues/212)|
-|Sun 30-Jul 2023|[Granola and fruit yoghurt breakfast #65](https://github.com/jcallaghan/The-Cookbook/issues/65)|
-|Mon 31-Jul 2023|[Ploughman’s #547](https://github.com/jcallaghan/The-Cookbook/issues/547)|
+|Mon 31-Jul 2023|[Granola and fruit yoghurt breakfast #65](https://github.com/jcallaghan/The-Cookbook/issues/65)|
 ||[Warm salmon, beetroot & freekeh salad #546](https://github.com/jcallaghan/The-Cookbook/issues/546)|
 |Tue 01-Aug 2023|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
-|Wed 02-Aug 2023|[Halloumi Salad #553](https://github.com/jcallaghan/The-Cookbook/issues/553)|
+|Wed 02-Aug 2023|[Ploughman’s #547](https://github.com/jcallaghan/The-Cookbook/issues/547)|
+||[Halloumi Salad #553](https://github.com/jcallaghan/The-Cookbook/issues/553)|
 |Thu 03-Aug 2023|[Cod Traybake #544](https://github.com/jcallaghan/The-Cookbook/issues/544)|
 
 ## 🛒 Shopping List
@@ -54,6 +54,9 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Schnitzel Salad
+1. Scrambled eggs
+1. Batch cook granola
+1. Granola
 
 ## 🏪 Pantry Ingredients
 
@@ -62,4 +65,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Seasoning, Tomato purée and Water.
 
 
-_This shopping list was generated at 27-07-2023 19:20:05._
+_This shopping list was generated at 27-07-2023 20:06:50._
