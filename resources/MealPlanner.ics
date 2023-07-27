@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:380f4436-286e-440f-9cc0-ca1a7dbf4fee
-DTSTAMP:20230727T192010
+UID:c3381b41-8e23-448c-ab01-1fce092c4e18
+DTSTAMP:20230727T200640
 DTSTART:20230727T184500
 DTEND:20230727T203000
 SUMMARY:Shredded Thai Chicken Salad #550 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ea694ba4-96ef-4103-9474-d593fa97dda2
-DTSTAMP:20230727T192010
+UID:84efa7c3-8081-454c-b841-3b24d3550c20
+DTSTAMP:20230727T200640
 DTSTART:20230728T184500
 DTEND:20230728T203000
 SUMMARY:Schnitzel Salad for dinner
@@ -43,42 +43,43 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:121c308d-909d-4e22-9bab-f3213194bd20
-DTSTAMP:20230727T192010
+UID:a76b7167-3e5f-465e-a4d7-2776a4c38496
+DTSTAMP:20230727T200641
 DTSTART:20230729T184500
 DTEND:20230729T203000
-SUMMARY:Scotch egg #212 for dinner
-DESCRIPTION:Scotch egg #212 - https://github.com/jcallaghan/The-Cookbook/issues/212
+SUMMARY:Scrambled eggs and Scotch egg #212 for dinner
+DESCRIPTION:Note: Scrambled eggs
+Scotch egg #212 - https://github.com/jcallaghan/The-Cookbook/issues/212
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f6975818-d96c-4cde-b868-4965a1c17583
-DTSTAMP:20230727T192011
+UID:1e4cad5d-c24c-461d-a96a-2b566417eb18
+DTSTAMP:20230727T200641
 DTSTART:20230730T184500
 DTEND:20230730T203000
-SUMMARY:Granola and fruit yoghurt breakfast #65 for dinner
-DESCRIPTION:Granola and fruit yoghurt breakfast #65 - https://github.com/jcallaghan/The-Cookbook/issues/65
+SUMMARY:Batch cook granola for dinner
+DESCRIPTION:Note: Batch cook granola
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c5d20ec5-b2b0-4817-ae89-898b8e28ea58
-DTSTAMP:20230727T192011
+UID:2c2ca24c-fd0b-4581-b8f0-35c5071b2b47
+DTSTAMP:20230727T200641
 DTSTART:20230731T184500
 DTEND:20230731T203000
-SUMMARY:Ploughman’s #547 and Warm salmon, beetroot & freekeh salad #546 for dinner
-DESCRIPTION:Ploughman’s #547 - https://github.com/jcallaghan/The-Cookbook/issues/547
+SUMMARY:Granola and fruit yoghurt breakfast #65 and Warm salmon, beetroot & freekeh salad #546 for dinner
+DESCRIPTION:Granola and fruit yoghurt breakfast #65 - https://github.com/jcallaghan/The-Cookbook/issues/65
 Warm salmon, beetroot & freekeh salad #546 - https://github.com/jcallaghan/The-Cookbook/issues/546
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cbc1bad2-9d23-4b3c-8a02-6248e450682f
-DTSTAMP:20230727T192012
+UID:b78e195b-3112-4cce-a45b-610950330512
+DTSTAMP:20230727T200642
 DTSTART:20230801T184500
 DTEND:20230801T203000
 SUMMARY:Meatballs #59 for dinner
@@ -88,23 +89,25 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:79907f7f-0362-4ad2-9dcc-c79ebe89447c
-DTSTAMP:20230727T192012
+UID:604c42b7-cbc8-4143-8eab-2b6f219dde74
+DTSTAMP:20230727T200642
 DTSTART:20230802T184500
 DTEND:20230802T203000
-SUMMARY:Halloumi Salad #553 for dinner
-DESCRIPTION:Halloumi Salad #553 - https://github.com/jcallaghan/The-Cookbook/issues/553
+SUMMARY:Ploughman’s #547 and Halloumi Salad #553 for dinner
+DESCRIPTION:Ploughman’s #547 - https://github.com/jcallaghan/The-Cookbook/issues/547
+Halloumi Salad #553 - https://github.com/jcallaghan/The-Cookbook/issues/553
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ddedf405-a42e-436d-895b-4c71dd4fa358
-DTSTAMP:20230727T192012
+UID:1d4c1933-cb4a-499d-806b-7f8e321eb2b3
+DTSTAMP:20230727T200642
 DTSTART:20230803T184500
 DTEND:20230803T203000
-SUMMARY:Cod Traybake #544 for dinner
-DESCRIPTION:Cod Traybake #544 - https://github.com/jcallaghan/The-Cookbook/issues/544
+SUMMARY:Granola and Cod Traybake #544 for dinner
+DESCRIPTION:Note: Granola
+Cod Traybake #544 - https://github.com/jcallaghan/The-Cookbook/issues/544
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
