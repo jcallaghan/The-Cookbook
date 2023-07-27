@@ -21,17 +21,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9cf96291-3f63-4e97-be74-708ac2bd5ff7
-DTSTAMP:20230726T161734
+UID:71e22107-d28f-4824-a6b7-2ef2c8de5c90
+DTSTAMP:20230727T095904
 DTSTART:20230727T184500
 DTEND:20230727T203000
-SUMMARY:Granola and fruit yoghurt breakfast #65, Tuna, Egg mayo, Ploughman’s #547, Shredded Thai Chicken Salad #550 and Scotch egg #212 for dinner
-DESCRIPTION:Granola and fruit yoghurt breakfast #65 - https://github.com/jcallaghan/The-Cookbook/issues/65
-Note: Tuna
-Note: Egg mayo
-Ploughman’s #547 - https://github.com/jcallaghan/The-Cookbook/issues/547
-Shredded Thai Chicken Salad #550 - https://github.com/jcallaghan/The-Cookbook/issues/550
-Scotch egg #212 - https://github.com/jcallaghan/The-Cookbook/issues/212
+SUMMARY:Shredded Thai Chicken Salad #550 for dinner
+DESCRIPTION:Shredded Thai Chicken Salad #550 - https://github.com/jcallaghan/The-Cookbook/issues/550
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6fbee232-d17e-4e5a-b9f9-2df3ad55a869
+DTSTAMP:20230727T095904
+DTSTART:20230729T184500
+DTEND:20230729T203000
+SUMMARY:Scotch egg #212 for dinner
+DESCRIPTION:Scotch egg #212 - https://github.com/jcallaghan/The-Cookbook/issues/212
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
