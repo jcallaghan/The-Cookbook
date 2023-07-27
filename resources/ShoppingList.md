@@ -10,7 +10,6 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 27-Jul 2023|[Shredded Thai Chicken Salad #550](https://github.com/jcallaghan/The-Cookbook/issues/550)|
 |Sat 29-Jul 2023|[Scotch egg #212](https://github.com/jcallaghan/The-Cookbook/issues/212)|
-|Mon 31-Jul 2023|[Warm salmon, beetroot & freekeh salad #546](https://github.com/jcallaghan/The-Cookbook/issues/546)|
 |Tue 01-Aug 2023|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 |Wed 02-Aug 2023|[Ploughman’s #547](https://github.com/jcallaghan/The-Cookbook/issues/547)|
 ||[Halloumi Salad #553](https://github.com/jcallaghan/The-Cookbook/issues/553)|
@@ -20,28 +19,16 @@ This shopping list has been automatically generated with the ingredients from th
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
-|[Capers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Capers)|1 tbsp|
 |[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
-|[Cook time: 35 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2035%20minutes)||
-|[Creme fraiche](https://www.sainsburys.co.uk/gol-ui/SearchResults/Creme%20fraiche)|50g|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|2|
-|[Extra virgin olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Extra%20virgin%20olive%20oil)|1 tbsp|
 |[Garlic covers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20covers)|2|
-|[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)|½|
 |[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|500g|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|½|
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)||
 |[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
-|[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
-|[Raw beetroot](https://www.sainsburys.co.uk/gol-ui/SearchResults/Raw%20beetroot)|250g|
 |[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
-|[Rocket](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rocket)|50g|
-|[Salmon fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salmon%20fillets)|2|
-|[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
-|[Total time: 40 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2040%20minutes)||
-|[Zaytoun smoky freekeh or plain freekeh](https://www.sainsburys.co.uk/gol-ui/SearchResults/Zaytoun%20smoky%20freekeh%20or%20plain%20freekeh)|40g|
 
 ## 🗒️ Notes
 
@@ -50,13 +37,15 @@ This shopping list has been automatically generated with the ingredients from th
 1. Scrambled eggs
 1. Batch cook granola
 1. Schnitzel Salad
+1. Seabass, samphire and saulte potatoes
+1. Seabass, samphire and saulte potatoes
 1. Granola
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Dried basil, Dried oregano, Seasoning, Tomato purée and Water.
+Dried basil, Dried oregano, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 27-07-2023 20:12:18._
+_This shopping list was generated at 27-07-2023 20:17:44._
