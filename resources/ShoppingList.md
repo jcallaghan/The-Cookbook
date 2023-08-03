@@ -58,7 +58,7 @@ This shopping list has been automatically generated with the ingredients from th
 1. Granola
 1. Tuna crunch
 1. Pepper steak spaghetti (p93 midweek winners)
-1. Egg salad
+1. Tuna crunch/Egg salad
 
 ## 🏪 Pantry Ingredients
 
@@ -67,4 +67,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Coconut oil, Cumin, Garam masala, Garlic cloves, Olive oil, Seasoning, Tomato purée and Water.
 
 
-_This shopping list was generated at 03-08-2023 20:15:42._
+_This shopping list was generated at 03-08-2023 20:36:37._
