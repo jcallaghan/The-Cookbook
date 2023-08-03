@@ -14,3 +14,4 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Granola
+1. Pepper steak spaghetti (p93 midweek winners)
