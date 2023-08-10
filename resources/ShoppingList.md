@@ -62,3 +62,4 @@ This shopping list has been automatically generated with the ingredients from th
 1. Tuna crunch/Egg salad
 1. Balsamiq chicken bake with tender stem broccolii p77
 1. Crackers & salmon
+1. With chicken
