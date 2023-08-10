@@ -38,8 +38,9 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Tuna crunch/Egg salad
 1. Smoke salmon egg bagel
 1. Sausage and egg bagel
+1. Tuna crunch/Egg salad
 1. Balsamiq chicken bake with tender stem broccolii p77
+1. Crackers & salmon
 1. Ricotta, chorizo and spinach spaghetti p82
