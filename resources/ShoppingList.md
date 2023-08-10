@@ -39,6 +39,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. BBQ - burgers, sweetcorn lamb koftas
 1. Smoke salmon egg bagel
 1. Sausage and egg bagel
 1. Tuna crunch/Egg salad
