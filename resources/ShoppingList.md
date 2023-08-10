@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 10-Aug 2023|[Sticky salmon with broccoli #542](https://github.com/jcallaghan/The-Cookbook/issues/542)|
 |Sat 12-Aug 2023|[Cinnamon Swirls #552](https://github.com/jcallaghan/The-Cookbook/issues/552)|
 |Sun 13-Aug 2023|[Granola and fruit yoghurt breakfast #65](https://github.com/jcallaghan/The-Cookbook/issues/65)|
+||[Hasselback potatoes #470](https://github.com/jcallaghan/The-Cookbook/issues/470)|
 |Wed 16-Aug 2023|[Halloumi Salad #553](https://github.com/jcallaghan/The-Cookbook/issues/553)|
 |Thu 17-Aug 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 
@@ -56,6 +57,7 @@ This shopping list has been automatically generated with the ingredients from th
 1. BBQ - burgers, sweetcorn lamb koftas
 1. Smoked salmon egg bagel
 1. Ricotta, chorizo and spinach spaghetti p82
+1. Roast chicken
 1. Sausage and egg bagel
 1. Tuna crunch/Egg salad
 1. Balsamiq chicken bake with tender stem broccolii p77
