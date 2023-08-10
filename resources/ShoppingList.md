@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 10-Aug 2023|[Sticky salmon with broccoli #542](https://github.com/jcallaghan/The-Cookbook/issues/542)|
 |Sun 13-Aug 2023|[Granola and fruit yoghurt breakfast #65](https://github.com/jcallaghan/The-Cookbook/issues/65)|
+|Thu 17-Aug 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 
 ## 🛒 Shopping List
 
