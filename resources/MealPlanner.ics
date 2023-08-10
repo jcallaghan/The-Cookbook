@@ -21,95 +21,36 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b77cb813-5184-475e-8b1a-1e9762700425
-DTSTAMP:20230803T203831
-DTSTART:20230803T184500
-DTEND:20230803T203000
-SUMMARY:Cod Traybake #544 for dinner
-DESCRIPTION:Cod Traybake #544 - https://github.com/jcallaghan/The-Cookbook/issues/544
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:24a6a444-b70f-4d08-9d08-841b8260c37b
-DTSTAMP:20230803T203831
-DTSTART:20230804T184500
-DTEND:20230804T203000
-SUMMARY:Crackers and Charred onion & whipped feta flatbreads #290 for dinner
-DESCRIPTION:Note: Crackers
-Charred onion & whipped feta flatbreads #290 - https://github.com/jcallaghan/The-Cookbook/issues/290
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:9183b14e-992e-46a7-b48c-7093e1179d61
-DTSTAMP:20230803T203832
-DTSTART:20230805T184500
-DTEND:20230805T203000
-SUMMARY:Chicken pie #70 for dinner
-DESCRIPTION:Chicken pie #70 - https://github.com/jcallaghan/The-Cookbook/issues/70
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:31a07e5d-4b20-42e4-83bf-abe40995e688
-DTSTAMP:20230803T203832
-DTSTART:20230806T184500
-DTEND:20230806T203000
-SUMMARY:Bacon butty and Coconut curry #101 for dinner
-DESCRIPTION:Note: Bacon butty
-Coconut curry #101 - https://github.com/jcallaghan/The-Cookbook/issues/101
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:7cfaa1f0-cc8f-42de-84b6-79206d913e2e
-DTSTAMP:20230803T203832
-DTSTART:20230807T184500
-DTEND:20230807T203000
-SUMMARY:Crackers - Smoked salmon and cream cheese/hummus, chives and poppy seeds  and Halloumi Salad #553 for dinner
-DESCRIPTION:Note: Crackers - Smoked salmon and cream cheese/hummus, chives and poppy seeds 
-Halloumi Salad #553 - https://github.com/jcallaghan/The-Cookbook/issues/553
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:7306683b-2fdf-4df6-a045-8e02ed5eb87c
-DTSTAMP:20230803T203833
-DTSTART:20230808T184500
-DTEND:20230808T203000
-SUMMARY:Granola and Pesto chicken pasta #137 for dinner
-DESCRIPTION:Note: Granola
-Pesto chicken pasta #137 - https://github.com/jcallaghan/The-Cookbook/issues/137
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:b2c098ac-e552-4916-b401-aba29e836f0d
-DTSTAMP:20230803T203833
-DTSTART:20230809T184500
-DTEND:20230809T203000
-SUMMARY:Crackers - Smoked salmon and cream cheese/hummus, chives and poppy seeds  and Pepper steak spaghetti (p93 midweek winners) for dinner
-DESCRIPTION:Note: Crackers - Smoked salmon and cream cheese/hummus, chives and poppy seeds 
-Note: Pepper steak spaghetti (p93 midweek winners)
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:dccb17de-8ee9-40c7-b068-7b91567e73d1
-DTSTAMP:20230803T203833
+UID:07766617-6c5b-4d92-b2f9-0d84d987dac3
+DTSTAMP:20230810T211330
 DTSTART:20230810T184500
 DTEND:20230810T203000
 SUMMARY:Tuna crunch/Egg salad and Sticky salmon with broccoli #542 for dinner
 DESCRIPTION:Note: Tuna crunch/Egg salad
 Sticky salmon with broccoli #542 - https://github.com/jcallaghan/The-Cookbook/issues/542
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:72fc2bfc-7b4f-4f82-98ba-f0e1a50b3727
+DTSTAMP:20230810T211330
+DTSTART:20230812T184500
+DTEND:20230812T203000
+SUMMARY:Smoke salmon egg bagel for dinner
+DESCRIPTION:Note: Smoke salmon egg bagel
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:221e47de-943d-486c-ac5f-7350be30c174
+DTSTAMP:20230810T211331
+DTSTART:20230813T184500
+DTEND:20230813T203000
+SUMMARY:Sausage and egg bagel and Granola and fruit yoghurt breakfast #65 for dinner
+DESCRIPTION:Note: Sausage and egg bagel
+Granola and fruit yoghurt breakfast #65 - https://github.com/jcallaghan/The-Cookbook/issues/65
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
