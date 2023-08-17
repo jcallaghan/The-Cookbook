@@ -52,7 +52,11 @@ This shopping list has been automatically generated with the ingredients from th
 1. Fish cake, potatoes, beans
 1. Butchers Burgers and Kebabs
 1. Jas parents
+1. Tuna
+1. Egg mayo
+1. Crackers
 1. Italian Chicken Cacciatore p84 One-pot Wonders
+1. Crackers
 
 ## 🏪 Pantry Ingredients
 
@@ -61,4 +65,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic cloves, Garlic powder and Water.
 
 
-_This shopping list was generated at 17-08-2023 21:32:49._
+_This shopping list was generated at 17-08-2023 21:33:46._
