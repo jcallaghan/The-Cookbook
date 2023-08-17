@@ -13,4 +13,4 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Jas parents
-1. Canjun Chicken Rainbox Rice
+1. Canjun Chicken Rainbox Rice p55
