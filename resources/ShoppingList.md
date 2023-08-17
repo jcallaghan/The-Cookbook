@@ -10,6 +10,8 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 17-Aug 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 |Sat 19-Aug 2023|[Potato salad #36](https://github.com/jcallaghan/The-Cookbook/issues/36)|
+||[BBQ Halloumi #231](https://github.com/jcallaghan/The-Cookbook/issues/231)|
+||[Beef short ribs #172](https://github.com/jcallaghan/The-Cookbook/issues/172)|
 |Mon 21-Aug 2023|[Canjun Chicken Rainbox Rice  #568](https://github.com/jcallaghan/The-Cookbook/issues/568)|
 |Tue 22-Aug 2023|[Caprese Chicken #562](https://github.com/jcallaghan/The-Cookbook/issues/562)|
 |Thu 24-Aug 2023|[Thai Beef Curry #485](https://github.com/jcallaghan/The-Cookbook/issues/485)|
@@ -57,4 +59,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic cloves, Garlic powder and Water.
 
 
-_This shopping list was generated at 17-08-2023 21:22:08._
+_This shopping list was generated at 17-08-2023 21:22:37._
