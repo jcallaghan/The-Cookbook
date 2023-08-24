@@ -8,7 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 24-Aug 2023|[Thai Beef Curry #485](https://github.com/jcallaghan/The-Cookbook/issues/485)|
+|Mon 28-Aug 2023|[Thai Beef Curry #485](https://github.com/jcallaghan/The-Cookbook/issues/485)|
+|Tue 29-Aug 2023|[Smoked salmon pasta #422](https://github.com/jcallaghan/The-Cookbook/issues/422)|
 |Wed 30-Aug 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 |Thu 31-Aug 2023|[Cod Traybake #544](https://github.com/jcallaghan/The-Cookbook/issues/544)|
 ||[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
@@ -59,4 +60,4 @@ The following items have not been added to the shopping list as they are likey i
 Caster sugar, Garlic cloves, Olive oil, Seasoning and Water.
 
 
-_This shopping list was generated at 24-08-2023 18:02:59._
+_This shopping list was generated at 24-08-2023 22:40:21._
