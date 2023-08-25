@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 24-Aug 2023 - Sun 03-Sep 2023
+Fri 25-Aug 2023 - Mon 04-Sep 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -49,9 +49,9 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Crackers
 1. Out
 1. Chinese 
+1. Breakfast bagel
 1. BBQ
 
 ## 🏪 Pantry Ingredients
@@ -61,4 +61,4 @@ The following items have not been added to the shopping list as they are likey i
 Caster sugar, Garlic cloves, Olive oil, Seasoning and Water.
 
 
-_This shopping list was generated at 24-08-2023 22:41:05._
+_This shopping list was generated at 25-08-2023 13:10:50._
