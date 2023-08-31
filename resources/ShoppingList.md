@@ -33,4 +33,5 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. BBQ
+1. Chipotle Chicken Pittas https://www.instagram.com/reel/CwU0TSzIKaC
 1. Chicken Kebab - https://pinchofnom.com/recipes/chicken-kebab/
