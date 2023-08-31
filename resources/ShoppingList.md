@@ -17,6 +17,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 05-Sep 2023|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
 |Wed 06-Sep 2023|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 ||[Halloumi Salad #553](https://github.com/jcallaghan/The-Cookbook/issues/553)|
+|Thu 07-Sep 2023|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
 
 ## 🛒 Shopping List
 
@@ -54,7 +55,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Butchers kebabs and burgers
 1. BBQ
-1. Garlicky Meatball Pasta Bake p92 One-port Wonders
 
 ## 🏪 Pantry Ingredients
 
@@ -63,4 +63,4 @@ The following items have not been added to the shopping list as they are likey i
 Cornflour, Garlic cloves, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 31-08-2023 21:36:49._
+_This shopping list was generated at 31-08-2023 21:37:31._
