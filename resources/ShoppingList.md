@@ -9,9 +9,10 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 31-Aug 2023|[Cod Traybake #544](https://github.com/jcallaghan/The-Cookbook/issues/544)|
-|Sun 03-Sep 2023|[Gyros kebab #283](https://github.com/jcallaghan/The-Cookbook/issues/283)|
+|Mon 04-Sep 2023|[Gyros kebab #283](https://github.com/jcallaghan/The-Cookbook/issues/283)|
 |Tue 05-Sep 2023|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
 
 ## 🗒️ Notes
 
+1. BBQ
 1. Chicken Kebab - https://pinchofnom.com/recipes/chicken-kebab/
