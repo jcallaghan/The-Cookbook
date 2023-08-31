@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 31-Aug 2023|[Cod Traybake #544](https://github.com/jcallaghan/The-Cookbook/issues/544)|
+|Fri 01-Sep 2023|[Beef quesadillas #153](https://github.com/jcallaghan/The-Cookbook/issues/153)|
 |Sun 03-Sep 2023|[Cinnamon Swirls #552](https://github.com/jcallaghan/The-Cookbook/issues/552)|
 |Mon 04-Sep 2023|[Gyros kebab #283](https://github.com/jcallaghan/The-Cookbook/issues/283)|
 |Tue 05-Sep 2023|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
@@ -32,6 +33,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. https://www.secondnature.io/recipe/628ca18c2afc51374ec64229
 1. BBQ
 1. Chipotle Chicken Pittas https://www.instagram.com/reel/CwU0TSzIKaC
 1. Chicken Kebab - https://pinchofnom.com/recipes/chicken-kebab/
