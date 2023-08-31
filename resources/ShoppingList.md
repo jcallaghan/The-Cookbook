@@ -54,6 +54,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Butchers kebabs and burgers
 1. BBQ
+1. Garlicky Meatball Pasta Bake p92 One-port Wonders
 
 ## 🏪 Pantry Ingredients
 
@@ -62,4 +63,4 @@ The following items have not been added to the shopping list as they are likey i
 Cornflour, Garlic cloves, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 31-08-2023 21:27:54._
+_This shopping list was generated at 31-08-2023 21:36:49._
