@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5a26f5e9-ea03-4a9a-b084-708d25dac35e
-DTSTAMP:20230831T205031
+UID:e89c55c5-7fbf-472a-98bc-330692e2936d
+DTSTAMP:20230831T205736
 DTSTART:20230831T184500
 DTEND:20230831T203000
 SUMMARY:Cod Traybake #544 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:32fe4894-8c9c-49bc-b371-c8ef30c40abf
-DTSTAMP:20230831T205032
+UID:826665b8-5930-46b5-9db6-fbdd61d4985e
+DTSTAMP:20230831T205737
 DTSTART:20230903T184500
 DTEND:20230903T203000
 SUMMARY:Cinnamon Swirls #552 and BBQ for dinner
@@ -44,20 +44,21 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:92edd20c-8caf-4d3e-896c-31e1048351ce
-DTSTAMP:20230831T205032
+UID:96a11bc7-f602-482c-8be0-e6760aece9b6
+DTSTAMP:20230831T205737
 DTSTART:20230904T184500
 DTEND:20230904T203000
-SUMMARY:Chicken Kebab - https://pinchofnom.com/recipes/chicken-kebab/ and Gyros kebab #283 for dinner
-DESCRIPTION:Note: Chicken Kebab - https://pinchofnom.com/recipes/chicken-kebab/
+SUMMARY:Chipotle Chicken Pittas https://www.instagram.com/reel/CwU0TSzIKaC, Chicken Kebab - https://pinchofnom.com/recipes/chicken-kebab/ and Gyros kebab #283 for dinner
+DESCRIPTION:Note: Chipotle Chicken Pittas https://www.instagram.com/reel/CwU0TSzIKaC
+Note: Chicken Kebab - https://pinchofnom.com/recipes/chicken-kebab/
 Gyros kebab #283 - https://github.com/jcallaghan/The-Cookbook/issues/283
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:777ca2b5-08c6-4d59-952a-aa8a86498d64
-DTSTAMP:20230831T205033
+UID:30b89cc2-156a-4e8e-ba09-9901a587d5ba
+DTSTAMP:20230831T205738
 DTSTART:20230905T184500
 DTEND:20230905T203000
 SUMMARY:Butter chicken curry #353 for dinner
