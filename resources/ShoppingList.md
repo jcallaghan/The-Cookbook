@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 03-Sep 2023|[Cinnamon Swirls #552](https://github.com/jcallaghan/The-Cookbook/issues/552)|
 |Mon 04-Sep 2023|[Gyros kebab #283](https://github.com/jcallaghan/The-Cookbook/issues/283)|
 |Tue 05-Sep 2023|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
+|Wed 06-Sep 2023|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 
 ## 🛒 Shopping List
 
