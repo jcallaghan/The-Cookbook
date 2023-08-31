@@ -13,10 +13,10 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 02-Sep 2023|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Sun 03-Sep 2023|[Italian onion flat bread focaccia #45](https://github.com/jcallaghan/The-Cookbook/issues/45)|
 ||[Cinnamon Swirls #552](https://github.com/jcallaghan/The-Cookbook/issues/552)|
-||[Halloumi Salad #553](https://github.com/jcallaghan/The-Cookbook/issues/553)|
 |Mon 04-Sep 2023|[Gyros kebab #283](https://github.com/jcallaghan/The-Cookbook/issues/283)|
 |Tue 05-Sep 2023|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
 |Wed 06-Sep 2023|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
+||[Halloumi Salad #553](https://github.com/jcallaghan/The-Cookbook/issues/553)|
 
 ## 🛒 Shopping List
 
@@ -64,4 +64,4 @@ The following items have not been added to the shopping list as they are likey i
 Cornflour, Garlic cloves, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 31-08-2023 21:12:32._
+_This shopping list was generated at 31-08-2023 21:16:10._
