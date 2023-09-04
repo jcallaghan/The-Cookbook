@@ -21,42 +21,31 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0aec9208-f4b4-410c-824b-cf02a7eb1692
-DTSTAMP:20230903T125702
-DTSTART:20230903T184500
-DTEND:20230903T203000
-SUMMARY:Crispy beef with egg fried rice #102 for dinner
-DESCRIPTION:Crispy beef with egg fried rice #102 - https://github.com/jcallaghan/The-Cookbook/issues/102
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:6d069da3-5a96-4d81-9867-7c905cd6537b
-DTSTAMP:20230903T125702
+UID:1ee4d13c-ad27-4bd7-8da8-8560604be6a4
+DTSTAMP:20230904T155420
 DTSTART:20230904T184500
 DTEND:20230904T203000
-SUMMARY:Cinnamon Swirls #552 and Beef quesadillas #153 for dinner
-DESCRIPTION:Cinnamon Swirls #552 - https://github.com/jcallaghan/The-Cookbook/issues/552
-Beef quesadillas #153 - https://github.com/jcallaghan/The-Cookbook/issues/153
+SUMMARY:Garlicky Meatball Pasta Bake  #571 for dinner
+DESCRIPTION:Garlicky Meatball Pasta Bake  #571 - https://github.com/jcallaghan/The-Cookbook/issues/571
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:aecc3875-8c36-41fc-895f-9d7347e59486
-DTSTAMP:20230903T125703
+UID:eb4d370b-11ba-4854-a815-e6b2e9460bf1
+DTSTAMP:20230904T155421
 DTSTART:20230905T184500
 DTEND:20230905T203000
-SUMMARY:Butter chicken curry #353 for dinner
-DESCRIPTION:Butter chicken curry #353 - https://github.com/jcallaghan/The-Cookbook/issues/353
+SUMMARY:Cinnamon Swirls #552 and Butter chicken curry #353 for dinner
+DESCRIPTION:Cinnamon Swirls #552 - https://github.com/jcallaghan/The-Cookbook/issues/552
+Butter chicken curry #353 - https://github.com/jcallaghan/The-Cookbook/issues/353
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2c855cc3-9f61-4cd3-af65-cc1034933416
-DTSTAMP:20230903T125703
+UID:14ae9cb1-49e7-4e27-a8a6-1d57a8bfbc70
+DTSTAMP:20230904T155421
 DTSTART:20230906T184500
 DTEND:20230906T203000
 SUMMARY:Grilled Salmon with Greek Salad #25 and Halloumi Salad #553 for dinner
@@ -67,12 +56,12 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a509c401-cd3c-4d7d-bb37-ca550b10281f
-DTSTAMP:20230903T125703
+UID:4fc6519a-b30c-46b3-b13c-53245a6ecb69
+DTSTAMP:20230904T155422
 DTSTART:20230907T184500
 DTEND:20230907T203000
-SUMMARY:Garlicky Meatball Pasta Bake  #571 for dinner
-DESCRIPTION:Garlicky Meatball Pasta Bake  #571 - https://github.com/jcallaghan/The-Cookbook/issues/571
+SUMMARY:Beef quesadillas #153 for dinner
+DESCRIPTION:Beef quesadillas #153 - https://github.com/jcallaghan/The-Cookbook/issues/153
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
