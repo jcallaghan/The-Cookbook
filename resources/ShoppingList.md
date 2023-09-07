@@ -14,7 +14,6 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Italian onion flat bread focaccia #45](https://github.com/jcallaghan/The-Cookbook/issues/45)|
 |Mon 11-Sep 2023|[Sardine tomato pasta #578](https://github.com/jcallaghan/The-Cookbook/issues/578)|
 |Tue 12-Sep 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
-|Wed 13-Sep 2023|[Cous-cous recipes #117](https://github.com/jcallaghan/The-Cookbook/issues/117)|
 |Thu 14-Sep 2023|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
 
 ## 🛒 Shopping List
@@ -51,4 +50,4 @@ The following items have not been added to the shopping list as they are likey i
 S, e, a, s, o, n, i, n and g.
 
 
-_This shopping list was generated at 07-09-2023 21:18:16._
+_This shopping list was generated at 07-09-2023 21:28:09._
