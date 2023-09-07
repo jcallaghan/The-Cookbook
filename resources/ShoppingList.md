@@ -11,7 +11,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 07-Sep 2023|[Beef quesadillas #153](https://github.com/jcallaghan/The-Cookbook/issues/153)|
 |Sat 09-Sep 2023|[Charcuterie board #577](https://github.com/jcallaghan/The-Cookbook/issues/577)|
 ||[Italian onion flat bread focaccia #45](https://github.com/jcallaghan/The-Cookbook/issues/45)|
-|Mon 11-Sep 2023|[Crispy Chicken Traybake #463](https://github.com/jcallaghan/The-Cookbook/issues/463)|
+|Mon 11-Sep 2023|[Sardine tomato pasta #578](https://github.com/jcallaghan/The-Cookbook/issues/578)|
+||[Crispy Chicken Traybake #463](https://github.com/jcallaghan/The-Cookbook/issues/463)|
 |Tue 12-Sep 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
 |Wed 13-Sep 2023|[Cous-cous recipes #117](https://github.com/jcallaghan/The-Cookbook/issues/117)|
 |Thu 14-Sep 2023|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
@@ -54,4 +55,4 @@ The following items have not been added to the shopping list as they are likey i
 C, h, i, c, k, e, n,  , s, t, o, c and k.
 
 
-_This shopping list was generated at 07-09-2023 20:49:27._
+_This shopping list was generated at 07-09-2023 20:50:42._
