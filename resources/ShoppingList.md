@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Italian onion flat bread focaccia #45](https://github.com/jcallaghan/The-Cookbook/issues/45)|
 |Mon 11-Sep 2023|[Sardine tomato pasta #578](https://github.com/jcallaghan/The-Cookbook/issues/578)|
 ||[Crispy Chicken Traybake #463](https://github.com/jcallaghan/The-Cookbook/issues/463)|
+||[Slow Cooker Creamy Chicken, Pesto, Pepperoni Pasta #401](https://github.com/jcallaghan/The-Cookbook/issues/401)|
 |Tue 12-Sep 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
 |Wed 13-Sep 2023|[Cous-cous recipes #117](https://github.com/jcallaghan/The-Cookbook/issues/117)|
 ||[Warm salmon, beetroot & freekeh salad #546](https://github.com/jcallaghan/The-Cookbook/issues/546)|
@@ -68,4 +69,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock and Water.
 
 
-_This shopping list was generated at 07-09-2023 20:52:17._
+_This shopping list was generated at 07-09-2023 20:52:59._
