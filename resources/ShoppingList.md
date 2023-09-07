@@ -9,7 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 07-Sep 2023|[Beef quesadillas #153](https://github.com/jcallaghan/The-Cookbook/issues/153)|
-|Sat 09-Sep 2023|[Italian onion flat bread focaccia #45](https://github.com/jcallaghan/The-Cookbook/issues/45)|
+|Sat 09-Sep 2023|[Charcuterie board #577](https://github.com/jcallaghan/The-Cookbook/issues/577)|
+||[Italian onion flat bread focaccia #45](https://github.com/jcallaghan/The-Cookbook/issues/45)|
 |Tue 12-Sep 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
 |Thu 14-Sep 2023|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
 
@@ -26,6 +27,5 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Charcuterie board
 1. Egg bagel
 1. BBQ / Pizza
