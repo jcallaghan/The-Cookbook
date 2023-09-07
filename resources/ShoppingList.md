@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 09-Sep 2023|[Charcuterie board #577](https://github.com/jcallaghan/The-Cookbook/issues/577)|
 ||[Italian onion flat bread focaccia #45](https://github.com/jcallaghan/The-Cookbook/issues/45)|
 |Tue 12-Sep 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
+|Wed 13-Sep 2023|[Cous-cous recipes #117](https://github.com/jcallaghan/The-Cookbook/issues/117)|
 |Thu 14-Sep 2023|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
 
 ## 🛒 Shopping List
@@ -29,3 +30,4 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Egg bagel
 1. BBQ / Pizza
+1. Chicken cous-cous
