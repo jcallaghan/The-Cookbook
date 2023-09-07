@@ -69,7 +69,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Egg bagel
-1. BBQ / Pizza
+1. BBQ, Burgers, Sausage, Sweetcorn, Beef short ribs
 1. Chicken cous-cous
 
 ## 🏪 Pantry Ingredients
@@ -79,4 +79,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Seasoning and Water.
 
 
-_This shopping list was generated at 07-09-2023 21:00:25._
+_This shopping list was generated at 07-09-2023 21:06:36._
