@@ -1,17 +1,20 @@
 # BBQ
 
-There are 44 bbq recipes in the cookbook.
+There are 47 bbq recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
 | B||||
 ||[511](https://github.com/jcallaghan/The-Cookbook/issues/511)|[BBQ Asparagus](https://github.com/jcallaghan/The-Cookbook/issues/511)| |Style / BBQ<br>Meal / Side Dish|
 ||[231](https://github.com/jcallaghan/The-Cookbook/issues/231)|[BBQ Halloumi](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/bbq-halloumi.md)| |Style / Vegetarian<br>Style / BBQ<br>Meal / Appetiser<br>Meal / Side Dish<br>Ingredient / Cheese 🧀<br>⚙ Needs Pictures ✅<br>⚙ Published|
+||[515](https://github.com/jcallaghan/The-Cookbook/issues/515)|[BBQ Sweetcorn](https://github.com/jcallaghan/The-Cookbook/issues/515)| |Style / BBQ|
+||[222](https://github.com/jcallaghan/The-Cookbook/issues/222)|[BBQ Trout](https://github.com/jcallaghan/The-Cookbook/issues/222)| |Style / BBQ|
 ||[13](https://github.com/jcallaghan/The-Cookbook/issues/13)|[BBQ chicken kebabs](https://github.com/jcallaghan/The-Cookbook/issues/13)| |Style / BBQ<br>Favourite 🥰<br>Favourite 🥰 / Jas|
 ||[403](https://github.com/jcallaghan/The-Cookbook/issues/403)|[BBQ pulled Chicken](https://github.com/jcallaghan/The-Cookbook/issues/403)| |Style / BBQ<br>Ingredient / Meat / Chicken 🐔<br>Meal / Main|
 ||[524](https://github.com/jcallaghan/The-Cookbook/issues/524)|[Bacon Wrapped Chicken and Apricot Kebabs](https://github.com/jcallaghan/The-Cookbook/issues/524)| |Style / BBQ|
 ||[399](https://github.com/jcallaghan/The-Cookbook/issues/399)|[Beef Skewers](https://github.com/jcallaghan/The-Cookbook/issues/399)| |Style / BBQ<br>Ingredient / Meat / Beef<br>Meal / Main|
 ||[172](https://github.com/jcallaghan/The-Cookbook/issues/172)|[Beef short ribs](https://github.com/jcallaghan/The-Cookbook/issues/172)| |Style / BBQ<br>Ingredient / Meat / Beef<br>Style / Marinade|
+||[534](https://github.com/jcallaghan/The-Cookbook/issues/534)|[Birthday BBQ 2023](https://github.com/jcallaghan/The-Cookbook/issues/534)| |Style / BBQ|
 ||[204](https://github.com/jcallaghan/The-Cookbook/issues/204)|[Bryan's BBQ Pork Ribs](https://github.com/jcallaghan/The-Cookbook/issues/204)| |Style / BBQ<br>ℹ️ Friends Recipes 🥰<br>⚙ New Recipe 👀|
 ||[223](https://github.com/jcallaghan/The-Cookbook/issues/223)|[Butchers Burger](https://github.com/jcallaghan/The-Cookbook/issues/223)| |Style / BBQ|
 | C||||
@@ -60,4 +63,4 @@ There are 44 bbq recipes in the cookbook.
 | 🧅||||
 ||[537](https://github.com/jcallaghan/The-Cookbook/issues/537)|[🧅➕🥔🟰🧼 BBQ Grill Clean & Non-Stick Trick](https://github.com/jcallaghan/The-Cookbook/issues/537)| |Style / BBQ<br>Resources / Tips & Tricks|
 
-_This index was automatically generated at 11-09-2023 00:19:31 using a custom Python script and GitHub Action._
+_This index was automatically generated at 12-09-2023 00:18:31 using a custom Python script and GitHub Action._
