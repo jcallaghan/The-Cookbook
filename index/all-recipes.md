@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 64 all recipes recipes in the cookbook.
+There are 65 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -55,6 +55,7 @@ There are 64 all recipes recipes in the cookbook.
 ||[235](https://github.com/jcallaghan/The-Cookbook/issues/235)|[Margherita pizza](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/margherita-pizza.md)| |Style / Vegetarian<br>Pizza 🍕<br>⚙ Needs Pictures ✅<br>Equipment / Pizza Oven 🍕🔥<br>⚙ Published|
 ||[280](https://github.com/jcallaghan/The-Cookbook/issues/280)|[Mash potato](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/mash-potato.md)| |Style / Vegetarian<br>Meal / Side Dish<br>⚙ Needs Pictures ✅<br>Ingredient / Vegetable / Potato<br>⚙ Published|
 ||[59](https://github.com/jcallaghan/The-Cookbook/issues/59)|[Meatballs](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/meatballs.md)| |Style / Pasta 🍝<br>Ingredient / Meat / Beef<br>Favourite 🥰 / James<br>Meal / Main<br>Favourite 🥰 / Florence<br>⚙ Needs Pictures ✅<br>⚙ Published|
+||[575](https://github.com/jcallaghan/The-Cookbook/issues/575)|[Mediterranean chicken traybake](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/mediterranean-chicken-traybake.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/mediterranean-chicken-traybake-1.jpg' alt='Mediterranean chicken traybake' width='200'/>|Ingredient / Meat / Chicken 🐔<br>Favourite 🥰 / James<br>Style / Copycat<br>Ingredient / Vegetable<br>⚙ Published<br>Chef 🧑🏼‍🍳 / Tom Kerrige<br>Traybake<br>Brand / M&S|
 ||[76](https://github.com/jcallaghan/The-Cookbook/issues/76)|[Mums delicious chocolate brownies](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/mums-delicious-chocolate-brownies.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/mums-delicious-chocolate-brownies-1.jpg' alt='Mums delicious chocolate brownies' width='200'/>|Style / BBQ<br>Baking / Sweets & Treats<br>Style / Dinner Party 🥳<br>Meal / Dessert<br>Ingredient / Chocolate 🍫<br>Baking / Brownies<br>⚙ Published|
 | P||||
 ||[177](https://github.com/jcallaghan/The-Cookbook/issues/177)|[Pesto tagliatelle with sea bass](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/pesto-tagliatelle-with-sea-bass.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/pesto-tagliatelle-with-sea-bass-1.jpg' alt='Pesto tagliatelle with sea bass' width='200'/>|Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Fish 🐟 / Sea Bass<br>Favourite 🥰 / James<br>Meal / Main<br>Ingredient / Pesto<br>⚙ Published|
@@ -84,4 +85,4 @@ There are 64 all recipes recipes in the cookbook.
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 20-09-2023 00:18:45 using a custom Python script and GitHub Action._
+_This index was automatically generated at 21-09-2023 00:18:47 using a custom Python script and GitHub Action._
