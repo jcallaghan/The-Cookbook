@@ -16,6 +16,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. bruschetta with appetizers
 1. Dinner @ Kitten
-1.  salmon with ryvitta and cream cheese
+1. Dinner Ryvita, cream cheese and salmon 
 1. Roasted Red Pepper & Garlic pasta https://www.instagram.com/p/CxGRO8YIKaN/ https://www.instagram.com/p/CxaGdjSMssZ/
 1. Nachos
