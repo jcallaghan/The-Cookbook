@@ -34,4 +34,5 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Croquettes
 1. Nachos
