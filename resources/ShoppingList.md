@@ -38,4 +38,17 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Croquettes
 1. Nachos
-1. Poached Salmon in Coconut Lime Curry
+1. Poached Salmon in Coconut Lime Curry https://www.instagram.com/reel/Cw0kiHrprm2/
+
+4 filets of salmon
+4 cloves of garlic
+1 inch ginger
+3 chilis
+2 tsp or more palm sugar
+1 tbsp panang curry paste
+a few splashes fish sauce
+1 can coconut cream or milk
+1 lime juiced
+1/2 a lime zest
+salt to taste (~1 tsp)
+cilantro and spring onion for garnish
