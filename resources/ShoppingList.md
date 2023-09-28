@@ -10,6 +10,8 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 28-Sep 2023|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
 |Sun 01-Oct 2023|[Tacos #113](https://github.com/jcallaghan/The-Cookbook/issues/113)|
+|Tue 03-Oct 2023|[Chicken and chorizo skewers #513](https://github.com/jcallaghan/The-Cookbook/issues/513)|
+||[Chicken salad #538](https://github.com/jcallaghan/The-Cookbook/issues/538)|
 
 ## 🛒 Shopping List
 
