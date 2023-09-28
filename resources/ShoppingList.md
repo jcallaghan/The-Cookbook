@@ -38,3 +38,4 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Croquettes
 1. Nachos
+1. Poached Salmon in Coconut Lime Curry
