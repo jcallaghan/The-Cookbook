@@ -21,66 +21,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:78fcffef-fb6f-4870-a728-ccb148b971c3
-DTSTAMP:20230928T182117
-DTSTART:20230928T184500
-DTEND:20230928T203000
-SUMMARY:Butter chicken curry #353 for dinner
-DESCRIPTION:Butter chicken curry #353 - https://github.com/jcallaghan/The-Cookbook/issues/353
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:b3545d8a-ba92-4b1f-a118-b14d33da0c02
-DTSTAMP:20230928T182118
-DTSTART:20230930T184500
-DTEND:20230930T203000
-SUMMARY:Sardines & Roasted Red Peppers on Toast #459 for dinner
-DESCRIPTION:Sardines & Roasted Red Peppers on Toast #459 - https://github.com/jcallaghan/The-Cookbook/issues/459
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:52ff7479-5097-4669-a510-5196b4474f02
-DTSTAMP:20230928T182118
-DTSTART:20231001T184500
-DTEND:20231001T203000
-SUMMARY:Slow cooked beef tacos and Tacos #113 for dinner
-DESCRIPTION:Note: Slow cooked beef tacos
-Tacos #113 - https://github.com/jcallaghan/The-Cookbook/issues/113
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:528f1fcb-98b4-4b11-9575-02038e4b3543
-DTSTAMP:20230928T182118
-DTSTART:20231002T184500
-DTEND:20231002T203000
-SUMMARY:Croquettes and Chicken Schnitzel  #256 for dinner
-DESCRIPTION:Note: Croquettes
+UID:bba999ff-83c0-4614-b33e-a25e915c28fa
+DTSTAMP:20231002T204357
+DTSTART:20231003T184500
+DTEND:20231003T203000
+SUMMARY:Chicken and chorizo skewers #513, Chicken salad #538, Croquettes and Chicken Schnitzel  #256 for dinner
+DESCRIPTION:Chicken and chorizo skewers #513 - https://github.com/jcallaghan/The-Cookbook/issues/513
+Chicken salad #538 - https://github.com/jcallaghan/The-Cookbook/issues/538
+Note: Croquettes
 Chicken Schnitzel  #256 - https://github.com/jcallaghan/The-Cookbook/issues/256
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:82c9bc38-e734-4515-acdf-d8944da3d22c
-DTSTAMP:20230928T182119
-DTSTART:20231003T184500
-DTEND:20231003T203000
-SUMMARY:Chicken and chorizo skewers #513 and Chicken salad #538 for dinner
-DESCRIPTION:Chicken and chorizo skewers #513 - https://github.com/jcallaghan/The-Cookbook/issues/513
-Chicken salad #538 - https://github.com/jcallaghan/The-Cookbook/issues/538
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:6c464ac4-8637-4d29-9176-706f980ae2f5
-DTSTAMP:20230928T182119
+UID:1d55ab35-59e4-41f5-9527-c11885f9cfb4
+DTSTAMP:20231002T204358
 DTSTART:20231004T184500
 DTEND:20231004T203000
 SUMMARY:Poached Salmon in Coconut Lime Curry https://www.instagram.com/reel/Cw0kiHrprm2/
@@ -116,8 +72,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2558e2b9-8bf9-42f0-8966-de5f9ecac086
-DTSTAMP:20230928T182120
+UID:1f479f11-0825-4367-ac90-8bd190449f2c
+DTSTAMP:20231002T204358
 DTSTART:20231005T184500
 DTEND:20231005T203000
 SUMMARY:Crab pasta salad or sandwich filler #9 for dinner
