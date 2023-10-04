@@ -21,22 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bba999ff-83c0-4614-b33e-a25e915c28fa
-DTSTAMP:20231002T204357
-DTSTART:20231003T184500
-DTEND:20231003T203000
-SUMMARY:Chicken and chorizo skewers #513, Chicken salad #538, Croquettes and Chicken Schnitzel  #256 for dinner
-DESCRIPTION:Chicken and chorizo skewers #513 - https://github.com/jcallaghan/The-Cookbook/issues/513
-Chicken salad #538 - https://github.com/jcallaghan/The-Cookbook/issues/538
-Note: Croquettes
-Chicken Schnitzel  #256 - https://github.com/jcallaghan/The-Cookbook/issues/256
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:1d55ab35-59e4-41f5-9527-c11885f9cfb4
-DTSTAMP:20231002T204358
+UID:5c6f5326-a758-4879-b5d1-04319becb778
+DTSTAMP:20231004T171709
 DTSTART:20231004T184500
 DTEND:20231004T203000
 SUMMARY:Poached Salmon in Coconut Lime Curry https://www.instagram.com/reel/Cw0kiHrprm2/
@@ -72,12 +58,13 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1f479f11-0825-4367-ac90-8bd190449f2c
-DTSTAMP:20231002T204358
+UID:5f22290e-9407-4451-a761-a59fb0777a0d
+DTSTAMP:20231004T171711
 DTSTART:20231005T184500
 DTEND:20231005T203000
-SUMMARY:Crab pasta salad or sandwich filler #9 for dinner
+SUMMARY:Crab pasta salad or sandwich filler #9 and Chicken and chorizo skewers #513 for dinner
 DESCRIPTION:Crab pasta salad or sandwich filler #9 - https://github.com/jcallaghan/The-Cookbook/issues/9
+Chicken and chorizo skewers #513 - https://github.com/jcallaghan/The-Cookbook/issues/513
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
