@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e4e03b93-d98f-45cc-b569-c270ae2e63b5
-DTSTAMP:20231005T160408
+UID:783bfd6a-a998-4e75-a4d8-115fc47f1408
+DTSTAMP:20231005T160452
 DTSTART:20231005T184500
 DTEND:20231005T203000
 SUMMARY:Crab pasta salad or sandwich filler #9 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3ab136c2-cdd4-42bc-9ca0-5e483ce32a5e
-DTSTAMP:20231005T160409
+UID:7f53cac1-6722-400d-8c3d-94e8e4f51639
+DTSTAMP:20231005T160453
 DTSTART:20231006T184500
 DTEND:20231006T203000
 SUMMARY:Chicken and chorizo skewers #513 for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b1167eb3-1e9b-4fc1-9d14-c7d33f8fbaa9
-DTSTAMP:20231005T160410
+UID:846e5a35-5b7a-48f8-a80d-3818f6e479ac
+DTSTAMP:20231005T160454
 DTSTART:20231007T184500
 DTEND:20231007T203000
 SUMMARY:Sticky teriyaki fried beef #583 for dinner
@@ -54,73 +54,19 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ef88dc1a-144d-45b1-b965-74d93864da53
-DTSTAMP:20231005T160410
+UID:34706056-a700-4b98-8ec7-248a2ab0162e
+DTSTAMP:20231005T160455
 DTSTART:20231008T184500
 DTEND:20231008T203000
-SUMMARY:Honey Garlic Chicken Pitas 
-
-Chicken:
-• 300g chicken breast, chopped
-• 1 tsp olive oil
-• 1 tbsp low sodium soy sauce
-• 1 tsp vinegar
-• squeeze of half a lemon
-• 1 tbsp minced garlic
-• 1 tsp paprika, chili powder and a crack of pepper
-• optional: pinch of salt (approx. 1/8 tsp)
-• 1 tbsp honey
--
-Pita:
-• 1 pita, cut in halves (I used 38g whole wheat)
-• chopped lettuce
-• sliced tomatoes
-• sliced onions (red or white)
-• drizzle of yogurt (approx 2 tbsp for each pita)
--
-Notes:
-• If you have the time, grate some lemon zest on your chicken for extra flavour.
-• I like to have the yogurt plain, but you can add extra ingredients to your liking such as salt, dill, lemon, garlic, etc.
-• When meal prepping, do NOT build the pita until eating. Simply deconstruct all ingredients in a container!
--
-Yields: 2 pitas
-
-https://www.instagram.com/reel/CwiLIQUKLa- for dinner
-DESCRIPTION:Note: Honey Garlic Chicken Pitas 
-
-Chicken:
-• 300g chicken breast, chopped
-• 1 tsp olive oil
-• 1 tbsp low sodium soy sauce
-• 1 tsp vinegar
-• squeeze of half a lemon
-• 1 tbsp minced garlic
-• 1 tsp paprika, chili powder and a crack of pepper
-• optional: pinch of salt (approx. 1/8 tsp)
-• 1 tbsp honey
--
-Pita:
-• 1 pita, cut in halves (I used 38g whole wheat)
-• chopped lettuce
-• sliced tomatoes
-• sliced onions (red or white)
-• drizzle of yogurt (approx 2 tbsp for each pita)
--
-Notes:
-• If you have the time, grate some lemon zest on your chicken for extra flavour.
-• I like to have the yogurt plain, but you can add extra ingredients to your liking such as salt, dill, lemon, garlic, etc.
-• When meal prepping, do NOT build the pita until eating. Simply deconstruct all ingredients in a container!
--
-Yields: 2 pitas
-
-https://www.instagram.com/reel/CwiLIQUKLa-
+SUMMARY:Honey Garlic Chicken Pitas #584 for dinner
+DESCRIPTION:Honey Garlic Chicken Pitas #584 - https://github.com/jcallaghan/The-Cookbook/issues/584
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:542626c7-710d-470a-9c44-e232b9c63515
-DTSTAMP:20231005T160412
+UID:5c21f97e-4f73-4ad8-b493-c8dba2d3eb7c
+DTSTAMP:20231005T160456
 DTSTART:20231009T184500
 DTEND:20231009T203000
 SUMMARY:Halloumi, salsa and garlic butter kale  #581 for dinner
@@ -130,8 +76,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d02a10ee-8f5d-4205-a259-d49068f3c15a
-DTSTAMP:20231005T160413
+UID:4d4e7d4f-0d42-4de7-9c93-1d372539e9e6
+DTSTAMP:20231005T160457
 DTSTART:20231010T184500
 DTEND:20231010T203000
 SUMMARY:Mongolian beef #480 for dinner
@@ -141,8 +87,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a348b830-39c6-421e-a3ca-d401b66bfae3
-DTSTAMP:20231005T160414
+UID:e8df8a88-48d4-4c24-b210-74bebda294d1
+DTSTAMP:20231005T160457
 DTSTART:20231011T184500
 DTEND:20231011T203000
 SUMMARY:Brown butter fish #582 for dinner
@@ -152,12 +98,12 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3193cc04-dd87-479b-9e2d-93207cc03ae5
-DTSTAMP:20231005T160415
+UID:66a492da-1aa2-43d5-abcc-32faa0d9b772
+DTSTAMP:20231005T160458
 DTSTART:20231012T184500
 DTEND:20231012T203000
-SUMMARY:Chicken Mascarpone Pasta https://www.instagram.com/reel/CwiXgiuqRmq for dinner
-DESCRIPTION:Note: Chicken Mascarpone Pasta https://www.instagram.com/reel/CwiXgiuqRmq
+SUMMARY:Chicken Mascarpone Pasta  #585 for dinner
+DESCRIPTION:Chicken Mascarpone Pasta  #585 - https://github.com/jcallaghan/The-Cookbook/issues/585
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
