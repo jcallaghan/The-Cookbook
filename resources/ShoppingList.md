@@ -26,6 +26,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Optional)||
 |[Pomodoro tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pomodoro%20tomatoes)||
 
+## 🗒️ Notes
+
+1. Halloumi, salsa and garlic butter kale https://www.secondnature.io/recipe/628ca18d2afc51374ec646b6
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -33,4 +37,4 @@ The following items have not been added to the shopping list as they are likey i
 S, e, a, s, o, n, i, n and g.
 
 
-_This shopping list was generated at 05-10-2023 15:06:12._
+_This shopping list was generated at 05-10-2023 15:43:12._
