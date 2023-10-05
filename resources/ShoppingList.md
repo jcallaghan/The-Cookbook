@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 04-Oct 2023 - Sat 14-Oct 2023
+Thu 05-Oct 2023 - Sun 15-Oct 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -9,7 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 05-Oct 2023|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
-||[Chicken and chorizo skewers #513](https://github.com/jcallaghan/The-Cookbook/issues/513)|
+|Fri 06-Oct 2023|[Chicken and chorizo skewers #513](https://github.com/jcallaghan/The-Cookbook/issues/513)|
 
 ## 🛒 Shopping List
 
@@ -26,23 +26,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Optional)||
 |[Pomodoro tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pomodoro%20tomatoes)||
 
-## 🗒️ Notes
-
-1. Poached Salmon in Coconut Lime Curry https://www.instagram.com/reel/Cw0kiHrprm2/
-
-4 filets of salmon
-4 cloves of garlic
-1 inch ginger
-3 chilis
-2 tsp or more palm sugar
-1 tbsp panang curry paste
-a few splashes fish sauce
-1 can coconut cream or milk
-1 lime juiced
-1/2 a lime zest
-salt to taste (~1 tsp)
-cilantro and spring onion for garnish
-
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -50,4 +33,4 @@ The following items have not been added to the shopping list as they are likey i
 S, e, a, s, o, n, i, n and g.
 
 
-_This shopping list was generated at 04-10-2023 17:17:07._
+_This shopping list was generated at 05-10-2023 15:06:12._
