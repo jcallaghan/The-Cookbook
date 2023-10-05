@@ -31,6 +31,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Sticky teriyaki fried beef https://www.instagram.com/p/Cxa_oAaJCbJ/
 1. Honey Garlic Chicken Pitas https://www.instagram.com/reel/CwiLIQUKLa-
 1. Chicken Mascarpone Pasta https://www.instagram.com/reel/CwiXgiuqRmq
 
@@ -41,4 +42,4 @@ The following items have not been added to the shopping list as they are likey i
 S, e, a, s, o, n, i, n and g.
 
 
-_This shopping list was generated at 05-10-2023 15:52:41._
+_This shopping list was generated at 05-10-2023 15:57:12._
