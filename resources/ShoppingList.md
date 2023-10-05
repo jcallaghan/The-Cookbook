@@ -29,6 +29,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Optional)||
 |[Pomodoro tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pomodoro%20tomatoes)||
 
+## 🗒️ Notes
+
+1. Chicken Mascarpone Pasta https://www.instagram.com/reel/CwiXgiuqRmq
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -36,4 +40,4 @@ The following items have not been added to the shopping list as they are likey i
 S, e, a, s, o, n, i, n and g.
 
 
-_This shopping list was generated at 05-10-2023 15:48:07._
+_This shopping list was generated at 05-10-2023 15:50:13._
