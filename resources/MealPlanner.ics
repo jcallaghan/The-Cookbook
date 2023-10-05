@@ -21,50 +21,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5c6f5326-a758-4879-b5d1-04319becb778
-DTSTAMP:20231004T171709
-DTSTART:20231004T184500
-DTEND:20231004T203000
-SUMMARY:Poached Salmon in Coconut Lime Curry https://www.instagram.com/reel/Cw0kiHrprm2/
-
-4 filets of salmon
-4 cloves of garlic
-1 inch ginger
-3 chilis
-2 tsp or more palm sugar
-1 tbsp panang curry paste
-a few splashes fish sauce
-1 can coconut cream or milk
-1 lime juiced
-1/2 a lime zest
-salt to taste (~1 tsp)
-cilantro and spring onion for garnish for dinner
-DESCRIPTION:Note: Poached Salmon in Coconut Lime Curry https://www.instagram.com/reel/Cw0kiHrprm2/
-
-4 filets of salmon
-4 cloves of garlic
-1 inch ginger
-3 chilis
-2 tsp or more palm sugar
-1 tbsp panang curry paste
-a few splashes fish sauce
-1 can coconut cream or milk
-1 lime juiced
-1/2 a lime zest
-salt to taste (~1 tsp)
-cilantro and spring onion for garnish
+UID:197b7e24-fff1-4675-86c0-6f5d9cc7e62e
+DTSTAMP:20231005T150605
+DTSTART:20231005T184500
+DTEND:20231005T203000
+SUMMARY:Crab pasta salad or sandwich filler #9 for dinner
+DESCRIPTION:Crab pasta salad or sandwich filler #9 - https://github.com/jcallaghan/The-Cookbook/issues/9
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5f22290e-9407-4451-a761-a59fb0777a0d
-DTSTAMP:20231004T171711
-DTSTART:20231005T184500
-DTEND:20231005T203000
-SUMMARY:Crab pasta salad or sandwich filler #9 and Chicken and chorizo skewers #513 for dinner
-DESCRIPTION:Crab pasta salad or sandwich filler #9 - https://github.com/jcallaghan/The-Cookbook/issues/9
-Chicken and chorizo skewers #513 - https://github.com/jcallaghan/The-Cookbook/issues/513
+UID:30b5b9ce-9fa7-464f-8ad9-7ce682fae00a
+DTSTAMP:20231005T150605
+DTSTART:20231006T184500
+DTEND:20231006T203000
+SUMMARY:Chicken and chorizo skewers #513 for dinner
+DESCRIPTION:Chicken and chorizo skewers #513 - https://github.com/jcallaghan/The-Cookbook/issues/513
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
