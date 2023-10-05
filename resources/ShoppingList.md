@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 05-Oct 2023|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
 |Fri 06-Oct 2023|[Chicken and chorizo skewers #513](https://github.com/jcallaghan/The-Cookbook/issues/513)|
 |Mon 09-Oct 2023|[Halloumi, salsa and garlic butter kale  #581](https://github.com/jcallaghan/The-Cookbook/issues/581)|
+|Tue 10-Oct 2023|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
 |Wed 11-Oct 2023|[Brown butter fish #582](https://github.com/jcallaghan/The-Cookbook/issues/582)|
 
 ## 🛒 Shopping List
@@ -35,4 +36,4 @@ The following items have not been added to the shopping list as they are likey i
 S, e, a, s, o, n, i, n and g.
 
 
-_This shopping list was generated at 05-10-2023 15:45:44._
+_This shopping list was generated at 05-10-2023 15:48:07._
