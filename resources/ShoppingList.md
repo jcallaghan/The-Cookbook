@@ -11,9 +11,11 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 05-Oct 2023|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
 |Fri 06-Oct 2023|[Chicken and chorizo skewers #513](https://github.com/jcallaghan/The-Cookbook/issues/513)|
 |Sat 07-Oct 2023|[Sticky teriyaki fried beef #583](https://github.com/jcallaghan/The-Cookbook/issues/583)|
+|Sun 08-Oct 2023|[Honey Garlic Chicken Pitas #584](https://github.com/jcallaghan/The-Cookbook/issues/584)|
 |Mon 09-Oct 2023|[Halloumi, salsa and garlic butter kale  #581](https://github.com/jcallaghan/The-Cookbook/issues/581)|
 |Tue 10-Oct 2023|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
 |Wed 11-Oct 2023|[Brown butter fish #582](https://github.com/jcallaghan/The-Cookbook/issues/582)|
+|Thu 12-Oct 2023|[Chicken Mascarpone Pasta  #585](https://github.com/jcallaghan/The-Cookbook/issues/585)|
 
 ## 🛒 Shopping List
 
@@ -30,38 +32,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Optional)||
 |[Pomodoro tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pomodoro%20tomatoes)||
 
-## 🗒️ Notes
-
-1. Honey Garlic Chicken Pitas 
-
-Chicken:
-• 300g chicken breast, chopped
-• 1 tsp olive oil
-• 1 tbsp low sodium soy sauce
-• 1 tsp vinegar
-• squeeze of half a lemon
-• 1 tbsp minced garlic
-• 1 tsp paprika, chili powder and a crack of pepper
-• optional: pinch of salt (approx. 1/8 tsp)
-• 1 tbsp honey
--
-Pita:
-• 1 pita, cut in halves (I used 38g whole wheat)
-• chopped lettuce
-• sliced tomatoes
-• sliced onions (red or white)
-• drizzle of yogurt (approx 2 tbsp for each pita)
--
-Notes:
-• If you have the time, grate some lemon zest on your chicken for extra flavour.
-• I like to have the yogurt plain, but you can add extra ingredients to your liking such as salt, dill, lemon, garlic, etc.
-• When meal prepping, do NOT build the pita until eating. Simply deconstruct all ingredients in a container!
--
-Yields: 2 pitas
-
-https://www.instagram.com/reel/CwiLIQUKLa-
-1. Chicken Mascarpone Pasta https://www.instagram.com/reel/CwiXgiuqRmq
-
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -69,4 +39,4 @@ The following items have not been added to the shopping list as they are likey i
 S, e, a, s, o, n, i, n and g.
 
 
-_This shopping list was generated at 05-10-2023 16:04:10._
+_This shopping list was generated at 05-10-2023 16:05:07._
