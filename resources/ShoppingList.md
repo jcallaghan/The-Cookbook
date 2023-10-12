@@ -14,6 +14,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Doritos chicken wrap #434](https://github.com/jcallaghan/The-Cookbook/issues/434)|
 |Sun 15-Oct 2023|[Smoky chicken and black bean stew #502](https://github.com/jcallaghan/The-Cookbook/issues/502)|
 |Tue 17-Oct 2023|[Chilli con carne #319](https://github.com/jcallaghan/The-Cookbook/issues/319)|
+|Thu 19-Oct 2023|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
 
 ## 🛒 Shopping List
 
@@ -56,4 +57,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic cloves, Smoked paprika, Soy sauce and Tomato purée.
 
 
-_This shopping list was generated at 12-10-2023 20:08:11._
+_This shopping list was generated at 12-10-2023 20:24:45._
