@@ -47,6 +47,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Avocado cream cheese eggs
 1. Jas parents
 
 ## 🏪 Pantry Ingredients
@@ -56,4 +57,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Smoked paprika and Tomato purée.
 
 
-_This shopping list was generated at 12-10-2023 20:32:11._
+_This shopping list was generated at 12-10-2023 20:33:08._
