@@ -1,6 +1,6 @@
 # Shopping List
 
-Mon 09-Oct 2023 - Thu 19-Oct 2023
+Thu 12-Oct 2023 - Sun 22-Oct 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,9 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Mon 09-Oct 2023|[Brown butter fish #582](https://github.com/jcallaghan/The-Cookbook/issues/582)|
-|Tue 10-Oct 2023|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
-|Wed 11-Oct 2023|[Halloumi, salsa and garlic butter kale  #581](https://github.com/jcallaghan/The-Cookbook/issues/581)|
 |Thu 12-Oct 2023|[Chicken Mascarpone Pasta  #585](https://github.com/jcallaghan/The-Cookbook/issues/585)|
 |Sat 14-Oct 2023|[General TSO's Chicken #424](https://github.com/jcallaghan/The-Cookbook/issues/424)|
 ||[Doritos chicken wrap #434](https://github.com/jcallaghan/The-Cookbook/issues/434)|
@@ -53,4 +50,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic cloves, Smoked paprika, Soy sauce and Tomato purée.
 
 
-_This shopping list was generated at 09-10-2023 17:10:17._
+_This shopping list was generated at 12-10-2023 18:03:06._
