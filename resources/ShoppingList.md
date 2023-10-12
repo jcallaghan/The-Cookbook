@@ -11,7 +11,6 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 12-Oct 2023|[Chicken stuffed with mascarpone and roasted pepper and garlic #592](https://github.com/jcallaghan/The-Cookbook/issues/592)|
 ||[Chicken Mascarpone Pasta  #585](https://github.com/jcallaghan/The-Cookbook/issues/585)|
 |Sat 14-Oct 2023|[General TSO's Chicken #424](https://github.com/jcallaghan/The-Cookbook/issues/424)|
-||[Doritos chicken wrap #434](https://github.com/jcallaghan/The-Cookbook/issues/434)|
 |Sun 15-Oct 2023|[Smoky chicken and black bean stew #502](https://github.com/jcallaghan/The-Cookbook/issues/502)|
 |Tue 17-Oct 2023|[Chilli con carne #319](https://github.com/jcallaghan/The-Cookbook/issues/319)|
 |Wed 18-Oct 2023|[Crispy chicken mediterranean salad #593](https://github.com/jcallaghan/The-Cookbook/issues/593)|
@@ -58,4 +57,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic cloves, Smoked paprika, Soy sauce and Tomato purée.
 
 
-_This shopping list was generated at 12-10-2023 20:25:52._
+_This shopping list was generated at 12-10-2023 20:27:13._
