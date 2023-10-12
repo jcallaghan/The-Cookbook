@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 13-Oct 2023|[Smoked salmon crackers #594](https://github.com/jcallaghan/The-Cookbook/issues/594)|
 |Sat 14-Oct 2023|[Cavolo Nero and Chorizo Eggs #460](https://github.com/jcallaghan/The-Cookbook/issues/460)|
 |Sun 15-Oct 2023|[Smoky chicken and black bean stew #502](https://github.com/jcallaghan/The-Cookbook/issues/502)|
+|Mon 16-Oct 2023|[Quinoa chickpea and chicken salad #543](https://github.com/jcallaghan/The-Cookbook/issues/543)|
 |Tue 17-Oct 2023|[Chilli con carne #319](https://github.com/jcallaghan/The-Cookbook/issues/319)|
 |Wed 18-Oct 2023|[Crispy chicken mediterranean salad #593](https://github.com/jcallaghan/The-Cookbook/issues/593)|
 |Thu 19-Oct 2023|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
@@ -49,6 +50,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Avocado cream cheese eggs
 1. Jas parents
+1. Quinoa feta salad and chicken
 
 ## 🏪 Pantry Ingredients
 
@@ -57,4 +59,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Smoked paprika and Tomato purée.
 
 
-_This shopping list was generated at 12-10-2023 20:33:08._
+_This shopping list was generated at 12-10-2023 20:40:45._
