@@ -45,6 +45,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[White onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20onions)|1|
 |[X 2kg/4lb 8oz pumpkin (optional)](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%202kg/4lb%208oz%20pumpkin%20(optional))|1|
 
+## 🗒️ Notes
+
+1. Jas parents
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -52,4 +56,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic cloves, Smoked paprika, Soy sauce and Tomato purée.
 
 
-_This shopping list was generated at 12-10-2023 20:07:02._
+_This shopping list was generated at 12-10-2023 20:08:11._
