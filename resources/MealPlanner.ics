@@ -21,20 +21,20 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:43976be4-ef3f-4542-a750-8a68ddc76273
-DTSTAMP:20231012T200434
+UID:61dc9786-7149-4c51-a592-efb2d524d057
+DTSTAMP:20231012T200607
 DTSTART:20231012T184500
 DTEND:20231012T203000
-SUMMARY:Chicken stuffed with mascarpone and roasted pepper and garlic and Chicken Mascarpone Pasta  #585 for dinner
-DESCRIPTION:Note: Chicken stuffed with mascarpone and roasted pepper and garlic
+SUMMARY:Chicken stuffed with mascarpone and roasted pepper and garlic #592 and Chicken Mascarpone Pasta  #585 for dinner
+DESCRIPTION:Chicken stuffed with mascarpone and roasted pepper and garlic #592 - https://github.com/jcallaghan/The-Cookbook/issues/592
 Chicken Mascarpone Pasta  #585 - https://github.com/jcallaghan/The-Cookbook/issues/585
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c780175a-600c-4e06-9323-edcfb0506e6e
-DTSTAMP:20231012T200436
+UID:dc444a45-19dc-4cc2-97b0-439ff06545a1
+DTSTAMP:20231012T200609
 DTSTART:20231014T184500
 DTEND:20231014T203000
 SUMMARY:General TSO's Chicken #424 and Doritos chicken wrap #434 for dinner
@@ -45,8 +45,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a02d1e36-925c-432d-9561-f2de62153496
-DTSTAMP:20231012T200437
+UID:9993ad96-e38b-4ecf-b656-5d676d8e57f2
+DTSTAMP:20231012T200610
 DTSTART:20231015T184500
 DTEND:20231015T203000
 SUMMARY:Smoky chicken and black bean stew #502 for dinner
