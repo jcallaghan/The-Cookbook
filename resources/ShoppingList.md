@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 14-Oct 2023|[General TSO's Chicken #424](https://github.com/jcallaghan/The-Cookbook/issues/424)|
 ||[Doritos chicken wrap #434](https://github.com/jcallaghan/The-Cookbook/issues/434)|
 |Sun 15-Oct 2023|[Smoky chicken and black bean stew #502](https://github.com/jcallaghan/The-Cookbook/issues/502)|
+|Tue 17-Oct 2023|[Chilli con carne #319](https://github.com/jcallaghan/The-Cookbook/issues/319)|
 
 ## 🛒 Shopping List
 
@@ -51,4 +52,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic cloves, Smoked paprika, Soy sauce and Tomato purée.
 
 
-_This shopping list was generated at 12-10-2023 20:06:12._
+_This shopping list was generated at 12-10-2023 20:07:02._
