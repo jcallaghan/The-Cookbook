@@ -16,6 +16,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 22-Oct 2023|[Rotisserie chicken #17](https://github.com/jcallaghan/The-Cookbook/issues/17)|
 |Mon 23-Oct 2023|[Lasagne  #128](https://github.com/jcallaghan/The-Cookbook/issues/128)|
 |Tue 24-Oct 2023|[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
+|Thu 26-Oct 2023|[Filo pastry parcels #105](https://github.com/jcallaghan/The-Cookbook/issues/105)|
 
 ## 🛒 Shopping List
 
@@ -67,4 +68,4 @@ The following items have not been added to the shopping list as they are likey i
 Bay leaf, Butter, Caster sugar, Flour, Garlic cloves, Olive oil, Seasoning, Tomato purée, Water and Worcestershire sauce.
 
 
-_This shopping list was generated at 19-10-2023 19:49:59._
+_This shopping list was generated at 19-10-2023 19:51:48._
