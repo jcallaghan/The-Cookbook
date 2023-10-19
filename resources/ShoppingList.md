@@ -36,6 +36,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Tinned chickpeas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tinned%20chickpeas)|200g|
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
 
+## 🗒️ Notes
+
+1. Chicken Chow Mein
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -43,4 +47,4 @@ The following items have not been added to the shopping list as they are likey i
 Caster sugar, Garlic cloves, Olive oil, Seasoning and Water.
 
 
-_This shopping list was generated at 19-10-2023 19:41:33._
+_This shopping list was generated at 19-10-2023 19:46:13._
