@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 20-Oct 2023|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 ||[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Sat 21-Oct 2023|[Smoked salmon crackers #594](https://github.com/jcallaghan/The-Cookbook/issues/594)|
+||[Charcuterie board #577](https://github.com/jcallaghan/The-Cookbook/issues/577)|
 |Sun 22-Oct 2023|[Rotisserie chicken #17](https://github.com/jcallaghan/The-Cookbook/issues/17)|
 |Mon 23-Oct 2023|[Lasagne  #128](https://github.com/jcallaghan/The-Cookbook/issues/128)|
 |Tue 24-Oct 2023|[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
@@ -56,6 +57,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Tomato onion salad
 1. Chicken Chow Mein
 
 ## 🏪 Pantry Ingredients
@@ -65,4 +67,4 @@ The following items have not been added to the shopping list as they are likey i
 Bay leaf, Butter, Caster sugar, Flour, Garlic cloves, Olive oil, Seasoning, Tomato purée, Water and Worcestershire sauce.
 
 
-_This shopping list was generated at 19-10-2023 19:48:44._
+_This shopping list was generated at 19-10-2023 19:49:59._
