@@ -15,6 +15,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 22-Oct 2023|[Rotisserie chicken #17](https://github.com/jcallaghan/The-Cookbook/issues/17)|
 |Mon 23-Oct 2023|[Lasagne  #128](https://github.com/jcallaghan/The-Cookbook/issues/128)|
 |Tue 24-Oct 2023|[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
+|Wed 25-Oct 2023|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 |Thu 26-Oct 2023|[Filo pastry parcels #105](https://github.com/jcallaghan/The-Cookbook/issues/105)|
 
 ## 🛒 Shopping List
@@ -58,7 +59,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Tomato onion salad
-1. Chicken Chow Mein
 
 ## 🏪 Pantry Ingredients
 
@@ -67,4 +67,4 @@ The following items have not been added to the shopping list as they are likey i
 Bay leaf, Butter, Caster sugar, Flour, Garlic cloves, Olive oil, Seasoning, Tomato purée, Water and Worcestershire sauce.
 
 
-_This shopping list was generated at 19-10-2023 21:31:42._
+_This shopping list was generated at 19-10-2023 21:42:32._
