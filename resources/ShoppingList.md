@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 19-Oct 2023 - Sun 29-Oct 2023
+Sun 22-Oct 2023 - Wed 01-Nov 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,13 +8,9 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 19-Oct 2023|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
-|Fri 20-Oct 2023|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
-|Sat 21-Oct 2023|[Smoked salmon crackers #594](https://github.com/jcallaghan/The-Cookbook/issues/594)|
-||[Charcuterie board #577](https://github.com/jcallaghan/The-Cookbook/issues/577)|
 |Sun 22-Oct 2023|[Rotisserie chicken #17](https://github.com/jcallaghan/The-Cookbook/issues/17)|
-|Mon 23-Oct 2023|[Lasagne  #128](https://github.com/jcallaghan/The-Cookbook/issues/128)|
-|Tue 24-Oct 2023|[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
+|Mon 23-Oct 2023|[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
+|Tue 24-Oct 2023|[Lasagne  #128](https://github.com/jcallaghan/The-Cookbook/issues/128)|
 |Wed 25-Oct 2023|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 |Thu 26-Oct 2023|[Filo pastry parcels #105](https://github.com/jcallaghan/The-Cookbook/issues/105)|
 
@@ -67,4 +63,4 @@ The following items have not been added to the shopping list as they are likey i
 Bay leaf, Butter, Caster sugar, Flour, Garlic cloves, Olive oil, Seasoning, Tomato purée, Water and Worcestershire sauce.
 
 
-_This shopping list was generated at 19-10-2023 21:42:32._
+_This shopping list was generated at 22-10-2023 13:12:33._
