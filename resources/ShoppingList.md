@@ -1,6 +1,6 @@
 # Shopping List
 
-Sun 22-Oct 2023 - Wed 01-Nov 2023
+Mon 23-Oct 2023 - Thu 02-Nov 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,11 +8,10 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Sun 22-Oct 2023|[Rotisserie chicken #17](https://github.com/jcallaghan/The-Cookbook/issues/17)|
-|Mon 23-Oct 2023|[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
-|Tue 24-Oct 2023|[Lasagne  #128](https://github.com/jcallaghan/The-Cookbook/issues/128)|
-|Wed 25-Oct 2023|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
+|Mon 23-Oct 2023|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
+|Wed 25-Oct 2023|[Lasagne  #128](https://github.com/jcallaghan/The-Cookbook/issues/128)|
 |Thu 26-Oct 2023|[Filo pastry parcels #105](https://github.com/jcallaghan/The-Cookbook/issues/105)|
+|Fri 27-Oct 2023|[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
 
 ## 🛒 Shopping List
 
@@ -63,4 +62,4 @@ The following items have not been added to the shopping list as they are likey i
 Bay leaf, Butter, Caster sugar, Flour, Garlic cloves, Olive oil, Seasoning, Tomato purée, Water and Worcestershire sauce.
 
 
-_This shopping list was generated at 22-10-2023 13:12:33._
+_This shopping list was generated at 23-10-2023 12:22:45._
