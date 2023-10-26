@@ -51,8 +51,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Steak and chips
 1. Parmigiana Burger
+1. Steak and chips
 1. Dry Rarmen - Noodles, Egg, Pak Choi, Roast Chicken/Beef
 1. Lamb Shawarma Wrap
 
@@ -63,4 +63,4 @@ The following items have not been added to the shopping list as they are likey i
 Caster sugar, Garlic cloves, Olive oil, Seasoning, Smoked paprika, Tomato purée and Water.
 
 
-_This shopping list was generated at 26-10-2023 21:00:18._
+_This shopping list was generated at 26-10-2023 21:01:39._
