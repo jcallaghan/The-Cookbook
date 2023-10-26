@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 26-Oct 2023|[Filo pastry parcels #105](https://github.com/jcallaghan/The-Cookbook/issues/105)|
+|Fri 27-Oct 2023|[Parmigiana Burger #599](https://github.com/jcallaghan/The-Cookbook/issues/599)|
 |Sun 29-Oct 2023|[Beef and Guinness stew #268](https://github.com/jcallaghan/The-Cookbook/issues/268)|
 |Mon 30-Oct 2023|[Ramen #598](https://github.com/jcallaghan/The-Cookbook/issues/598)|
 |Tue 31-Oct 2023|[Lamb Shawarma Wrap #597](https://github.com/jcallaghan/The-Cookbook/issues/597)|
@@ -53,7 +54,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Parmigiana Burger
 1. Steak and chips
 
 ## 🏪 Pantry Ingredients
@@ -63,4 +63,4 @@ The following items have not been added to the shopping list as they are likey i
 Caster sugar, Chicken stock, Garlic cloves, Olive oil, Seasoning and Water.
 
 
-_This shopping list was generated at 26-10-2023 21:17:27._
+_This shopping list was generated at 26-10-2023 21:22:01._
