@@ -36,6 +36,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Steak and chips
 1. Parmigiana Burger
+1. Dry Rarmen - Noodles, Egg, Pak Choi, Roast Chicken/Beef
 1. Lamb Shawarma Wrap
 
 ## 🏪 Pantry Ingredients
@@ -45,4 +46,4 @@ The following items have not been added to the shopping list as they are likey i
 Caster sugar, Garlic cloves, Olive oil, Seasoning and Water.
 
 
-_This shopping list was generated at 26-10-2023 20:55:01._
+_This shopping list was generated at 26-10-2023 20:58:14._
