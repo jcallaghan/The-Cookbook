@@ -10,7 +10,8 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 26-Oct 2023|[Filo pastry parcels #105](https://github.com/jcallaghan/The-Cookbook/issues/105)|
 |Sun 29-Oct 2023|[Smoky chicken and black bean stew #502](https://github.com/jcallaghan/The-Cookbook/issues/502)|
-|Mon 30-Oct 2023|[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
+|Wed 01-Nov 2023|[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
+|Thu 02-Nov 2023|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 
 ## 🛒 Shopping List
 
@@ -62,4 +63,4 @@ The following items have not been added to the shopping list as they are likey i
 Caster sugar, Garlic cloves, Olive oil, Seasoning, Smoked paprika, Tomato purée and Water.
 
 
-_This shopping list was generated at 26-10-2023 20:59:24._
+_This shopping list was generated at 26-10-2023 21:00:18._
