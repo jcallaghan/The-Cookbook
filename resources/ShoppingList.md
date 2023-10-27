@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 26-Oct 2023 - Sun 05-Nov 2023
+Fri 27-Oct 2023 - Mon 06-Nov 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,10 +8,9 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 26-Oct 2023|[Filo pastry parcels #105](https://github.com/jcallaghan/The-Cookbook/issues/105)|
-|Fri 27-Oct 2023|[Parmigiana Burger #599](https://github.com/jcallaghan/The-Cookbook/issues/599)|
+|Fri 27-Oct 2023|[Ramen #598](https://github.com/jcallaghan/The-Cookbook/issues/598)|
 |Sun 29-Oct 2023|[Beef and Guinness stew #268](https://github.com/jcallaghan/The-Cookbook/issues/268)|
-|Mon 30-Oct 2023|[Ramen #598](https://github.com/jcallaghan/The-Cookbook/issues/598)|
+|Mon 30-Oct 2023|[Parmigiana Burger #599](https://github.com/jcallaghan/The-Cookbook/issues/599)|
 |Tue 31-Oct 2023|[Lamb Shawarma Wrap #597](https://github.com/jcallaghan/The-Cookbook/issues/597)|
 |Wed 01-Nov 2023|[Fried cod with chorizo and chickpea stew #159](https://github.com/jcallaghan/The-Cookbook/issues/159)|
 |Thu 02-Nov 2023|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
@@ -63,4 +62,4 @@ The following items have not been added to the shopping list as they are likey i
 Caster sugar, Chicken stock, Garlic cloves, Olive oil, Seasoning and Water.
 
 
-_This shopping list was generated at 26-10-2023 21:22:01._
+_This shopping list was generated at 27-10-2023 17:17:30._
