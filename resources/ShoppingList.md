@@ -26,6 +26,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Spinach walnut pesto](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spinach%20walnut%20pesto)||
 |[Spinach walnut pesto (linked in bio)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spinach%20walnut%20pesto%20(linked%20in%20bio))||
 
+## 🗒️ Notes
+
+1. Chicken Rotel Pasta
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -33,4 +37,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried oregano, Garlic powder, Olive oil, Salt and Tomatoes.
 
 
-_This shopping list was generated at 02-11-2023 22:50:33._
+_This shopping list was generated at 02-11-2023 22:55:32._
