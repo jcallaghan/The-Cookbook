@@ -11,7 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 02-Nov 2023|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 |Mon 06-Nov 2023|[Chicken Milanese #601](https://github.com/jcallaghan/The-Cookbook/issues/601)|
 |Tue 07-Nov 2023|[Smoked Sausage and Rice #603](https://github.com/jcallaghan/The-Cookbook/issues/603)|
-|Wed 08-Nov 2023|[Chicken Pesto Flatbread #602](https://github.com/jcallaghan/The-Cookbook/issues/602)|
+|Thu 09-Nov 2023|[Chicken Pesto Flatbread #602](https://github.com/jcallaghan/The-Cookbook/issues/602)|
 
 ## 🛒 Shopping List
 
@@ -33,4 +33,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried oregano, Garlic powder, Olive oil, Salt and Tomatoes.
 
 
-_This shopping list was generated at 02-11-2023 22:49:37._
+_This shopping list was generated at 02-11-2023 22:50:33._
