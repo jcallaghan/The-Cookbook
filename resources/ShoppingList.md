@@ -10,3 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 02-Nov 2023|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 |Mon 06-Nov 2023|[Chicken Milanese #601](https://github.com/jcallaghan/The-Cookbook/issues/601)|
+
+## 🗒️ Notes
+
+1. Chicken Pesto Flatbread
