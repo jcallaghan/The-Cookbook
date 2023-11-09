@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 09-Nov 2023|[Chicken Pesto Flatbread #602](https://github.com/jcallaghan/The-Cookbook/issues/602)|
+|Sat 11-Nov 2023|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
 
 ## 🛒 Shopping List
 
@@ -23,6 +24,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Spinach walnut pesto](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spinach%20walnut%20pesto)||
 |[Spinach walnut pesto (linked in bio)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spinach%20walnut%20pesto%20(linked%20in%20bio))||
 
+## 🗒️ Notes
+
+1. Simple
+1. Chicken bacon from freezer
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -30,4 +36,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried oregano, Garlic powder, Olive oil, Salt and Tomatoes.
 
 
-_This shopping list was generated at 09-11-2023 18:03:05._
+_This shopping list was generated at 09-11-2023 18:05:41._
