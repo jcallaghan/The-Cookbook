@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 12-Nov 2023|[Slowcooker Pulled Beef #606](https://github.com/jcallaghan/The-Cookbook/issues/606)|
 |Tue 14-Nov 2023|[Sausage and Bean Hotpot #348](https://github.com/jcallaghan/The-Cookbook/issues/348)|
 |Wed 15-Nov 2023|[Nando's chicken rice #607](https://github.com/jcallaghan/The-Cookbook/issues/607)|
+|Thu 16-Nov 2023|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 
 ## 🛒 Shopping List
 
@@ -57,4 +58,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried oregano, Garlic cloves, Garlic powder, Olive oil, Salt, Smoked paprika, Tomato puree and Tomatoes.
 
 
-_This shopping list was generated at 09-11-2023 22:11:18._
+_This shopping list was generated at 09-11-2023 22:19:15._
