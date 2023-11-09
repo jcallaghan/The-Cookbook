@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 09-Nov 2023|[Chicken Pesto Flatbread #602](https://github.com/jcallaghan/The-Cookbook/issues/602)|
 |Sat 11-Nov 2023|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
+|Sun 12-Nov 2023|[Slowcooker Pulled Beef #606](https://github.com/jcallaghan/The-Cookbook/issues/606)|
 
 ## 🛒 Shopping List
 
@@ -36,4 +37,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried oregano, Garlic powder, Olive oil, Salt and Tomatoes.
 
 
-_This shopping list was generated at 09-11-2023 18:05:41._
+_This shopping list was generated at 09-11-2023 21:54:39._
