@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4be11a9c-b054-4370-9694-4d806c41997b
-DTSTAMP:20231116T165548
+UID:012be439-4989-418c-b45d-0e09997593ca
+DTSTAMP:20231116T165633
 DTSTART:20231116T184500
 DTEND:20231116T203000
 SUMMARY:Grilled Salmon with Greek Salad #25 for dinner
@@ -32,21 +32,31 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:32655fe0-ed27-4f64-80bf-e80a60a992a9
-DTSTAMP:20231116T165550
+UID:42575341-2779-46bc-aca2-fd5a1a2af994
+DTSTAMP:20231116T165635
 DTSTART:20231117T184500
 DTEND:20231117T203000
-SUMMARY:Parmigiana Burger #599, Chicken stuffed with mascarpone and roasted pepper and garlic #592 and Blackened Chicken with loaded Hummus #605 for dinner
-DESCRIPTION:Parmigiana Burger #599 - https://github.com/jcallaghan/The-Cookbook/issues/599
-Chicken stuffed with mascarpone and roasted pepper and garlic #592 - https://github.com/jcallaghan/The-Cookbook/issues/592
+SUMMARY:Chicken stuffed with mascarpone and roasted pepper and garlic #592 and Blackened Chicken with loaded Hummus #605 for dinner
+DESCRIPTION:Chicken stuffed with mascarpone and roasted pepper and garlic #592 - https://github.com/jcallaghan/The-Cookbook/issues/592
 Blackened Chicken with loaded Hummus #605 - https://github.com/jcallaghan/The-Cookbook/issues/605
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f4cbcfe9-38c7-442c-989f-8c3d56783800
-DTSTAMP:20231116T165552
+UID:38f8937c-20c2-4b86-a043-829ca4028fe5
+DTSTAMP:20231116T165636
+DTSTART:20231118T184500
+DTEND:20231118T203000
+SUMMARY:Parmigiana Burger #599 for dinner
+DESCRIPTION:Parmigiana Burger #599 - https://github.com/jcallaghan/The-Cookbook/issues/599
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9dcc3ee4-e664-4b0f-9ab7-4c5a0279f03f
+DTSTAMP:20231116T165637
 DTSTART:20231120T184500
 DTEND:20231120T203000
 SUMMARY:Nando's chicken rice #607 for dinner
@@ -56,8 +66,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7de9d5e3-31f1-4c96-b687-c446ec1bac95
-DTSTAMP:20231116T165553
+UID:27f44220-1e6f-4b4f-a2fe-e5b03aa805ba
+DTSTAMP:20231116T165638
 DTSTART:20231121T184500
 DTEND:20231121T203000
 SUMMARY:Slow cooked Beef Stifado & Orzo #608 for dinner
