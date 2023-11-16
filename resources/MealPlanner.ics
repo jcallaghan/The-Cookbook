@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0536bbd9-2a21-496b-9bbb-8aa410f9a635
-DTSTAMP:20231116T165001
+UID:764b335e-cfdb-4e8e-9da0-b5eaf1dbf8f1
+DTSTAMP:20231116T165058
 DTSTART:20231116T184500
 DTEND:20231116T203000
 SUMMARY:Grilled Salmon with Greek Salad #25 for dinner
@@ -32,19 +32,21 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:05532633-228c-4fed-a5b0-6e8b74796390
-DTSTAMP:20231116T165002
+UID:837d515d-b7a6-41db-a508-382ccf646ede
+DTSTAMP:20231116T165100
 DTSTART:20231117T184500
 DTEND:20231117T203000
-SUMMARY:Parmigiana Burger #599 for dinner
+SUMMARY:Parmigiana Burger #599, Chicken stuffed with mascarpone and roasted pepper and garlic #592 and Blackened Chicken with loaded Hummus #605 for dinner
 DESCRIPTION:Parmigiana Burger #599 - https://github.com/jcallaghan/The-Cookbook/issues/599
+Chicken stuffed with mascarpone and roasted pepper and garlic #592 - https://github.com/jcallaghan/The-Cookbook/issues/592
+Blackened Chicken with loaded Hummus #605 - https://github.com/jcallaghan/The-Cookbook/issues/605
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c50939d3-c712-46be-858b-e3bd46b902d1
-DTSTAMP:20231116T165004
+UID:564c40b3-2571-4151-9fcf-a2ce9ba8548e
+DTSTAMP:20231116T165102
 DTSTART:20231120T184500
 DTEND:20231120T203000
 SUMMARY:Nando's chicken rice #607 for dinner
