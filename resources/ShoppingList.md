@@ -14,6 +14,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 21-Nov 2023|[Slow cooked Beef Stifado & Orzo #608](https://github.com/jcallaghan/The-Cookbook/issues/608)|
 |Wed 22-Nov 2023|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 |Thu 23-Nov 2023|[Chicken stuffed with mascarpone and roasted pepper and garlic #592](https://github.com/jcallaghan/The-Cookbook/issues/592)|
+|Sun 26-Nov 2023|[Beef shin ragu #610](https://github.com/jcallaghan/The-Cookbook/issues/610)|
 
 ## 🛒 Shopping List
 
@@ -36,7 +37,3 @@ This shopping list has been automatically generated with the ingredients from th
 |[Tomato purée 🍅](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20purée%20🍅)|2 tbsp|
 |[X bay leaves 🍃](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20bay%20leaves%20🍃)|3|
 |[X onions 🧅](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20onions%20🧅)|1|
-
-## 🗒️ Notes
-
-1. Beef shin ragu
