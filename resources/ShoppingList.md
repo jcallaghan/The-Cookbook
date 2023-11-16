@@ -36,3 +36,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Tomato purée 🍅](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20purée%20🍅)|2 tbsp|
 |[X bay leaves 🍃](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20bay%20leaves%20🍃)|3|
 |[X onions 🧅](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20onions%20🧅)|1|
+
+## 🗒️ Notes
+
+1. Beef shin ragu
