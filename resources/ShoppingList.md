@@ -13,3 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Chicken stuffed with mascarpone and roasted pepper and garlic #592](https://github.com/jcallaghan/The-Cookbook/issues/592)|
 ||[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
 |Mon 20-Nov 2023|[Nando's chicken rice #607](https://github.com/jcallaghan/The-Cookbook/issues/607)|
+
+## 🗒️ Notes
+
+1. Slow cooked Beef Stifado & Orzo
