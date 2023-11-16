@@ -21,31 +21,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:012be439-4989-418c-b45d-0e09997593ca
-DTSTAMP:20231116T165633
-DTSTART:20231116T184500
-DTEND:20231116T203000
-SUMMARY:Grilled Salmon with Greek Salad #25 for dinner
-DESCRIPTION:Grilled Salmon with Greek Salad #25 - https://github.com/jcallaghan/The-Cookbook/issues/25
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:42575341-2779-46bc-aca2-fd5a1a2af994
-DTSTAMP:20231116T165635
+UID:dfa141f4-256b-4308-9876-2c1f3f45d0b2
+DTSTAMP:20231116T165717
 DTSTART:20231117T184500
 DTEND:20231117T203000
-SUMMARY:Chicken stuffed with mascarpone and roasted pepper and garlic #592 and Blackened Chicken with loaded Hummus #605 for dinner
-DESCRIPTION:Chicken stuffed with mascarpone and roasted pepper and garlic #592 - https://github.com/jcallaghan/The-Cookbook/issues/592
-Blackened Chicken with loaded Hummus #605 - https://github.com/jcallaghan/The-Cookbook/issues/605
+SUMMARY:Blackened Chicken with loaded Hummus #605 for dinner
+DESCRIPTION:Blackened Chicken with loaded Hummus #605 - https://github.com/jcallaghan/The-Cookbook/issues/605
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:38f8937c-20c2-4b86-a043-829ca4028fe5
-DTSTAMP:20231116T165636
+UID:3f3b417e-85bc-4e36-9617-ffd4e2149341
+DTSTAMP:20231116T165718
 DTSTART:20231118T184500
 DTEND:20231118T203000
 SUMMARY:Parmigiana Burger #599 for dinner
@@ -55,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9dcc3ee4-e664-4b0f-9ab7-4c5a0279f03f
-DTSTAMP:20231116T165637
+UID:785d1a68-4eb3-468b-b9ce-160c9f77d31d
+DTSTAMP:20231116T165719
 DTSTART:20231120T184500
 DTEND:20231120T203000
 SUMMARY:Nando's chicken rice #607 for dinner
@@ -66,12 +54,34 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:27f44220-1e6f-4b4f-a2fe-e5b03aa805ba
-DTSTAMP:20231116T165638
+UID:80bc4275-ea2f-4740-a4e6-f009290a50e7
+DTSTAMP:20231116T165720
 DTSTART:20231121T184500
 DTEND:20231121T203000
 SUMMARY:Slow cooked Beef Stifado & Orzo #608 for dinner
 DESCRIPTION:Slow cooked Beef Stifado & Orzo #608 - https://github.com/jcallaghan/The-Cookbook/issues/608
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:22d6c473-e30a-41ae-a757-29908a4c6b62
+DTSTAMP:20231116T165722
+DTSTART:20231122T184500
+DTEND:20231122T203000
+SUMMARY:Grilled Salmon with Greek Salad #25 for dinner
+DESCRIPTION:Grilled Salmon with Greek Salad #25 - https://github.com/jcallaghan/The-Cookbook/issues/25
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:63788a1d-27c5-4252-b26a-8fcb3fb40921
+DTSTAMP:20231116T165722
+DTSTART:20231123T184500
+DTEND:20231123T203000
+SUMMARY:Chicken stuffed with mascarpone and roasted pepper and garlic #592 for dinner
+DESCRIPTION:Chicken stuffed with mascarpone and roasted pepper and garlic #592 - https://github.com/jcallaghan/The-Cookbook/issues/592
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
