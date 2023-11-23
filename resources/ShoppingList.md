@@ -10,3 +10,4 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 23-Nov 2023|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 |Sun 26-Nov 2023|[Beef shin ragu #610](https://github.com/jcallaghan/The-Cookbook/issues/610)|
+|Thu 30-Nov 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
