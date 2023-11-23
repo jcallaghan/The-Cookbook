@@ -38,6 +38,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)||
 |[Total time: 25 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2025%20minutes)||
 
+## 🗒️ Notes
+
+1. Nando's bag
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -45,4 +49,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking soda, Chicken stock, Cornflour, Crushed chillies, Garlic cloves, Light brown sugar, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 23-11-2023 20:17:53._
+_This shopping list was generated at 23-11-2023 20:18:31._
