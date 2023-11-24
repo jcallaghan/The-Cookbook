@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 23-Nov 2023 - Sun 03-Dec 2023
+Fri 24-Nov 2023 - Mon 04-Dec 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 23-Nov 2023|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 |Sun 26-Nov 2023|[Beef shin ragu #610](https://github.com/jcallaghan/The-Cookbook/issues/610)|
 |Mon 27-Nov 2023|[Beef and broccoli stir-fry #6](https://github.com/jcallaghan/The-Cookbook/issues/6)|
 |Tue 28-Nov 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
@@ -54,4 +53,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking soda, Chicken stock, Cornflour, Crushed chillies, Dried basil, Garlic cloves, Light brown sugar, Seasoning, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce, Tomato purée and Vegetable oil.
 
 
-_This shopping list was generated at 23-11-2023 20:30:19._
+_This shopping list was generated at 24-11-2023 18:01:18._
