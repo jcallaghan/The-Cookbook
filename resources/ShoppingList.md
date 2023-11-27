@@ -1,6 +1,6 @@
 # Shopping List
 
-Fri 24-Nov 2023 - Mon 04-Dec 2023
+Mon 27-Nov 2023 - Thu 07-Dec 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,11 +8,10 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Sun 26-Nov 2023|[Beef shin ragu #610](https://github.com/jcallaghan/The-Cookbook/issues/610)|
 |Mon 27-Nov 2023|[Beef and broccoli stir-fry #6](https://github.com/jcallaghan/The-Cookbook/issues/6)|
-|Tue 28-Nov 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
+|Tue 28-Nov 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Wed 29-Nov 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
-|Thu 30-Nov 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
+|Thu 30-Nov 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
 |Fri 01-Dec 2023|[Red pepper dip #12](https://github.com/jcallaghan/The-Cookbook/issues/12)|
 
 ## 🛒 Shopping List
@@ -53,4 +52,4 @@ The following items have not been added to the shopping list as they are likey i
 Baking soda, Chicken stock, Cornflour, Crushed chillies, Dried basil, Garlic cloves, Light brown sugar, Seasoning, Sesame oil, Sesame seeds, Smoked paprika, Soy sauce, Tomato purée and Vegetable oil.
 
 
-_This shopping list was generated at 25-11-2023 00:16:48._
+_This shopping list was generated at 27-11-2023 20:53:31._
