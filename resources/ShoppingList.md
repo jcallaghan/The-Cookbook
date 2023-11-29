@@ -1,6 +1,6 @@
 # Shopping List
 
-Tue 28-Nov 2023 - Fri 08-Dec 2023
+Wed 29-Nov 2023 - Sat 09-Dec 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Tue 28-Nov 2023|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Wed 29-Nov 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 |Thu 30-Nov 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
 |Fri 01-Dec 2023|[Red pepper dip #12](https://github.com/jcallaghan/The-Cookbook/issues/12)|
@@ -39,4 +38,4 @@ The following items have not been added to the shopping list as they are likey i
 Crushed chillies, Dried basil, Garlic cloves, Seasoning, Smoked paprika and Tomato purée.
 
 
-_This shopping list was generated at 28-11-2023 23:02:08._
+_This shopping list was generated at 29-11-2023 13:38:34._
