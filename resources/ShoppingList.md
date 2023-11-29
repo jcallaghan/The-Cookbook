@@ -8,8 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 29-Nov 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
-|Thu 30-Nov 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
+|Wed 29-Nov 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
+|Thu 30-Nov 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 |Fri 01-Dec 2023|[Red pepper dip #12](https://github.com/jcallaghan/The-Cookbook/issues/12)|
 
 ## 🛒 Shopping List
@@ -38,4 +38,4 @@ The following items have not been added to the shopping list as they are likey i
 Crushed chillies, Dried basil, Garlic cloves, Seasoning, Smoked paprika and Tomato purée.
 
 
-_This shopping list was generated at 29-11-2023 13:38:34._
+_This shopping list was generated at 29-11-2023 18:54:37._
