@@ -18,6 +18,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 05-Dec 2023|[Chilli con carne #397](https://github.com/jcallaghan/The-Cookbook/issues/397)|
 |Wed 06-Dec 2023|[Fish salad #10](https://github.com/jcallaghan/The-Cookbook/issues/10)|
 ||[Potato salad #36](https://github.com/jcallaghan/The-Cookbook/issues/36)|
+|Thu 07-Dec 2023|[Ramen #598](https://github.com/jcallaghan/The-Cookbook/issues/598)|
 
 ## 🛒 Shopping List
 
@@ -52,4 +53,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour, Garlic cloves, Garlic powder, Plain flour and Vegetable oil.
 
 
-_This shopping list was generated at 30-11-2023 22:27:38._
+_This shopping list was generated at 30-11-2023 22:33:24._
