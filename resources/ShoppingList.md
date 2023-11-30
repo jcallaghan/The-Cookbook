@@ -15,7 +15,8 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Yorkshire puddings #294](https://github.com/jcallaghan/The-Cookbook/issues/294)|
 |Mon 04-Dec 2023|[Nando's chicken rice #607](https://github.com/jcallaghan/The-Cookbook/issues/607)|
 |Tue 05-Dec 2023|[Chilli con carne #397](https://github.com/jcallaghan/The-Cookbook/issues/397)|
-|Wed 06-Dec 2023|[Potato salad #36](https://github.com/jcallaghan/The-Cookbook/issues/36)|
+|Wed 06-Dec 2023|[Fish salad #10](https://github.com/jcallaghan/The-Cookbook/issues/10)|
+||[Potato salad #36](https://github.com/jcallaghan/The-Cookbook/issues/36)|
 
 ## 🛒 Shopping List
 
@@ -60,4 +61,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Flour, Garlic cloves, Garlic powder, Plain flour, Salt, Tomato purée and Vegetable oil.
 
 
-_This shopping list was generated at 30-11-2023 22:16:31._
+_This shopping list was generated at 30-11-2023 22:17:23._
