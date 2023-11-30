@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 29-Nov 2023 - Sat 09-Dec 2023
+Thu 30-Nov 2023 - Sun 10-Dec 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 29-Nov 2023|[Spaghetti Carbonara #455](https://github.com/jcallaghan/The-Cookbook/issues/455)|
 |Thu 30-Nov 2023|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 |Fri 01-Dec 2023|[Red pepper dip #12](https://github.com/jcallaghan/The-Cookbook/issues/12)|
 
@@ -16,15 +15,9 @@ This shopping list has been automatically generated with the ingredients from th
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
-|[Black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20peppers)|2g/.07oz|
 |[Chipotle chillies flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chipotle%20chillies%20flakes)|2 tbsp|
-|[Eggs yolks organic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20yolks%20organic)|4|
-|[Guanciale / pancetta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Guanciale%20/%20pancetta)|200g/7oz|
-|[Part grana padano cheese grated (parm reggiano as substitute)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Part%20grana%20padano%20cheese%20grated%20(parm%20reggiano%20as%20substitute))|30g/1oz|
-|[Part pecorino romano cheese grated](https://www.sainsburys.co.uk/gol-ui/SearchResults/Part%20pecorino%20romano%20cheese%20grated)|20g/.7oz|
 |[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|3|
 |[Shallots onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots%20onions)|1|
-|[Spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spaghetti)|280g/10oz|
 |[X 400g can tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20can%20tomatoes)|1|
 
 ## 🗒️ Notes
@@ -38,4 +31,4 @@ The following items have not been added to the shopping list as they are likey i
 Crushed chillies, Dried basil, Garlic cloves, Seasoning, Smoked paprika and Tomato purée.
 
 
-_This shopping list was generated at 29-11-2023 23:48:03._
+_This shopping list was generated at 30-11-2023 18:03:18._
