@@ -8,4 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Tue 12-Dec 2023|[Ramen #598](https://github.com/jcallaghan/The-Cookbook/issues/598)|
+|Thu 14-Dec 2023|[Ramen #598](https://github.com/jcallaghan/The-Cookbook/issues/598)|
+
+## 🗒️ Notes
+
+1. Solo dinner
