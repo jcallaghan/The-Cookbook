@@ -24,7 +24,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Xmas markets
 1. Nando's bag
-1. Solo dinner
 
 ## 🏪 Pantry Ingredients
 
@@ -33,4 +32,4 @@ The following items have not been added to the shopping list as they are likey i
 Crushed chillies, Dried basil, Garlic cloves, Seasoning, Smoked paprika and Tomato purée.
 
 
-_This shopping list was generated at 07-12-2023 20:45:44._
+_This shopping list was generated at 07-12-2023 20:46:44._
