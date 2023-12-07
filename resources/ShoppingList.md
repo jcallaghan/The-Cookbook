@@ -11,8 +11,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 08-Dec 2023|[Pesto Chicken Bread #613](https://github.com/jcallaghan/The-Cookbook/issues/613)|
 |Sat 09-Dec 2023|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
 |Mon 11-Dec 2023|[Nando's spicy rice #110](https://github.com/jcallaghan/The-Cookbook/issues/110)|
-|Tue 12-Dec 2023|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
-|Wed 13-Dec 2023|[Coconut curry #101](https://github.com/jcallaghan/The-Cookbook/issues/101)|
+|Tue 12-Dec 2023|[Coconut curry #101](https://github.com/jcallaghan/The-Cookbook/issues/101)|
+|Wed 13-Dec 2023|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Thu 14-Dec 2023|[Ramen #598](https://github.com/jcallaghan/The-Cookbook/issues/598)|
 
 ## 🛒 Shopping List
@@ -40,4 +40,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Coconut oil, Crushed chillies, Cumin, Garam masala, Garlic cloves, Olive oil, Seasoning, Smoked paprika, Tomato purée, Turmeric and Water.
 
 
-_This shopping list was generated at 07-12-2023 21:15:40._
+_This shopping list was generated at 07-12-2023 21:17:18._
