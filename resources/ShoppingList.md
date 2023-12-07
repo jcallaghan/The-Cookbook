@@ -8,6 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
+|Sat 09-Dec 2023|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
 |Mon 11-Dec 2023|[Red pepper dip #12](https://github.com/jcallaghan/The-Cookbook/issues/12)|
 |Thu 14-Dec 2023|[Ramen #598](https://github.com/jcallaghan/The-Cookbook/issues/598)|
 
@@ -32,4 +33,4 @@ The following items have not been added to the shopping list as they are likey i
 Crushed chillies, Dried basil, Garlic cloves, Seasoning, Smoked paprika and Tomato purée.
 
 
-_This shopping list was generated at 07-12-2023 20:46:44._
+_This shopping list was generated at 07-12-2023 20:52:58._
