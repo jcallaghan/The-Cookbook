@@ -111,6 +111,7 @@ https://www.bbc.co.uk/food/recipes/roast_chicken_smoked_72338
 1. Home made pasta - crab?
 1. Jas out
 1. Phil over
+1. Pea puree, scallop and chorizo
 1. Next door
 
 ## 🏪 Pantry Ingredients
@@ -120,4 +121,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Coconut oil, Crushed chillies, Cumin, Flour, Garam masala, Garlic cloves, Olive oil, Salt, Seasoning, Smoked paprika, Tomato purée, Turmeric and Water.
 
 
-_This shopping list was generated at 09-12-2023 23:47:37._
+_This shopping list was generated at 09-12-2023 23:50:40._
