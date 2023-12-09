@@ -1,6 +1,6 @@
 # Shopping List
 
-Sat 09-Dec 2023 - Thu 21-Dec 2023
+Sat 09-Dec 2023 - Tue 26-Dec 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -39,4 +39,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Coconut oil, Crushed chillies, Cumin, Garam masala, Garlic cloves, Olive oil, Seasoning, Smoked paprika, Tomato purée, Turmeric and Water.
 
 
-_This shopping list was generated at 09-12-2023 23:34:23._
+_This shopping list was generated at 09-12-2023 23:35:48._
