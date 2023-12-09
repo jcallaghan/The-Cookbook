@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 07-Dec 2023 - Sun 17-Dec 2023
+Sat 09-Dec 2023 - Thu 21-Dec 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Fri 08-Dec 2023|[Pesto Chicken Bread #613](https://github.com/jcallaghan/The-Cookbook/issues/613)|
 |Sat 09-Dec 2023|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
 |Mon 11-Dec 2023|[Nando's spicy rice #110](https://github.com/jcallaghan/The-Cookbook/issues/110)|
 |Tue 12-Dec 2023|[Coconut curry #101](https://github.com/jcallaghan/The-Cookbook/issues/101)|
@@ -40,4 +39,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Coconut oil, Crushed chillies, Cumin, Garam masala, Garlic cloves, Olive oil, Seasoning, Smoked paprika, Tomato purée, Turmeric and Water.
 
 
-_This shopping list was generated at 07-12-2023 21:17:18._
+_This shopping list was generated at 09-12-2023 23:34:23._
