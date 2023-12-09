@@ -1,6 +1,6 @@
 # Shopping List
 
-Sat 09-Dec 2023 - Tue 26-Dec 2023
+Sat 09-Dec 2023 - Wed 27-Dec 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 12-Dec 2023|[Coconut curry #101](https://github.com/jcallaghan/The-Cookbook/issues/101)|
 |Wed 13-Dec 2023|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Thu 14-Dec 2023|[Ramen #598](https://github.com/jcallaghan/The-Cookbook/issues/598)|
+|Mon 25-Dec 2023|[Roast potatoes  #81](https://github.com/jcallaghan/The-Cookbook/issues/81)|
 
 ## 🛒 Shopping List
 
@@ -39,4 +40,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Coconut oil, Crushed chillies, Cumin, Garam masala, Garlic cloves, Olive oil, Seasoning, Smoked paprika, Tomato purée, Turmeric and Water.
 
 
-_This shopping list was generated at 09-12-2023 23:35:48._
+_This shopping list was generated at 09-12-2023 23:36:39._
