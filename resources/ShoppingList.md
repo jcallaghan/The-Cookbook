@@ -28,6 +28,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 25-Dec 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 ||[Roast potatoes  #81](https://github.com/jcallaghan/The-Cookbook/issues/81)|
 ||[Cauliflower cheese #111](https://github.com/jcallaghan/The-Cookbook/issues/111)|
+||[Oli's sourdough bread 🍞 #88](https://github.com/jcallaghan/The-Cookbook/issues/88)|
 
 ## 🛒 Shopping List
 
@@ -55,10 +56,13 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cucumber)|1|
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|5|
+|[Flour (22g whole](https://www.sainsburys.co.uk/gol-ui/SearchResults/Flour%20(22g%20whole)|65g|
 |[Fresh coriander](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20coriander)||
 |[Fresh lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemon%20juice)|30ml|
 |[Ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger)|2 tsp|
+|[I had made 75% hydration sourdough with 10% wholemeal flour. for that](https://www.sainsburys.co.uk/gol-ui/SearchResults/I%20had%20made%2075%%20hydration%20sourdough%20with%2010%%20wholemeal%20flour.%20for%20that)||
 |[Large cauliflower](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20cauliflower)|1|
+|[Leaven (14g starter 100% hydration)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Leaven%20(14g%20starter%20100%%20hydration))|120g|
 |[Long grain rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Long%20grain%20rice)|300g|
 |[Midori (or other melon liqueur)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Midori%20(or%20other%20melon%20liqueur))|30ml|
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|150ml|
@@ -85,6 +89,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Tobiko (or masago)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tobiko%20(or%20masago))|50g|
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
+|[Water with evaporation etc you’ll end up with 120g fermented dough (let this ripen).](https://www.sainsburys.co.uk/gol-ui/SearchResults/Water%20with%20evaporation%20etc%20you’ll%20end%20up%20with%20120g%20fermented%20dough%20(let%20this%20ripen).)|65g|
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
 |[White wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine)|50ml|
 |[X 400g can coconut milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20can%20coconut%20milk)|1|
@@ -115,4 +120,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Coconut oil, Crushed chillies, Cumin, Flour, Garam masala, Garlic cloves, Olive oil, Salt, Seasoning, Smoked paprika, Tomato purée, Turmeric and Water.
 
 
-_This shopping list was generated at 09-12-2023 23:46:41._
+_This shopping list was generated at 09-12-2023 23:47:37._
