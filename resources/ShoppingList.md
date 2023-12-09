@@ -19,7 +19,12 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 21-Dec 2023|[Sushi #29](https://github.com/jcallaghan/The-Cookbook/issues/29)|
 ||[Sushi - Boston Roll #123](https://github.com/jcallaghan/The-Cookbook/issues/123)|
 ||[Sushi - California roll #122](https://github.com/jcallaghan/The-Cookbook/issues/122)|
+||[Sushi seaweed salad #127](https://github.com/jcallaghan/The-Cookbook/issues/127)|
+||[Sushi - Cucumber roll #119](https://github.com/jcallaghan/The-Cookbook/issues/119)|
+||[Sushi - Avocado roll #120](https://github.com/jcallaghan/The-Cookbook/issues/120)|
 ||[Nigiri Sushi #121](https://github.com/jcallaghan/The-Cookbook/issues/121)|
+||[Sushi - Worsley Roll #341](https://github.com/jcallaghan/The-Cookbook/issues/341)|
+||[Japanese Slipper #415](https://github.com/jcallaghan/The-Cookbook/issues/415)|
 |Mon 25-Dec 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 ||[Roast potatoes  #81](https://github.com/jcallaghan/The-Cookbook/issues/81)|
 ||[Cauliflower cheese #111](https://github.com/jcallaghan/The-Cookbook/issues/111)|
@@ -42,6 +47,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cheese)|150g|
 |[Chicken thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thighs)|500g|
 |[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)||
+|[Cointreau triple sec](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cointreau%20triple%20sec)|30ml|
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Crayfish tails](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crayfish%20tails)||
 |[Cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream)|150ml|
@@ -50,9 +56,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|5|
 |[Fresh coriander](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20coriander)||
+|[Fresh lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemon%20juice)|30ml|
 |[Ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ginger)|2 tsp|
 |[Large cauliflower](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20cauliflower)|1|
 |[Long grain rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Long%20grain%20rice)|300g|
+|[Midori (or other melon liqueur)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Midori%20(or%20other%20melon%20liqueur))|30ml|
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|150ml|
 |[Of fennel seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20fennel%20seeds)|1 tbsp|
 |[Of paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20paprika)|2 tsp|
@@ -107,4 +115,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Coconut oil, Crushed chillies, Cumin, Flour, Garam masala, Garlic cloves, Olive oil, Salt, Seasoning, Smoked paprika, Tomato purée, Turmeric and Water.
 
 
-_This shopping list was generated at 09-12-2023 23:45:58._
+_This shopping list was generated at 09-12-2023 23:46:41._
