@@ -1,6 +1,6 @@
 # Shopping List
 
-Sat 09-Dec 2023 - Wed 27-Dec 2023
+Sat 09-Dec 2023 - Sun 31-Dec 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -109,10 +109,16 @@ This shopping list has been automatically generated with the ingredients from th
 https://www.bbc.co.uk/food/recipes/roast_chicken_smoked_72338
 1. Smoked butter
 1. Home made pasta - crab?
+1. Beef dripping potato fondant and beef tenderloin
 1. Jas out
 1. Phil over
-1. Pea puree, scallop and chorizo
+1. Pea puree, scallop and chorizo (maybe black pudding)
+1. Master Chef S16E06 Molly Onion bhaji, Curried cauliflower puree and pan fried scallop
 1. Next door
+1. Smoked rack of lamb
+1. Lamb loin,
+1. Fillet steak
+1. Lobster
 
 ## 🏪 Pantry Ingredients
 
@@ -121,4 +127,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Coconut oil, Crushed chillies, Cumin, Flour, Garam masala, Garlic cloves, Olive oil, Salt, Seasoning, Smoked paprika, Tomato purée, Turmeric and Water.
 
 
-_This shopping list was generated at 09-12-2023 23:50:40._
+_This shopping list was generated at 10-12-2023 00:34:35._
