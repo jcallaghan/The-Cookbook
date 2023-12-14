@@ -8,6 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
+|Sat 16-Dec 2023|[Baked Eggs with Chorizo and Roast Potatoes #615](https://github.com/jcallaghan/The-Cookbook/issues/615)|
 |Sun 17-Dec 2023|[Fondant Potatoes #614](https://github.com/jcallaghan/The-Cookbook/issues/614)|
 |Mon 18-Dec 2023|[Crab, spring onion and chilli linguine #576](https://github.com/jcallaghan/The-Cookbook/issues/576)|
 ||[Crab linguine #202](https://github.com/jcallaghan/The-Cookbook/issues/202)|
@@ -91,7 +92,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Xmas lights
-1. Baked Eggs with Chorizo and Roast Potatoes
 1. Jas out
 1. Roast chicken, smoked garlic mayo and charred garden greens
 https://www.bbc.co.uk/food/recipes/roast_chicken_smoked_72338
@@ -115,4 +115,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour, Salt and Seasoning.
 
 
-_This shopping list was generated at 14-12-2023 18:11:39._
+_This shopping list was generated at 14-12-2023 18:12:18._
