@@ -91,6 +91,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Xmas lights
 1. Jas out
+1. Fondant Potatoes
 1. Roast chicken, smoked garlic mayo and charred garden greens
 https://www.bbc.co.uk/food/recipes/roast_chicken_smoked_72338
 1. Smoked butter
@@ -113,4 +114,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour, Salt and Seasoning.
 
 
-_This shopping list was generated at 14-12-2023 17:58:18._
+_This shopping list was generated at 14-12-2023 18:02:29._
