@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 14-Dec 2023 - Sun 31-Dec 2023
+Mon 18-Dec 2023 - Sun 31-Dec 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,10 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Sat 16-Dec 2023|[Baked Eggs with Chorizo and Roast Potatoes #615](https://github.com/jcallaghan/The-Cookbook/issues/615)|
-|Sun 17-Dec 2023|[Fondant Potatoes #614](https://github.com/jcallaghan/The-Cookbook/issues/614)|
-||[Roast chicken, smoked garlic mayo and charred garden greens #616](https://github.com/jcallaghan/The-Cookbook/issues/616)|
-|Mon 18-Dec 2023|[Crab, spring onion and chilli linguine #576](https://github.com/jcallaghan/The-Cookbook/issues/576)|
+|Mon 18-Dec 2023|[Beef tenderloin and beef dripping potato fondant #617](https://github.com/jcallaghan/The-Cookbook/issues/617)|
+|Tue 19-Dec 2023|[Crab, spring onion and chilli linguine #576](https://github.com/jcallaghan/The-Cookbook/issues/576)|
 ||[Crab linguine #202](https://github.com/jcallaghan/The-Cookbook/issues/202)|
 ||[Crab tortellini #141](https://github.com/jcallaghan/The-Cookbook/issues/141)|
 |Thu 21-Dec 2023|[Sushi #29](https://github.com/jcallaghan/The-Cookbook/issues/29)|
@@ -92,11 +90,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Xmas lights
-1. Jas out
-1. Smoked butter
 1. Home made pasta - crab?
-1. Beef dripping potato fondant and beef tenderloin
 1. Jas out
 1. Phil over
 1. Pea puree, scallop and chorizo (maybe black pudding)
@@ -114,4 +108,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour, Salt and Seasoning.
 
 
-_This shopping list was generated at 14-12-2023 18:12:58._
+_This shopping list was generated at 18-12-2023 16:03:46._
