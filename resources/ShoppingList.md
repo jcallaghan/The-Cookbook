@@ -8,7 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Mon 18-Dec 2023|[Beef tenderloin and beef dripping potato fondant #617](https://github.com/jcallaghan/The-Cookbook/issues/617)|
+|Mon 18-Dec 2023|[Jus #618](https://github.com/jcallaghan/The-Cookbook/issues/618)|
+||[Beef tenderloin and beef dripping potato fondant #617](https://github.com/jcallaghan/The-Cookbook/issues/617)|
 ||[Fondant Potatoes #614](https://github.com/jcallaghan/The-Cookbook/issues/614)|
 |Tue 19-Dec 2023|[Crab, spring onion and chilli linguine #576](https://github.com/jcallaghan/The-Cookbook/issues/576)|
 ||[Crab linguine #202](https://github.com/jcallaghan/The-Cookbook/issues/202)|
@@ -91,7 +92,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Jus
 1. Home made pasta - crab?
 1. Jas out
 1. Phil over
@@ -110,4 +110,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour, Salt and Seasoning.
 
 
-_This shopping list was generated at 18-12-2023 17:20:40._
+_This shopping list was generated at 18-12-2023 17:22:43._
