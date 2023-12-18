@@ -21,46 +21,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9824f44f-c6c7-4603-bfd6-cac84beac377
-DTSTAMP:20231214T181923
-DTSTART:20231215T184500
-DTEND:20231215T203000
-SUMMARY:Xmas lights for dinner
-DESCRIPTION:Note: Xmas lights
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:e76d7363-9271-4a5f-80eb-d544c3309e66
-DTSTAMP:20231214T181924
-DTSTART:20231216T184500
-DTEND:20231216T203000
-SUMMARY:Baked Eggs with Chorizo and Roast Potatoes #615 and Jas out for dinner
-DESCRIPTION:Baked Eggs with Chorizo and Roast Potatoes #615 - https://github.com/jcallaghan/The-Cookbook/issues/615
-Note: Jas out
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:847f373d-ac03-4f50-82e7-17e5b723b6b4
-DTSTAMP:20231214T181925
-DTSTART:20231217T184500
-DTEND:20231217T203000
-SUMMARY:Fondant Potatoes #614, Roast chicken, smoked garlic mayo and charred garden greens #616 and Smoked butter for dinner
-DESCRIPTION:Fondant Potatoes #614 - https://github.com/jcallaghan/The-Cookbook/issues/614
-Roast chicken, smoked garlic mayo and charred garden greens #616 - https://github.com/jcallaghan/The-Cookbook/issues/616
-Note: Smoked butter
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:a7f65725-fd51-4ee9-be1e-abd650f764d8
-DTSTAMP:20231214T181927
+UID:269eb17d-9ab6-4cfb-abec-ff811cc09dc4
+DTSTAMP:20231218T171737
 DTSTART:20231218T184500
 DTEND:20231218T203000
+SUMMARY:Beef tenderloin and beef dripping potato fondant #617 and Fondant Potatoes #614 for dinner
+DESCRIPTION:Beef tenderloin and beef dripping potato fondant #617 - https://github.com/jcallaghan/The-Cookbook/issues/617
+Fondant Potatoes #614 - https://github.com/jcallaghan/The-Cookbook/issues/614
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:61f7a6e0-ba7c-40e5-b758-3818acb8f953
+DTSTAMP:20231218T171739
+DTSTART:20231219T184500
+DTEND:20231219T203000
 SUMMARY:Home made pasta - crab?, Crab, spring onion and chilli linguine #576, Crab linguine #202 and Crab tortellini #141 for dinner
 DESCRIPTION:Note: Home made pasta - crab?
 Crab, spring onion and chilli linguine #576 - https://github.com/jcallaghan/The-Cookbook/issues/576
@@ -71,19 +47,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:63e06935-e6d9-494d-8789-8b2921cabefd
-DTSTAMP:20231214T181927
-DTSTART:20231219T184500
-DTEND:20231219T203000
-SUMMARY:Beef tenderloin and beef dripping potato fondant #617 for dinner
-DESCRIPTION:Beef tenderloin and beef dripping potato fondant #617 - https://github.com/jcallaghan/The-Cookbook/issues/617
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:9b12fb44-2cb4-4724-8fc8-e8f20c13f1c3
-DTSTAMP:20231214T181928
+UID:9818cec5-2862-41ae-9f1a-28b00ac5b666
+DTSTAMP:20231218T171739
 DTSTART:20231220T184500
 DTEND:20231220T203000
 SUMMARY:Jas out for dinner
@@ -93,8 +58,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a35818fc-3e51-4d13-b9d2-a55a52b50a2b
-DTSTAMP:20231214T181932
+UID:0870dc87-7fc4-479b-8c9e-5d6077dc01fa
+DTSTAMP:20231218T171744
 DTSTART:20231221T184500
 DTEND:20231221T203000
 SUMMARY:Phil over, Sushi #29, Sushi - Boston Roll #123, Sushi - California roll #122, Sushi seaweed salad #127, Sushi - Cucumber roll #119, Sushi - Avocado roll #120, Nigiri Sushi #121, Sushi - Worsley Roll #341 and Japanese Slipper #415 for dinner
@@ -113,8 +78,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e20def04-a3de-4a4a-8444-e0948a2834fb
-DTSTAMP:20231214T181932
+UID:3dec1a1e-6113-4afc-8830-92b31aa7f42b
+DTSTAMP:20231218T171745
 DTSTART:20231222T184500
 DTEND:20231222T203000
 SUMMARY:Pea puree, scallop and chorizo (maybe black pudding) and Master Chef S16E06 Molly Onion bhaji, Curried cauliflower puree and pan fried scallop for dinner
@@ -125,8 +90,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:75fef7ec-3bb3-46d6-a624-376f89947a0f
-DTSTAMP:20231214T181933
+UID:5a6f165b-0a1e-44d1-a475-1935c12cda61
+DTSTAMP:20231218T171745
 DTSTART:20231223T184500
 DTEND:20231223T203000
 SUMMARY:Next door for dinner
@@ -136,8 +101,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7ebb7486-3105-460f-9746-74ba441013df
-DTSTAMP:20231214T181935
+UID:15d5ea24-230e-40de-97c1-c84d08d7e82e
+DTSTAMP:20231218T171748
 DTSTART:20231225T184500
 DTEND:20231225T203000
 SUMMARY:Granddads carrot soup #79, Roast potatoes  #81, Cauliflower cheese #111 and Oli's sourdough bread 🍞 #88 for dinner
@@ -150,8 +115,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7122a1b6-1a53-4f2d-a79a-b3d09bcd9d96
-DTSTAMP:20231214T181936
+UID:821ba8ba-335a-4415-986c-1f078de92862
+DTSTAMP:20231218T171749
 DTSTART:20231227T184500
 DTEND:20231227T203000
 SUMMARY:Smoked rack of lamb and Lamb loin, for dinner
@@ -162,8 +127,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:09084f9a-affb-44c9-83f0-6481810b124c
-DTSTAMP:20231214T181938
+UID:ac681cef-de71-4fc1-8636-ad7cb5a4bb38
+DTSTAMP:20231218T171751
 DTSTART:20231231T184500
 DTEND:20231231T203000
 SUMMARY:Fillet steak and Lobster for dinner
