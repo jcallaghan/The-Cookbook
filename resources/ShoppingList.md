@@ -91,6 +91,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Jus
 1. Home made pasta - crab?
 1. Jas out
 1. Phil over
@@ -109,4 +110,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour, Salt and Seasoning.
 
 
-_This shopping list was generated at 18-12-2023 17:17:46._
+_This shopping list was generated at 18-12-2023 17:20:40._
