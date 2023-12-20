@@ -9,8 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Wed 20-Dec 2023|[Devilled kidneys #619](https://github.com/jcallaghan/The-Cookbook/issues/619)|
-||[Sushi - Kaiso Salad #620](https://github.com/jcallaghan/The-Cookbook/issues/620)|
 |Thu 21-Dec 2023|[Sushi #29](https://github.com/jcallaghan/The-Cookbook/issues/29)|
+||[Sushi - Kaiso Salad #620](https://github.com/jcallaghan/The-Cookbook/issues/620)|
 ||[Sushi - Boston Roll #123](https://github.com/jcallaghan/The-Cookbook/issues/123)|
 ||[Sushi - California roll #122](https://github.com/jcallaghan/The-Cookbook/issues/122)|
 ||[Sushi - Cucumber roll #119](https://github.com/jcallaghan/The-Cookbook/issues/119)|
@@ -18,6 +18,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Nigiri Sushi #121](https://github.com/jcallaghan/The-Cookbook/issues/121)|
 ||[Sushi - Worsley Roll #341](https://github.com/jcallaghan/The-Cookbook/issues/341)|
 ||[Japanese Slipper #415](https://github.com/jcallaghan/The-Cookbook/issues/415)|
+||[Sushi - Seared Beef #621](https://github.com/jcallaghan/The-Cookbook/issues/621)|
 |Mon 25-Dec 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 ||[Roast potatoes  #81](https://github.com/jcallaghan/The-Cookbook/issues/81)|
 ||[Cauliflower cheese #111](https://github.com/jcallaghan/The-Cookbook/issues/111)|
@@ -95,4 +96,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour, Salt, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 20-12-2023 12:02:32._
+_This shopping list was generated at 20-12-2023 12:14:22._
