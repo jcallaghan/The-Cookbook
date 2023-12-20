@@ -19,6 +19,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Sushi - Worsley Roll #341](https://github.com/jcallaghan/The-Cookbook/issues/341)|
 ||[Japanese Slipper #415](https://github.com/jcallaghan/The-Cookbook/issues/415)|
 ||[Sushi - Seared Beef #621](https://github.com/jcallaghan/The-Cookbook/issues/621)|
+||[Sushi - Philadelphia Roll #622](https://github.com/jcallaghan/The-Cookbook/issues/622)|
 |Mon 25-Dec 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 ||[Roast potatoes  #81](https://github.com/jcallaghan/The-Cookbook/issues/81)|
 ||[Cauliflower cheese #111](https://github.com/jcallaghan/The-Cookbook/issues/111)|
@@ -96,4 +97,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour, Salt, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 20-12-2023 12:14:53._
+_This shopping list was generated at 20-12-2023 12:24:25._
