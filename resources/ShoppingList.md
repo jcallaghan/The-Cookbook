@@ -22,7 +22,9 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Sushi - Philadelphia Roll #622](https://github.com/jcallaghan/The-Cookbook/issues/622)|
 |Fri 22-Dec 2023|[Oli's sourdough bread 🍞 #88](https://github.com/jcallaghan/The-Cookbook/issues/88)|
 ||[Crab tortellini #141](https://github.com/jcallaghan/The-Cookbook/issues/141)|
-|Sat 23-Dec 2023|[Baked olives with feta #624](https://github.com/jcallaghan/The-Cookbook/issues/624)|
+|Sat 23-Dec 2023|[Whipped Ricotta with Herbs and Honey #626](https://github.com/jcallaghan/The-Cookbook/issues/626)|
+||[Crostini #625](https://github.com/jcallaghan/The-Cookbook/issues/625)|
+||[Baked olives with feta #624](https://github.com/jcallaghan/The-Cookbook/issues/624)|
 ||[Pan-fried scallops, puree and chorizo #623](https://github.com/jcallaghan/The-Cookbook/issues/623)|
 |Mon 25-Dec 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 ||[Roast potatoes  #81](https://github.com/jcallaghan/The-Cookbook/issues/81)|
@@ -114,4 +116,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour, Salt, Seasoning, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 20-12-2023 16:13:32._
+_This shopping list was generated at 20-12-2023 16:27:53._
