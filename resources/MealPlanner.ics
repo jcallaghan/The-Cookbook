@@ -21,46 +21,20 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fb395494-f8dd-42ff-bbaa-0d5595f639bd
-DTSTAMP:20231218T172220
-DTSTART:20231218T184500
-DTEND:20231218T203000
-SUMMARY:Jus #618, Beef tenderloin and beef dripping potato fondant #617 and Fondant Potatoes #614 for dinner
-DESCRIPTION:Jus #618 - https://github.com/jcallaghan/The-Cookbook/issues/618
-Beef tenderloin and beef dripping potato fondant #617 - https://github.com/jcallaghan/The-Cookbook/issues/617
-Fondant Potatoes #614 - https://github.com/jcallaghan/The-Cookbook/issues/614
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:c3e986dc-51c1-499a-bd02-79ecaf856510
-DTSTAMP:20231218T172222
-DTSTART:20231219T184500
-DTEND:20231219T203000
-SUMMARY:Home made pasta - crab?, Crab, spring onion and chilli linguine #576, Crab linguine #202 and Crab tortellini #141 for dinner
-DESCRIPTION:Note: Home made pasta - crab?
-Crab, spring onion and chilli linguine #576 - https://github.com/jcallaghan/The-Cookbook/issues/576
-Crab linguine #202 - https://github.com/jcallaghan/The-Cookbook/issues/202
-Crab tortellini #141 - https://github.com/jcallaghan/The-Cookbook/issues/141
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:8ea0eb42-f338-478a-af02-ddb31c0eb83e
-DTSTAMP:20231218T172222
+UID:ba264df9-8824-4c03-bc56-6d952ab72f30
+DTSTAMP:20231220T012332
 DTSTART:20231220T184500
 DTEND:20231220T203000
-SUMMARY:Jas out for dinner
-DESCRIPTION:Note: Jas out
+SUMMARY:Devilled kidneys #619 and Jas out for dinner
+DESCRIPTION:Devilled kidneys #619 - https://github.com/jcallaghan/The-Cookbook/issues/619
+Note: Jas out
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:aadf2eaf-de1d-43f9-a282-c4d2befbbea2
-DTSTAMP:20231218T172226
+UID:4fa65605-5f46-4197-8bc9-44f34bf47e74
+DTSTAMP:20231220T012336
 DTSTART:20231221T184500
 DTEND:20231221T203000
 SUMMARY:Phil over, Sushi #29, Sushi - Boston Roll #123, Sushi - California roll #122, Sushi seaweed salad #127, Sushi - Cucumber roll #119, Sushi - Avocado roll #120, Nigiri Sushi #121, Sushi - Worsley Roll #341 and Japanese Slipper #415 for dinner
@@ -79,8 +53,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d3a89e16-625c-4008-a781-fa87b05b2818
-DTSTAMP:20231218T172227
+UID:48d73adf-f9cf-4f73-90b6-d24459dd86af
+DTSTAMP:20231220T012337
 DTSTART:20231222T184500
 DTEND:20231222T203000
 SUMMARY:Pea puree, scallop and chorizo (maybe black pudding) and Master Chef S16E06 Molly Onion bhaji, Curried cauliflower puree and pan fried scallop for dinner
@@ -91,8 +65,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b7f8a5bd-b298-4df9-b706-749153b542ba
-DTSTAMP:20231218T172227
+UID:42f70862-7c92-4a4a-bd13-c8bcdcf35142
+DTSTAMP:20231220T012337
 DTSTART:20231223T184500
 DTEND:20231223T203000
 SUMMARY:Next door for dinner
@@ -102,8 +76,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a578b8e8-7fbf-4e40-a906-dde6e89616f3
-DTSTAMP:20231218T172230
+UID:70ac199e-5d45-4560-a061-89e33e56a3be
+DTSTAMP:20231220T012340
 DTSTART:20231225T184500
 DTEND:20231225T203000
 SUMMARY:Granddads carrot soup #79, Roast potatoes  #81, Cauliflower cheese #111 and Oli's sourdough bread 🍞 #88 for dinner
@@ -116,8 +90,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1edd30f3-66f0-4831-bf80-19843a057f4b
-DTSTAMP:20231218T172231
+UID:794da9a7-e95d-4c49-aa65-f7018f88f0cd
+DTSTAMP:20231220T012341
 DTSTART:20231227T184500
 DTEND:20231227T203000
 SUMMARY:Smoked rack of lamb and Lamb loin, for dinner
@@ -128,8 +102,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:74e2c95b-732a-44a6-a9df-87dc0c069818
-DTSTAMP:20231218T172233
+UID:2c3839db-ba8e-4562-9535-0d9a06d7d7fe
+DTSTAMP:20231220T012343
 DTSTART:20231231T184500
 DTEND:20231231T203000
 SUMMARY:Fillet steak and Lobster for dinner
