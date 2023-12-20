@@ -13,7 +13,6 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 21-Dec 2023|[Sushi #29](https://github.com/jcallaghan/The-Cookbook/issues/29)|
 ||[Sushi - Boston Roll #123](https://github.com/jcallaghan/The-Cookbook/issues/123)|
 ||[Sushi - California roll #122](https://github.com/jcallaghan/The-Cookbook/issues/122)|
-||[Sushi seaweed salad #127](https://github.com/jcallaghan/The-Cookbook/issues/127)|
 ||[Sushi - Cucumber roll #119](https://github.com/jcallaghan/The-Cookbook/issues/119)|
 ||[Sushi - Avocado roll #120](https://github.com/jcallaghan/The-Cookbook/issues/120)|
 ||[Nigiri Sushi #121](https://github.com/jcallaghan/The-Cookbook/issues/121)|
@@ -96,4 +95,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour, Salt, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 20-12-2023 11:53:52._
+_This shopping list was generated at 20-12-2023 12:02:32._
