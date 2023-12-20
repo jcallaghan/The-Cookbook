@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b7276451-395b-4c57-9c15-6ad334b05db4
-DTSTAMP:20231220T122420
+UID:2cdc3596-2a15-43ba-9c2e-6c96b9ea1fe9
+DTSTAMP:20231220T160502
 DTSTART:20231220T184500
 DTEND:20231220T203000
 SUMMARY:Devilled kidneys #619 and Jas out for dinner
@@ -33,8 +33,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d3ddb749-6046-4609-b52c-e22b30a9db1f
-DTSTAMP:20231220T122426
+UID:da3c447a-c6f2-4503-b159-aa1ebbefaa1b
+DTSTAMP:20231220T160507
 DTSTART:20231221T184500
 DTEND:20231221T203000
 SUMMARY:Phil over, Sushi #29, Sushi - Kaiso Salad #620, Sushi - Boston Roll #123, Sushi - California roll #122, Sushi - Cucumber roll #119, Sushi - Avocado roll #120, Nigiri Sushi #121, Sushi - Worsley Roll #341, Japanese Slipper #415, Sushi - Seared Beef #621 and Sushi - Philadelphia Roll #622 for dinner
@@ -55,45 +55,45 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ef936e4a-0592-490a-8f74-ed532fcd8776
-DTSTAMP:20231220T122426
+UID:74ce75db-bea1-4d98-8cc5-d71eec152cc3
+DTSTAMP:20231220T160508
 DTSTART:20231222T184500
 DTEND:20231222T203000
-SUMMARY:Pea puree, scallop and chorizo (maybe black pudding) and Master Chef S16E06 Molly Onion bhaji, Curried cauliflower puree and pan fried scallop for dinner
-DESCRIPTION:Note: Pea puree, scallop and chorizo (maybe black pudding)
+SUMMARY:Oli's sourdough bread 🍞 #88 for dinner
+DESCRIPTION:Oli's sourdough bread 🍞 #88 - https://github.com/jcallaghan/The-Cookbook/issues/88
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e85e5410-03a4-4734-862c-8da31e328d45
+DTSTAMP:20231220T160508
+DTSTART:20231223T184500
+DTEND:20231223T203000
+SUMMARY:Next door, Pea puree, scallop and chorizo (maybe black pudding) and Master Chef S16E06 Molly Onion bhaji, Curried cauliflower puree and pan fried scallop for dinner
+DESCRIPTION:Note: Next door
+Note: Pea puree, scallop and chorizo (maybe black pudding)
 Note: Master Chef S16E06 Molly Onion bhaji, Curried cauliflower puree and pan fried scallop
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b48020de-9e0c-4d52-bf02-6d6c99f27a67
-DTSTAMP:20231220T122427
-DTSTART:20231223T184500
-DTEND:20231223T203000
-SUMMARY:Next door for dinner
-DESCRIPTION:Note: Next door
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:98228687-900d-4230-95f6-dfa5cd42de48
-DTSTAMP:20231220T122430
+UID:e0d2d27f-8032-4318-b6c1-5766cad58bde
+DTSTAMP:20231220T160510
 DTSTART:20231225T184500
 DTEND:20231225T203000
-SUMMARY:Granddads carrot soup #79, Roast potatoes  #81, Cauliflower cheese #111 and Oli's sourdough bread 🍞 #88 for dinner
+SUMMARY:Granddads carrot soup #79, Roast potatoes  #81 and Cauliflower cheese #111 for dinner
 DESCRIPTION:Granddads carrot soup #79 - https://github.com/jcallaghan/The-Cookbook/issues/79
 Roast potatoes  #81 - https://github.com/jcallaghan/The-Cookbook/issues/81
 Cauliflower cheese #111 - https://github.com/jcallaghan/The-Cookbook/issues/111
-Oli's sourdough bread 🍞 #88 - https://github.com/jcallaghan/The-Cookbook/issues/88
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a7816b23-ed89-4e4c-82cf-4deb0e5ef155
-DTSTAMP:20231220T122431
+UID:4b630f01-fe0f-4c1c-be9e-0ecb38aa2af3
+DTSTAMP:20231220T160511
 DTSTART:20231227T184500
 DTEND:20231227T203000
 SUMMARY:Smoked rack of lamb and Lamb loin, for dinner
@@ -104,8 +104,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:27155216-f9ce-4484-8e7f-c3ac5dec7957
-DTSTAMP:20231220T122433
+UID:8fe1c5ee-987f-4306-aac3-18411bd5499b
+DTSTAMP:20231220T160513
 DTSTART:20231231T184500
 DTEND:20231231T203000
 SUMMARY:Fillet steak and Lobster for dinner
