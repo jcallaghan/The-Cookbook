@@ -21,6 +21,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Sushi - Seared Beef #621](https://github.com/jcallaghan/The-Cookbook/issues/621)|
 ||[Sushi - Philadelphia Roll #622](https://github.com/jcallaghan/The-Cookbook/issues/622)|
 |Fri 22-Dec 2023|[Oli's sourdough bread 🍞 #88](https://github.com/jcallaghan/The-Cookbook/issues/88)|
+||[Crab tortellini #141](https://github.com/jcallaghan/The-Cookbook/issues/141)|
 |Mon 25-Dec 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 ||[Roast potatoes  #81](https://github.com/jcallaghan/The-Cookbook/issues/81)|
 ||[Cauliflower cheese #111](https://github.com/jcallaghan/The-Cookbook/issues/111)|
@@ -35,16 +36,23 @@ This shopping list has been automatically generated with the ingredients from th
 |[#123 prawn](https://www.sainsburys.co.uk/gol-ui/SearchResults/#123%20prawn)||
 |[#341 seared beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/#341%20seared%20beef)||
 |[#622](https://www.sainsburys.co.uk/gol-ui/SearchResults/#622)||
+|[00 flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/00%20flour)|250g|
 |[Alaska roll smoked salmon (smoked)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Alaska%20roll%20smoked%20salmon%20(smoked))||
 |[Avocado](https://www.sainsburys.co.uk/gol-ui/SearchResults/Avocado)|1|
+|[Bowl of water for sealing the pasta sheets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bowl%20of%20water%20for%20sealing%20the%20pasta%20sheets)||
+|[Brown crab meat](https://www.sainsburys.co.uk/gol-ui/SearchResults/Brown%20crab%20meat)|50g|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|450g|
 |[Cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cheese)|150g|
+|[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)||
 |[Cointreau triple sec](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cointreau%20triple%20sec)|30ml|
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Crayfish tails](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crayfish%20tails)||
+|[Cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream)|150ml|
+|[Creme fresh](https://www.sainsburys.co.uk/gol-ui/SearchResults/Creme%20fresh)|2 x tbsp|
 |[Cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cucumber)|1|
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
 |[Dried seaweed (wakame type)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20seaweed%20(wakame%20type))|28g|
+|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|5|
 |[Flour (22g whole](https://www.sainsburys.co.uk/gol-ui/SearchResults/Flour%20(22g%20whole)|65g|
 |[Fresh lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemon%20juice)|30ml|
 |[Gingerroot](https://www.sainsburys.co.uk/gol-ui/SearchResults/Gingerroot)|1 tsp|
@@ -59,6 +67,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
 |[Pinch	cayenne peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch	cayenne%20peppers)|1|
 |[Pinch of ground nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20ground%20nutmeg)||
+|[Pinch saffron / fennel](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20saffron%20/%20fennel)|1|
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
 |[Prawn (query crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prawn%20(query%20crab)|20|
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
@@ -68,15 +77,23 @@ This shopping list has been automatically generated with the ingredients from th
 |[Salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salmon)||
 |[Seattle cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seattle%20cucumber)||
 |[Seattle roll cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seattle%20roll%20cucumber)||
+|[Semolina flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Semolina%20flour)|250g|
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Sesame seed oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sesame%20seed%20oil)|1 tbsp|
 |[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|1|
 |[Soho crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soho%20crab)||
+|[Strain](https://www.sainsburys.co.uk/gol-ui/SearchResults/Strain)||
 |[Tobiko (or masago)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tobiko%20(or%20masago))|50g|
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[Water with evaporation etc you’ll end up with 120g fermented dough (let this ripen).](https://www.sainsburys.co.uk/gol-ui/SearchResults/Water%20with%20evaporation%20etc%20you’ll%20end%20up%20with%20120g%20fermented%20dough%20(let%20this%20ripen).)|65g|
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
+|[White wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine)|50ml|
+|[X eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20eggs)|1|
+|[X garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20garlic%20cloves)|1|
+|[X live crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20live%20crab)|1|
+|[X shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20shallots)|1|
+|[Zest of a lemon and a little of the juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Zest%20of%20a%20lemon%20and%20a%20little%20of%20the%20juice)||
 
 ## 🗒️ Notes
 
@@ -94,7 +111,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Butter, Flour, Salt, Sesame seeds and Soy sauce.
+Butter, Flour, Salt, Seasoning, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 20-12-2023 16:05:03._
+_This shopping list was generated at 20-12-2023 16:06:10._
