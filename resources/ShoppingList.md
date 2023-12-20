@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Wed 20-Dec 2023|[Devilled kidneys #619](https://github.com/jcallaghan/The-Cookbook/issues/619)|
+||[Sushi - Kaiso Salad #620](https://github.com/jcallaghan/The-Cookbook/issues/620)|
 |Thu 21-Dec 2023|[Sushi #29](https://github.com/jcallaghan/The-Cookbook/issues/29)|
 ||[Sushi - Boston Roll #123](https://github.com/jcallaghan/The-Cookbook/issues/123)|
 ||[Sushi - California roll #122](https://github.com/jcallaghan/The-Cookbook/issues/122)|
@@ -41,27 +42,34 @@ This shopping list has been automatically generated with the ingredients from th
 |[Crayfish tails](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crayfish%20tails)||
 |[Cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cucumber)|1|
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
+|[Dried seaweed (wakame type)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20seaweed%20(wakame%20type))|28g|
 |[Flour (22g whole](https://www.sainsburys.co.uk/gol-ui/SearchResults/Flour%20(22g%20whole)|65g|
 |[Fresh lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemon%20juice)|30ml|
+|[Gingerroot](https://www.sainsburys.co.uk/gol-ui/SearchResults/Gingerroot)|1 tsp|
 |[I had made 75% hydration sourdough with 10% wholemeal flour. for that](https://www.sainsburys.co.uk/gol-ui/SearchResults/I%20had%20made%2075%%20hydration%20sourdough%20with%2010%%20wholemeal%20flour.%20for%20that)||
 |[Large cauliflower](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20cauliflower)|1|
 |[Leaven (14g starter 100% hydration)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Leaven%20(14g%20starter%20100%%20hydration))|120g|
 |[Midori (or other melon liqueur)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Midori%20(or%20other%20melon%20liqueur))|30ml|
 |[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|150ml|
+|[Mirin (sweet rice wine)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mirin%20(sweet%20rice%20wine))|1 tbsp|
 |[Of fennel seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20fennel%20seeds)|1 tbsp|
 |[Of paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20paprika)|2 tsp|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
 |[Philadelphia roll smoked salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Philadelphia%20roll%20smoked%20salmon)||
+|[Pinch	cayenne peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch	cayenne%20peppers)|1|
 |[Pinch of ground nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20ground%20nutmeg)||
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
 |[Prawn (query crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prawn%20(query%20crab)|20|
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Raw salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Raw%20salmon)||
 |[Raw tuna](https://www.sainsburys.co.uk/gol-ui/SearchResults/Raw%20tuna)||
+|[Rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20vinegar)|1 tbsp|
 |[Salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salmon)||
 |[Seattle cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seattle%20cucumber)||
 |[Seattle roll cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seattle%20roll%20cucumber)||
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
+|[Sesame seed oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sesame%20seed%20oil)|1 tbsp|
+|[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|1|
 |[Soho crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soho%20crab)||
 |[Tobiko (or masago)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tobiko%20(or%20masago))|50g|
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
@@ -85,7 +93,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Butter, Flour and Salt.
+Butter, Flour, Salt, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 20-12-2023 01:23:47._
+_This shopping list was generated at 20-12-2023 11:53:52._
