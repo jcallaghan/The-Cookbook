@@ -22,7 +22,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Sushi - Philadelphia Roll #622](https://github.com/jcallaghan/The-Cookbook/issues/622)|
 |Fri 22-Dec 2023|[Oli's sourdough bread 🍞 #88](https://github.com/jcallaghan/The-Cookbook/issues/88)|
 ||[Crab tortellini #141](https://github.com/jcallaghan/The-Cookbook/issues/141)|
-|Sat 23-Dec 2023|[Scallops, pea puree and chorizo #623](https://github.com/jcallaghan/The-Cookbook/issues/623)|
+|Sat 23-Dec 2023|[Pan-fried scallops, puree and chorizo #623](https://github.com/jcallaghan/The-Cookbook/issues/623)|
 |Mon 25-Dec 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 ||[Roast potatoes  #81](https://github.com/jcallaghan/The-Cookbook/issues/81)|
 ||[Cauliflower cheese #111](https://github.com/jcallaghan/The-Cookbook/issues/111)|
@@ -100,8 +100,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Jas out
 1. Phil over
-1. Next door
-1. Master Chef S16E06 Molly Onion bhaji, Curried cauliflower puree and pan fried scallop
+1. Next door - nibbles
 1. Smoked rack of lamb
 1. Lamb loin,
 1. Fillet steak
@@ -114,4 +113,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour, Salt, Seasoning, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 20-12-2023 16:07:16._
+_This shopping list was generated at 20-12-2023 16:09:03._
