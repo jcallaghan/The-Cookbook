@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ee3ee629-f1ed-4f7b-bef3-50facf18e9d3
-DTSTAMP:20231220T115346
+UID:d6d68fa2-9073-47a9-93a8-1c5b195b7d9a
+DTSTAMP:20231220T120234
 DTSTART:20231220T184500
 DTEND:20231220T203000
 SUMMARY:Devilled kidneys #619, Jas out and Sushi - Kaiso Salad #620 for dinner
@@ -34,16 +34,15 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:26e16633-9c50-4c63-9de0-937f91d7f384
-DTSTAMP:20231220T115350
+UID:be62e00a-c47a-4f88-ad5d-93916e00fb35
+DTSTAMP:20231220T120238
 DTSTART:20231221T184500
 DTEND:20231221T203000
-SUMMARY:Phil over, Sushi #29, Sushi - Boston Roll #123, Sushi - California roll #122, Sushi seaweed salad #127, Sushi - Cucumber roll #119, Sushi - Avocado roll #120, Nigiri Sushi #121, Sushi - Worsley Roll #341 and Japanese Slipper #415 for dinner
+SUMMARY:Phil over, Sushi #29, Sushi - Boston Roll #123, Sushi - California roll #122, Sushi - Cucumber roll #119, Sushi - Avocado roll #120, Nigiri Sushi #121, Sushi - Worsley Roll #341 and Japanese Slipper #415 for dinner
 DESCRIPTION:Note: Phil over
 Sushi #29 - https://github.com/jcallaghan/The-Cookbook/issues/29
 Sushi - Boston Roll #123 - https://github.com/jcallaghan/The-Cookbook/issues/123
 Sushi - California roll #122 - https://github.com/jcallaghan/The-Cookbook/issues/122
-Sushi seaweed salad #127 - https://github.com/jcallaghan/The-Cookbook/issues/127
 Sushi - Cucumber roll #119 - https://github.com/jcallaghan/The-Cookbook/issues/119
 Sushi - Avocado roll #120 - https://github.com/jcallaghan/The-Cookbook/issues/120
 Nigiri Sushi #121 - https://github.com/jcallaghan/The-Cookbook/issues/121
@@ -54,8 +53,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:61015453-706a-4888-a3aa-eac613831ac1
-DTSTAMP:20231220T115351
+UID:7e449b54-98d0-43fb-8f52-ed2982c6644b
+DTSTAMP:20231220T120238
 DTSTART:20231222T184500
 DTEND:20231222T203000
 SUMMARY:Pea puree, scallop and chorizo (maybe black pudding) and Master Chef S16E06 Molly Onion bhaji, Curried cauliflower puree and pan fried scallop for dinner
@@ -66,8 +65,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1c3690b6-7b5e-49b1-baf2-3636636d7545
-DTSTAMP:20231220T115351
+UID:99546103-269d-44df-919a-988e669f0da7
+DTSTAMP:20231220T120238
 DTSTART:20231223T184500
 DTEND:20231223T203000
 SUMMARY:Next door for dinner
@@ -77,8 +76,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:eb678cd9-b1f3-4049-8df6-1eb9a80a1c38
-DTSTAMP:20231220T115354
+UID:4669cd8e-29bf-4f32-a1be-7b4c2f868755
+DTSTAMP:20231220T120241
 DTSTART:20231225T184500
 DTEND:20231225T203000
 SUMMARY:Granddads carrot soup #79, Roast potatoes  #81, Cauliflower cheese #111 and Oli's sourdough bread 🍞 #88 for dinner
@@ -91,8 +90,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a02c82ae-6f34-4838-b94e-a57592cb0849
-DTSTAMP:20231220T115355
+UID:9dccaeed-dd58-4911-8f9a-5ec3398da846
+DTSTAMP:20231220T120242
 DTSTART:20231227T184500
 DTEND:20231227T203000
 SUMMARY:Smoked rack of lamb and Lamb loin, for dinner
@@ -103,8 +102,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:578d9793-6982-43be-b9b1-c2e6e1dd3137
-DTSTAMP:20231220T115357
+UID:32658f1d-6ebf-424d-9bee-4b4842d0a565
+DTSTAMP:20231220T120244
 DTSTART:20231231T184500
 DTEND:20231231T203000
 SUMMARY:Fillet steak and Lobster for dinner
