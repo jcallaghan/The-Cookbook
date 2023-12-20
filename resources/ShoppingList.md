@@ -100,6 +100,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Jas out
 1. Phil over
+1. Baked olives with feta
 1. Next door - nibbles
 1. Smoked rack of lamb
 1. Lamb loin,
@@ -113,4 +114,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour, Salt, Seasoning, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 20-12-2023 16:09:03._
+_This shopping list was generated at 20-12-2023 16:12:53._
