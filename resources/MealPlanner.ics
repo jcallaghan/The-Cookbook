@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c49f23df-e84e-4567-b03f-48c4e06f14c9
-DTSTAMP:20231220T161854
+UID:65db0836-46ad-4a2a-9e40-10c310bbc25a
+DTSTAMP:20231220T162741
 DTSTART:20231220T184500
 DTEND:20231220T203000
 SUMMARY:Devilled kidneys #619 and Jas out for dinner
@@ -33,8 +33,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:49695fa7-e4c9-44eb-bfeb-69e107ef9307
-DTSTAMP:20231220T161900
+UID:cc3d74ff-01d1-44b7-af08-a2e019b96cf9
+DTSTAMP:20231220T162746
 DTSTART:20231221T184500
 DTEND:20231221T203000
 SUMMARY:Phil over, Sushi #29, Sushi - Kaiso Salad #620, Sushi - Boston Roll #123, Sushi - California roll #122, Sushi - Cucumber roll #119, Sushi - Avocado roll #120, Nigiri Sushi #121, Sushi - Worsley Roll #341, Japanese Slipper #415, Sushi - Seared Beef #621 and Sushi - Philadelphia Roll #622 for dinner
@@ -55,8 +55,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e676a04c-9c86-45da-b835-340f28a18904
-DTSTAMP:20231220T161901
+UID:15c14719-82a8-4ef2-95d0-48d959b16a7a
+DTSTAMP:20231220T162747
 DTSTART:20231222T184500
 DTEND:20231222T203000
 SUMMARY:Oli's sourdough bread 🍞 #88 and Crab tortellini #141 for dinner
@@ -67,12 +67,13 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:aeaf9fac-6af1-46f1-aa64-54e80076a686
-DTSTAMP:20231220T161903
+UID:53b8892a-2ba3-4a8e-ad3d-edd5ef7d8573
+DTSTAMP:20231220T162749
 DTSTART:20231223T184500
 DTEND:20231223T203000
-SUMMARY:Crostini #625, Baked olives with feta #624, Next door - nibbles and Pan-fried scallops, puree and chorizo #623 for dinner
-DESCRIPTION:Crostini #625 - https://github.com/jcallaghan/The-Cookbook/issues/625
+SUMMARY:Whipped Ricotta with Herbs and Honey #626, Crostini #625, Baked olives with feta #624, Next door - nibbles and Pan-fried scallops, puree and chorizo #623 for dinner
+DESCRIPTION:Whipped Ricotta with Herbs and Honey #626 - https://github.com/jcallaghan/The-Cookbook/issues/626
+Crostini #625 - https://github.com/jcallaghan/The-Cookbook/issues/625
 Baked olives with feta #624 - https://github.com/jcallaghan/The-Cookbook/issues/624
 Note: Next door - nibbles
 Pan-fried scallops, puree and chorizo #623 - https://github.com/jcallaghan/The-Cookbook/issues/623
@@ -81,8 +82,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5e6c42e1-b770-42ae-9863-50b35e17da23
-DTSTAMP:20231220T161906
+UID:32271135-8131-490e-a90e-21fe0026cb7d
+DTSTAMP:20231220T162751
 DTSTART:20231225T184500
 DTEND:20231225T203000
 SUMMARY:Granddads carrot soup #79, Roast potatoes  #81 and Cauliflower cheese #111 for dinner
@@ -94,8 +95,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f7caddab-aeff-4e43-94f1-c9b68a876f3f
-DTSTAMP:20231220T161907
+UID:4d6a6286-4e1c-4640-8d29-706162c9bdcf
+DTSTAMP:20231220T162752
 DTSTART:20231227T184500
 DTEND:20231227T203000
 SUMMARY:Smoked rack of lamb and Lamb loin, for dinner
@@ -106,8 +107,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:dddb9412-68e2-49da-8c94-6faee8e878b6
-DTSTAMP:20231220T161909
+UID:1a8ff8f0-8e5d-435c-a7be-9b539af81043
+DTSTAMP:20231220T162754
 DTSTART:20231231T184500
 DTEND:20231231T203000
 SUMMARY:Fillet steak and Lobster for dinner
