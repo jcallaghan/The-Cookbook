@@ -43,6 +43,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[00 flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/00%20flour)|250g|
 |[Alaska roll smoked salmon (smoked)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Alaska%20roll%20smoked%20salmon%20(smoked))||
 |[Avocado](https://www.sainsburys.co.uk/gol-ui/SearchResults/Avocado)|1|
+|[Baguette](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baguette)|1|
 |[Bowl of water for sealing the pasta sheets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bowl%20of%20water%20for%20sealing%20the%20pasta%20sheets)||
 |[Brown crab meat](https://www.sainsburys.co.uk/gol-ui/SearchResults/Brown%20crab%20meat)|50g|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|450g|
@@ -59,6 +60,8 @@ This shopping list has been automatically generated with the ingredients from th
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|5|
 |[Flour (22g whole](https://www.sainsburys.co.uk/gol-ui/SearchResults/Flour%20(22g%20whole)|65g|
 |[Fresh lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemon%20juice)|30ml|
+|[Freshly ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20ground%20black%20peppers)||
+|[Generous pinch of sea salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Generous%20pinch%20of%20sea%20salt)||
 |[Gingerroot](https://www.sainsburys.co.uk/gol-ui/SearchResults/Gingerroot)|1 tsp|
 |[I had made 75% hydration sourdough with 10% wholemeal flour. for that](https://www.sainsburys.co.uk/gol-ui/SearchResults/I%20had%20made%2075%%20hydration%20sourdough%20with%2010%%20wholemeal%20flour.%20for%20that)||
 |[Large cauliflower](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20cauliflower)|1|
@@ -87,12 +90,18 @@ This shopping list has been automatically generated with the ingredients from th
 |[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|1|
 |[Soho crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soho%20crab)||
 |[Strain](https://www.sainsburys.co.uk/gol-ui/SearchResults/Strain)||
+|[Tablespoon fresh mint](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20fresh%20mint)|2|
+|[Tablespoon olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20olive%20oil)|1|
+|[Teaspoon fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20fresh%20parsley)|1|
+|[Teaspoon lemon zest](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20lemon%20zest)|1/2|
+|[Teaspoons honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20honey)|3|
 |[Tobiko (or masago)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tobiko%20(or%20masago))|50g|
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[Water with evaporation etc you’ll end up with 120g fermented dough (let this ripen).](https://www.sainsburys.co.uk/gol-ui/SearchResults/Water%20with%20evaporation%20etc%20you’ll%20end%20up%20with%20120g%20fermented%20dough%20(let%20this%20ripen).)|65g|
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
 |[White wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine)|50ml|
+|[Whole milk ricotta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20milk%20ricotta)|1 cup|
 |[X eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20eggs)|1|
 |[X garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20garlic%20cloves)|1|
 |[X live crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20live%20crab)|1|
@@ -103,6 +112,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Jas out
 1. Phil over
+1. Smoked salmon blinis
 1. Next door - nibbles
 1. Smoked rack of lamb
 1. Lamb loin,
@@ -116,4 +126,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour, Salt, Seasoning, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 20-12-2023 16:29:50._
+_This shopping list was generated at 20-12-2023 16:33:16._
