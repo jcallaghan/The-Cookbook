@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bd3dd662-cdb6-49c6-a076-7a650311e0fc
-DTSTAMP:20231220T163314
+UID:29292034-1503-4012-a6f6-3da6ee767ff8
+DTSTAMP:20231220T165904
 DTSTART:20231220T184500
 DTEND:20231220T203000
 SUMMARY:Devilled kidneys #619 and Jas out for dinner
@@ -33,12 +33,12 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ee60c43f-e5fd-4a5c-aa0c-afc1fb80ba46
-DTSTAMP:20231220T163319
+UID:01bb148a-506c-4fac-885e-0ae98409cf55
+DTSTAMP:20231220T165909
 DTSTART:20231221T184500
 DTEND:20231221T203000
-SUMMARY:Phil over, Sushi #29, Sushi - Kaiso Salad #620, Sushi - Boston Roll #123, Sushi - California roll #122, Sushi - Cucumber roll #119, Sushi - Avocado roll #120, Nigiri Sushi #121, Sushi - Worsley Roll #341, Japanese Slipper #415, Sushi - Seared Beef #621 and Sushi - Philadelphia Roll #622 for dinner
-DESCRIPTION:Note: Phil over
+SUMMARY:Oli's sourdough bread 🍞 #88, Sushi #29, Sushi - Kaiso Salad #620, Sushi - Boston Roll #123, Sushi - California roll #122, Sushi - Cucumber roll #119, Sushi - Avocado roll #120, Nigiri Sushi #121, Sushi - Worsley Roll #341, Japanese Slipper #415, Sushi - Seared Beef #621 and Sushi - Philadelphia Roll #622 for dinner
+DESCRIPTION:Oli's sourdough bread 🍞 #88 - https://github.com/jcallaghan/The-Cookbook/issues/88
 Sushi #29 - https://github.com/jcallaghan/The-Cookbook/issues/29
 Sushi - Kaiso Salad #620 - https://github.com/jcallaghan/The-Cookbook/issues/620
 Sushi - Boston Roll #123 - https://github.com/jcallaghan/The-Cookbook/issues/123
@@ -55,25 +55,23 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5f3b3569-ceca-42b1-86bf-82a8e32e8fa4
-DTSTAMP:20231220T163320
+UID:e340ee1e-4148-4b00-b7e3-e4f4a89faba6
+DTSTAMP:20231220T165910
 DTSTART:20231222T184500
 DTEND:20231222T203000
-SUMMARY:Oli's sourdough bread 🍞 #88 and Crab tortellini #141 for dinner
-DESCRIPTION:Oli's sourdough bread 🍞 #88 - https://github.com/jcallaghan/The-Cookbook/issues/88
-Crab tortellini #141 - https://github.com/jcallaghan/The-Cookbook/issues/141
+SUMMARY:Crab tortellini #141 for dinner
+DESCRIPTION:Crab tortellini #141 - https://github.com/jcallaghan/The-Cookbook/issues/141
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f6797010-5d20-469e-b241-cf9697fb653d
-DTSTAMP:20231220T163322
+UID:babbd6f4-3bd3-4d22-8716-6e6babe7bba2
+DTSTAMP:20231220T165912
 DTSTART:20231223T184500
 DTEND:20231223T203000
-SUMMARY:Smoked salmon blinis, Next door - nibbles, Whipped Ricotta with Herbs and Honey #626, Crostini #625, Baked olives with feta #624 and Pan-fried scallops, puree and chorizo #623 for dinner
-DESCRIPTION:Note: Smoked salmon blinis
-Note: Next door - nibbles
+SUMMARY:Smoked salmon blinis #627, Whipped Ricotta with Herbs and Honey #626, Crostini #625, Baked olives with feta #624 and Pan-fried scallops, puree and chorizo #623 for dinner
+DESCRIPTION:Smoked salmon blinis #627 - https://github.com/jcallaghan/The-Cookbook/issues/627
 Whipped Ricotta with Herbs and Honey #626 - https://github.com/jcallaghan/The-Cookbook/issues/626
 Crostini #625 - https://github.com/jcallaghan/The-Cookbook/issues/625
 Baked olives with feta #624 - https://github.com/jcallaghan/The-Cookbook/issues/624
@@ -83,8 +81,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3285f9eb-5f84-4e3d-984e-a83cb1cb7fc1
-DTSTAMP:20231220T163324
+UID:98701b35-38e9-44ee-a140-192d0c352afa
+DTSTAMP:20231220T165914
 DTSTART:20231225T184500
 DTEND:20231225T203000
 SUMMARY:Granddads carrot soup #79, Roast potatoes  #81 and Cauliflower cheese #111 for dinner
@@ -96,8 +94,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8ce0bb2e-4626-4273-a6c4-354e67da2fdd
-DTSTAMP:20231220T163325
+UID:147122e1-8df7-4604-91d1-73f46ab8d33e
+DTSTAMP:20231220T165915
 DTSTART:20231227T184500
 DTEND:20231227T203000
 SUMMARY:Smoked rack of lamb and Lamb loin, for dinner
@@ -108,8 +106,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7ddce41a-a83e-41a3-9ff4-cdd85ddbd94a
-DTSTAMP:20231220T163327
+UID:6ed044aa-a7e0-4e58-b23d-6f63823591c2
+DTSTAMP:20231220T165916
 DTSTART:20231231T184500
 DTEND:20231231T203000
 SUMMARY:Fillet steak and Lobster for dinner
