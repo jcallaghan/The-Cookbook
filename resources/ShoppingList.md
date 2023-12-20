@@ -20,10 +20,10 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Japanese Slipper #415](https://github.com/jcallaghan/The-Cookbook/issues/415)|
 ||[Sushi - Seared Beef #621](https://github.com/jcallaghan/The-Cookbook/issues/621)|
 ||[Sushi - Philadelphia Roll #622](https://github.com/jcallaghan/The-Cookbook/issues/622)|
+|Fri 22-Dec 2023|[Oli's sourdough bread 🍞 #88](https://github.com/jcallaghan/The-Cookbook/issues/88)|
 |Mon 25-Dec 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 ||[Roast potatoes  #81](https://github.com/jcallaghan/The-Cookbook/issues/81)|
 ||[Cauliflower cheese #111](https://github.com/jcallaghan/The-Cookbook/issues/111)|
-||[Oli's sourdough bread 🍞 #88](https://github.com/jcallaghan/The-Cookbook/issues/88)|
 
 ## 🛒 Shopping List
 
@@ -34,6 +34,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[#122 black sesame seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/#122%20black%20sesame%20seeds)||
 |[#123 prawn](https://www.sainsburys.co.uk/gol-ui/SearchResults/#123%20prawn)||
 |[#341 seared beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/#341%20seared%20beef)||
+|[#622](https://www.sainsburys.co.uk/gol-ui/SearchResults/#622)||
 |[Alaska roll smoked salmon (smoked)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Alaska%20roll%20smoked%20salmon%20(smoked))||
 |[Avocado](https://www.sainsburys.co.uk/gol-ui/SearchResults/Avocado)|1|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|450g|
@@ -56,7 +57,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Of fennel seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20fennel%20seeds)|1 tbsp|
 |[Of paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20paprika)|2 tsp|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
-|[Philadelphia roll smoked salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Philadelphia%20roll%20smoked%20salmon)||
 |[Pinch	cayenne peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch	cayenne%20peppers)|1|
 |[Pinch of ground nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20ground%20nutmeg)||
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
@@ -82,9 +82,9 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Jas out
 1. Phil over
+1. Next door
 1. Pea puree, scallop and chorizo (maybe black pudding)
 1. Master Chef S16E06 Molly Onion bhaji, Curried cauliflower puree and pan fried scallop
-1. Next door
 1. Smoked rack of lamb
 1. Lamb loin,
 1. Fillet steak
@@ -97,4 +97,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour, Salt, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 20-12-2023 12:24:25._
+_This shopping list was generated at 20-12-2023 16:05:03._
