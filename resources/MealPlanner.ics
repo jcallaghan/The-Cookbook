@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:268c149e-dc36-40a2-8970-b7b252bcc285
-DTSTAMP:20231220T165934
+UID:d6a1dd3a-9a77-41dc-a66f-7feda3720798
+DTSTAMP:20231220T170227
 DTSTART:20231220T184500
 DTEND:20231220T203000
 SUMMARY:Devilled kidneys #619 and Jas out for dinner
@@ -33,13 +33,12 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fd286ed1-c3c3-4df1-822a-fb799205623e
-DTSTAMP:20231220T165939
+UID:a9b31cbf-6c9e-4081-9fc8-14c7e9f34b4c
+DTSTAMP:20231220T170231
 DTSTART:20231221T184500
 DTEND:20231221T203000
-SUMMARY:Oli's sourdough bread 🍞 #88, Sushi #29, Sushi - Kaiso Salad #620, Sushi - Boston Roll #123, Sushi - California roll #122, Sushi - Cucumber roll #119, Sushi - Avocado roll #120, Nigiri Sushi #121, Sushi - Worsley Roll #341, Japanese Slipper #415, Sushi - Seared Beef #621 and Sushi - Philadelphia Roll #622 for dinner
-DESCRIPTION:Oli's sourdough bread 🍞 #88 - https://github.com/jcallaghan/The-Cookbook/issues/88
-Sushi #29 - https://github.com/jcallaghan/The-Cookbook/issues/29
+SUMMARY:Sushi #29, Sushi - Kaiso Salad #620, Sushi - Boston Roll #123, Sushi - California roll #122, Sushi - Cucumber roll #119, Sushi - Avocado roll #120, Nigiri Sushi #121, Sushi - Worsley Roll #341, Japanese Slipper #415, Sushi - Seared Beef #621 and Sushi - Philadelphia Roll #622 for dinner
+DESCRIPTION:Sushi #29 - https://github.com/jcallaghan/The-Cookbook/issues/29
 Sushi - Kaiso Salad #620 - https://github.com/jcallaghan/The-Cookbook/issues/620
 Sushi - Boston Roll #123 - https://github.com/jcallaghan/The-Cookbook/issues/123
 Sushi - California roll #122 - https://github.com/jcallaghan/The-Cookbook/issues/122
@@ -55,8 +54,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4fdb3687-31fc-4413-882a-0921748b0d95
-DTSTAMP:20231220T165940
+UID:87777939-64a8-4edf-8be7-ba281862ceb7
+DTSTAMP:20231220T170232
 DTSTART:20231222T184500
 DTEND:20231222T203000
 SUMMARY:Crab tortellini #141 for dinner
@@ -66,12 +65,13 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:71333d15-60e8-4a0e-b8ee-b358b54aeabe
-DTSTAMP:20231220T165942
+UID:7b729725-be88-40c3-8585-15452d62b1ea
+DTSTAMP:20231220T170235
 DTSTART:20231223T184500
 DTEND:20231223T203000
-SUMMARY:Smoked salmon blinis #627, Whipped Ricotta with Herbs and Honey #626, Crostini #625, Baked olives with feta #624 and Pan-fried scallops, puree and chorizo #623 for dinner
-DESCRIPTION:Smoked salmon blinis #627 - https://github.com/jcallaghan/The-Cookbook/issues/627
+SUMMARY:Oli's sourdough bread 🍞 #88, Smoked salmon blinis #627, Whipped Ricotta with Herbs and Honey #626, Crostini #625, Baked olives with feta #624 and Pan-fried scallops, puree and chorizo #623 for dinner
+DESCRIPTION:Oli's sourdough bread 🍞 #88 - https://github.com/jcallaghan/The-Cookbook/issues/88
+Smoked salmon blinis #627 - https://github.com/jcallaghan/The-Cookbook/issues/627
 Whipped Ricotta with Herbs and Honey #626 - https://github.com/jcallaghan/The-Cookbook/issues/626
 Crostini #625 - https://github.com/jcallaghan/The-Cookbook/issues/625
 Baked olives with feta #624 - https://github.com/jcallaghan/The-Cookbook/issues/624
@@ -81,12 +81,13 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d8c5a36e-bf6b-499a-b2b8-7a8292b9046b
-DTSTAMP:20231220T165944
+UID:df601124-9236-4517-a76a-8242cb5b4019
+DTSTAMP:20231220T170238
 DTSTART:20231225T184500
 DTEND:20231225T203000
-SUMMARY:Granddads carrot soup #79, Roast potatoes  #81 and Cauliflower cheese #111 for dinner
-DESCRIPTION:Granddads carrot soup #79 - https://github.com/jcallaghan/The-Cookbook/issues/79
+SUMMARY:Eggs hollandaise #435, Granddads carrot soup #79, Roast potatoes  #81 and Cauliflower cheese #111 for dinner
+DESCRIPTION:Eggs hollandaise #435 - https://github.com/jcallaghan/The-Cookbook/issues/435
+Granddads carrot soup #79 - https://github.com/jcallaghan/The-Cookbook/issues/79
 Roast potatoes  #81 - https://github.com/jcallaghan/The-Cookbook/issues/81
 Cauliflower cheese #111 - https://github.com/jcallaghan/The-Cookbook/issues/111
 SEQUENCE:0
@@ -94,8 +95,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8894e565-baf2-4ff8-8bdb-9538a1eba13b
-DTSTAMP:20231220T165945
+UID:abb7317e-837d-45b2-87c4-0f5690530b48
+DTSTAMP:20231220T170239
 DTSTART:20231227T184500
 DTEND:20231227T203000
 SUMMARY:Smoked rack of lamb and Lamb loin, for dinner
@@ -106,8 +107,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:09bdb820-ca35-4655-830a-07b28ecb5d59
-DTSTAMP:20231220T165947
+UID:c146fd7a-1e5c-4ebb-92c0-ca864cfc192f
+DTSTAMP:20231220T170240
 DTSTART:20231231T184500
 DTEND:20231231T203000
 SUMMARY:Fillet steak and Lobster for dinner
