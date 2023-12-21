@@ -133,6 +133,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Make Yorkshire batter
+1. Christmas Dinner
 1. Roast turkey
 1. Stuffing in the bird and balls
 1. Roasted Parsnips and Carrots
@@ -149,4 +150,4 @@ The following items have not been added to the shopping list as they are likey i
 Bay leaf, Butter, Flour, Plain flour, Salt, Seasoning, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 21-12-2023 16:52:12._
+_This shopping list was generated at 21-12-2023 16:55:53._
