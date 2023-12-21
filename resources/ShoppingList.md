@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 20-Dec 2023 - Sun 31-Dec 2023
+Thu 21-Dec 2023 - Sun 31-Dec 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 20-Dec 2023|[Devilled kidneys #619](https://github.com/jcallaghan/The-Cookbook/issues/619)|
 |Thu 21-Dec 2023|[Sushi #29](https://github.com/jcallaghan/The-Cookbook/issues/29)|
 ||[Sushi - Kaiso Salad #620](https://github.com/jcallaghan/The-Cookbook/issues/620)|
 ||[Sushi - Boston Roll #123](https://github.com/jcallaghan/The-Cookbook/issues/123)|
@@ -20,15 +19,22 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Japanese Slipper #415](https://github.com/jcallaghan/The-Cookbook/issues/415)|
 ||[Sushi - Seared Beef #621](https://github.com/jcallaghan/The-Cookbook/issues/621)|
 ||[Sushi - Philadelphia Roll #622](https://github.com/jcallaghan/The-Cookbook/issues/622)|
-|Fri 22-Dec 2023|[Oli's sourdough bread 🍞 #88](https://github.com/jcallaghan/The-Cookbook/issues/88)|
-||[Crab tortellini #141](https://github.com/jcallaghan/The-Cookbook/issues/141)|
-|Sat 23-Dec 2023|[Whipped Ricotta with Herbs and Honey #626](https://github.com/jcallaghan/The-Cookbook/issues/626)|
+|Fri 22-Dec 2023|[Crab tortellini #141](https://github.com/jcallaghan/The-Cookbook/issues/141)|
+|Sat 23-Dec 2023|[Oli's sourdough bread 🍞 #88](https://github.com/jcallaghan/The-Cookbook/issues/88)|
+||[Smoked salmon blinis #627](https://github.com/jcallaghan/The-Cookbook/issues/627)|
+||[Whipped Ricotta with Herbs and Honey #626](https://github.com/jcallaghan/The-Cookbook/issues/626)|
 ||[Crostini #625](https://github.com/jcallaghan/The-Cookbook/issues/625)|
 ||[Baked olives with feta #624](https://github.com/jcallaghan/The-Cookbook/issues/624)|
 ||[Pan-fried scallops, puree and chorizo #623](https://github.com/jcallaghan/The-Cookbook/issues/623)|
-|Mon 25-Dec 2023|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
+|Sun 24-Dec 2023|[Parmigiana Burger #599](https://github.com/jcallaghan/The-Cookbook/issues/599)|
+|Mon 25-Dec 2023|[Eggs hollandaise #435](https://github.com/jcallaghan/The-Cookbook/issues/435)|
+||[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 ||[Roast potatoes  #81](https://github.com/jcallaghan/The-Cookbook/issues/81)|
 ||[Cauliflower cheese #111](https://github.com/jcallaghan/The-Cookbook/issues/111)|
+|Tue 26-Dec 2023|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
+|Wed 27-Dec 2023|[Roasted half leg of lamb #629](https://github.com/jcallaghan/The-Cookbook/issues/629)|
+|Thu 28-Dec 2023|[Asian Chilli Chicken #628](https://github.com/jcallaghan/The-Cookbook/issues/628)|
+|Fri 29-Dec 2023|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
 
 ## 🛒 Shopping List
 
@@ -42,11 +48,14 @@ This shopping list has been automatically generated with the ingredients from th
 |[#622](https://www.sainsburys.co.uk/gol-ui/SearchResults/#622)||
 |[00 flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/00%20flour)|250g|
 |[Alaska roll smoked salmon (smoked)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Alaska%20roll%20smoked%20salmon%20(smoked))||
-|[Avocado](https://www.sainsburys.co.uk/gol-ui/SearchResults/Avocado)|1|
+|[Avocado](https://www.sainsburys.co.uk/gol-ui/SearchResults/Avocado)||
 |[Baguette](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baguette)|1|
+|[Black peppercorns](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20peppercorns)|10|
 |[Bowl of water for sealing the pasta sheets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bowl%20of%20water%20for%20sealing%20the%20pasta%20sheets)||
 |[Brown crab meat](https://www.sainsburys.co.uk/gol-ui/SearchResults/Brown%20crab%20meat)|50g|
+|[C](https://www.sainsburys.co.uk/gol-ui/SearchResults/C)||
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|450g|
+|[Cayenne peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cayenne%20peppers)||
 |[Cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cheese)|150g|
 |[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)||
 |[Cointreau triple sec](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cointreau%20triple%20sec)|30ml|
@@ -58,7 +67,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
 |[Dried seaweed (wakame type)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20seaweed%20(wakame%20type))|28g|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|5|
+|[English muffins](https://www.sainsburys.co.uk/gol-ui/SearchResults/English%20muffins)|6|
+|[Finely snipped fresh chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Finely%20snipped%20fresh%20chives)|1–2 tbsp|
 |[Flour (22g whole](https://www.sainsburys.co.uk/gol-ui/SearchResults/Flour%20(22g%20whole)|65g|
+|[Free-range eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Free-range%20eggs)|6|
+|[Free-range eggs yolks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Free-range%20eggs%20yolks)|3|
 |[Fresh lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20lemon%20juice)|30ml|
 |[Freshly ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20ground%20black%20peppers)||
 |[Generous pinch of sea salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Generous%20pinch%20of%20sea%20salt)||
@@ -73,8 +86,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Of paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20paprika)|2 tsp|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
 |[Pinch	cayenne peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch	cayenne%20peppers)|1|
+|[Pinch caster sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20caster%20sugar)||
 |[Pinch of ground nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20ground%20nutmeg)||
 |[Pinch saffron / fennel](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20saffron%20/%20fennel)|1|
+|[Pinch sea salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20sea%20salt)||
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
 |[Prawn (query crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prawn%20(query%20crab)|20|
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
@@ -88,6 +103,8 @@ This shopping list has been automatically generated with the ingredients from th
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Sesame seed oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sesame%20seed%20oil)|1 tbsp|
 |[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|1|
+|[Small shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20shallots)|1|
+|[Smoked salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Smoked%20salmon)||
 |[Soho crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soho%20crab)||
 |[Strain](https://www.sainsburys.co.uk/gol-ui/SearchResults/Strain)||
 |[Tablespoon fresh mint](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20fresh%20mint)|2|
@@ -101,6 +118,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Water with evaporation etc you’ll end up with 120g fermented dough (let this ripen).](https://www.sainsburys.co.uk/gol-ui/SearchResults/Water%20with%20evaporation%20etc%20you’ll%20end%20up%20with%20120g%20fermented%20dough%20(let%20this%20ripen).)|65g|
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
 |[White wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine)|50ml|
+|[White wine vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine%20vinegar)|2 tbsp + 4 tbsp|
 |[Whole milk ricotta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Whole%20milk%20ricotta)|1 cup|
 |[X eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20eggs)|1|
 |[X garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20garlic%20cloves)|1|
@@ -110,12 +128,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Jas out
-1. Phil over
-1. Smoked salmon blinis
-1. Next door - nibbles
-1. Smoked rack of lamb
-1. Lamb loin,
+1. Stuffing
+1. Roasted Parsnips and Carrots
 1. Fillet steak
 1. Lobster
 
@@ -123,7 +137,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Butter, Flour, Salt, Seasoning, Sesame seeds and Soy sauce.
+Bay leaf, Butter, Flour, Salt, Seasoning, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 20-12-2023 16:33:16._
+_This shopping list was generated at 21-12-2023 16:47:16._
