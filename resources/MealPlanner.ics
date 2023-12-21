@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ee24f3c8-22b6-4247-8da2-e2125b325ac3
-DTSTAMP:20231221T165206
+UID:55d63ba4-f320-46df-aa69-71ecafc3b5bb
+DTSTAMP:20231221T165537
 DTSTART:20231221T184500
 DTEND:20231221T203000
 SUMMARY:Sushi #29, Sushi - Kaiso Salad #620, Sushi - Boston Roll #123, Sushi - California roll #122, Sushi - Cucumber roll #119, Sushi - Avocado roll #120, Nigiri Sushi #121, Sushi - Worsley Roll #341, Japanese Slipper #415, Sushi - Seared Beef #621 and Sushi - Philadelphia Roll #622 for dinner
@@ -42,8 +42,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:59a6d1b7-bb0b-4f98-b6aa-c57ef625127c
-DTSTAMP:20231221T165207
+UID:f0b3d262-a805-41ec-a70b-670388a68ac1
+DTSTAMP:20231221T165538
 DTSTART:20231222T184500
 DTEND:20231222T203000
 SUMMARY:Crab tortellini #141 for dinner
@@ -53,8 +53,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c941b62b-22bb-4a0c-ac4b-7cdb571317d3
-DTSTAMP:20231221T165210
+UID:efe57886-0ff4-40de-bb5f-08e456dfebfa
+DTSTAMP:20231221T165540
 DTSTART:20231223T184500
 DTEND:20231223T203000
 SUMMARY:Oli's sourdough bread 🍞 #88, Smoked salmon blinis #627, Whipped Ricotta with Herbs and Honey #626, Crostini #625, Baked olives with feta #624 and Pan-fried scallops, puree and chorizo #623 for dinner
@@ -69,8 +69,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5eff2a78-de01-4f71-8b1a-5c4ed4f8f7e7
-DTSTAMP:20231221T165211
+UID:3253b41c-7be0-475b-975c-a25a6c2b417a
+DTSTAMP:20231221T165541
 DTSTART:20231224T184500
 DTEND:20231224T203000
 SUMMARY:Make Yorkshire batter and Parmigiana Burger #599 for dinner
@@ -81,12 +81,13 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:348d7a2e-dbb9-47a3-a191-04652084c131
-DTSTAMP:20231221T165214
+UID:8e1d2116-eb0c-4b27-8761-7ddf6262531d
+DTSTAMP:20231221T165544
 DTSTART:20231225T184500
 DTEND:20231225T203000
-SUMMARY:Eggs hollandaise #435, Granddads carrot soup #79, Roast turkey, Stuffing in the bird and balls, Roasted Parsnips and Carrots, Roast potatoes  #81, Cauliflower cheese #111, Pigs in blanket, Yorkshire puddings #294, Cranberry sauce and Christmas Pudding - Custard/Brandy Sauce for dinner
-DESCRIPTION:Eggs hollandaise #435 - https://github.com/jcallaghan/The-Cookbook/issues/435
+SUMMARY:Christmas Dinner, Eggs hollandaise #435, Granddads carrot soup #79, Roast turkey, Stuffing in the bird and balls, Roasted Parsnips and Carrots, Roast potatoes  #81, Cauliflower cheese #111, Pigs in blanket, Yorkshire puddings #294, Cranberry sauce and Christmas Pudding - Custard/Brandy Sauce for dinner
+DESCRIPTION:Note: Christmas Dinner
+Eggs hollandaise #435 - https://github.com/jcallaghan/The-Cookbook/issues/435
 Granddads carrot soup #79 - https://github.com/jcallaghan/The-Cookbook/issues/79
 Note: Roast turkey
 Note: Stuffing in the bird and balls
@@ -102,8 +103,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b950a63f-9c4a-4be5-8304-c3c5e55a392d
-DTSTAMP:20231221T165215
+UID:14eb987f-8044-4a1f-9d2a-1574809501b9
+DTSTAMP:20231221T165544
 DTSTART:20231226T184500
 DTEND:20231226T203000
 SUMMARY:Butter chicken curry #353 for dinner
@@ -113,8 +114,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:dc9be65b-f5ec-4c56-91cd-490edb78a78a
-DTSTAMP:20231221T165216
+UID:5a2b8608-e8cd-47a5-8e33-cd2783c1c94f
+DTSTAMP:20231221T165545
 DTSTART:20231227T184500
 DTEND:20231227T203000
 SUMMARY:Roasted half leg of lamb #629 for dinner
@@ -124,8 +125,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:31928af3-c5d3-4c61-8abf-d6e44ce8c790
-DTSTAMP:20231221T165217
+UID:f4dfa614-a828-4afa-aa02-1d940e57f681
+DTSTAMP:20231221T165546
 DTSTART:20231228T184500
 DTEND:20231228T203000
 SUMMARY:Asian Chilli Chicken #628 for dinner
@@ -135,8 +136,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9478e5ad-fbce-4685-b0de-c84e1e3d0053
-DTSTAMP:20231221T165218
+UID:1356cd0a-fc12-47ea-9456-a4de4ecfba71
+DTSTAMP:20231221T165547
 DTSTART:20231229T184500
 DTEND:20231229T203000
 SUMMARY:Blackened Chicken with loaded Hummus #605 for dinner
@@ -146,8 +147,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7f19f5a2-8c07-4faf-8e83-8a4f3efe95ab
-DTSTAMP:20231221T165219
+UID:99c0f6f1-3b3b-4375-9ff5-9812e6d13f5c
+DTSTAMP:20231221T165548
 DTSTART:20231231T184500
 DTEND:20231231T203000
 SUMMARY:Fillet steak and Lobster for dinner
