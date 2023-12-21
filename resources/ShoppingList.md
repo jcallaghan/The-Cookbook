@@ -31,6 +31,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 ||[Roast potatoes  #81](https://github.com/jcallaghan/The-Cookbook/issues/81)|
 ||[Cauliflower cheese #111](https://github.com/jcallaghan/The-Cookbook/issues/111)|
+||[Yorkshire puddings #294](https://github.com/jcallaghan/The-Cookbook/issues/294)|
 |Tue 26-Dec 2023|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
 |Wed 27-Dec 2023|[Roasted half leg of lamb #629](https://github.com/jcallaghan/The-Cookbook/issues/629)|
 |Thu 28-Dec 2023|[Asian Chilli Chicken #628](https://github.com/jcallaghan/The-Cookbook/issues/628)|
@@ -59,6 +60,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cheese)|150g|
 |[Chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chives)||
 |[Cointreau triple sec](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cointreau%20triple%20sec)|30ml|
+|[Cook time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2015%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
 |[Crayfish tails](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crayfish%20tails)||
 |[Cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cream)|150ml|
@@ -66,7 +68,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cucumber)|1|
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|2 tbsp|
 |[Dried seaweed (wakame type)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20seaweed%20(wakame%20type))|28g|
-|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|5|
+|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|5 + 2|
 |[English muffins](https://www.sainsburys.co.uk/gol-ui/SearchResults/English%20muffins)|6|
 |[Finely snipped fresh chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Finely%20snipped%20fresh%20chives)|1–2 tbsp|
 |[Flour (22g whole](https://www.sainsburys.co.uk/gol-ui/SearchResults/Flour%20(22g%20whole)|65g|
@@ -80,7 +82,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Large cauliflower](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20cauliflower)|1|
 |[Leaven (14g starter 100% hydration)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Leaven%20(14g%20starter%20100%%20hydration))|120g|
 |[Midori (or other melon liqueur)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Midori%20(or%20other%20melon%20liqueur))|30ml|
-|[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|150ml|
+|[Milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Milk)|150ml + 100ml|
 |[Mirin (sweet rice wine)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mirin%20(sweet%20rice%20wine))|1 tbsp|
 |[Of fennel seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20fennel%20seeds)|1 tbsp|
 |[Of paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20paprika)|2 tsp|
@@ -93,6 +95,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|220g|
 |[Prawn (query crab](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prawn%20(query%20crab)|20|
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
+|[Prep time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2020%20minutes)||
 |[Raw salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Raw%20salmon)||
 |[Raw tuna](https://www.sainsburys.co.uk/gol-ui/SearchResults/Raw%20tuna)||
 |[Rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rice%20vinegar)|1 tbsp|
@@ -113,6 +116,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Teaspoon lemon zest](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20lemon%20zest)|1/2|
 |[Teaspoons honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20honey)|3|
 |[Tobiko (or masago)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tobiko%20(or%20masago))|50g|
+|[Total time:  45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%20%2045%20minutes)||
 |[Total time: 1 hour](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour)||
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[Water with evaporation etc you’ll end up with 120g fermented dough (let this ripen).](https://www.sainsburys.co.uk/gol-ui/SearchResults/Water%20with%20evaporation%20etc%20you’ll%20end%20up%20with%20120g%20fermented%20dough%20(let%20this%20ripen).)|65g|
@@ -128,7 +132,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Stuffing
+1. Stuffing in the bird and balls
 1. Roasted Parsnips and Carrots
 1. Fillet steak
 1. Lobster
@@ -137,7 +141,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Bay leaf, Butter, Flour, Salt, Seasoning, Sesame seeds and Soy sauce.
+Bay leaf, Butter, Flour, Plain flour, Salt, Seasoning, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 21-12-2023 16:47:16._
+_This shopping list was generated at 21-12-2023 16:47:54._
