@@ -21,72 +21,40 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1ec2d9da-d16b-4e22-a995-72cb676ac468
-DTSTAMP:20231221T165925
-DTSTART:20231221T184500
-DTEND:20231221T203000
-SUMMARY:Sushi #29, Sushi - Kaiso Salad #620, Sushi - Boston Roll #123, Sushi - California roll #122, Sushi - Cucumber roll #119, Sushi - Avocado roll #120, Nigiri Sushi #121, Sushi - Worsley Roll #341, Japanese Slipper #415, Sushi - Seared Beef #621 and Sushi - Philadelphia Roll #622 for dinner
-DESCRIPTION:Sushi #29 - https://github.com/jcallaghan/The-Cookbook/issues/29
-Sushi - Kaiso Salad #620 - https://github.com/jcallaghan/The-Cookbook/issues/620
-Sushi - Boston Roll #123 - https://github.com/jcallaghan/The-Cookbook/issues/123
-Sushi - California roll #122 - https://github.com/jcallaghan/The-Cookbook/issues/122
-Sushi - Cucumber roll #119 - https://github.com/jcallaghan/The-Cookbook/issues/119
-Sushi - Avocado roll #120 - https://github.com/jcallaghan/The-Cookbook/issues/120
-Nigiri Sushi #121 - https://github.com/jcallaghan/The-Cookbook/issues/121
-Sushi - Worsley Roll #341 - https://github.com/jcallaghan/The-Cookbook/issues/341
-Japanese Slipper #415 - https://github.com/jcallaghan/The-Cookbook/issues/415
-Sushi - Seared Beef #621 - https://github.com/jcallaghan/The-Cookbook/issues/621
-Sushi - Philadelphia Roll #622 - https://github.com/jcallaghan/The-Cookbook/issues/622
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:71acc785-a140-4737-9545-716ddb1f7e6a
-DTSTAMP:20231221T165926
-DTSTART:20231222T184500
-DTEND:20231222T203000
-SUMMARY:Crab tortellini #141 for dinner
-DESCRIPTION:Crab tortellini #141 - https://github.com/jcallaghan/The-Cookbook/issues/141
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ad5edad7-d5a6-4283-8906-ddf8652f09ee
-DTSTAMP:20231221T165929
+UID:fc24979b-3b17-45e8-84ac-86450bed39a3
+DTSTAMP:20231223T232547
 DTSTART:20231223T184500
 DTEND:20231223T203000
-SUMMARY:Oli's sourdough bread 🍞 #88, Smoked salmon blinis #627, Whipped Ricotta with Herbs and Honey #626, Crostini #625, Baked olives with feta #624 and Pan-fried scallops, puree and chorizo #623 for dinner
-DESCRIPTION:Oli's sourdough bread 🍞 #88 - https://github.com/jcallaghan/The-Cookbook/issues/88
-Smoked salmon blinis #627 - https://github.com/jcallaghan/The-Cookbook/issues/627
-Whipped Ricotta with Herbs and Honey #626 - https://github.com/jcallaghan/The-Cookbook/issues/626
-Crostini #625 - https://github.com/jcallaghan/The-Cookbook/issues/625
-Baked olives with feta #624 - https://github.com/jcallaghan/The-Cookbook/issues/624
+SUMMARY:Smoked salmon blinis #627 and Pan-fried scallops, puree and chorizo #623 for dinner
+DESCRIPTION:Smoked salmon blinis #627 - https://github.com/jcallaghan/The-Cookbook/issues/627
 Pan-fried scallops, puree and chorizo #623 - https://github.com/jcallaghan/The-Cookbook/issues/623
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c59a7cf2-3ba1-4ce1-ad18-2f3a2c831518
-DTSTAMP:20231221T165930
+UID:371cd229-d61d-47bc-ace5-ae94714c0bfb
+DTSTAMP:20231223T232550
 DTSTART:20231224T184500
 DTEND:20231224T203000
-SUMMARY:Make Yorkshire batter and Parmigiana Burger #599 for dinner
+SUMMARY:Make Yorkshire batter, Parmigiana Burger #599, Crostini #625, Whipped Ricotta with Herbs and Honey #626 and Baked olives with feta #624 for dinner
 DESCRIPTION:Note: Make Yorkshire batter
 Parmigiana Burger #599 - https://github.com/jcallaghan/The-Cookbook/issues/599
+Crostini #625 - https://github.com/jcallaghan/The-Cookbook/issues/625
+Whipped Ricotta with Herbs and Honey #626 - https://github.com/jcallaghan/The-Cookbook/issues/626
+Baked olives with feta #624 - https://github.com/jcallaghan/The-Cookbook/issues/624
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:43d28f3a-3dc9-425e-b477-4746573e0312
-DTSTAMP:20231221T165933
+UID:05afb0dc-5f68-4ad0-9fbc-ce7661d36aed
+DTSTAMP:20231223T232553
 DTSTART:20231225T184500
 DTEND:20231225T203000
-SUMMARY:Christmas Dinner #631, Eggs hollandaise #435, Granddads carrot soup #79, Roast turkey, Stuffing in the bird and balls, Roasted Parsnips and Carrots #630, Roast potatoes  #81, Cauliflower cheese #111, Pigs in blanket, Yorkshire puddings #294, Cranberry sauce and Christmas Pudding - Custard/Brandy Sauce for dinner
-DESCRIPTION:Christmas Dinner #631 - https://github.com/jcallaghan/The-Cookbook/issues/631
+SUMMARY:Oli's sourdough bread 🍞 #88, Christmas Dinner #631, Eggs hollandaise #435, Granddads carrot soup #79, Roast turkey, Stuffing in the bird and balls, Roasted Parsnips and Carrots #630, Roast potatoes  #81, Cauliflower cheese #111, Pigs in blanket, Yorkshire puddings #294, Cranberry sauce and Christmas Pudding - Custard/Brandy Sauce for dinner
+DESCRIPTION:Oli's sourdough bread 🍞 #88 - https://github.com/jcallaghan/The-Cookbook/issues/88
+Christmas Dinner #631 - https://github.com/jcallaghan/The-Cookbook/issues/631
 Eggs hollandaise #435 - https://github.com/jcallaghan/The-Cookbook/issues/435
 Granddads carrot soup #79 - https://github.com/jcallaghan/The-Cookbook/issues/79
 Note: Roast turkey
@@ -103,8 +71,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b3948cc4-57a9-460e-91bf-f5cc58630612
-DTSTAMP:20231221T165934
+UID:f4fd2eab-9e7f-4c28-9465-70744de827ff
+DTSTAMP:20231223T232554
 DTSTART:20231226T184500
 DTEND:20231226T203000
 SUMMARY:Butter chicken curry #353 for dinner
@@ -114,8 +82,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e291922d-046d-4f28-a74a-428c69120fbb
-DTSTAMP:20231221T165935
+UID:80950d21-3f13-4ba7-89ac-a9071682a120
+DTSTAMP:20231223T232555
 DTSTART:20231227T184500
 DTEND:20231227T203000
 SUMMARY:Roasted half leg of lamb #629 for dinner
@@ -125,8 +93,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3584c2f0-dc32-46cf-a78a-4dde3108b500
-DTSTAMP:20231221T165936
+UID:7529757f-af4c-47e5-8f55-f2dbe706c48f
+DTSTAMP:20231223T232556
 DTSTART:20231228T184500
 DTEND:20231228T203000
 SUMMARY:Asian Chilli Chicken #628 for dinner
@@ -136,8 +104,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cfcab2dd-3720-4d02-a174-c011b07c1831
-DTSTAMP:20231221T165936
+UID:6992de3f-221a-47b5-9cf0-44485673cf06
+DTSTAMP:20231223T232557
 DTSTART:20231229T184500
 DTEND:20231229T203000
 SUMMARY:Blackened Chicken with loaded Hummus #605 for dinner
@@ -147,8 +115,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:926cf6f5-c170-4e7e-bf08-a4b471917507
-DTSTAMP:20231221T165937
+UID:911d6ecb-7e7c-4f87-b4ff-a2ce0e0e531e
+DTSTAMP:20231223T232558
 DTSTART:20231231T184500
 DTEND:20231231T203000
 SUMMARY:Fillet steak and Lobster for dinner
