@@ -1,6 +1,6 @@
 # Shopping List
 
-Tue 26-Dec 2023 - Fri 05-Jan 2024
+Thu 28-Dec 2023 - Sun 07-Jan 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 27-Dec 2023|[Roasted half leg of lamb #629](https://github.com/jcallaghan/The-Cookbook/issues/629)|
 |Thu 28-Dec 2023|[Asian Chilli Chicken #628](https://github.com/jcallaghan/The-Cookbook/issues/628)|
 |Fri 29-Dec 2023|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
 
@@ -50,4 +49,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic cloves and Olive oil.
 
 
-_This shopping list was generated at 26-12-2023 23:07:04._
+_This shopping list was generated at 28-12-2023 18:03:26._
