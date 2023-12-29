@@ -11,8 +11,9 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 29-Dec 2023|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
 |Sat 30-Dec 2023|[Garlic Honey Crispy Chicken Rice Bowl #633](https://github.com/jcallaghan/The-Cookbook/issues/633)|
 |Mon 01-Jan 2024|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
-|Tue 02-Jan 2024|[Brown butter fish #582](https://github.com/jcallaghan/The-Cookbook/issues/582)|
+|Wed 03-Jan 2024|[Brown butter fish #582](https://github.com/jcallaghan/The-Cookbook/issues/582)|
 ||[Potato salad #36](https://github.com/jcallaghan/The-Cookbook/issues/36)|
+|Thu 04-Jan 2024|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
 
 ## 🛒 Shopping List
 
@@ -75,4 +76,4 @@ The following items have not been added to the shopping list as they are likey i
 Cornflour, Garlic cloves, Garlic powder, Olive oil, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 29-12-2023 21:51:10._
+_This shopping list was generated at 29-12-2023 21:51:45._
