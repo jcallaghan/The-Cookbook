@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Fri 29-Dec 2023|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
+|Sat 30-Dec 2023|[Garlic Honey Crispy Chicken Rice Bowl #633](https://github.com/jcallaghan/The-Cookbook/issues/633)|
 |Mon 01-Jan 2024|[Brown butter fish #582](https://github.com/jcallaghan/The-Cookbook/issues/582)|
 ||[Potato salad #36](https://github.com/jcallaghan/The-Cookbook/issues/36)|
 
@@ -49,7 +50,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Garlic Honey Crispy Chicken Rice Bowl
 1. Fillet steak
 1. Lobster
 
@@ -60,4 +60,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic cloves, Garlic powder and Olive oil.
 
 
-_This shopping list was generated at 29-12-2023 21:45:53._
+_This shopping list was generated at 29-12-2023 21:46:18._
