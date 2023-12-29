@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Fri 29-Dec 2023|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
 |Sat 30-Dec 2023|[Garlic Honey Crispy Chicken Rice Bowl #633](https://github.com/jcallaghan/The-Cookbook/issues/633)|
+|Sun 31-Dec 2023|[Eggs hollandaise #435](https://github.com/jcallaghan/The-Cookbook/issues/435)|
 |Mon 01-Jan 2024|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 |Wed 03-Jan 2024|[Brown butter fish #582](https://github.com/jcallaghan/The-Cookbook/issues/582)|
 ||[Potato salad #36](https://github.com/jcallaghan/The-Cookbook/issues/36)|
@@ -19,13 +20,21 @@ This shopping list has been automatically generated with the ingredients from th
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
+|[Avocado](https://www.sainsburys.co.uk/gol-ui/SearchResults/Avocado)||
+|[Black peppercorns](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20peppercorns)|10|
 |[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
+|[C](https://www.sainsburys.co.uk/gol-ui/SearchResults/C)||
+|[Cayenne peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cayenne%20peppers)||
 |[Chicken thigh fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thigh%20fillets)|500g|
 |[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
 |[Cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cucumber)||
 |[Day-old cooked rice (100g per person)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Day-old%20cooked%20rice%20(100g%20per%20person))||
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)||
+|[English muffins](https://www.sainsburys.co.uk/gol-ui/SearchResults/English%20muffins)|6|
 |[Feta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Feta)|30g|
+|[Finely snipped fresh chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Finely%20snipped%20fresh%20chives)|1–2 tbsp|
+|[Free-range eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Free-range%20eggs)|6|
+|[Free-range eggs yolks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Free-range%20eggs%20yolks)|3|
 |[Fresh chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20chives)|1 tbsp|
 |[Fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20ginger)|2 tbsp|
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)|4 tbsp|
@@ -40,6 +49,8 @@ This shopping list has been automatically generated with the ingredients from th
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
 |[Olives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Olives)||
 |[Paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Paprika)|2 tsp|
+|[Pinch caster sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20caster%20sugar)||
+|[Pinch sea salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20sea%20salt)||
 |[Pitta bread](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pitta%20bread)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1-2|
@@ -47,6 +58,8 @@ This shopping list has been automatically generated with the ingredients from th
 |[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|1|
 |[Serves: 2 servings](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202%20servings)||
 |[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)||
+|[Small shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20shallots)|1|
+|[Smoked salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Smoked%20salmon)||
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|3-4 + 4|
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tbsp|
 |[Tahini](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tahini)|50g|
@@ -60,20 +73,16 @@ This shopping list has been automatically generated with the ingredients from th
 |[Tsp. salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tsp.%20salt)|1 + 1/2|
 |[Tsp. smoked paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tsp.%20smoked%20paprika)|2|
 |[Tsp. sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tsp.%20sugar)|2|
+|[White wine vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20wine%20vinegar)|2 tbsp + 4 tbsp|
 |[Wholegrain mustard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Wholegrain%20mustard)|1 tbsp|
 |[X 400g tinned chickpeas](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20tinned%20chickpeas)|1|
 |[Zest of 1 lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Zest%20of%201%20lemon)||
-
-## 🗒️ Notes
-
-1. Fillet steak
-1. Lobster
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Cornflour, Garlic cloves, Garlic powder, Olive oil, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
+Bay leaf, Butter, Cornflour, Garlic cloves, Garlic powder, Olive oil, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 29-12-2023 21:52:15._
+_This shopping list was generated at 29-12-2023 21:52:55._
