@@ -10,7 +10,6 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Fri 29-Dec 2023|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
 |Sat 30-Dec 2023|[Garlic Honey Crispy Chicken Rice Bowl #633](https://github.com/jcallaghan/The-Cookbook/issues/633)|
-||[Tomato, garlic and prawn pasta #394](https://github.com/jcallaghan/The-Cookbook/issues/394)|
 |Sun 31-Dec 2023|[Eggs hollandaise #435](https://github.com/jcallaghan/The-Cookbook/issues/435)|
 |Mon 01-Jan 2024|[Prawn and brie pasta #129](https://github.com/jcallaghan/The-Cookbook/issues/129)|
 |Tue 02-Jan 2024|[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
@@ -27,7 +26,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Black rice vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20rice%20vinegar)|6 tbsp|
 |[Brie](https://www.sainsburys.co.uk/gol-ui/SearchResults/Brie)||
 |[C](https://www.sainsburys.co.uk/gol-ui/SearchResults/C)||
-|[Cans of plum tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cans%20of%20plum%20tomatoes)|1|
 |[Cayenne peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cayenne%20peppers)||
 |[Cherry tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cherry%20tomatoes)||
 |[Chicken thigh fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thigh%20fillets)|500g|
@@ -52,24 +50,20 @@ This shopping list has been automatically generated with the ingredients from th
 |[Honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Honey)|4 tbsp|
 |[Juice of ½ lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Juice%20of%20½%20lemon)||
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|4 tbsp|
-|[King prawns](https://www.sainsburys.co.uk/gol-ui/SearchResults/King%20prawns)||
 |[Mayonnaise](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mayonnaise)|6 tbsp|
 |[Mint](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mint)||
 |[New potatoes (jersey royal or cornish)](https://www.sainsburys.co.uk/gol-ui/SearchResults/New%20potatoes%20(jersey%20royal%20or%20cornish))|500g|
 |[Nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Nutmeg)||
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)||
 |[Olives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Olives)||
-|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|½|
 |[Optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Optional)||
 |[Paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Paprika)|2 tsp|
 |[Parmesan](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan)||
 |[Peeled king prawns](https://www.sainsburys.co.uk/gol-ui/SearchResults/Peeled%20king%20prawns)||
 |[Pinch caster sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20caster%20sugar)||
-|[Pinch of fennel seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20fennel%20seeds)||
 |[Pinch sea salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20sea%20salt)||
 |[Pitta bread](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pitta%20bread)||
 |[Prep time: 15 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2015%20minutes)||
-|[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
 |[Red chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20chillies)|1-2|
 |[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
 |[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|1|
@@ -81,8 +75,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Sirloin steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sirloin%20steak)||
 |[Small shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20shallots)|1|
 |[Smoked salmon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Smoked%20salmon)||
-|[Spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spaghetti)||
-|[Splash of white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Splash%20of%20white%20wine)||
 |[Spring onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spring%20onions)|3-4 + 4|
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tbsp|
 |[Tahini](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tahini)|50g|
@@ -106,7 +98,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Bay leaf, Butter, Cornflour, Dried basil, Dried oregano, Garlic cloves, Garlic powder, Olive oil, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Tomato puree.
+Bay leaf, Butter, Cornflour, Garlic cloves, Garlic powder, Olive oil, Seasoning, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 29-12-2023 22:06:00._
+_This shopping list was generated at 29-12-2023 22:12:54._
