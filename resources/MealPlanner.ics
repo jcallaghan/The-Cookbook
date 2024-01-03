@@ -21,44 +21,20 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:eec0955a-e19a-43b0-8277-a550001460fa
-DTSTAMP:20240101T003830
-DTSTART:20240101T184500
-DTEND:20240101T203000
-SUMMARY:Smashy and Eggs hollandaise #435 for dinner
-DESCRIPTION:Note: Smashy
-Eggs hollandaise #435 - https://github.com/jcallaghan/The-Cookbook/issues/435
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:f1caee56-1ea6-47a5-994f-8a248d03c900
-DTSTAMP:20240101T003832
-DTSTART:20240102T184500
-DTEND:20240102T203000
-SUMMARY:Crispy beef with egg fried rice #102 and Prawn and brie pasta #129 for dinner
-DESCRIPTION:Crispy beef with egg fried rice #102 - https://github.com/jcallaghan/The-Cookbook/issues/102
-Prawn and brie pasta #129 - https://github.com/jcallaghan/The-Cookbook/issues/129
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:5ea527c0-a31a-4a1b-93c4-205a93f1e861
-DTSTAMP:20240101T003833
+UID:e3db2d6e-4903-4e55-8c0d-0eec3ed446a3
+DTSTAMP:20240103T105755
 DTSTART:20240103T184500
 DTEND:20240103T203000
-SUMMARY:Brown butter fish #582 and Potato salad #36 for dinner
-DESCRIPTION:Brown butter fish #582 - https://github.com/jcallaghan/The-Cookbook/issues/582
-Potato salad #36 - https://github.com/jcallaghan/The-Cookbook/issues/36
+SUMMARY:Air Fried Crispy Beef #420 and Crispy beef with egg fried rice #102 for dinner
+DESCRIPTION:Air Fried Crispy Beef #420 - https://github.com/jcallaghan/The-Cookbook/issues/420
+Crispy beef with egg fried rice #102 - https://github.com/jcallaghan/The-Cookbook/issues/102
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fead570c-44f4-4d4b-b013-cc56429779d7
-DTSTAMP:20240101T003834
+UID:12b26a5e-5091-4c70-bbb7-5c0fa6550198
+DTSTAMP:20240103T105755
 DTSTART:20240104T184500
 DTEND:20240104T203000
 SUMMARY:Garlicky Meatball Pasta Bake  #571 for dinner
