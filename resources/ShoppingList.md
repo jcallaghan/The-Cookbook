@@ -16,12 +16,12 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Fish cake? Kiev?
 1. Sour dough x?
-1. Jas Parents?
 1. Spicy Chicken Wrap
 
 https://www.instagram.com/reel/CyS_rEBuyRN/
+1. Jas Parents?
 1. Salad
 1. Creamy Chicken & Pesto Wrap
 
 https://www.instagram.com/reel/C1kS48_Icn3/
-1. Soup
+1. Broccoli and Pea Soup https://itsnotcomplicatedrecipes.com/broccoli-and-pea-soup/
