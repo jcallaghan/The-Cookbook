@@ -13,4 +13,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Salad
+1. Creamy Chicken & Pesto Wrap
+
+https://www.instagram.com/reel/C1kS48_Icn3/
 1. Soup
