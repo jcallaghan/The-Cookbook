@@ -13,6 +13,9 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Spicy Chicken Wrap
+
+https://www.instagram.com/reel/CyS_rEBuyRN/
 1. Salad
 1. Creamy Chicken & Pesto Wrap
 
