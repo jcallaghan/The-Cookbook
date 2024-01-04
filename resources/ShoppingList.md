@@ -14,6 +14,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Fish cake? Kiev?
+1. Jas Parents?
 1. Spicy Chicken Wrap
 
 https://www.instagram.com/reel/CyS_rEBuyRN/
