@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 14-Jan 2024|[Roasted half leg of lamb #629](https://github.com/jcallaghan/The-Cookbook/issues/629)|
 ||[Roast potatoes  #81](https://github.com/jcallaghan/The-Cookbook/issues/81)|
 ||[Roasted Parsnips and Carrots #630](https://github.com/jcallaghan/The-Cookbook/issues/630)|
+|Mon 15-Jan 2024|[Halloumi Pasta Salad #636](https://github.com/jcallaghan/The-Cookbook/issues/636)|
 |Tue 16-Jan 2024|[Sausage and Bean Hotpot #348](https://github.com/jcallaghan/The-Cookbook/issues/348)|
 |Thu 18-Jan 2024|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 
@@ -61,9 +62,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Broccoli and Pea Soup https://itsnotcomplicatedrecipes.com/broccoli-and-pea-soup/
-1. Halloumi pasta salad? https://www.instagram.com/reel/Cz_CsB8vpGf/
-1. Jas Town
-1. Jas London
+1. Yesterday's sausage hotpot
 1. Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/
 
 ## 🏪 Pantry Ingredients
@@ -73,4 +72,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Olive oil, Salt, Smoked paprika and Tomato puree.
 
 
-_This shopping list was generated at 11-01-2024 21:53:28._
+_This shopping list was generated at 11-01-2024 21:54:09._
