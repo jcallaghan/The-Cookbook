@@ -8,6 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
+|Fri 12-Jan 2024|[Fakeaway McChicken sandwich #634](https://github.com/jcallaghan/The-Cookbook/issues/634)|
 |Tue 16-Jan 2024|[Sausage and Bean Hotpot #348](https://github.com/jcallaghan/The-Cookbook/issues/348)|
 |Thu 18-Jan 2024|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 
@@ -48,7 +49,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Broccoli and Pea Soup https://itsnotcomplicatedrecipes.com/broccoli-and-pea-soup/
-1. McChicken sandwich? https://www.instagram.com/reel/C1eXKEQoErK/
 1. Garlic sesame noodles? https://www.instagram.com/reel/CzRGAOHIIRT
 1. Lamb?
 1. Halloumi pasta salad? https://www.instagram.com/reel/Cz_CsB8vpGf/
@@ -63,4 +63,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Olive oil, Salt, Smoked paprika and Tomato puree.
 
 
-_This shopping list was generated at 11-01-2024 20:10:07._
+_This shopping list was generated at 11-01-2024 21:52:19._
