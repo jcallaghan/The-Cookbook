@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 16-Jan 2024|[Sausage and Bean Hotpot #348](https://github.com/jcallaghan/The-Cookbook/issues/348)|
 |Thu 18-Jan 2024|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 |Fri 19-Jan 2024|[Tomato bruschetta #198](https://github.com/jcallaghan/The-Cookbook/issues/198)|
+||[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 
 ## 🛒 Shopping List
 
@@ -64,4 +65,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Olive oil, Salt, Smoked paprika and Tomato puree.
 
 
-_This shopping list was generated at 16-01-2024 10:02:06._
+_This shopping list was generated at 16-01-2024 10:02:35._
