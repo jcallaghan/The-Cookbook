@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 65 all recipes recipes in the cookbook.
+There are 66 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -47,6 +47,7 @@ There are 65 all recipes recipes in the cookbook.
 ||[58](https://github.com/jcallaghan/The-Cookbook/issues/58)|[Grilled steak ratatouille and saffron rice](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/grilled-steak-ratatouille-and-saffron-rice.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/grilled-steak-ratatouille-and-saffron-rice-1.jpg' alt='Grilled steak ratatouille and saffron rice' width='200'/>|Style / Vegetarian<br>Ingredient / Meat / Beef<br>Ingredient / Rice<br>Favourite 🥰 / Jas<br>Ingredient / Steak<br>Style / Dinner Party 🥳<br>Favourite 🥰 / James<br>⚙ Published|
 | H||||
 ||[448](https://github.com/jcallaghan/The-Cookbook/issues/448)|[Haggis & Tatties](https://github.com/jcallaghan/The-Cookbook/issues/448)| |Ingredient / Meat / Lamb<br>Ingredient / Vegetable / Potato<br>⚙ Published<br>Style / Scottish|
+||[636](https://github.com/jcallaghan/The-Cookbook/issues/636)|[Halloumi Pasta Salad](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/halloumi-pasta-salad.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/halloumi-pasta-salad-1.jpg' alt='Halloumi Pasta Salad' width='200'/>|Style / Pasta 🍝<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>Style / Salad<br>ℹ️ Make ahead of time ⏰<br>Ingredient / Cheese 🧀 / Halloumi<br>⚙ Published|
 | J||||
 ||[415](https://github.com/jcallaghan/The-Cookbook/issues/415)|[Japanese Slipper](https://github.com/jcallaghan/The-Cookbook/issues/415)| |Drink / Cocktail 🍸<br>Favourite 🥰 / James<br>⚙ Published<br>Drink / Cointreau Triple Sec<br>Drink / Midori|
 | L||||
@@ -85,4 +86,4 @@ There are 65 all recipes recipes in the cookbook.
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 15-01-2024 00:22:06 using a custom Python script and GitHub Action._
+_This index was automatically generated at 16-01-2024 00:20:52 using a custom Python script and GitHub Action._
