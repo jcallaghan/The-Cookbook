@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6cb269dd-d6d5-42a9-8737-28aafef41d2f
-DTSTAMP:20240116T101522
+UID:a7476539-529d-404e-839c-cff4ff5a0808
+DTSTAMP:20240116T101608
 DTSTART:20240116T180000
 DTEND:20240116T200000
 SUMMARY:Sausage and Bean Hotpot #348 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d8ccea68-c701-491b-8af8-513ca96ff8d6
-DTSTAMP:20240116T101522
+UID:3df5975d-46b9-4d67-bd21-534a8605c7f3
+DTSTAMP:20240116T101608
 DTSTART:20240117T180000
 DTEND:20240117T200000
 SUMMARY:Yesterday's sausage hotpot for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:03535f77-7ba8-4685-aa49-5a0c3e651191
-DTSTAMP:20240116T101524
+UID:b09ed38b-0898-46ed-bae3-e25864043c63
+DTSTAMP:20240116T101609
 DTSTART:20240118T180000
 DTEND:20240118T200000
 SUMMARY:Granddads carrot soup #79 for dinner
@@ -54,8 +54,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:92d9eca8-a1cf-4cb7-9ebb-110937e31121
-DTSTAMP:20240116T101526
+UID:a467f3eb-cb7c-472c-85e3-299d9ce7a050
+DTSTAMP:20240116T101612
 DTSTART:20240119T180000
 DTEND:20240119T200000
 SUMMARY:Teriyaki chicken loaded fries
@@ -78,16 +78,19 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fbd70857-6085-416a-b9d0-c232dd465c2d
-DTSTAMP:20240116T101528
+UID:3bc1ae34-2720-43e6-bba7-4ef6fe949214
+DTSTAMP:20240116T101613
 DTSTART:20240120T180000
 DTEND:20240120T200000
-SUMMARY:Roasted carrot and parsnip soup
+SUMMARY:Spicy tomato prawns
+https://www.instagram.com/reel/Cy_fzkjoBZd/, Roasted carrot and parsnip soup
 https://www.instagram.com/reel/Cz6qpuQI1CD, Satay chicken
 https://www.instagram.com/reel/C14xHuZsD23/, Parmesan Chicken Schnitzel
 https://www.instagram.com/reel/Cz33O7ds70I/, Crispy Smashed Potato Salad
 https://www.instagram.com/reel/C1-rke-LZhk/, Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/ and Potato salad #36 for dinner
-DESCRIPTION:Note: Roasted carrot and parsnip soup
+DESCRIPTION:Note: Spicy tomato prawns
+https://www.instagram.com/reel/Cy_fzkjoBZd/
+Note: Roasted carrot and parsnip soup
 https://www.instagram.com/reel/Cz6qpuQI1CD
 Note: Satay chicken
 https://www.instagram.com/reel/C14xHuZsD23/
