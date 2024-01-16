@@ -88,6 +88,8 @@ https://www.instagram.com/reel/C14OICgoJTg/
 https://www.instagram.com/reel/C1_5FGUo27Z
 1. Chicken el Margherita Salad
 https://www.instagram.com/reel/C2Fd5txyOoG/
+1. Roasted carrot and parsnip soup
+https://www.instagram.com/reel/Cz6qpuQI1CD
 1. Satay chicken
 https://www.instagram.com/reel/C14xHuZsD23/
 1. Parmesan Chicken Schnitzel
@@ -103,4 +105,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Garlic powder, Olive oil, Salt, Smoked paprika and Tomato puree.
 
 
-_This shopping list was generated at 16-01-2024 10:14:25._
+_This shopping list was generated at 16-01-2024 10:15:17._
