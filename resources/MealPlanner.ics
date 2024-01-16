@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a7476539-529d-404e-839c-cff4ff5a0808
-DTSTAMP:20240116T101608
+UID:090def58-a712-4a23-8b85-1c30f5cd7b04
+DTSTAMP:20240116T101650
 DTSTART:20240116T180000
 DTEND:20240116T200000
 SUMMARY:Sausage and Bean Hotpot #348 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3df5975d-46b9-4d67-bd21-534a8605c7f3
-DTSTAMP:20240116T101608
+UID:b3f2134e-98bd-4fc4-8d0c-dc7efca3a908
+DTSTAMP:20240116T101651
 DTSTART:20240117T180000
 DTEND:20240117T200000
 SUMMARY:Yesterday's sausage hotpot for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b09ed38b-0898-46ed-bae3-e25864043c63
-DTSTAMP:20240116T101609
+UID:4a1c0c59-f961-4a25-b4a2-5181675d300d
+DTSTAMP:20240116T101652
 DTSTART:20240118T180000
 DTEND:20240118T200000
 SUMMARY:Granddads carrot soup #79 for dinner
@@ -54,8 +54,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a467f3eb-cb7c-472c-85e3-299d9ce7a050
-DTSTAMP:20240116T101612
+UID:01fb3a40-95d3-46dc-b69e-e26e45357d45
+DTSTAMP:20240116T101654
 DTSTART:20240119T180000
 DTEND:20240119T200000
 SUMMARY:Teriyaki chicken loaded fries
@@ -78,17 +78,20 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3bc1ae34-2720-43e6-bba7-4ef6fe949214
-DTSTAMP:20240116T101613
+UID:517578e3-27af-41d9-ad28-3053371bfdf9
+DTSTAMP:20240116T101655
 DTSTART:20240120T180000
 DTEND:20240120T200000
-SUMMARY:Spicy tomato prawns
+SUMMARY:Harvest Salad with Lemmon Thyme Dressing
+https://www.instagram.com/reel/C0TVQ0NSkwv/, Spicy tomato prawns
 https://www.instagram.com/reel/Cy_fzkjoBZd/, Roasted carrot and parsnip soup
 https://www.instagram.com/reel/Cz6qpuQI1CD, Satay chicken
 https://www.instagram.com/reel/C14xHuZsD23/, Parmesan Chicken Schnitzel
 https://www.instagram.com/reel/Cz33O7ds70I/, Crispy Smashed Potato Salad
 https://www.instagram.com/reel/C1-rke-LZhk/, Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/ and Potato salad #36 for dinner
-DESCRIPTION:Note: Spicy tomato prawns
+DESCRIPTION:Note: Harvest Salad with Lemmon Thyme Dressing
+https://www.instagram.com/reel/C0TVQ0NSkwv/
+Note: Spicy tomato prawns
 https://www.instagram.com/reel/Cy_fzkjoBZd/
 Note: Roasted carrot and parsnip soup
 https://www.instagram.com/reel/Cz6qpuQI1CD
