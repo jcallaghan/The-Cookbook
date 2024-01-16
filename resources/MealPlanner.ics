@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:090def58-a712-4a23-8b85-1c30f5cd7b04
-DTSTAMP:20240116T101650
+UID:4d337a7b-ebf3-4f45-9216-323b485fb822
+DTSTAMP:20240116T101730
 DTSTART:20240116T180000
 DTEND:20240116T200000
 SUMMARY:Sausage and Bean Hotpot #348 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b3f2134e-98bd-4fc4-8d0c-dc7efca3a908
-DTSTAMP:20240116T101651
+UID:ca91930a-cba2-4442-a6a7-01621d6ca804
+DTSTAMP:20240116T101730
 DTSTART:20240117T180000
 DTEND:20240117T200000
 SUMMARY:Yesterday's sausage hotpot for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4a1c0c59-f961-4a25-b4a2-5181675d300d
-DTSTAMP:20240116T101652
+UID:b53e1af2-0c6c-474a-b772-4ec766680717
+DTSTAMP:20240116T101731
 DTSTART:20240118T180000
 DTEND:20240118T200000
 SUMMARY:Granddads carrot soup #79 for dinner
@@ -54,8 +54,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:01fb3a40-95d3-46dc-b69e-e26e45357d45
-DTSTAMP:20240116T101654
+UID:f9177ffc-e47f-49cb-b0b4-01d5980d301e
+DTSTAMP:20240116T101734
 DTSTART:20240119T180000
 DTEND:20240119T200000
 SUMMARY:Teriyaki chicken loaded fries
@@ -78,18 +78,20 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:517578e3-27af-41d9-ad28-3053371bfdf9
-DTSTAMP:20240116T101655
+UID:1377c398-ea88-41a5-ac59-e0a30057d390
+DTSTAMP:20240116T101735
 DTSTART:20240120T180000
 DTEND:20240120T200000
-SUMMARY:Harvest Salad with Lemmon Thyme Dressing
+SUMMARY:Double Chocolate Banana Bread https://www.facebook.com/reel/2577107999124711, Chocolate Banana Roll Cake - Jas Mum, Harvest Salad with Lemmon Thyme Dressing
 https://www.instagram.com/reel/C0TVQ0NSkwv/, Spicy tomato prawns
 https://www.instagram.com/reel/Cy_fzkjoBZd/, Roasted carrot and parsnip soup
 https://www.instagram.com/reel/Cz6qpuQI1CD, Satay chicken
 https://www.instagram.com/reel/C14xHuZsD23/, Parmesan Chicken Schnitzel
 https://www.instagram.com/reel/Cz33O7ds70I/, Crispy Smashed Potato Salad
 https://www.instagram.com/reel/C1-rke-LZhk/, Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/ and Potato salad #36 for dinner
-DESCRIPTION:Note: Harvest Salad with Lemmon Thyme Dressing
+DESCRIPTION:Note: Double Chocolate Banana Bread https://www.facebook.com/reel/2577107999124711
+Note: Chocolate Banana Roll Cake - Jas Mum
+Note: Harvest Salad with Lemmon Thyme Dressing
 https://www.instagram.com/reel/C0TVQ0NSkwv/
 Note: Spicy tomato prawns
 https://www.instagram.com/reel/Cy_fzkjoBZd/
