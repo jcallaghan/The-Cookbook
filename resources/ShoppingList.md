@@ -72,6 +72,8 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Yesterday's sausage hotpot
+1. Teriyaki chicken loaded fries
+https://www.instagram.com/reel/C14OICgoJTg/
 1. BBQ chicken nachos
 https://www.instagram.com/reel/C1_5FGUo27Z
 1. Chicken el Margherita Salad
@@ -85,4 +87,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Olive oil, Salt, Smoked paprika and Tomato puree.
 
 
-_This shopping list was generated at 16-01-2024 10:09:07._
+_This shopping list was generated at 16-01-2024 10:10:57._
