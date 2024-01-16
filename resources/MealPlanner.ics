@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c314dfd6-44b5-4ef3-a323-0a3113c70ab3
-DTSTAMP:20240116T100531
+UID:841c2f13-ad2a-441e-9d28-3ea4f76abe6b
+DTSTAMP:20240116T100719
 DTSTART:20240116T180000
 DTEND:20240116T200000
 SUMMARY:Sausage and Bean Hotpot #348 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1a63b4a9-426b-4521-b36e-cbc10256ebd8
-DTSTAMP:20240116T100531
+UID:3c74b069-dee3-4728-b18d-f8aad72ab2bb
+DTSTAMP:20240116T100720
 DTSTART:20240117T180000
 DTEND:20240117T200000
 SUMMARY:Yesterday's sausage hotpot for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a0beadc4-f5da-4819-a11f-6c222eee93b7
-DTSTAMP:20240116T100532
+UID:bfc04e1a-1d05-413f-b758-96c513944480
+DTSTAMP:20240116T100721
 DTSTART:20240118T180000
 DTEND:20240118T200000
 SUMMARY:Granddads carrot soup #79 for dinner
@@ -54,24 +54,25 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6c01477d-0ac8-435f-84cf-f24c695a88ea
-DTSTAMP:20240116T100534
+UID:f49487a6-35ec-4a55-b29f-d6360778f9f4
+DTSTAMP:20240116T100723
 DTSTART:20240119T180000
 DTEND:20240119T200000
 SUMMARY:Chicken el Margherita Salad
-https://www.instagram.com/reel/C2Fd5txyOoG/, Tomato bruschetta #198, Chicken Chow Mein #596 and Creamy chicken broccoli pasta #19 for dinner
+https://www.instagram.com/reel/C2Fd5txyOoG/, Tomato bruschetta #198, Chicken Chow Mein #596, Creamy chicken broccoli pasta #19 and Chicken piccata #286 for dinner
 DESCRIPTION:Note: Chicken el Margherita Salad
 https://www.instagram.com/reel/C2Fd5txyOoG/
 Tomato bruschetta #198 - https://github.com/jcallaghan/The-Cookbook/issues/198
 Chicken Chow Mein #596 - https://github.com/jcallaghan/The-Cookbook/issues/596
 Creamy chicken broccoli pasta #19 - https://github.com/jcallaghan/The-Cookbook/issues/19
+Chicken piccata #286 - https://github.com/jcallaghan/The-Cookbook/issues/286
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1d1d4966-5d13-4ea0-8001-067ff5ea4913
-DTSTAMP:20240116T100534
+UID:2b957696-a4b6-4229-933d-c5a9a03cbd5a
+DTSTAMP:20240116T100723
 DTSTART:20240120T180000
 DTEND:20240120T200000
 SUMMARY:Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/ for dinner
