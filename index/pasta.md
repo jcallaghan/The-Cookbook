@@ -1,6 +1,6 @@
 # Pasta
 
-There are 44 pasta recipes in the cookbook.
+There are 45 pasta recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -28,6 +28,7 @@ There are 44 pasta recipes in the cookbook.
 ||[354](https://github.com/jcallaghan/The-Cookbook/issues/354)|[Garlic Prawn Bacon Alfredo](https://github.com/jcallaghan/The-Cookbook/issues/354)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ New Recipe 👀<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Ingredient / Meat / Pork / Bacon|
 ||[100](https://github.com/jcallaghan/The-Cookbook/issues/100)|[Grilled salmon fillet pasta salad](https://github.com/jcallaghan/The-Cookbook/issues/100)| |Style / Pasta 🍝<br>Favourite 🥰<br>Ingredient / Fish 🐟 / Salmon<br>Style / Salad|
 | H||||
+||[636](https://github.com/jcallaghan/The-Cookbook/issues/636)|[Halloumi Pasta Salad](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/halloumi-pasta-salad.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/halloumi-pasta-salad-1.jpg' alt='Halloumi Pasta Salad' width='200'/>|Style / Pasta 🍝<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>Style / Salad<br>ℹ️ Make ahead of time ⏰<br>Ingredient / Cheese 🧀 / Halloumi<br>⚙ Published|
 ||[473](https://github.com/jcallaghan/The-Cookbook/issues/473)|[Ham and egg linguine](https://github.com/jcallaghan/The-Cookbook/issues/473)| |Style / Pasta 🍝<br>Meal / Main<br>Ingredient / Egg<br>Ingredient / Meat / Pork / Ham|
 | I||||
 ||[267](https://github.com/jcallaghan/The-Cookbook/issues/267)|[Instant Pot King Ranch Chicken](https://github.com/jcallaghan/The-Cookbook/issues/267)| |Style / Pasta 🍝<br>Ingredient / Meat / Chicken 🐔<br>ℹ️ One Pot Wonder 💪|
@@ -60,4 +61,4 @@ There are 44 pasta recipes in the cookbook.
 | V||||
 ||[383](https://github.com/jcallaghan/The-Cookbook/issues/383)|[Vayia Shrimp Pasta](https://github.com/jcallaghan/The-Cookbook/issues/383)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Food Memories|
 
-_This index was automatically generated at 15-01-2024 00:23:23 using a custom Python script and GitHub Action._
+_This index was automatically generated at 16-01-2024 00:22:08 using a custom Python script and GitHub Action._
