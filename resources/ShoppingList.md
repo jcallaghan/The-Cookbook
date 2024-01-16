@@ -71,6 +71,8 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Yesterday's sausage hotpot
+1. BBQ chicken nachos
+https://www.instagram.com/reel/C1_5FGUo27Z
 1. Chicken el Margherita Salad
 https://www.instagram.com/reel/C2Fd5txyOoG/
 1. Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/
@@ -82,4 +84,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Olive oil, Salt, Smoked paprika and Tomato puree.
 
 
-_This shopping list was generated at 16-01-2024 10:07:29._
+_This shopping list was generated at 16-01-2024 10:08:32._
