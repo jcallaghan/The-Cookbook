@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 19-Jan 2024|[Tomato bruschetta #198](https://github.com/jcallaghan/The-Cookbook/issues/198)|
 |Sat 20-Jan 2024|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
 |Mon 22-Jan 2024|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
+|Tue 23-Jan 2024|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
 |Wed 24-Jan 2024|[Halloumi Pasta Salad #636](https://github.com/jcallaghan/The-Cookbook/issues/636)|
 
 ## 🛒 Shopping List
@@ -95,4 +96,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Olive oil, Salt and Sesame oil.
 
 
-_This shopping list was generated at 18-01-2024 14:27:43._
+_This shopping list was generated at 18-01-2024 14:28:22._
