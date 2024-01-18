@@ -88,6 +88,8 @@ This shopping list has been automatically generated with the ingredients from th
 https://www.instagram.com/reel/Cz33O7ds70I/
 1. Crispy Smashed Potato Salad
 https://www.instagram.com/reel/C1-rke-LZhk/
+1. Satay chicken
+https://www.instagram.com/reel/C14xHuZsD23/
 
 ## 🏪 Pantry Ingredients
 
@@ -96,4 +98,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Olive oil, Salt and Sesame oil.
 
 
-_This shopping list was generated at 18-01-2024 14:28:22._
+_This shopping list was generated at 18-01-2024 14:28:56._
