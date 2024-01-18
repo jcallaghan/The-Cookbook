@@ -11,6 +11,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 18-Jan 2024|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 |Fri 19-Jan 2024|[Tomato bruschetta #198](https://github.com/jcallaghan/The-Cookbook/issues/198)|
 |Sat 20-Jan 2024|[Thai green curry #47](https://github.com/jcallaghan/The-Cookbook/issues/47)|
+|Sun 21-Jan 2024|[Parmesan Chicken Schnitzel #637](https://github.com/jcallaghan/The-Cookbook/issues/637)|
+||[Crispy Smashed Potato Salad #638](https://github.com/jcallaghan/The-Cookbook/issues/638)|
 |Mon 22-Jan 2024|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
 |Tue 23-Jan 2024|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
 |Wed 24-Jan 2024|[Halloumi Pasta Salad #636](https://github.com/jcallaghan/The-Cookbook/issues/636)|
@@ -84,10 +86,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Parmesan Chicken Schnitzel
-https://www.instagram.com/reel/Cz33O7ds70I/
-1. Crispy Smashed Potato Salad
-https://www.instagram.com/reel/C1-rke-LZhk/
 1. Satay chicken
 https://www.instagram.com/reel/C14xHuZsD23/
 
@@ -98,4 +96,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Olive oil, Salt and Sesame oil.
 
 
-_This shopping list was generated at 18-01-2024 14:29:27._
+_This shopping list was generated at 18-01-2024 14:46:36._
