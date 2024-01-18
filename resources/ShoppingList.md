@@ -14,8 +14,8 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 ||[Creamy chicken broccoli pasta #19](https://github.com/jcallaghan/The-Cookbook/issues/19)|
 ||[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
-||[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
 |Sat 20-Jan 2024|[Potato salad #36](https://github.com/jcallaghan/The-Cookbook/issues/36)|
+|Mon 22-Jan 2024|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
 |Wed 24-Jan 2024|[Halloumi Pasta Salad #636](https://github.com/jcallaghan/The-Cookbook/issues/636)|
 
 ## 🛒 Shopping List
@@ -97,4 +97,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Garlic powder, Olive oil and Salt.
 
 
-_This shopping list was generated at 18-01-2024 14:24:48._
+_This shopping list was generated at 18-01-2024 14:25:32._
