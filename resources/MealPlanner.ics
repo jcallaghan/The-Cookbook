@@ -21,19 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:867ff360-58ef-4d7a-8e26-3341c80fab9a
-DTSTAMP:20240117T130135
-DTSTART:20240117T180000
-DTEND:20240117T200000
-SUMMARY:Yesterday's sausage hotpot for dinner
-DESCRIPTION:Note: Yesterday's sausage hotpot
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:39aba1ad-c83e-41a2-b4d8-e721ea72e55f
-DTSTAMP:20240117T130136
+UID:3aef2cb1-2524-44aa-8325-d52dc9a856d1
+DTSTAMP:20240118T142442
 DTSTART:20240118T180000
 DTEND:20240118T200000
 SUMMARY:Granddads carrot soup #79 and Chicken Milanese #601 for dinner
@@ -44,21 +33,15 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9a7378c7-cafa-4067-bb34-c67e6080e54f
-DTSTAMP:20240117T130139
+UID:8259dea0-fed4-4113-9aab-1d083af41a71
+DTSTAMP:20240118T142444
 DTSTART:20240119T180000
 DTEND:20240119T200000
-SUMMARY:Teriyaki chicken loaded fries
-https://www.instagram.com/reel/C14OICgoJTg/, BBQ chicken nachos
-https://www.instagram.com/reel/C1_5FGUo27Z, Chicken el Margherita Salad
-https://www.instagram.com/reel/C2Fd5txyOoG/, Tomato bruschetta #198, Chicken Chow Mein #596, Creamy chicken broccoli pasta #19, Chicken Caesar salad #382 and Chicken piccata #286 for dinner
-DESCRIPTION:Note: Teriyaki chicken loaded fries
-https://www.instagram.com/reel/C14OICgoJTg/
-Note: BBQ chicken nachos
-https://www.instagram.com/reel/C1_5FGUo27Z
+SUMMARY:Tomato bruschetta #198, Chicken el Margherita Salad
+https://www.instagram.com/reel/C2Fd5txyOoG/, Chicken Chow Mein #596, Creamy chicken broccoli pasta #19, Chicken Caesar salad #382 and Chicken piccata #286 for dinner
+DESCRIPTION:Tomato bruschetta #198 - https://github.com/jcallaghan/The-Cookbook/issues/198
 Note: Chicken el Margherita Salad
 https://www.instagram.com/reel/C2Fd5txyOoG/
-Tomato bruschetta #198 - https://github.com/jcallaghan/The-Cookbook/issues/198
 Chicken Chow Mein #596 - https://github.com/jcallaghan/The-Cookbook/issues/596
 Creamy chicken broccoli pasta #19 - https://github.com/jcallaghan/The-Cookbook/issues/19
 Chicken Caesar salad #382 - https://github.com/jcallaghan/The-Cookbook/issues/382
@@ -68,33 +51,37 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b437ba59-2d38-4301-9212-8bf9e1f42a9c
-DTSTAMP:20240117T130140
+UID:ad128f83-5ee7-4185-8d85-42c49277d54f
+DTSTAMP:20240118T142445
 DTSTART:20240120T180000
 DTEND:20240120T200000
-SUMMARY:Double Chocolate Banana Bread https://www.facebook.com/reel/2577107999124711, Chocolate Banana Roll Cake - Jas Mum, Harvest Salad with Lemmon Thyme Dressing
-https://www.instagram.com/reel/C0TVQ0NSkwv/, Spicy tomato prawns
-https://www.instagram.com/reel/Cy_fzkjoBZd/, Roasted carrot and parsnip soup
-https://www.instagram.com/reel/Cz6qpuQI1CD, Satay chicken
+SUMMARY:Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/, Double Chocolate Banana Bread https://www.facebook.com/reel/2577107999124711, Harvest Salad with Lemmon Thyme Dressing
+https://www.instagram.com/reel/C0TVQ0NSkwv/, Satay chicken
 https://www.instagram.com/reel/C14xHuZsD23/, Parmesan Chicken Schnitzel
 https://www.instagram.com/reel/Cz33O7ds70I/, Crispy Smashed Potato Salad
-https://www.instagram.com/reel/C1-rke-LZhk/, Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/ and Potato salad #36 for dinner
-DESCRIPTION:Note: Double Chocolate Banana Bread https://www.facebook.com/reel/2577107999124711
-Note: Chocolate Banana Roll Cake - Jas Mum
+https://www.instagram.com/reel/C1-rke-LZhk/ and Potato salad #36 for dinner
+DESCRIPTION:Note: Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/
+Note: Double Chocolate Banana Bread https://www.facebook.com/reel/2577107999124711
 Note: Harvest Salad with Lemmon Thyme Dressing
 https://www.instagram.com/reel/C0TVQ0NSkwv/
-Note: Spicy tomato prawns
-https://www.instagram.com/reel/Cy_fzkjoBZd/
-Note: Roasted carrot and parsnip soup
-https://www.instagram.com/reel/Cz6qpuQI1CD
 Note: Satay chicken
 https://www.instagram.com/reel/C14xHuZsD23/
 Note: Parmesan Chicken Schnitzel
 https://www.instagram.com/reel/Cz33O7ds70I/
 Note: Crispy Smashed Potato Salad
 https://www.instagram.com/reel/C1-rke-LZhk/
-Note: Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/
 Potato salad #36 - https://github.com/jcallaghan/The-Cookbook/issues/36
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7146e26e-c8f1-47ff-8c99-9a10cc0492bf
+DTSTAMP:20240118T142447
+DTSTART:20240124T180000
+DTEND:20240124T200000
+SUMMARY:Halloumi Pasta Salad #636 for dinner
+DESCRIPTION:Halloumi Pasta Salad #636 - https://github.com/jcallaghan/The-Cookbook/issues/636
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
