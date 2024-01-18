@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3aef2cb1-2524-44aa-8325-d52dc9a856d1
-DTSTAMP:20240118T142442
+UID:e8db3a61-b790-4038-84ab-ecb9f574b889
+DTSTAMP:20240118T142528
 DTSTART:20240118T180000
 DTEND:20240118T200000
 SUMMARY:Granddads carrot soup #79 and Chicken Milanese #601 for dinner
@@ -33,26 +33,25 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8259dea0-fed4-4113-9aab-1d083af41a71
-DTSTAMP:20240118T142444
+UID:0705e0ae-b8c0-446a-bbe1-0b71b1920998
+DTSTAMP:20240118T142530
 DTSTART:20240119T180000
 DTEND:20240119T200000
 SUMMARY:Tomato bruschetta #198, Chicken el Margherita Salad
-https://www.instagram.com/reel/C2Fd5txyOoG/, Chicken Chow Mein #596, Creamy chicken broccoli pasta #19, Chicken Caesar salad #382 and Chicken piccata #286 for dinner
+https://www.instagram.com/reel/C2Fd5txyOoG/, Chicken Chow Mein #596, Creamy chicken broccoli pasta #19 and Chicken Caesar salad #382 for dinner
 DESCRIPTION:Tomato bruschetta #198 - https://github.com/jcallaghan/The-Cookbook/issues/198
 Note: Chicken el Margherita Salad
 https://www.instagram.com/reel/C2Fd5txyOoG/
 Chicken Chow Mein #596 - https://github.com/jcallaghan/The-Cookbook/issues/596
 Creamy chicken broccoli pasta #19 - https://github.com/jcallaghan/The-Cookbook/issues/19
 Chicken Caesar salad #382 - https://github.com/jcallaghan/The-Cookbook/issues/382
-Chicken piccata #286 - https://github.com/jcallaghan/The-Cookbook/issues/286
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ad128f83-5ee7-4185-8d85-42c49277d54f
-DTSTAMP:20240118T142445
+UID:b18422f7-49c5-473c-9c9b-3b2afac218c2
+DTSTAMP:20240118T142532
 DTSTART:20240120T180000
 DTEND:20240120T200000
 SUMMARY:Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/, Double Chocolate Banana Bread https://www.facebook.com/reel/2577107999124711, Harvest Salad with Lemmon Thyme Dressing
@@ -76,8 +75,19 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7146e26e-c8f1-47ff-8c99-9a10cc0492bf
-DTSTAMP:20240118T142447
+UID:9082937f-72f0-4167-bcdd-572493a1d7f2
+DTSTAMP:20240118T142533
+DTSTART:20240122T180000
+DTEND:20240122T200000
+SUMMARY:Chicken piccata #286 for dinner
+DESCRIPTION:Chicken piccata #286 - https://github.com/jcallaghan/The-Cookbook/issues/286
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:284c6774-b164-4df5-8781-4d307baa4a7d
+DTSTAMP:20240118T142534
 DTSTART:20240124T180000
 DTEND:20240124T200000
 SUMMARY:Halloumi Pasta Salad #636 for dinner
