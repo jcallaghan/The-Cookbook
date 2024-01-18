@@ -16,6 +16,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 22-Jan 2024|[Chicken piccata #286](https://github.com/jcallaghan/The-Cookbook/issues/286)|
 |Tue 23-Jan 2024|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
 |Wed 24-Jan 2024|[Halloumi Pasta Salad #636](https://github.com/jcallaghan/The-Cookbook/issues/636)|
+|Thu 25-Jan 2024|[Satay chicken #639](https://github.com/jcallaghan/The-Cookbook/issues/639)|
 
 ## 🛒 Shopping List
 
@@ -84,11 +85,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
 
-## 🗒️ Notes
-
-1. Satay chicken
-https://www.instagram.com/reel/C14xHuZsD23/
-
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -96,4 +92,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Olive oil, Salt and Sesame oil.
 
 
-_This shopping list was generated at 18-01-2024 14:46:36._
+_This shopping list was generated at 18-01-2024 14:50:34._
