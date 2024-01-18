@@ -83,7 +83,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/
 1. Parmesan Chicken Schnitzel
 https://www.instagram.com/reel/Cz33O7ds70I/
 1. Crispy Smashed Potato Salad
@@ -96,4 +95,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves, Olive oil, Salt and Sesame oil.
 
 
-_This shopping list was generated at 18-01-2024 14:27:16._
+_This shopping list was generated at 18-01-2024 14:27:43._
