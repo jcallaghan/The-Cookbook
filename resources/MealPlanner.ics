@@ -21,62 +21,58 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e8db3a61-b790-4038-84ab-ecb9f574b889
-DTSTAMP:20240118T142528
+UID:817c0460-a1b6-4a38-aa14-e1b3634f8921
+DTSTAMP:20240118T142710
 DTSTART:20240118T180000
 DTEND:20240118T200000
-SUMMARY:Granddads carrot soup #79 and Chicken Milanese #601 for dinner
+SUMMARY:Granddads carrot soup #79 for dinner
 DESCRIPTION:Granddads carrot soup #79 - https://github.com/jcallaghan/The-Cookbook/issues/79
-Chicken Milanese #601 - https://github.com/jcallaghan/The-Cookbook/issues/601
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:0705e0ae-b8c0-446a-bbe1-0b71b1920998
-DTSTAMP:20240118T142530
+UID:43b9ffb4-9273-4b60-96d3-c0f03c5de2a1
+DTSTAMP:20240118T142711
 DTSTART:20240119T180000
 DTEND:20240119T200000
-SUMMARY:Tomato bruschetta #198, Chicken el Margherita Salad
-https://www.instagram.com/reel/C2Fd5txyOoG/, Chicken Chow Mein #596, Creamy chicken broccoli pasta #19 and Chicken Caesar salad #382 for dinner
+SUMMARY:Tomato bruschetta #198 for dinner
 DESCRIPTION:Tomato bruschetta #198 - https://github.com/jcallaghan/The-Cookbook/issues/198
-Note: Chicken el Margherita Salad
-https://www.instagram.com/reel/C2Fd5txyOoG/
-Chicken Chow Mein #596 - https://github.com/jcallaghan/The-Cookbook/issues/596
-Creamy chicken broccoli pasta #19 - https://github.com/jcallaghan/The-Cookbook/issues/19
-Chicken Caesar salad #382 - https://github.com/jcallaghan/The-Cookbook/issues/382
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b18422f7-49c5-473c-9c9b-3b2afac218c2
-DTSTAMP:20240118T142532
+UID:203a9043-b372-4080-8c4b-b6d7aa5eedab
+DTSTAMP:20240118T142712
 DTSTART:20240120T180000
 DTEND:20240120T200000
-SUMMARY:Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/, Double Chocolate Banana Bread https://www.facebook.com/reel/2577107999124711, Harvest Salad with Lemmon Thyme Dressing
-https://www.instagram.com/reel/C0TVQ0NSkwv/, Satay chicken
-https://www.instagram.com/reel/C14xHuZsD23/, Parmesan Chicken Schnitzel
-https://www.instagram.com/reel/Cz33O7ds70I/, Crispy Smashed Potato Salad
-https://www.instagram.com/reel/C1-rke-LZhk/ and Potato salad #36 for dinner
+SUMMARY:Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/ and Thai green curry #47 for dinner
 DESCRIPTION:Note: Thai Green Curry https://www.instagram.com/p/C17UWxPIaBe/
-Note: Double Chocolate Banana Bread https://www.facebook.com/reel/2577107999124711
-Note: Harvest Salad with Lemmon Thyme Dressing
-https://www.instagram.com/reel/C0TVQ0NSkwv/
-Note: Satay chicken
-https://www.instagram.com/reel/C14xHuZsD23/
-Note: Parmesan Chicken Schnitzel
+Thai green curry #47 - https://github.com/jcallaghan/The-Cookbook/issues/47
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:26e88cf0-36d1-4790-83a6-fe89e481e091
+DTSTAMP:20240118T142713
+DTSTART:20240121T180000
+DTEND:20240121T200000
+SUMMARY:Parmesan Chicken Schnitzel
+https://www.instagram.com/reel/Cz33O7ds70I/ and Crispy Smashed Potato Salad
+https://www.instagram.com/reel/C1-rke-LZhk/ for dinner
+DESCRIPTION:Note: Parmesan Chicken Schnitzel
 https://www.instagram.com/reel/Cz33O7ds70I/
 Note: Crispy Smashed Potato Salad
 https://www.instagram.com/reel/C1-rke-LZhk/
-Potato salad #36 - https://github.com/jcallaghan/The-Cookbook/issues/36
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9082937f-72f0-4167-bcdd-572493a1d7f2
-DTSTAMP:20240118T142533
+UID:cfdd6410-98b6-4938-81ec-b4a2283e4877
+DTSTAMP:20240118T142714
 DTSTART:20240122T180000
 DTEND:20240122T200000
 SUMMARY:Chicken piccata #286 for dinner
@@ -86,8 +82,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:284c6774-b164-4df5-8781-4d307baa4a7d
-DTSTAMP:20240118T142534
+UID:87000f1d-9651-4a38-9a2c-31a5fd22aa4c
+DTSTAMP:20240118T142715
 DTSTART:20240124T180000
 DTEND:20240124T200000
 SUMMARY:Halloumi Pasta Salad #636 for dinner
