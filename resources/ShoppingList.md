@@ -8,4 +8,4 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 25-Jan 2024|[Satay chicken #639](https://github.com/jcallaghan/The-Cookbook/issues/639)|
+|Fri 26-Jan 2024|[Satay chicken #639](https://github.com/jcallaghan/The-Cookbook/issues/639)|
