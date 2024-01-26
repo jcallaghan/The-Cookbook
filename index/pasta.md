@@ -61,4 +61,4 @@ There are 45 pasta recipes in the cookbook.
 | V||||
 ||[383](https://github.com/jcallaghan/The-Cookbook/issues/383)|[Vayia Shrimp Pasta](https://github.com/jcallaghan/The-Cookbook/issues/383)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Food Memories|
 
-_This index was automatically generated at 25-01-2024 00:23:49 using a custom Python script and GitHub Action._
+_This index was automatically generated at 26-01-2024 00:21:35 using a custom Python script and GitHub Action._
