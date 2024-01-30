@@ -21,54 +21,20 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c3ef9a4d-c48b-45a4-96ae-83b8b757db7b
-DTSTAMP:20240125T221823
-DTSTART:20240126T180000
-DTEND:20240126T200000
-SUMMARY:Satay chicken #639 for dinner
-DESCRIPTION:Satay chicken #639 - https://github.com/jcallaghan/The-Cookbook/issues/639
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2a08d89d-8b77-4e5e-b196-c88db5ae32d7
-DTSTAMP:20240125T221824
-DTSTART:20240128T180000
-DTEND:20240128T200000
-SUMMARY:Sausage Bagel breakfast and Blackened Chicken with loaded Hummus #605 for dinner
-DESCRIPTION:Note: Sausage Bagel breakfast
-Blackened Chicken with loaded Hummus #605 - https://github.com/jcallaghan/The-Cookbook/issues/605
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:a5819518-abcd-4775-bb93-cc8295240f42
-DTSTAMP:20240125T221825
-DTSTART:20240129T180000
-DTEND:20240129T200000
-SUMMARY:Beef Pepper Rice #640 for dinner
-DESCRIPTION:Beef Pepper Rice #640 - https://github.com/jcallaghan/The-Cookbook/issues/640
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:89b9b9fd-ee64-41a3-b547-d93b2245f784
-DTSTAMP:20240125T221826
+UID:a0192514-a4ba-422b-a2d4-b1ef8e19a8f0
+DTSTAMP:20240130T095809
 DTSTART:20240130T180000
 DTEND:20240130T200000
-SUMMARY:Ponzu Chicken with Crispy Smashed Potatoes and Crispy Smashed Potato Salad #638 for dinner
-DESCRIPTION:Note: Ponzu Chicken with Crispy Smashed Potatoes
+SUMMARY:Ponzu Chicken and Crispy Smashed Potato Salad #638 for dinner
+DESCRIPTION:Note: Ponzu Chicken
 Crispy Smashed Potato Salad #638 - https://github.com/jcallaghan/The-Cookbook/issues/638
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4fc0a593-40f0-4513-ba27-19c9e88982cf
-DTSTAMP:20240125T221827
+UID:fe6235d7-2ae8-43b1-9146-26ae7aa2e9b8
+DTSTAMP:20240130T095810
 DTSTART:20240131T180000
 DTEND:20240131T200000
 SUMMARY:Grilled salmon fillet pasta salad #100 for dinner
@@ -78,12 +44,14 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:0d7b2cdd-2ade-434b-b0dd-e0d4334e45e5
-DTSTAMP:20240125T221827
+UID:903aab39-2156-4ec1-ae87-26081e65bd5b
+DTSTAMP:20240130T095811
 DTSTART:20240201T180000
 DTEND:20240201T200000
-SUMMARY:Soup or Chicken Flatbread for dinner
+SUMMARY:Soup or Chicken Flatbread, Nachos #20 and Loaded Nachos #440 for dinner
 DESCRIPTION:Note: Soup or Chicken Flatbread
+Nachos #20 - https://github.com/jcallaghan/The-Cookbook/issues/20
+Loaded Nachos #440 - https://github.com/jcallaghan/The-Cookbook/issues/440
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
