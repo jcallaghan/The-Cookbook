@@ -12,7 +12,6 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Crispy Smashed Potato Salad #638](https://github.com/jcallaghan/The-Cookbook/issues/638)|
 |Wed 31-Jan 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Thu 01-Feb 2024|[Nachos #20](https://github.com/jcallaghan/The-Cookbook/issues/20)|
-||[Loaded Nachos #440](https://github.com/jcallaghan/The-Cookbook/issues/440)|
 
 ## 🗒️ Notes
 
