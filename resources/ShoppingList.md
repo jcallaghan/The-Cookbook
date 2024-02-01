@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Big Mac sauce
 1. Smashies
 1. Kebab
 1. Jas parents
