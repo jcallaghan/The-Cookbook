@@ -18,5 +18,6 @@ This shopping list has been automatically generated with the ingredients from th
 1. Jas parents
 1. pasta salad burrata
 1. Soup or Chicken Flatbread
+1. Chicken pesto sweetcorn?
 1. Steak? 
 Prawn pasta?
