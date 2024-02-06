@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 01-Feb 2024 - Wed 14-Feb 2024
+Tue 06-Feb 2024 - Fri 16-Feb 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,17 +8,11 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 01-Feb 2024|[Nachos #20](https://github.com/jcallaghan/The-Cookbook/issues/20)|
-||[Chilli con carne #319](https://github.com/jcallaghan/The-Cookbook/issues/319)|
+|Tue 06-Feb 2024|[Fried noodles with bean spouts #646](https://github.com/jcallaghan/The-Cookbook/issues/646)|
+|Wed 07-Feb 2024|[Chicken burger #563](https://github.com/jcallaghan/The-Cookbook/issues/563)|
+|Thu 08-Feb 2024|[Shredded Chipotle Beef #645](https://github.com/jcallaghan/The-Cookbook/issues/645)|
 
 ## 🗒️ Notes
 
-1. Big Mac sauce
-1. Smashies
-1. Kebab
-1. Jas parents
-1. pasta salad burrata
-1. Soup or Chicken Flatbread
-1. Chicken pesto sweetcorn?
 1. Steak? 
 Prawn pasta?
