@@ -1,6 +1,6 @@
 # Shopping List
 
-Tue 06-Feb 2024 - Fri 16-Feb 2024
+Wed 07-Feb 2024 - Sat 17-Feb 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,9 +8,9 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Tue 06-Feb 2024|[Fried noodles with bean spouts #646](https://github.com/jcallaghan/The-Cookbook/issues/646)|
-|Wed 07-Feb 2024|[Chicken burger #563](https://github.com/jcallaghan/The-Cookbook/issues/563)|
-|Thu 08-Feb 2024|[Shredded Chipotle Beef #645](https://github.com/jcallaghan/The-Cookbook/issues/645)|
+|Wed 07-Feb 2024|[Jacket Potato #228](https://github.com/jcallaghan/The-Cookbook/issues/228)|
+|Thu 08-Feb 2024|[Ramen #598](https://github.com/jcallaghan/The-Cookbook/issues/598)|
+|Fri 09-Feb 2024|[Shredded Chipotle Beef #645](https://github.com/jcallaghan/The-Cookbook/issues/645)|
 
 ## 🗒️ Notes
 
