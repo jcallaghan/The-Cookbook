@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 08-Feb 2024|[Ramen #598](https://github.com/jcallaghan/The-Cookbook/issues/598)|
 |Fri 09-Feb 2024|[Shredded Chipotle Beef #645](https://github.com/jcallaghan/The-Cookbook/issues/645)|
+|Sat 10-Feb 2024|[Chicken burger #563](https://github.com/jcallaghan/The-Cookbook/issues/563)|
 |Mon 12-Feb 2024|[Burrata pasta salad #644](https://github.com/jcallaghan/The-Cookbook/issues/644)|
 ||[Halloumi Pasta Salad #636](https://github.com/jcallaghan/The-Cookbook/issues/636)|
 |Wed 14-Feb 2024|[Crispy Smashed Potato Salad #638](https://github.com/jcallaghan/The-Cookbook/issues/638)|
@@ -44,5 +45,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Roast beef/chicken
+1. Meatballs
 1. Steak? 
 Prawn pasta?
