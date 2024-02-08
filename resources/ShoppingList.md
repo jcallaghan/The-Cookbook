@@ -9,9 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 08-Feb 2024|[Ramen #598](https://github.com/jcallaghan/The-Cookbook/issues/598)|
-|Fri 09-Feb 2024|[Shredded Chipotle Beef #645](https://github.com/jcallaghan/The-Cookbook/issues/645)|
-|Sat 10-Feb 2024|[Chicken burger #563](https://github.com/jcallaghan/The-Cookbook/issues/563)|
-||[Smash burger #52](https://github.com/jcallaghan/The-Cookbook/issues/52)|
+|Fri 09-Feb 2024|[Chicken burger #563](https://github.com/jcallaghan/The-Cookbook/issues/563)|
+|Sat 10-Feb 2024|[Shredded Chipotle Beef #645](https://github.com/jcallaghan/The-Cookbook/issues/645)|
 |Mon 12-Feb 2024|[Burrata pasta salad #644](https://github.com/jcallaghan/The-Cookbook/issues/644)|
 ||[Halloumi Pasta Salad #636](https://github.com/jcallaghan/The-Cookbook/issues/636)|
 |Tue 13-Feb 2024|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
@@ -62,4 +61,4 @@ The following items have not been added to the shopping list as they are likey i
 Cumin and Seasoning.
 
 
-_This shopping list was generated at 08-02-2024 18:03:10._
+_This shopping list was generated at 08-02-2024 18:55:31._
