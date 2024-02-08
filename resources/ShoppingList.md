@@ -52,6 +52,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Roast beef/chicken
+1. Pancakes
 1. ❤️‍🔥 Steak or Prawn pasta?
 
 ## 🏪 Pantry Ingredients
@@ -61,4 +62,4 @@ The following items have not been added to the shopping list as they are likey i
 Cumin and Seasoning.
 
 
-_This shopping list was generated at 08-02-2024 17:30:30._
+_This shopping list was generated at 08-02-2024 17:34:24._
