@@ -14,6 +14,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Smash burger #52](https://github.com/jcallaghan/The-Cookbook/issues/52)|
 |Mon 12-Feb 2024|[Burrata pasta salad #644](https://github.com/jcallaghan/The-Cookbook/issues/644)|
 ||[Halloumi Pasta Salad #636](https://github.com/jcallaghan/The-Cookbook/issues/636)|
+|Tue 13-Feb 2024|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
 |Wed 14-Feb 2024|[Crispy Smashed Potato Salad #638](https://github.com/jcallaghan/The-Cookbook/issues/638)|
 |Thu 15-Feb 2024|[Chicken Kebab #643](https://github.com/jcallaghan/The-Cookbook/issues/643)|
 
@@ -51,7 +52,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Roast beef/chicken
-1. Meatballs
 1. ❤️‍🔥 Steak or Prawn pasta?
 
 ## 🏪 Pantry Ingredients
@@ -61,4 +61,4 @@ The following items have not been added to the shopping list as they are likey i
 Cumin and Seasoning.
 
 
-_This shopping list was generated at 08-02-2024 17:29:55._
+_This shopping list was generated at 08-02-2024 17:30:30._
