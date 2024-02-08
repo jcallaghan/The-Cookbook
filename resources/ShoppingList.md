@@ -15,6 +15,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 12-Feb 2024|[Crispy Smashed Potato Salad #638](https://github.com/jcallaghan/The-Cookbook/issues/638)|
 |Tue 13-Feb 2024|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
 |Wed 14-Feb 2024|[Burrata pasta salad #644](https://github.com/jcallaghan/The-Cookbook/issues/644)|
+|Thu 15-Feb 2024|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
 
 ## 🛒 Shopping List
 
@@ -36,7 +37,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Pancakes
-1. ❤️‍🔥 Steak or Prawn pasta?
 
 ## 🏪 Pantry Ingredients
 
@@ -45,4 +45,4 @@ The following items have not been added to the shopping list as they are likey i
 Cumin and Seasoning.
 
 
-_This shopping list was generated at 08-02-2024 18:56:38._
+_This shopping list was generated at 08-02-2024 18:57:44._
