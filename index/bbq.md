@@ -63,4 +63,4 @@ There are 47 bbq recipes in the cookbook.
 | 🧅||||
 ||[537](https://github.com/jcallaghan/The-Cookbook/issues/537)|[🧅➕🥔🟰🧼 BBQ Grill Clean & Non-Stick Trick](https://github.com/jcallaghan/The-Cookbook/issues/537)| |Style / BBQ<br>Resources / Tips & Tricks|
 
-_This index was automatically generated at 09-02-2024 00:20:06 using a custom Python script and GitHub Action._
+_This index was automatically generated at 10-02-2024 00:20:24 using a custom Python script and GitHub Action._
