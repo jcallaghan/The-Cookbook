@@ -9,8 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Tue 13-Feb 2024|[Burrata pasta salad #644](https://github.com/jcallaghan/The-Cookbook/issues/644)|
-|Thu 15-Feb 2024|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
-||[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
+|Thu 15-Feb 2024|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
+||[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
 
 ## 🛒 Shopping List
 
@@ -28,4 +28,4 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Pancakes
+1. Steak and Prawns
