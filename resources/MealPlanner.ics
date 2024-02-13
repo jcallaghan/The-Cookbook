@@ -21,46 +21,25 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:92b39fdb-2d82-460d-9904-4ec33dfd6124
-DTSTAMP:20240212T181507
-DTSTART:20240212T180000
-DTEND:20240212T200000
-SUMMARY:Crispy Smashed Potato Salad #638 for dinner
-DESCRIPTION:Crispy Smashed Potato Salad #638 - https://github.com/jcallaghan/The-Cookbook/issues/638
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:9ff87025-67ff-4446-8e16-e7f4cf85cd5b
-DTSTAMP:20240212T181507
+UID:a71f0f77-16dd-46d1-9097-67fe02fb269c
+DTSTAMP:20240213T175407
 DTSTART:20240213T180000
 DTEND:20240213T200000
-SUMMARY:Pancakes and Garlicky Meatball Pasta Bake  #571 for dinner
-DESCRIPTION:Note: Pancakes
-Garlicky Meatball Pasta Bake  #571 - https://github.com/jcallaghan/The-Cookbook/issues/571
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ce336cca-75e2-48d6-8065-51446a85ad65
-DTSTAMP:20240212T181508
-DTSTART:20240214T180000
-DTEND:20240214T200000
-SUMMARY:Burrata pasta salad #644 for dinner
+SUMMARY:Burrata pasta salad #644 and Pancakes for dinner
 DESCRIPTION:Burrata pasta salad #644 - https://github.com/jcallaghan/The-Cookbook/issues/644
+Note: Pancakes
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:67c69345-3f2c-4ba5-bc65-feeff99717f7
-DTSTAMP:20240212T181509
+UID:289154b3-d70e-477d-9a2b-7e648028ccaf
+DTSTAMP:20240213T175408
 DTSTART:20240215T180000
 DTEND:20240215T200000
-SUMMARY:Mongolian beef #480 for dinner
+SUMMARY:Mongolian beef #480 and Garlicky Meatball Pasta Bake  #571 for dinner
 DESCRIPTION:Mongolian beef #480 - https://github.com/jcallaghan/The-Cookbook/issues/480
+Garlicky Meatball Pasta Bake  #571 - https://github.com/jcallaghan/The-Cookbook/issues/571
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
