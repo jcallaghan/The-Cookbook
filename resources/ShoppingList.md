@@ -12,7 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 16-Feb 2024|[Turkish eggs and toast #478](https://github.com/jcallaghan/The-Cookbook/issues/478)|
 |Sat 17-Feb 2024|[Canadian steak sandwich #208](https://github.com/jcallaghan/The-Cookbook/issues/208)|
 |Sun 18-Feb 2024|[Chicken broth soup #220](https://github.com/jcallaghan/The-Cookbook/issues/220)|
-|Tue 20-Feb 2024|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
+|Thu 22-Feb 2024|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
 
 ## 🛒 Shopping List
 
@@ -54,4 +54,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 15-02-2024 21:44:35._
+_This shopping list was generated at 15-02-2024 21:47:59._
