@@ -44,7 +44,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Salmon cream cheese bagel
 1. Buratta
 1. Solo
 
@@ -55,4 +54,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 15-02-2024 21:44:00._
+_This shopping list was generated at 15-02-2024 21:44:35._
