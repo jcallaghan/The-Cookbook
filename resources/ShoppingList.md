@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 17-Feb 2024|[Canadian steak sandwich #208](https://github.com/jcallaghan/The-Cookbook/issues/208)|
 |Sun 18-Feb 2024|[Chicken broth soup #220](https://github.com/jcallaghan/The-Cookbook/issues/220)|
 |Mon 19-Feb 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
+|Wed 21-Feb 2024|[Satay chicken #639](https://github.com/jcallaghan/The-Cookbook/issues/639)|
 |Tue 27-Feb 2024|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
 
 ## 🛒 Shopping List
@@ -56,4 +57,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 15-02-2024 21:52:58._
+_This shopping list was generated at 15-02-2024 21:57:31._
