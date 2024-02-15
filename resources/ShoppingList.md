@@ -50,6 +50,7 @@ This shopping list has been automatically generated with the ingredients from th
 1. Buratta
 1. Solo
 1. Take-out
+1. Caramelised onions and steak sandwich
 
 ## 🏪 Pantry Ingredients
 
@@ -58,4 +59,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 15-02-2024 22:02:47._
+_This shopping list was generated at 15-02-2024 22:09:58._
