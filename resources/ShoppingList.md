@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 15-Feb 2024 - Sun 25-Feb 2024
+Thu 15-Feb 2024 - Tue 27-Feb 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -12,7 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 16-Feb 2024|[Turkish eggs and toast #478](https://github.com/jcallaghan/The-Cookbook/issues/478)|
 |Sat 17-Feb 2024|[Canadian steak sandwich #208](https://github.com/jcallaghan/The-Cookbook/issues/208)|
 |Sun 18-Feb 2024|[Chicken broth soup #220](https://github.com/jcallaghan/The-Cookbook/issues/220)|
-|Thu 22-Feb 2024|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
+|Tue 27-Feb 2024|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
 
 ## 🛒 Shopping List
 
@@ -46,6 +46,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Buratta
 1. Solo
+1. Take-out
 
 ## 🏪 Pantry Ingredients
 
@@ -54,4 +55,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Chicken stock, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 15-02-2024 21:47:59._
+_This shopping list was generated at 15-02-2024 21:49:37._
