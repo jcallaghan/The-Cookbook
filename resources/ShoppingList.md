@@ -34,7 +34,8 @@ This shopping list has been automatically generated with the ingredients from th
 1. Solo
 1. Take-out
 1. Caramelised onions and steak sandwich
-1. Rick Stein Tandoori Curry
+1. Rick Stein beef chow mein
+1. Rick Stein tikka masala
 1. Rick Stein paneer curry
 
 ## 🏪 Pantry Ingredients
@@ -44,4 +45,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 19-02-2024 16:16:49._
+_This shopping list was generated at 19-02-2024 16:17:28._
