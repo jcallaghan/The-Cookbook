@@ -13,7 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Wed 21-Feb 2024|[Satay chicken #639](https://github.com/jcallaghan/The-Cookbook/issues/639)|
 |Sat 24-Feb 2024|[Chicken Kiev Pasta #428](https://github.com/jcallaghan/The-Cookbook/issues/428)|
 ||[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
-|Tue 27-Feb 2024|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
+|Wed 28-Feb 2024|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
 
 ## 🛒 Shopping List
 
@@ -33,8 +33,8 @@ This shopping list has been automatically generated with the ingredients from th
 1. Buratta
 1. Solo
 1. Take-out
-1. Caramelised onions and steak sandwich
 1. Rick Stein beef chow mein
+1. Caramelised onions and steak sandwich
 1. Rick Stein tikka masala
 1. Rick Stein paneer curry
 
@@ -45,4 +45,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 19-02-2024 16:17:28._
+_This shopping list was generated at 19-02-2024 16:18:13._
