@@ -1,6 +1,6 @@
 # Shopping List
 
-Mon 19-Feb 2024 - Thu 29-Feb 2024
+Thu 22-Feb 2024 - Sun 03-Mar 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,9 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Mon 19-Feb 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
-|Tue 20-Feb 2024|[Jacket Potato #228](https://github.com/jcallaghan/The-Cookbook/issues/228)|
-|Wed 21-Feb 2024|[Satay chicken #639](https://github.com/jcallaghan/The-Cookbook/issues/639)|
 |Sat 24-Feb 2024|[Chicken Kiev Pasta #428](https://github.com/jcallaghan/The-Cookbook/issues/428)|
 ||[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
 |Wed 28-Feb 2024|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
@@ -30,8 +27,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Buratta
-1. Solo
 1. Take-out
 1. Rick Stein beef chow mein
 1. Caramelised onions and steak sandwich
@@ -45,4 +40,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 19-02-2024 16:18:13._
+_This shopping list was generated at 22-02-2024 18:03:11._
