@@ -10,7 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Sat 24-Feb 2024|[Chicken Kiev Pasta #428](https://github.com/jcallaghan/The-Cookbook/issues/428)|
 ||[Chicken Kiev #388](https://github.com/jcallaghan/The-Cookbook/issues/388)|
-|Wed 28-Feb 2024|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
+|Sun 03-Mar 2024|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
 
 ## 🛒 Shopping List
 
@@ -44,4 +44,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 22-02-2024 21:22:20._
+_This shopping list was generated at 22-02-2024 21:24:53._
