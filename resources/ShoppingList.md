@@ -35,7 +35,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 https://www.bbc.co.uk/food/recipes/beef_chow_mein_98342
 1. Rick Stein tikka masala https://www.bbc.co.uk/food/recipes/chicken_tikka_masala_and_40623
-1. Salad pasta salad
+1. Salmon pasta salad
 
 ## 🏪 Pantry Ingredients
 
@@ -44,4 +44,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 22-02-2024 21:31:30._
+_This shopping list was generated at 22-02-2024 21:35:34._
