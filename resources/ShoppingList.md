@@ -27,15 +27,14 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Kyiv butter
+1. Prep Kyiv butter
 1. Take-out
 1. Rick Stein - https://www.bbc.co.uk/food/recipes/chicken_kyiv_78033
 1. Caramelised onions and steak sandwich
 1. Rick Stein beef chow mein
 
 https://www.bbc.co.uk/food/recipes/beef_chow_mein_98342
-1. Rick Stein tikka masala
-1. Rick Stein paneer curry
+1. Rick Stein tikka masala https://www.bbc.co.uk/food/recipes/chicken_tikka_masala_and_40623
 
 ## 🏪 Pantry Ingredients
 
@@ -44,4 +43,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 22-02-2024 21:24:53._
+_This shopping list was generated at 22-02-2024 21:29:42._
