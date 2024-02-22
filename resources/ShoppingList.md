@@ -28,8 +28,8 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Take-out
-1. Rick Stein beef chow mein
 1. Caramelised onions and steak sandwich
+1. Rick Stein beef chow mein
 1. Rick Stein tikka masala
 1. Rick Stein paneer curry
 
@@ -40,4 +40,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 22-02-2024 18:03:11._
+_This shopping list was generated at 22-02-2024 21:13:50._
