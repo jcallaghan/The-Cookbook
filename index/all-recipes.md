@@ -43,7 +43,7 @@ There are 66 all recipes recipes in the cookbook.
 | G||||
 ||[233](https://github.com/jcallaghan/The-Cookbook/issues/233)|[Garlic dough balls](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/garlic-dough-balls.md)| |Meal / Appetiser<br>Meal / Side Dish<br>Pizza 🍕<br>Pizza 🍕 / Side<br>Style / Party Food 🥳<br>Equipment / Pizza Oven 🍕🔥<br>⚙ Published|
 ||[79](https://github.com/jcallaghan/The-Cookbook/issues/79)|[Granddads carrot soup](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/granddads-carrot-soup.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/granddads-carrot-soup-1.jpg' alt='Granddads carrot soup' width='200'/>|Style / Vegetarian<br>Favourite 🥰 / James<br>Style / Soup<br>Favourite 🥰 / Florence<br>Ingredient / Vegetable<br>Meal / Starter<br>⚙ Published|
-||[437](https://github.com/jcallaghan/The-Cookbook/issues/437)|[Green pea chowder](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/green-pea-chowder.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/green-pea-chowder-1.jpg' alt='Green pea chowder' width='200'/>|Style / Soup<br>Ingredient / Vegetable<br>⚙ Published|
+||[437](https://github.com/jcallaghan/The-Cookbook/issues/437)|[Green pea chowder](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/green-pea-chowder.md)| |Style / Soup<br>Ingredient / Vegetable<br>⚙ Published|
 ||[58](https://github.com/jcallaghan/The-Cookbook/issues/58)|[Grilled steak ratatouille and saffron rice](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/grilled-steak-ratatouille-and-saffron-rice.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/grilled-steak-ratatouille-and-saffron-rice-1.jpg' alt='Grilled steak ratatouille and saffron rice' width='200'/>|Style / Vegetarian<br>Ingredient / Meat / Beef<br>Ingredient / Rice<br>Favourite 🥰 / Jas<br>Ingredient / Steak<br>Style / Dinner Party 🥳<br>Favourite 🥰 / James<br>⚙ Published|
 | H||||
 ||[448](https://github.com/jcallaghan/The-Cookbook/issues/448)|[Haggis & Tatties](https://github.com/jcallaghan/The-Cookbook/issues/448)| |Ingredient / Meat / Lamb<br>Ingredient / Vegetable / Potato<br>⚙ Published<br>Style / Scottish|
@@ -86,4 +86,4 @@ There are 66 all recipes recipes in the cookbook.
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 22-02-2024 00:19:50 using a custom Python script and GitHub Action._
+_This index was automatically generated at 23-02-2024 00:25:46 using a custom Python script and GitHub Action._
