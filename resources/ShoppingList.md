@@ -1,6 +1,6 @@
 # Shopping List
 
-Tue 27-Feb 2024 - Fri 08-Mar 2024
+Wed 28-Feb 2024 - Sat 09-Mar 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,6 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
+|Wed 28-Feb 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
 |Thu 29-Feb 2024|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
 |Sun 03-Mar 2024|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
 
@@ -27,11 +28,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Single cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Single%20cream)|100ml|
 |[Streaky bacon slices](https://www.sainsburys.co.uk/gol-ui/SearchResults/Streaky%20bacon%20slices)|9|
 
-## 🗒️ Notes
-
-1. Salmon pasta salad
-1. Rick Stein tikka masala https://www.bbc.co.uk/food/recipes/chicken_tikka_masala_and_40623
-
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -39,4 +35,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock and Olive oil.
 
 
-_This shopping list was generated at 27-02-2024 13:31:52._
+_This shopping list was generated at 28-02-2024 17:12:35._
