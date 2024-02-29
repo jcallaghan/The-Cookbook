@@ -65,7 +65,9 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Salmon?
 1. McChicken https://www.instagram.com/reel/C2XtR-AxwQI/
+1. Mixed Biryani https://www.instagram.com/reel/C1KkOg9ISm4 and street chips https://www.instagram.com/p/C0FCBoio0-8/
 1. Moroccan spiced meatballs with lemon garlic yoghurt, couscous, and chopped salad https://www.instagram.com/reel/C3qUJFhvNjS
 1. Pesto, spinach and mozerella stuffed chicken https://www.instagram.com/reel/C3krt6lNsj6
 1. Crispy honey chicken https://www.instagram.com/reel/C28SYM5MFpS/
@@ -79,4 +81,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cumin, Garlic cloves, Olive oil, Seasoning and Vegetable oil.
 
 
-_This shopping list was generated at 29-02-2024 16:57:41._
+_This shopping list was generated at 29-02-2024 16:58:27._
