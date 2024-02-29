@@ -56,7 +56,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Salmon?
+1. Scottish Smoked Salmon
 1. Mixed Biryani https://www.instagram.com/reel/C1KkOg9ISm4 and street chips https://www.instagram.com/p/C0FCBoio0-8/
 1. Moroccan spiced meatballs with lemon garlic yoghurt, couscous, and chopped salad https://www.instagram.com/reel/C3qUJFhvNjS
 1. Pesto, spinach and mozerella stuffed chicken https://www.instagram.com/reel/C3krt6lNsj6
@@ -71,4 +71,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cumin, Garlic cloves, Olive oil, Seasoning and Vegetable oil.
 
 
-_This shopping list was generated at 29-02-2024 21:50:20._
+_This shopping list was generated at 29-02-2024 21:51:44._
