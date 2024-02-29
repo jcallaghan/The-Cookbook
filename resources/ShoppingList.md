@@ -15,6 +15,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Gyros kebab #283](https://github.com/jcallaghan/The-Cookbook/issues/283)|
 |Mon 04-Mar 2024|[Sticky teriyaki fried beef #583](https://github.com/jcallaghan/The-Cookbook/issues/583)|
 ||[Air Fried Crispy Beef #420](https://github.com/jcallaghan/The-Cookbook/issues/420)|
+|Tue 05-Mar 2024|[Jacket Potato #228](https://github.com/jcallaghan/The-Cookbook/issues/228)|
 
 ## 🛒 Shopping List
 
@@ -77,4 +78,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cumin, Garlic cloves, Olive oil, Seasoning and Vegetable oil.
 
 
-_This shopping list was generated at 29-02-2024 16:53:36._
+_This shopping list was generated at 29-02-2024 16:54:52._
