@@ -13,9 +13,10 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 02-Mar 2024|[Chicken Kebab #643](https://github.com/jcallaghan/The-Cookbook/issues/643)|
 ||[Chicken Kebab #570](https://github.com/jcallaghan/The-Cookbook/issues/570)|
 ||[Gyros kebab #283](https://github.com/jcallaghan/The-Cookbook/issues/283)|
-|Mon 04-Mar 2024|[Sticky teriyaki fried beef #583](https://github.com/jcallaghan/The-Cookbook/issues/583)|
-||[Air Fried Crispy Beef #420](https://github.com/jcallaghan/The-Cookbook/issues/420)|
+|Mon 04-Mar 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Tue 05-Mar 2024|[Jacket Potato #228](https://github.com/jcallaghan/The-Cookbook/issues/228)|
+|Thu 07-Mar 2024|[Sticky teriyaki fried beef #583](https://github.com/jcallaghan/The-Cookbook/issues/583)|
+||[Air Fried Crispy Beef #420](https://github.com/jcallaghan/The-Cookbook/issues/420)|
 
 ## 🛒 Shopping List
 
@@ -66,10 +67,10 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. McChicken https://www.instagram.com/reel/C2XtR-AxwQI/
 1. Moroccan spiced meatballs with lemon garlic yoghurt, couscous, and chopped salad https://www.instagram.com/reel/C3qUJFhvNjS
+1. Pesto, spinach and mozerella stuffed chicken https://www.instagram.com/reel/C3krt6lNsj6
 1. Crispy honey chicken https://www.instagram.com/reel/C28SYM5MFpS/
 1. Beijing Beef 
 https://www.instagram.com/reel/C3k5CFCtN-e
-1. Pesto, spinach and mozerella stuffed chicken https://www.instagram.com/reel/C3krt6lNsj6
 
 ## 🏪 Pantry Ingredients
 
@@ -78,4 +79,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cumin, Garlic cloves, Olive oil, Seasoning and Vegetable oil.
 
 
-_This shopping list was generated at 29-02-2024 16:54:52._
+_This shopping list was generated at 29-02-2024 16:57:41._
