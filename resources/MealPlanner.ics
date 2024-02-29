@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5941bd49-dcaf-4128-b6a2-9ce11326ee9c
-DTSTAMP:20240229T165441
+UID:69bf4c9e-7565-42a3-80a0-a1d36b24b079
+DTSTAMP:20240229T165818
 DTSTART:20240229T180000
 DTEND:20240229T200000
 SUMMARY:Chicken, greens and potato gratin #57 for dinner
@@ -32,33 +32,35 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8d91ebe4-2bd4-45f2-9127-b39d853d7ea1
-DTSTAMP:20240229T165442
+UID:96a2538a-fa84-47f3-81f9-2fdf0c22c1a3
+DTSTAMP:20240229T165818
 DTSTART:20240301T180000
 DTEND:20240301T200000
-SUMMARY:McChicken https://www.instagram.com/reel/C2XtR-AxwQI/ and Chicken Schnitzel  #256 for dinner
-DESCRIPTION:Note: McChicken https://www.instagram.com/reel/C2XtR-AxwQI/
+SUMMARY:Salmon?, McChicken https://www.instagram.com/reel/C2XtR-AxwQI/ and Chicken Schnitzel  #256 for dinner
+DESCRIPTION:Note: Salmon?
+Note: McChicken https://www.instagram.com/reel/C2XtR-AxwQI/
 Chicken Schnitzel  #256 - https://github.com/jcallaghan/The-Cookbook/issues/256
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6d4370b8-747a-4c1d-8677-8c9d5cd8175d
-DTSTAMP:20240229T165444
+UID:639a451c-c559-44aa-a983-c3776165c8c2
+DTSTAMP:20240229T165820
 DTSTART:20240302T180000
 DTEND:20240302T200000
-SUMMARY:Chicken Kebab #643, Chicken Kebab #570 and Gyros kebab #283 for dinner
+SUMMARY:Chicken Kebab #643, Chicken Kebab #570, Gyros kebab #283 and Mixed Biryani https://www.instagram.com/reel/C1KkOg9ISm4 and street chips https://www.instagram.com/p/C0FCBoio0-8/ for dinner
 DESCRIPTION:Chicken Kebab #643 - https://github.com/jcallaghan/The-Cookbook/issues/643
 Chicken Kebab #570 - https://github.com/jcallaghan/The-Cookbook/issues/570
 Gyros kebab #283 - https://github.com/jcallaghan/The-Cookbook/issues/283
+Note: Mixed Biryani https://www.instagram.com/reel/C1KkOg9ISm4 and street chips https://www.instagram.com/p/C0FCBoio0-8/
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f3c93112-3796-4a4c-adf2-503d29f702a8
-DTSTAMP:20240229T165444
+UID:4fb02716-6ab9-44e1-9ccf-0c8d9a033a3a
+DTSTAMP:20240229T165820
 DTSTART:20240303T180000
 DTEND:20240303T200000
 SUMMARY:Moroccan spiced meatballs with lemon garlic yoghurt, couscous, and chopped salad https://www.instagram.com/reel/C3qUJFhvNjS for dinner
@@ -68,24 +70,19 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:048559f7-fd64-4b09-a76a-3629fbcfd950
-DTSTAMP:20240229T165445
+UID:474a0d41-cf19-40a6-a356-98c4c4024648
+DTSTAMP:20240229T165821
 DTSTART:20240304T180000
 DTEND:20240304T200000
-SUMMARY:Crispy honey chicken https://www.instagram.com/reel/C28SYM5MFpS/, Beijing Beef 
-https://www.instagram.com/reel/C3k5CFCtN-e, Sticky teriyaki fried beef #583 and Air Fried Crispy Beef #420 for dinner
-DESCRIPTION:Note: Crispy honey chicken https://www.instagram.com/reel/C28SYM5MFpS/
-Note: Beijing Beef 
-https://www.instagram.com/reel/C3k5CFCtN-e
-Sticky teriyaki fried beef #583 - https://github.com/jcallaghan/The-Cookbook/issues/583
-Air Fried Crispy Beef #420 - https://github.com/jcallaghan/The-Cookbook/issues/420
+SUMMARY:Grilled salmon fillet pasta salad #100 for dinner
+DESCRIPTION:Grilled salmon fillet pasta salad #100 - https://github.com/jcallaghan/The-Cookbook/issues/100
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e48cdb61-8f69-4e7b-892a-222f959db9aa
-DTSTAMP:20240229T165446
+UID:79529ed2-8085-4770-b16b-43b935ab4b3b
+DTSTAMP:20240229T165822
 DTSTART:20240305T180000
 DTEND:20240305T200000
 SUMMARY:Jacket Potato #228 for dinner
@@ -95,12 +92,28 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:133c564e-0694-4dfa-b1f0-afa9fdb1e99e
-DTSTAMP:20240229T165446
+UID:57b2e387-5557-48ea-9e1d-f9c3acc25927
+DTSTAMP:20240229T165822
 DTSTART:20240306T180000
 DTEND:20240306T200000
 SUMMARY:Pesto, spinach and mozerella stuffed chicken https://www.instagram.com/reel/C3krt6lNsj6 for dinner
 DESCRIPTION:Note: Pesto, spinach and mozerella stuffed chicken https://www.instagram.com/reel/C3krt6lNsj6
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5852f38a-b8f5-4c43-8b32-41decb55ccca
+DTSTAMP:20240229T165824
+DTSTART:20240307T180000
+DTEND:20240307T200000
+SUMMARY:Crispy honey chicken https://www.instagram.com/reel/C28SYM5MFpS/, Beijing Beef 
+https://www.instagram.com/reel/C3k5CFCtN-e, Sticky teriyaki fried beef #583 and Air Fried Crispy Beef #420 for dinner
+DESCRIPTION:Note: Crispy honey chicken https://www.instagram.com/reel/C28SYM5MFpS/
+Note: Beijing Beef 
+https://www.instagram.com/reel/C3k5CFCtN-e
+Sticky teriyaki fried beef #583 - https://github.com/jcallaghan/The-Cookbook/issues/583
+Air Fried Crispy Beef #420 - https://github.com/jcallaghan/The-Cookbook/issues/420
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
