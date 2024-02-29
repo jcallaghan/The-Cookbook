@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 02-Mar 2024|[Chicken Kebab #570](https://github.com/jcallaghan/The-Cookbook/issues/570)|
 |Mon 04-Mar 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Tue 05-Mar 2024|[Jacket Potato #228](https://github.com/jcallaghan/The-Cookbook/issues/228)|
+|Wed 06-Mar 2024|[Pesto, spinach, and mozzarella stuffed chicken  #650](https://github.com/jcallaghan/The-Cookbook/issues/650)|
 |Thu 07-Mar 2024|[Beijing Beef #649](https://github.com/jcallaghan/The-Cookbook/issues/649)|
 |Sun 10-Mar 2024|[Crispy honey chicken  #648](https://github.com/jcallaghan/The-Cookbook/issues/648)|
 
@@ -50,7 +51,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Scottish Smoked Salmon
 1. Moroccan spiced meatballs with lemon garlic yoghurt, couscous, and chopped salad https://www.instagram.com/reel/C3qUJFhvNjS
-1. Pesto, spinach and mozerella stuffed chicken https://www.instagram.com/reel/C3krt6lNsj6
 
 ## 🏪 Pantry Ingredients
 
@@ -59,4 +59,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cornflour, Olive oil, Soy sauce and Water.
 
 
-_This shopping list was generated at 29-02-2024 22:44:13._
+_This shopping list was generated at 29-02-2024 22:46:03._
