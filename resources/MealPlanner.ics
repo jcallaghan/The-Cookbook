@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3ad5a216-1115-428c-bea2-25dce80a6e48
-DTSTAMP:20240229T223912
+UID:eaf06153-c821-4fc5-a9e5-8a787bdf6696
+DTSTAMP:20240229T224314
 DTSTART:20240229T180000
 DTEND:20240229T200000
 SUMMARY:Chicken, greens and potato gratin #57 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:08c3c536-bffd-433a-8588-323c7408990a
-DTSTAMP:20240229T223912
+UID:d69feedb-4cd9-448b-94e2-a10c01b28c14
+DTSTAMP:20240229T224314
 DTSTART:20240301T180000
 DTEND:20240301T200000
 SUMMARY:Scottish Smoked Salmon for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e66d4974-7190-474e-8772-72ba86a152c8
-DTSTAMP:20240229T223913
+UID:ecb9f110-72c2-458e-930a-a02666116e24
+DTSTAMP:20240229T224315
 DTSTART:20240302T180000
 DTEND:20240302T200000
 SUMMARY:Chicken Kebab #570 for dinner
@@ -54,8 +54,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e031417e-d1d8-4732-9c57-d4d4f8037db1
-DTSTAMP:20240229T223914
+UID:1677e70d-e65c-43a1-9f35-109b42dbbeda
+DTSTAMP:20240229T224316
 DTSTART:20240303T180000
 DTEND:20240303T200000
 SUMMARY:Moroccan spiced meatballs with lemon garlic yoghurt, couscous, and chopped salad https://www.instagram.com/reel/C3qUJFhvNjS for dinner
@@ -65,8 +65,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:433c2dd5-6fda-4c03-8277-c8e4b27c1c22
-DTSTAMP:20240229T223915
+UID:b0e3aefa-4afc-4961-a61b-9457d8b0ffe1
+DTSTAMP:20240229T224316
 DTSTART:20240304T180000
 DTEND:20240304T200000
 SUMMARY:Grilled salmon fillet pasta salad #100 for dinner
@@ -76,8 +76,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:61c590d9-7302-4676-aaa2-33d03926bc43
-DTSTAMP:20240229T223916
+UID:257cab18-7f5e-4640-9dac-6bad52155ae3
+DTSTAMP:20240229T224317
 DTSTART:20240305T180000
 DTEND:20240305T200000
 SUMMARY:Jacket Potato #228 for dinner
@@ -87,8 +87,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ecf277b6-2f7a-4ad5-b3cb-96a71e2c05ba
-DTSTAMP:20240229T223916
+UID:e74f8f5a-2c70-4236-92df-c999c2d5b83d
+DTSTAMP:20240229T224317
 DTSTART:20240306T180000
 DTEND:20240306T200000
 SUMMARY:Pesto, spinach and mozerella stuffed chicken https://www.instagram.com/reel/C3krt6lNsj6 for dinner
@@ -98,21 +98,73 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:34c770e3-ac51-41c5-adc9-279dd94b9341
-DTSTAMP:20240229T223916
+UID:afea8b29-754f-43f8-91c1-e5c5758fe411
+DTSTAMP:20240229T224318
 DTSTART:20240307T180000
 DTEND:20240307T200000
 SUMMARY:Beijing Beef 
-https://www.instagram.com/reel/C3k5CFCtN-e for dinner
+https://www.instagram.com/reel/C3k5CFCtN-e
+
+Crispy Beef Strips
+- 800g lean steak sliced into thin strips against the grain! - (I used rump steaks from @musclefooduk )
+- 20ml soy sauce
+- tsp black pepper
+- 20g cornflour
+- 5g baking soda (tenderises the beef)
+- Cooking spray
+
+Cook on High heat with cooking spray till golden and crispy on both sides!
+
+Beijing Beef Glaze
+- 60ml soy sauce
+- 120ml water
+- 2 tbsp sriracha
+- 1 tbsp oyster sauce
+- 1 tbsp hoisin
+- 1 tbsp sweetener ( I used natural granulated sweetener)
+- 5g cornflour mixed with a tbsp of water (prevents clumping)
+
+Other ingredients
+- 200g white rice (uncooked weight)
+- 2 garlic cloves (diced)
+- 1 medium red bell pepper (sliced into 1” pieces)
+- 1 medium white onion (halve and slice into 1/4’s)
+- Sesame seeds (optional garnish) for dinner
 DESCRIPTION:Note: Beijing Beef 
 https://www.instagram.com/reel/C3k5CFCtN-e
+
+Crispy Beef Strips
+- 800g lean steak sliced into thin strips against the grain! - (I used rump steaks from @musclefooduk )
+- 20ml soy sauce
+- tsp black pepper
+- 20g cornflour
+- 5g baking soda (tenderises the beef)
+- Cooking spray
+
+Cook on High heat with cooking spray till golden and crispy on both sides!
+
+Beijing Beef Glaze
+- 60ml soy sauce
+- 120ml water
+- 2 tbsp sriracha
+- 1 tbsp oyster sauce
+- 1 tbsp hoisin
+- 1 tbsp sweetener ( I used natural granulated sweetener)
+- 5g cornflour mixed with a tbsp of water (prevents clumping)
+
+Other ingredients
+- 200g white rice (uncooked weight)
+- 2 garlic cloves (diced)
+- 1 medium red bell pepper (sliced into 1” pieces)
+- 1 medium white onion (halve and slice into 1/4’s)
+- Sesame seeds (optional garnish)
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1bfafd95-9e3a-46be-86b8-d07d7782a12c
-DTSTAMP:20240229T223918
+UID:75998be7-916c-4cce-833f-25f4d371a74a
+DTSTAMP:20240229T224319
 DTSTART:20240310T180000
 DTEND:20240310T200000
 SUMMARY:Crispy honey chicken  #648 for dinner
