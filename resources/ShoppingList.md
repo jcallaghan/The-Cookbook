@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 01-Mar 2024|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
 |Sat 02-Mar 2024|[Chicken Kebab #643](https://github.com/jcallaghan/The-Cookbook/issues/643)|
 ||[Chicken Kebab #570](https://github.com/jcallaghan/The-Cookbook/issues/570)|
+||[Gyros kebab #283](https://github.com/jcallaghan/The-Cookbook/issues/283)|
 |Mon 04-Mar 2024|[Sticky teriyaki fried beef #583](https://github.com/jcallaghan/The-Cookbook/issues/583)|
 ||[Air Fried Crispy Beef #420](https://github.com/jcallaghan/The-Cookbook/issues/420)|
 
@@ -72,4 +73,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cumin, Garlic cloves, Olive oil, Seasoning and Vegetable oil.
 
 
-_This shopping list was generated at 29-02-2024 16:33:51._
+_This shopping list was generated at 29-02-2024 16:34:21._
