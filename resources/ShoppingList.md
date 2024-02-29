@@ -39,6 +39,32 @@ This shopping list has been automatically generated with the ingredients from th
 1. Beijing Beef 
 https://www.instagram.com/reel/C3k5CFCtN-e
 
+Crispy Beef Strips
+- 800g lean steak sliced into thin strips against the grain! - (I used rump steaks from @musclefooduk )
+- 20ml soy sauce
+- tsp black pepper
+- 20g cornflour
+- 5g baking soda (tenderises the beef)
+- Cooking spray
+
+Cook on High heat with cooking spray till golden and crispy on both sides!
+
+Beijing Beef Glaze
+- 60ml soy sauce
+- 120ml water
+- 2 tbsp sriracha
+- 1 tbsp oyster sauce
+- 1 tbsp hoisin
+- 1 tbsp sweetener ( I used natural granulated sweetener)
+- 5g cornflour mixed with a tbsp of water (prevents clumping)
+
+Other ingredients
+- 200g white rice (uncooked weight)
+- 2 garlic cloves (diced)
+- 1 medium red bell pepper (sliced into 1” pieces)
+- 1 medium white onion (halve and slice into 1/4’s)
+- Sesame seeds (optional garnish)
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -46,4 +72,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Cornflour and Olive oil.
 
 
-_This shopping list was generated at 29-02-2024 22:39:16._
+_This shopping list was generated at 29-02-2024 22:43:16._
