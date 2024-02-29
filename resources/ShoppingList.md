@@ -9,7 +9,6 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 29-Feb 2024|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
-|Sun 03-Mar 2024|[Mongolian beef #480](https://github.com/jcallaghan/The-Cookbook/issues/480)|
 |Mon 04-Mar 2024|[Sticky teriyaki fried beef #583](https://github.com/jcallaghan/The-Cookbook/issues/583)|
 ||[Air Fried Crispy Beef #420](https://github.com/jcallaghan/The-Cookbook/issues/420)|
 
@@ -59,4 +58,4 @@ The following items have not been added to the shopping list as they are likey i
 Chicken stock, Garlic cloves, Olive oil and Vegetable oil.
 
 
-_This shopping list was generated at 29-02-2024 16:33:00._
+_This shopping list was generated at 29-02-2024 16:33:26._
