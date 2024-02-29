@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:eaf06153-c821-4fc5-a9e5-8a787bdf6696
-DTSTAMP:20240229T224314
+UID:35ac14ac-ced7-4915-8f22-6748340fdd87
+DTSTAMP:20240229T224401
 DTSTART:20240229T180000
 DTEND:20240229T200000
 SUMMARY:Chicken, greens and potato gratin #57 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d69feedb-4cd9-448b-94e2-a10c01b28c14
-DTSTAMP:20240229T224314
+UID:ca8810ad-4a66-41e8-96e1-35ef618c4e3a
+DTSTAMP:20240229T224402
 DTSTART:20240301T180000
 DTEND:20240301T200000
 SUMMARY:Scottish Smoked Salmon for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ecb9f110-72c2-458e-930a-a02666116e24
-DTSTAMP:20240229T224315
+UID:0bfbf0d0-6d04-4cf6-bbc7-9cd77425a0a1
+DTSTAMP:20240229T224403
 DTSTART:20240302T180000
 DTEND:20240302T200000
 SUMMARY:Chicken Kebab #570 for dinner
@@ -54,8 +54,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1677e70d-e65c-43a1-9f35-109b42dbbeda
-DTSTAMP:20240229T224316
+UID:b800c0ff-91bd-48bb-b462-c603abafe542
+DTSTAMP:20240229T224403
 DTSTART:20240303T180000
 DTEND:20240303T200000
 SUMMARY:Moroccan spiced meatballs with lemon garlic yoghurt, couscous, and chopped salad https://www.instagram.com/reel/C3qUJFhvNjS for dinner
@@ -65,8 +65,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b0e3aefa-4afc-4961-a61b-9457d8b0ffe1
-DTSTAMP:20240229T224316
+UID:ec0179da-78e6-471f-a0f0-3ac3afad05a7
+DTSTAMP:20240229T224404
 DTSTART:20240304T180000
 DTEND:20240304T200000
 SUMMARY:Grilled salmon fillet pasta salad #100 for dinner
@@ -76,8 +76,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:257cab18-7f5e-4640-9dac-6bad52155ae3
-DTSTAMP:20240229T224317
+UID:ed6ba699-90a2-4174-a907-35739b3a4d70
+DTSTAMP:20240229T224405
 DTSTART:20240305T180000
 DTEND:20240305T200000
 SUMMARY:Jacket Potato #228 for dinner
@@ -87,8 +87,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e74f8f5a-2c70-4236-92df-c999c2d5b83d
-DTSTAMP:20240229T224317
+UID:2c5df78f-4070-4ecf-b031-5f89b611ba7d
+DTSTAMP:20240229T224406
 DTSTART:20240306T180000
 DTEND:20240306T200000
 SUMMARY:Pesto, spinach and mozerella stuffed chicken https://www.instagram.com/reel/C3krt6lNsj6 for dinner
@@ -98,73 +98,19 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:afea8b29-754f-43f8-91c1-e5c5758fe411
-DTSTAMP:20240229T224318
+UID:e4d6cdfe-590e-47ba-be6b-e8ba919e3226
+DTSTAMP:20240229T224406
 DTSTART:20240307T180000
 DTEND:20240307T200000
-SUMMARY:Beijing Beef 
-https://www.instagram.com/reel/C3k5CFCtN-e
-
-Crispy Beef Strips
-- 800g lean steak sliced into thin strips against the grain! - (I used rump steaks from @musclefooduk )
-- 20ml soy sauce
-- tsp black pepper
-- 20g cornflour
-- 5g baking soda (tenderises the beef)
-- Cooking spray
-
-Cook on High heat with cooking spray till golden and crispy on both sides!
-
-Beijing Beef Glaze
-- 60ml soy sauce
-- 120ml water
-- 2 tbsp sriracha
-- 1 tbsp oyster sauce
-- 1 tbsp hoisin
-- 1 tbsp sweetener ( I used natural granulated sweetener)
-- 5g cornflour mixed with a tbsp of water (prevents clumping)
-
-Other ingredients
-- 200g white rice (uncooked weight)
-- 2 garlic cloves (diced)
-- 1 medium red bell pepper (sliced into 1” pieces)
-- 1 medium white onion (halve and slice into 1/4’s)
-- Sesame seeds (optional garnish) for dinner
-DESCRIPTION:Note: Beijing Beef 
-https://www.instagram.com/reel/C3k5CFCtN-e
-
-Crispy Beef Strips
-- 800g lean steak sliced into thin strips against the grain! - (I used rump steaks from @musclefooduk )
-- 20ml soy sauce
-- tsp black pepper
-- 20g cornflour
-- 5g baking soda (tenderises the beef)
-- Cooking spray
-
-Cook on High heat with cooking spray till golden and crispy on both sides!
-
-Beijing Beef Glaze
-- 60ml soy sauce
-- 120ml water
-- 2 tbsp sriracha
-- 1 tbsp oyster sauce
-- 1 tbsp hoisin
-- 1 tbsp sweetener ( I used natural granulated sweetener)
-- 5g cornflour mixed with a tbsp of water (prevents clumping)
-
-Other ingredients
-- 200g white rice (uncooked weight)
-- 2 garlic cloves (diced)
-- 1 medium red bell pepper (sliced into 1” pieces)
-- 1 medium white onion (halve and slice into 1/4’s)
-- Sesame seeds (optional garnish)
+SUMMARY:Beijing Beef #649 for dinner
+DESCRIPTION:Beijing Beef #649 - https://github.com/jcallaghan/The-Cookbook/issues/649
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:75998be7-916c-4cce-833f-25f4d371a74a
-DTSTAMP:20240229T224319
+UID:754aac97-95cc-4ed3-b56b-94135b791c9f
+DTSTAMP:20240229T224408
 DTSTART:20240310T180000
 DTEND:20240310T200000
 SUMMARY:Crispy honey chicken  #648 for dinner
