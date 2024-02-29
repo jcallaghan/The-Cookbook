@@ -9,9 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 29-Feb 2024|[Chicken, greens and potato gratin #57](https://github.com/jcallaghan/The-Cookbook/issues/57)|
-|Sat 02-Mar 2024|[Chicken Kebab #643](https://github.com/jcallaghan/The-Cookbook/issues/643)|
-||[Chicken Kebab #570](https://github.com/jcallaghan/The-Cookbook/issues/570)|
-||[Gyros kebab #283](https://github.com/jcallaghan/The-Cookbook/issues/283)|
+|Sat 02-Mar 2024|[Chicken Kebab #570](https://github.com/jcallaghan/The-Cookbook/issues/570)|
 |Mon 04-Mar 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Tue 05-Mar 2024|[Jacket Potato #228](https://github.com/jcallaghan/The-Cookbook/issues/228)|
 |Thu 07-Mar 2024|[Sticky teriyaki fried beef #583](https://github.com/jcallaghan/The-Cookbook/issues/583)|
@@ -33,14 +31,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Fresh sage leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20sage%20leaves)|1 tbsp|
 |[Frozen peas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Frozen%20peas)|100g|
 |[Handful dried red chillis](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20dried%20red%20chillis)||
-|[Of boneless & skinless chicken thigh](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20boneless%20&%20skinless%20chicken%20thigh)|500g|
-|[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)|1 tbsp|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)|30g|
 |[Potatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Potatoes)|800g|
 |[Prep time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2020%20minutes)||
 |[Rump steak](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rump%20steak)|200-300g|
-|[Serve with pittas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serve%20with%20pittas)||
 |[Serves: 2-3](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202-3)||
 |[Single cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Single%20cream)|100ml|
 |[Streaky bacon slices](https://www.sainsburys.co.uk/gol-ui/SearchResults/Streaky%20bacon%20slices)|9|
@@ -57,7 +52,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Scottish Smoked Salmon
-1. Mixed Biryani https://www.instagram.com/reel/C1KkOg9ISm4 and street chips https://www.instagram.com/p/C0FCBoio0-8/
 1. Moroccan spiced meatballs with lemon garlic yoghurt, couscous, and chopped salad https://www.instagram.com/reel/C3qUJFhvNjS
 1. Pesto, spinach and mozerella stuffed chicken https://www.instagram.com/reel/C3krt6lNsj6
 1. Crispy honey chicken https://www.instagram.com/reel/C28SYM5MFpS/
@@ -68,7 +62,7 @@ https://www.instagram.com/reel/C3k5CFCtN-e
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Chicken stock, Cumin, Garlic cloves, Olive oil, Seasoning and Vegetable oil.
+Chicken stock, Garlic cloves, Olive oil and Vegetable oil.
 
 
-_This shopping list was generated at 29-02-2024 21:51:44._
+_This shopping list was generated at 29-02-2024 21:57:53._
