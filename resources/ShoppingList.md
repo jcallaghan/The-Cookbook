@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 02-Mar 2024|[Chicken Kebab #570](https://github.com/jcallaghan/The-Cookbook/issues/570)|
 |Mon 04-Mar 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Tue 05-Mar 2024|[Jacket Potato #228](https://github.com/jcallaghan/The-Cookbook/issues/228)|
+|Sun 10-Mar 2024|[Crispy honey chicken  #648](https://github.com/jcallaghan/The-Cookbook/issues/648)|
 
 ## 🛒 Shopping List
 
@@ -19,6 +20,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----------|-----------|
 |[Baby leeks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baby%20leeks)|200g|
 |[Baby spinach](https://www.sainsburys.co.uk/gol-ui/SearchResults/Baby%20spinach)|200g|
+|[Chicken (thinly sliced)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20(thinly%20sliced))|500g|
 |[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)|3|
 |[Fresh rosemary](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20rosemary)|1 tbsp|
 |[Fresh sage leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20sage%20leaves)|1 tbsp|
@@ -36,13 +38,12 @@ This shopping list has been automatically generated with the ingredients from th
 1. Pesto, spinach and mozerella stuffed chicken https://www.instagram.com/reel/C3krt6lNsj6
 1. Beijing Beef 
 https://www.instagram.com/reel/C3k5CFCtN-e
-1. Crispy honey chicken https://www.instagram.com/reel/C28SYM5MFpS/
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Chicken stock and Olive oil.
+Chicken stock, Cornflour and Olive oil.
 
 
-_This shopping list was generated at 29-02-2024 22:04:09._
+_This shopping list was generated at 29-02-2024 22:39:16._
