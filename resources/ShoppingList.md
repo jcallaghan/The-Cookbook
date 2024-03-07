@@ -81,7 +81,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. McChicken https://www.instagram.com/reel/C2XtR-AxwQI/
 1. Double Chocolate Banana Bread https://www.facebook.com/reel/2577107999124711
 1. Crispy potato salad https://www.instagram.com/reel/C3XytkXMU5I
 
@@ -92,4 +91,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Cornflour, Garam masala, Garlic cloves, Salt, Soy sauce, Tomato purée, Turmeric, Vegetable oil and Water.
 
 
-_This shopping list was generated at 07-03-2024 22:00:42._
+_This shopping list was generated at 07-03-2024 22:01:23._
