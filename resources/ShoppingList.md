@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 08-Mar 2024|[Fakeaway McChicken sandwich #634](https://github.com/jcallaghan/The-Cookbook/issues/634)|
 |Sat 09-Mar 2024|[Lasagna Bites #653](https://github.com/jcallaghan/The-Cookbook/issues/653)|
 |Mon 11-Mar 2024|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
+||[Crispy Smashed Potato Salad #638](https://github.com/jcallaghan/The-Cookbook/issues/638)|
 |Tue 12-Mar 2024|[Smoked salmon pasta #422](https://github.com/jcallaghan/The-Cookbook/issues/422)|
 |Wed 13-Mar 2024|[Crispy honey chicken  #648](https://github.com/jcallaghan/The-Cookbook/issues/648)|
 |Thu 14-Mar 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
@@ -82,7 +83,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Double Chocolate Banana Bread https://www.facebook.com/reel/2577107999124711
-1. Crispy potato salad https://www.instagram.com/reel/C3XytkXMU5I
 
 ## 🏪 Pantry Ingredients
 
@@ -91,4 +91,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Cornflour, Garam masala, Garlic cloves, Salt, Soy sauce, Tomato purée, Turmeric, Vegetable oil and Water.
 
 
-_This shopping list was generated at 07-03-2024 22:01:23._
+_This shopping list was generated at 07-03-2024 22:08:09._
