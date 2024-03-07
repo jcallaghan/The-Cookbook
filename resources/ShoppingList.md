@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 07-Mar 2024|[Beijing Beef #649](https://github.com/jcallaghan/The-Cookbook/issues/649)|
+|Fri 08-Mar 2024|[Fakeaway McChicken sandwich #634](https://github.com/jcallaghan/The-Cookbook/issues/634)|
 |Sat 09-Mar 2024|[Lasagna Bites #653](https://github.com/jcallaghan/The-Cookbook/issues/653)|
 |Mon 11-Mar 2024|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
 |Tue 12-Mar 2024|[Smoked salmon pasta #422](https://github.com/jcallaghan/The-Cookbook/issues/422)|
@@ -91,4 +92,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Cornflour, Garam masala, Garlic cloves, Salt, Soy sauce, Tomato purée, Turmeric, Vegetable oil and Water.
 
 
-_This shopping list was generated at 07-03-2024 21:16:32._
+_This shopping list was generated at 07-03-2024 22:00:42._
