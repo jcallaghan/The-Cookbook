@@ -1,6 +1,6 @@
 # Pasta
 
-There are 46 pasta recipes in the cookbook.
+There are 48 pasta recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -35,6 +35,7 @@ There are 46 pasta recipes in the cookbook.
 ||[267](https://github.com/jcallaghan/The-Cookbook/issues/267)|[Instant Pot King Ranch Chicken](https://github.com/jcallaghan/The-Cookbook/issues/267)| |Style / Pasta 🍝<br>Ingredient / Meat / Chicken 🐔<br>ℹ️ One Pot Wonder 💪|
 | L||||
 ||[252](https://github.com/jcallaghan/The-Cookbook/issues/252)|[Langoustine Linguine](https://github.com/jcallaghan/The-Cookbook/issues/252)| |Ingredient / Fish 🐟<br>Style / Pasta 🍝|
+||[653](https://github.com/jcallaghan/The-Cookbook/issues/653)|[Lasagna Bites](https://github.com/jcallaghan/The-Cookbook/issues/653)| |Style / Pasta 🍝<br>Style / Vegetarian<br>Meal / Appetiser<br>Meal / Snack<br>Style / Pasta 🍝 / Bakes|
 ||[128](https://github.com/jcallaghan/The-Cookbook/issues/128)|[Lasagne ](https://github.com/jcallaghan/The-Cookbook/issues/128)| |Style / Pasta 🍝<br>Ingredient / Meat / Beef<br>Meal / Main<br>Style / Italian 🇮🇹<br>Style / Family Meal<br>ℹ️ Make ahead of time ⏰|
 | M||||
 ||[380](https://github.com/jcallaghan/The-Cookbook/issues/380)|[Macaroni Cheese](https://github.com/jcallaghan/The-Cookbook/issues/380)| |Meal / Main<br>Ingredient / Cheese 🧀<br>⚙ New Recipe 👀<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Style / Pasta 🍝 / Bakes|
@@ -62,4 +63,4 @@ There are 46 pasta recipes in the cookbook.
 | V||||
 ||[383](https://github.com/jcallaghan/The-Cookbook/issues/383)|[Vayia Shrimp Pasta](https://github.com/jcallaghan/The-Cookbook/issues/383)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Food Memories|
 
-_This index was automatically generated at 06-03-2024 00:21:47 using a custom Python script and GitHub Action._
+_This index was automatically generated at 07-03-2024 00:17:56 using a custom Python script and GitHub Action._
