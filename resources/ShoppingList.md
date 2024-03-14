@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Fri 15-Mar 2024|[Turkish eggs and toast #478](https://github.com/jcallaghan/The-Cookbook/issues/478)|
 |Sat 16-Mar 2024|[Avocado, Cottage Cheese, Smoked Salmon and Poached egg #655](https://github.com/jcallaghan/The-Cookbook/issues/655)|
 |Sun 17-Mar 2024|[Chicken Pot Pie #656](https://github.com/jcallaghan/The-Cookbook/issues/656)|
+|Mon 18-Mar 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
 |Wed 20-Mar 2024|[Brown butter fish #582](https://github.com/jcallaghan/The-Cookbook/issues/582)|
 |Thu 21-Mar 2024|[Sausage and Bean Hotpot #348](https://github.com/jcallaghan/The-Cookbook/issues/348)|
 
@@ -75,7 +76,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Crispy chicken rice salad - sweetcorn, cucumber, lettuce, tomato, red onion, red pepper https://www.instagram.com/reel/C4GlnwaIYFC
 1. Gnocchi traybake https://www.instagram.com/reel/C4Ql4uoLaNo/
 
 ## 🏪 Pantry Ingredients
@@ -85,4 +85,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Cloves, Garam masala, Garlic cloves, Olive oil, Salt, Smoked paprika, Tomato puree, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 14-03-2024 22:44:14._
+_This shopping list was generated at 14-03-2024 22:44:40._
