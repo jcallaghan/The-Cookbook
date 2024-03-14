@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 14-Mar 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
+|Fri 15-Mar 2024|[Turkish eggs and toast #478](https://github.com/jcallaghan/The-Cookbook/issues/478)|
 
 ## 🛒 Shopping List
 
@@ -19,6 +20,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Chapati flour (or half wholemeal](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chapati%20flour%20(or%20half%20wholemeal)|250g/9oz|
 |[Chopped tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chopped%20tomatoes)|225g/8oz|
 |[Cinnamon stick](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cinnamon%20stick)|3cm|
+|[Cook time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%205%20minutes)||
 |[Coriander seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander%20seeds)|1½ tsp|
 |[Cumin seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cumin%20seeds)|2 tsp|
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|120ml/4fl oz|
@@ -31,18 +33,29 @@ This shopping list has been automatically generated with the ingredients from th
 |[Green cardamom pods](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20cardamom%20pods)|12|
 |[Green chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20chillies)|3|
 |[Ground almonds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20almonds)|1 tbsp|
+|[Hot paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20paprika)|0.5 tsp|
+|[Hurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hurt)|200 g|
 |[Kashmiri chillies powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kashmiri%20chillies%20powder)|½ tsp|
+|[Large eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20eggs)|4|
 |[Large lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20lemon)|1|
 |[Large onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20onions)|1|
 |[Lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon%20juice)|1½ tbsp|
 |[Melted ghee](https://www.sainsburys.co.uk/gol-ui/SearchResults/Melted%20ghee)|2 tbsp|
 |[Mild paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mild%20paprika)|2 tsp + ½ tsp|
+|[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
 |[Pt plain yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pt%20plain%20yoghurt)|150ml/¼|
+|[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
+|[Slices of sourdough bread](https://www.sainsburys.co.uk/gol-ui/SearchResults/Slices%20of%20sourdough%20bread)|2|
+|[Small garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20garlic%20cloves)|1|
 |[Small handful fresh coriander leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20handful%20fresh%20coriander%20leaves)||
+|[Squeeze of lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Squeeze%20of%20lemon%20juice)|1|
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tsp|
+|[Total time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2010%20minutes)||
 
 ## 🗒️ Notes
 
+1. Turkish Eggs https://www.bbc.co.uk/food/recipes/turkish_eggs_77109
+1. Salmon cream cheese bagel
 1. Crispy chicken rice salad - sweetcorn, cucumber, lettuce, tomato, red onion, red pepper https://www.instagram.com/reel/C4GlnwaIYFC
 1. Gnocchi traybake https://www.instagram.com/reel/C4Ql4uoLaNo/
 1. Avocado https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/
@@ -52,7 +65,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Cloves, Garam masala, Garlic cloves, Salt, Tomato purée, Turmeric and Vegetable oil.
+Butter, Cloves, Garam masala, Garlic cloves, Salt, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 14-03-2024 21:04:51._
+_This shopping list was generated at 14-03-2024 21:06:07._
