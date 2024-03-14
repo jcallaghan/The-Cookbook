@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6beb77bb-80e8-4e1a-a67c-044b548a141f
-DTSTAMP:20240314T205908
+UID:67e28ec9-de5c-4a96-a434-bb762a528096
+DTSTAMP:20240314T210123
 DTSTART:20240314T180000
 DTEND:20240314T200000
 SUMMARY:Chicken Tikka Masala #647 for dinner
@@ -32,12 +32,13 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8a125085-398d-42dd-b088-9bd2f5341195
-DTSTAMP:20240314T205909
+UID:880d4595-9708-4b34-8012-f9ef3ee05bf7
+DTSTAMP:20240314T210125
 DTSTART:20240317T180000
 DTEND:20240317T200000
-SUMMARY:Avocado, Cottage cheese, Smoked Salmon and poached egg  https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/ for dinner
-DESCRIPTION:Note: Avocado, Cottage cheese, Smoked Salmon and poached egg  https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/
+SUMMARY:Avocado https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/ and Avocado, Cottage cheese, Smoked Salmon and poached egg  https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/ for dinner
+DESCRIPTION:Note: Avocado https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/
+Note: Avocado, Cottage cheese, Smoked Salmon and poached egg  https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
