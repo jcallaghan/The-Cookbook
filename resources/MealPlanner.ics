@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:66cd7325-a027-473a-8c78-7a7527ee6d5a
-DTSTAMP:20240314T224318
+UID:ebf183f7-b418-4193-b224-b0108b4f49d7
+DTSTAMP:20240314T224432
 DTSTART:20240314T180000
 DTEND:20240314T200000
 SUMMARY:Chicken Tikka Masala #647 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e0f2b56f-8982-40f9-a90b-ff1fef87cfbf
-DTSTAMP:20240314T224319
+UID:e6323a6c-1afb-4bb9-a795-884ce575c262
+DTSTAMP:20240314T224433
 DTSTART:20240315T180000
 DTEND:20240315T200000
 SUMMARY:Turkish eggs and toast #478 for dinner
@@ -43,41 +43,41 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1dfe70d3-c8f8-488b-8c9c-841fc218879a
-DTSTAMP:20240314T224319
+UID:fe2e817d-2bc5-4c11-97ae-8dc7ba1d134a
+DTSTAMP:20240314T224434
 DTSTART:20240316T180000
 DTEND:20240316T200000
-SUMMARY:Avocado, Cottage cheese, Smoked Salmon and poached egg  https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/ for dinner
-DESCRIPTION:Note: Avocado, Cottage cheese, Smoked Salmon and poached egg  https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/
+SUMMARY:Avocado, Cottage Cheese, Smoked Salmon and Poached egg #655 for dinner
+DESCRIPTION:Avocado, Cottage Cheese, Smoked Salmon and Poached egg #655 - https://github.com/jcallaghan/The-Cookbook/issues/655
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:42cc46c9-ab76-4679-905b-68848e0c5b14
-DTSTAMP:20240314T224320
+UID:b07ccfc4-c7ce-4607-b541-5a52aff4c5df
+DTSTAMP:20240314T224434
 DTSTART:20240317T180000
 DTEND:20240317T200000
-SUMMARY:Chicken pot pie https://cravingtasty.com/homemade-chicken-pot-pie/ for dinner
-DESCRIPTION:Note: Chicken pot pie https://cravingtasty.com/homemade-chicken-pot-pie/
+SUMMARY:Chicken Pot Pie #656 for dinner
+DESCRIPTION:Chicken Pot Pie #656 - https://github.com/jcallaghan/The-Cookbook/issues/656
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:50ccb66d-4e30-459b-831b-c2bca8a474e8
-DTSTAMP:20240314T224320
+UID:00054ca0-c0d1-4bc7-9ab3-674100a182a0
+DTSTAMP:20240314T224435
 DTSTART:20240318T180000
 DTEND:20240318T200000
-SUMMARY:Crispy chicken rice salad - sweetcorn, cucumber, lettuce, tomato, red onion, red pepper https://www.instagram.com/reel/C4GlnwaIYFC for dinner
-DESCRIPTION:Note: Crispy chicken rice salad - sweetcorn, cucumber, lettuce, tomato, red onion, red pepper https://www.instagram.com/reel/C4GlnwaIYFC
+SUMMARY:Crispy Chicken Rice Salad #657 for dinner
+DESCRIPTION:Crispy Chicken Rice Salad #657 - https://github.com/jcallaghan/The-Cookbook/issues/657
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8b762280-b0f8-4228-8873-3f55ea0fcc8d
-DTSTAMP:20240314T224321
+UID:70a3d3cc-4251-4e93-ab69-930909cc401d
+DTSTAMP:20240314T224436
 DTSTART:20240319T180000
 DTEND:20240319T200000
 SUMMARY:Gnocchi traybake https://www.instagram.com/reel/C4Ql4uoLaNo/ for dinner
@@ -87,8 +87,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9efc45f1-a854-45a7-8413-d48eef6cf1fa
-DTSTAMP:20240314T224321
+UID:938379c1-2f9a-4899-85bf-abc92b146ff6
+DTSTAMP:20240314T224437
 DTSTART:20240320T180000
 DTEND:20240320T200000
 SUMMARY:Brown butter fish #582 for dinner
@@ -98,8 +98,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:465bfae6-48a4-4a1b-b358-f888cd6937e7
-DTSTAMP:20240314T224322
+UID:cb692afa-9062-4d76-9aa2-e42004d571dc
+DTSTAMP:20240314T224437
 DTSTART:20240321T180000
 DTEND:20240321T200000
 SUMMARY:Sausage and Bean Hotpot #348 for dinner
