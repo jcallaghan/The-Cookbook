@@ -11,8 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 14-Mar 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
 |Fri 15-Mar 2024|[Turkish eggs and toast #478](https://github.com/jcallaghan/The-Cookbook/issues/478)|
 |Wed 20-Mar 2024|[Brown butter fish #582](https://github.com/jcallaghan/The-Cookbook/issues/582)|
-|Thu 21-Mar 2024|[Sausage and potato pot pie #466](https://github.com/jcallaghan/The-Cookbook/issues/466)|
-||[Sausage and Bean Hotpot #348](https://github.com/jcallaghan/The-Cookbook/issues/348)|
+|Thu 21-Mar 2024|[Sausage and Bean Hotpot #348](https://github.com/jcallaghan/The-Cookbook/issues/348)|
 
 ## 🛒 Shopping List
 
@@ -91,4 +90,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Cloves, Garam masala, Garlic cloves, Olive oil, Salt, Smoked paprika, Tomato puree, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 14-03-2024 21:55:15._
+_This shopping list was generated at 14-03-2024 21:56:42._
