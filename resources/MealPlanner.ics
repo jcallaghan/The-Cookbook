@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3678d1fb-1a3a-4a1b-b699-ee4f6dfc1050
-DTSTAMP:20240314T210843
+UID:6722277a-0d70-4eb5-ab78-c7dbdd7a4169
+DTSTAMP:20240314T210918
 DTSTART:20240314T180000
 DTEND:20240314T200000
 SUMMARY:Chicken Tikka Masala #647 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ae778013-d4df-4353-a597-85709fa260cd
-DTSTAMP:20240314T210844
+UID:8115efec-fc47-4fd1-a3dc-00989e2b1e41
+DTSTAMP:20240314T210919
 DTSTART:20240315T180000
 DTEND:20240315T200000
 SUMMARY:Turkish eggs and toast #478 and Turkish Eggs https://www.bbc.co.uk/food/recipes/turkish_eggs_77109 for dinner
@@ -44,8 +44,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f396703c-c740-4f8b-820a-9f569c4e8125
-DTSTAMP:20240314T210845
+UID:a5b0fd61-c68e-4d9e-9f88-af67750b9224
+DTSTAMP:20240314T210920
 DTSTART:20240316T180000
 DTEND:20240316T200000
 SUMMARY:Salmon cream cheese bagel, Avocado https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/ and Avocado, Cottage cheese, Smoked Salmon and poached egg  https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/ for dinner
@@ -57,20 +57,21 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b147945b-9c63-41bb-ab6a-3d52634e1bb5
-DTSTAMP:20240314T210845
+UID:3290f2c2-0a32-4a2a-a371-5ed01425ebdc
+DTSTAMP:20240314T210920
 DTSTART:20240317T180000
 DTEND:20240317T200000
-SUMMARY:Meat & Potato Pie https://www.jusrol.co.uk/pastry-recipes/meat-potato-pie/ and Chicken pot pie for dinner
-DESCRIPTION:Note: Meat & Potato Pie https://www.jusrol.co.uk/pastry-recipes/meat-potato-pie/
+SUMMARY:Lancashire Butter Pie https://www.greedygourmet.com/recipes-by-national-cuisine/english-recipes/lancashire-butter-pie/, Meat & Potato Pie https://www.jusrol.co.uk/pastry-recipes/meat-potato-pie/ and Chicken pot pie for dinner
+DESCRIPTION:Note: Lancashire Butter Pie https://www.greedygourmet.com/recipes-by-national-cuisine/english-recipes/lancashire-butter-pie/
+Note: Meat & Potato Pie https://www.jusrol.co.uk/pastry-recipes/meat-potato-pie/
 Note: Chicken pot pie
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3375cc47-84c1-48a2-8a46-c5edfcde1454
-DTSTAMP:20240314T210845
+UID:8eb0a7b9-5982-4e89-8bb7-a74604fbd704
+DTSTAMP:20240314T210921
 DTSTART:20240318T180000
 DTEND:20240318T200000
 SUMMARY:Crispy chicken rice salad - sweetcorn, cucumber, lettuce, tomato, red onion, red pepper https://www.instagram.com/reel/C4GlnwaIYFC for dinner
@@ -80,8 +81,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a078f47e-409f-4598-b5c1-1efc5e02c501
-DTSTAMP:20240314T210846
+UID:42d5de54-23fb-442a-8b9f-9ddc7324aeae
+DTSTAMP:20240314T210921
 DTSTART:20240319T180000
 DTEND:20240319T200000
 SUMMARY:Gnocchi traybake https://www.instagram.com/reel/C4Ql4uoLaNo/ for dinner
@@ -91,8 +92,19 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d82d4626-e5ec-4285-b89d-1ac912c807cd
-DTSTAMP:20240314T210848
+UID:85e374f3-184c-450f-8411-6e47bc6693a9
+DTSTAMP:20240314T210922
+DTSTART:20240320T180000
+DTEND:20240320T200000
+SUMMARY:Brown butter fish #582 for dinner
+DESCRIPTION:Brown butter fish #582 - https://github.com/jcallaghan/The-Cookbook/issues/582
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2c5afb5c-ef7a-429d-a3b3-5d2773940082
+DTSTAMP:20240314T210923
 DTSTART:20240321T180000
 DTEND:20240321T200000
 SUMMARY:Sausage and potato pot pie #466 and Sausage and Bean Hotpot #348 for dinner
