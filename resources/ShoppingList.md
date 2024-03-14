@@ -56,10 +56,11 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Turkish Eggs https://www.bbc.co.uk/food/recipes/turkish_eggs_77109
 1. Salmon cream cheese bagel
-1. Crispy chicken rice salad - sweetcorn, cucumber, lettuce, tomato, red onion, red pepper https://www.instagram.com/reel/C4GlnwaIYFC
-1. Gnocchi traybake https://www.instagram.com/reel/C4Ql4uoLaNo/
 1. Avocado https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/
 1. Avocado, Cottage cheese, Smoked Salmon and poached egg  https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/
+1. Chicken pot pie
+1. Crispy chicken rice salad - sweetcorn, cucumber, lettuce, tomato, red onion, red pepper https://www.instagram.com/reel/C4GlnwaIYFC
+1. Gnocchi traybake https://www.instagram.com/reel/C4Ql4uoLaNo/
 
 ## 🏪 Pantry Ingredients
 
@@ -68,4 +69,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Cloves, Garam masala, Garlic cloves, Salt, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 14-03-2024 21:06:07._
+_This shopping list was generated at 14-03-2024 21:06:48._
