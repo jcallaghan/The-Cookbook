@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 16-Mar 2024|[Avocado, Cottage Cheese, Smoked Salmon and Poached egg #655](https://github.com/jcallaghan/The-Cookbook/issues/655)|
 |Sun 17-Mar 2024|[Chicken Pot Pie #656](https://github.com/jcallaghan/The-Cookbook/issues/656)|
 |Mon 18-Mar 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
+|Tue 19-Mar 2024|[Gnocchi Traybake #658](https://github.com/jcallaghan/The-Cookbook/issues/658)|
 |Wed 20-Mar 2024|[Brown butter fish #582](https://github.com/jcallaghan/The-Cookbook/issues/582)|
 |Thu 21-Mar 2024|[Sausage and Bean Hotpot #348](https://github.com/jcallaghan/The-Cookbook/issues/348)|
 
@@ -74,10 +75,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Total time: 1 hour 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%2010%20minutes)||
 |[Total time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2010%20minutes)||
 
-## 🗒️ Notes
-
-1. Gnocchi traybake https://www.instagram.com/reel/C4Ql4uoLaNo/
-
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -85,4 +82,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Cloves, Garam masala, Garlic cloves, Olive oil, Salt, Smoked paprika, Tomato puree, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 14-03-2024 22:44:40._
+_This shopping list was generated at 14-03-2024 22:45:06._
