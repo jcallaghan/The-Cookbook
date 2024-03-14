@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fb054544-be12-4d3e-be30-b2e288bc3464
-DTSTAMP:20240314T210157
+UID:019ed4f9-0532-4fb2-86e9-c09a17e29715
+DTSTAMP:20240314T210444
 DTSTART:20240314T180000
 DTEND:20240314T200000
 SUMMARY:Chicken Tikka Masala #647 for dinner
@@ -32,12 +32,13 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3d497008-dfb6-4fca-aa8f-0e20ae5be9cc
-DTSTAMP:20240314T210158
+UID:47c6bae8-5348-4cc9-84ad-2ee6008f4d38
+DTSTAMP:20240314T210445
 DTSTART:20240317T180000
 DTEND:20240317T200000
-SUMMARY:Gnocchi traybake https://www.instagram.com/reel/C4Ql4uoLaNo/, Avocado https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/ and Avocado, Cottage cheese, Smoked Salmon and poached egg  https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/ for dinner
-DESCRIPTION:Note: Gnocchi traybake https://www.instagram.com/reel/C4Ql4uoLaNo/
+SUMMARY:Crispy chicken rice salad - sweetcorn, cucumber, lettuce, tomato, red onion, red pepper https://www.instagram.com/reel/C4GlnwaIYFC, Gnocchi traybake https://www.instagram.com/reel/C4Ql4uoLaNo/, Avocado https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/ and Avocado, Cottage cheese, Smoked Salmon and poached egg  https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/ for dinner
+DESCRIPTION:Note: Crispy chicken rice salad - sweetcorn, cucumber, lettuce, tomato, red onion, red pepper https://www.instagram.com/reel/C4GlnwaIYFC
+Note: Gnocchi traybake https://www.instagram.com/reel/C4Ql4uoLaNo/
 Note: Avocado https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/
 Note: Avocado, Cottage cheese, Smoked Salmon and poached egg  https://www.instagram.com/nn.hcafe/reel/C3l-Q19PGCB/
 SEQUENCE:0
