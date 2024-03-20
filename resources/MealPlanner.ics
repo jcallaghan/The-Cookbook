@@ -21,24 +21,34 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0f3ea8f4-e32f-4e8a-b9a8-97cf8a38e477
-DTSTAMP:20240320T121951
+UID:533728b4-5013-4df8-b30e-e518e20fa028
+DTSTAMP:20240320T122027
 DTSTART:20240320T180000
 DTEND:20240320T200000
-SUMMARY:Brown butter fish #582 and Gnocchi Traybake #658 for dinner
-DESCRIPTION:Brown butter fish #582 - https://github.com/jcallaghan/The-Cookbook/issues/582
-Gnocchi Traybake #658 - https://github.com/jcallaghan/The-Cookbook/issues/658
+SUMMARY:Gnocchi Traybake #658 for dinner
+DESCRIPTION:Gnocchi Traybake #658 - https://github.com/jcallaghan/The-Cookbook/issues/658
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d63d6dfd-227d-46cc-8ac2-22ebe9a6af9a
-DTSTAMP:20240320T121952
+UID:54d8f0c7-84ce-4c4a-b3a2-b60fcd47cb70
+DTSTAMP:20240320T122028
 DTSTART:20240321T180000
 DTEND:20240321T200000
 SUMMARY:Sausage and Bean Hotpot #348 for dinner
 DESCRIPTION:Sausage and Bean Hotpot #348 - https://github.com/jcallaghan/The-Cookbook/issues/348
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:11243ede-d5df-4cc2-93ef-62eb40d71f3e
+DTSTAMP:20240320T122030
+DTSTART:20240325T180000
+DTEND:20240325T200000
+SUMMARY:Brown butter fish #582 for dinner
+DESCRIPTION:Brown butter fish #582 - https://github.com/jcallaghan/The-Cookbook/issues/582
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
