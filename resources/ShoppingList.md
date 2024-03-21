@@ -36,6 +36,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Lancashire Butter Pie https://www.greedygourmet.com/recipes-by-national-cuisine/english-recipes/lancashire-butter-pie/
 1. Garlic Butter Chicken
 1. Caramelised Onion Pasta
 1. Coconut Chicken
@@ -47,4 +48,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic cloves, Olive oil, Smoked paprika and Tomato puree.
 
 
-_This shopping list was generated at 21-03-2024 11:04:58._
+_This shopping list was generated at 21-03-2024 11:06:05._
