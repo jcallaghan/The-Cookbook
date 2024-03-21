@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 20-Mar 2024 - Sat 30-Mar 2024
+Thu 21-Mar 2024 - Sun 31-Mar 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 20-Mar 2024|[Gnocchi Traybake #658](https://github.com/jcallaghan/The-Cookbook/issues/658)|
 |Thu 21-Mar 2024|[Sausage and Bean Hotpot #348](https://github.com/jcallaghan/The-Cookbook/issues/348)|
 |Mon 25-Mar 2024|[Brown butter fish #582](https://github.com/jcallaghan/The-Cookbook/issues/582)|
 
@@ -35,6 +34,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Thyme](https://www.sainsburys.co.uk/gol-ui/SearchResults/Thyme)|1 tsp|
 |[Total time: 1 hour 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%201%20hour%2010%20minutes)||
 
+## 🗒️ Notes
+
+1. Garlic Butter Chicken
+1. Coconut Chicken
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -42,4 +46,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic cloves, Olive oil, Smoked paprika and Tomato puree.
 
 
-_This shopping list was generated at 20-03-2024 12:20:41._
+_This shopping list was generated at 21-03-2024 11:03:42._
