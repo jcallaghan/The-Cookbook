@@ -21,23 +21,12 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9bbff231-5fdb-4e9e-8486-73f9a5239d7a
-DTSTAMP:20240326T223449
-DTSTART:20240327T180000
-DTEND:20240327T200000
-SUMMARY:Coconut Chicken https://www.instagram.com/p/C4vvSYEo2q-/ for dinner
-DESCRIPTION:Note: Coconut Chicken https://www.instagram.com/p/C4vvSYEo2q-/
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2f8019db-b5f6-476a-8429-00f7aa477f45
-DTSTAMP:20240326T223450
-DTSTART:20240328T180000
-DTEND:20240328T200000
-SUMMARY:Garlic Butter Chicken https://www.instagram.com/p/C4q1wIzPA_7/ for dinner
-DESCRIPTION:Note: Garlic Butter Chicken https://www.instagram.com/p/C4q1wIzPA_7/
+UID:f292c45e-b403-4d00-b8d5-4b8a37a557d1
+DTSTAMP:20240328T220340
+DTSTART:20240401T180000
+DTEND:20240401T200000
+SUMMARY:Garlic butter tandoori chicken flatbread https://www.instagram.com/reel/C4QOGkkp1rb for dinner
+DESCRIPTION:Note: Garlic butter tandoori chicken flatbread https://www.instagram.com/reel/C4QOGkkp1rb
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
