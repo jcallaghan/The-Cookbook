@@ -26,6 +26,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Sausage bagel
 1. Garlic butter tandoori chicken flatbread https://www.instagram.com/reel/C4QOGkkp1rb
 1. Greek chicken salad bowl https://www.instagram.com/reel/C2__a2oyNy3
 
@@ -36,4 +37,4 @@ The following items have not been added to the shopping list as they are likey i
 Plain flour and Vegetable oil.
 
 
-_This shopping list was generated at 28-03-2024 22:08:07._
+_This shopping list was generated at 28-03-2024 22:10:08._
