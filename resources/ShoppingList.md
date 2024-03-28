@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Yorkshire puddings #294](https://github.com/jcallaghan/The-Cookbook/issues/294)|
 ||[Roast potatoes  #81](https://github.com/jcallaghan/The-Cookbook/issues/81)|
 |Wed 03-Apr 2024|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
+|Thu 04-Apr 2024|[Smoked salmon pasta #422](https://github.com/jcallaghan/The-Cookbook/issues/422)|
 
 ## 🛒 Shopping List
 
@@ -27,6 +28,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Sausage bagel
+1. Smashies
 1. Garlic butter tandoori chicken flatbread https://www.instagram.com/reel/C4QOGkkp1rb
 1. Greek chicken salad bowl https://www.instagram.com/reel/C2__a2oyNy3
 
@@ -37,4 +39,4 @@ The following items have not been added to the shopping list as they are likey i
 Plain flour and Vegetable oil.
 
 
-_This shopping list was generated at 28-03-2024 22:10:38._
+_This shopping list was generated at 28-03-2024 22:12:02._
