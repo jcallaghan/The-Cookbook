@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Sun 31-Mar 2024|[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
 ||[Yorkshire puddings #294](https://github.com/jcallaghan/The-Cookbook/issues/294)|
+||[Roast potatoes  #81](https://github.com/jcallaghan/The-Cookbook/issues/81)|
 |Wed 03-Apr 2024|[Chicken Caesar salad #382](https://github.com/jcallaghan/The-Cookbook/issues/382)|
 
 ## 🛒 Shopping List
@@ -35,4 +36,4 @@ The following items have not been added to the shopping list as they are likey i
 Plain flour and Vegetable oil.
 
 
-_This shopping list was generated at 28-03-2024 22:07:24._
+_This shopping list was generated at 28-03-2024 22:08:07._
