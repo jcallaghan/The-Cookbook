@@ -21,12 +21,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f292c45e-b403-4d00-b8d5-4b8a37a557d1
-DTSTAMP:20240328T220340
+UID:f8ee4f6a-bda9-409f-b4b4-efa61e5569e4
+DTSTAMP:20240328T220455
 DTSTART:20240401T180000
 DTEND:20240401T200000
 SUMMARY:Garlic butter tandoori chicken flatbread https://www.instagram.com/reel/C4QOGkkp1rb for dinner
 DESCRIPTION:Note: Garlic butter tandoori chicken flatbread https://www.instagram.com/reel/C4QOGkkp1rb
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9b7216ab-2f89-4895-97cd-f6d679e02099
+DTSTAMP:20240328T220456
+DTSTART:20240402T180000
+DTEND:20240402T200000
+SUMMARY:Greek chicken salad bowl https://www.instagram.com/reel/C2__a2oyNy3 for dinner
+DESCRIPTION:Note: Greek chicken salad bowl https://www.instagram.com/reel/C2__a2oyNy3
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
