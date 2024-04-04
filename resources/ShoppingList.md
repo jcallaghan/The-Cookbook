@@ -14,7 +14,6 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 07-Apr 2024|[Steak and ale pie #315](https://github.com/jcallaghan/The-Cookbook/issues/315)|
 |Mon 08-Apr 2024|[Greek Chicken Salad Bowl  #660](https://github.com/jcallaghan/The-Cookbook/issues/660)|
 |Tue 09-Apr 2024|[One Pan Lemon Pepper Shrimp Orzo #659](https://github.com/jcallaghan/The-Cookbook/issues/659)|
-||[Burrata pasta salad #644](https://github.com/jcallaghan/The-Cookbook/issues/644)|
 |Wed 10-Apr 2024|[Honey Garlic Chicken Fried Rice #662](https://github.com/jcallaghan/The-Cookbook/issues/662)|
 |Thu 11-Apr 2024|[Brown butter fish #582](https://github.com/jcallaghan/The-Cookbook/issues/582)|
 
@@ -27,7 +26,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Beef and vegetable stock cube](https://www.sainsburys.co.uk/gol-ui/SearchResults/Beef%20and%20vegetable%20stock%20cube)||
 |[Bottle or can of ale or stout](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bottle%20or%20can%20of%20ale%20or%20stout)||
 |[Braising beef (top-end)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Braising%20beef%20(top-end))|1kg|
-|[Burrata](https://www.sainsburys.co.uk/gol-ui/SearchResults/Burrata)|1|
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|3-4|
 |[Chapati flour (or half wholemeal](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chapati%20flour%20(or%20half%20wholemeal)|250g/9oz|
 |[Chicken thigh fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thigh%20fillets)|500g|
@@ -47,9 +45,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Green cardamom pod](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20cardamom%20pod)|1|
 |[Green cardamom pods](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20cardamom%20pods)|12|
 |[Green chillies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20chillies)|3|
-|[Green pesto](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20pesto)|3tbsp|
 |[Ground almonds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20almonds)|1 tbsp|
-|[Handful arugula salad 🥗](https://www.sainsburys.co.uk/gol-ui/SearchResults/Handful%20arugula%20salad%20🥗)|1|
 |[Juice of ½ lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Juice%20of%20½%20lemon)||
 |[Kashmiri chillies powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kashmiri%20chillies%20powder)|½ tsp|
 |[Large lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20lemon)|1|
@@ -58,24 +54,18 @@ This shopping list has been automatically generated with the ingredients from th
 |[Melted ghee](https://www.sainsburys.co.uk/gol-ui/SearchResults/Melted%20ghee)|2 tbsp|
 |[Mild paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mild%20paprika)|2 tsp + ½ tsp|
 |[Mint](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mint)||
-|[Olive oil and some lemon juice 🫒🍋](https://www.sainsburys.co.uk/gol-ui/SearchResults/Olive%20oil%20and%20some%20lemon%20juice%20🫒🍋)||
 |[Olives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Olives)||
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
-|[Paprika powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Paprika%20powder)||
-|[Pasta of your choice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pasta%20of%20your%20choice)|190g|
 |[Pastry](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pastry)||
 |[Pinch of nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20nutmeg)||
 |[Pinch of sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20sugar)||
-|[Pine nuts (roasted)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pine%20nuts%20(roasted))|50g|
 |[Pitta bread](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pitta%20bread)||
 |[Pt plain yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pt%20plain%20yoghurt)|150ml/¼|
 |[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
 |[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|1|
 |[Small handful fresh coriander leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20handful%20fresh%20coriander%20leaves)||
-|[Some sundried tomatoes (diced)🍅](https://www.sainsburys.co.uk/gol-ui/SearchResults/Some%20sundried%20tomatoes%20(diced)🍅)||
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tsp|
 |[Tahini](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tahini)|50g|
-|[Tomatoes (diced)🍅](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomatoes%20(diced)🍅)|100g|
 |[Tsp. black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tsp.%20black%20peppers)|1/4|
 |[Tsp. celery salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tsp.%20celery%20salt)|1/2|
 |[Tsp. chillies powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tsp.%20chillies%20powder)|1|
@@ -96,4 +86,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Cloves, Flour, Garam masala, Garlic cloves, Olive oil, Salt, Tomato puree, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 04-04-2024 20:16:08._
+_This shopping list was generated at 04-04-2024 20:33:32._
