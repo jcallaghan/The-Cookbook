@@ -79,6 +79,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[X 400g tinned chickpeas](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20tinned%20chickpeas)|1|
 |[Zest of 1 lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Zest%20of%201%20lemon)||
 
+## 🗒️ Notes
+
+1. Creamy Garlic Prawn and Spinach Pasta
+https://mumslounge.com.au/lifestyle/food/creamy-garlic-prawn-pasta-bacon-spinach-recipe/
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -86,4 +91,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Cloves, Flour, Garam masala, Garlic cloves, Olive oil, Salt, Tomato puree, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 04-04-2024 20:33:32._
+_This shopping list was generated at 04-04-2024 20:35:43._
