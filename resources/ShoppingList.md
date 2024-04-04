@@ -11,7 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 04-Apr 2024|[Smoked salmon pasta #422](https://github.com/jcallaghan/The-Cookbook/issues/422)|
 |Fri 05-Apr 2024|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
 |Sat 06-Apr 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
-|Sun 07-Apr 2024|[Chicken Pot Pie #656](https://github.com/jcallaghan/The-Cookbook/issues/656)|
+|Sun 07-Apr 2024|[Steak and ale pie #315](https://github.com/jcallaghan/The-Cookbook/issues/315)|
 |Mon 08-Apr 2024|[Greek Chicken Salad Bowl  #660](https://github.com/jcallaghan/The-Cookbook/issues/660)|
 |Tue 09-Apr 2024|[One Pan Lemon Pepper Shrimp Orzo #659](https://github.com/jcallaghan/The-Cookbook/issues/659)|
 ||[Burrata pasta salad #644](https://github.com/jcallaghan/The-Cookbook/issues/644)|
@@ -24,7 +24,11 @@ This shopping list has been automatically generated with the ingredients from th
 |----------|-----------|
 |[10oz chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/10oz%20chicken%20breasts)|750g/1lb|
 |[Basmati rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Basmati%20rice)|315g/11oz|
+|[Beef and vegetable stock cube](https://www.sainsburys.co.uk/gol-ui/SearchResults/Beef%20and%20vegetable%20stock%20cube)||
+|[Bottle or can of ale or stout](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bottle%20or%20can%20of%20ale%20or%20stout)||
+|[Braising beef (top-end)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Braising%20beef%20(top-end))|1kg|
 |[Burrata](https://www.sainsburys.co.uk/gol-ui/SearchResults/Burrata)|1|
+|[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|3-4|
 |[Chapati flour (or half wholemeal](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chapati%20flour%20(or%20half%20wholemeal)|250g/9oz|
 |[Chicken thigh fillets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thigh%20fillets)|500g|
 |[Chopped tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chopped%20tomatoes)|225g/8oz|
@@ -33,6 +37,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cucumber)||
 |[Cumin seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cumin%20seeds)|2 tsp|
 |[Double cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Double%20cream)|120ml/4fl oz|
+|[Eggs yolk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20yolk)||
 |[Feta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Feta)|30g|
 |[Fresh root ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20root%20ginger)|25g/1oz + 25g/1oz|
 |[Freshly toasted coriander seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20toasted%20coriander%20seeds)|1½ tsp|
@@ -55,8 +60,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[Mint](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mint)||
 |[Olive oil and some lemon juice 🫒🍋](https://www.sainsburys.co.uk/gol-ui/SearchResults/Olive%20oil%20and%20some%20lemon%20juice%20🫒🍋)||
 |[Olives](https://www.sainsburys.co.uk/gol-ui/SearchResults/Olives)||
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|2|
 |[Paprika powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Paprika%20powder)||
 |[Pasta of your choice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pasta%20of%20your%20choice)|190g|
+|[Pastry](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pastry)||
+|[Pinch of nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20nutmeg)||
+|[Pinch of sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20sugar)||
 |[Pine nuts (roasted)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pine%20nuts%20(roasted))|50g|
 |[Pitta bread](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pitta%20bread)||
 |[Pt plain yoghurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pt%20plain%20yoghurt)|150ml/¼|
@@ -76,6 +85,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Tsp. salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tsp.%20salt)|1 + 1/2|
 |[Tsp. smoked paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tsp.%20smoked%20paprika)|2|
 |[Tsp. sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tsp.%20sugar)|2|
+|[Water to cover stew](https://www.sainsburys.co.uk/gol-ui/SearchResults/Water%20to%20cover%20stew)||
 |[X 400g tinned chickpeas](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20tinned%20chickpeas)|1|
 |[Zest of 1 lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Zest%20of%201%20lemon)||
 
@@ -83,7 +93,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Cloves, Garam masala, Garlic cloves, Olive oil, Salt, Tomato purée, Turmeric and Vegetable oil.
+Butter, Cloves, Flour, Garam masala, Garlic cloves, Olive oil, Salt, Tomato puree, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 04-04-2024 20:14:17._
+_This shopping list was generated at 04-04-2024 20:16:08._
