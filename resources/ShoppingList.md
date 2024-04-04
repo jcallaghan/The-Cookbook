@@ -14,6 +14,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Garlic Butter Tandoori Chicken Flatbread #661](https://github.com/jcallaghan/The-Cookbook/issues/661)|
 |Mon 08-Apr 2024|[Greek Chicken Salad Bowl  #660](https://github.com/jcallaghan/The-Cookbook/issues/660)|
 |Tue 09-Apr 2024|[One Pan Lemon Pepper Shrimp Orzo #659](https://github.com/jcallaghan/The-Cookbook/issues/659)|
+|Wed 10-Apr 2024|[Honey Garlic Chicken Fried Rice #662](https://github.com/jcallaghan/The-Cookbook/issues/662)|
 
 ## 🛒 Shopping List
 
@@ -74,4 +75,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Garam masala, Garlic cloves, Olive oil, Salt, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 04-04-2024 10:35:15._
+_This shopping list was generated at 04-04-2024 10:38:58._
