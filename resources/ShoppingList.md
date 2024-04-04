@@ -17,6 +17,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 09-Apr 2024|[One Pan Lemon Pepper Shrimp Orzo #659](https://github.com/jcallaghan/The-Cookbook/issues/659)|
 ||[Burrata pasta salad #644](https://github.com/jcallaghan/The-Cookbook/issues/644)|
 |Wed 10-Apr 2024|[Honey Garlic Chicken Fried Rice #662](https://github.com/jcallaghan/The-Cookbook/issues/662)|
+|Thu 11-Apr 2024|[Brown butter fish #582](https://github.com/jcallaghan/The-Cookbook/issues/582)|
 
 ## 🛒 Shopping List
 
@@ -86,4 +87,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Garam masala, Garlic cloves, Olive oil, Salt, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 04-04-2024 10:40:48._
+_This shopping list was generated at 04-04-2024 10:41:58._
