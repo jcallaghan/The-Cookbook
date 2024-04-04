@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 04-Apr 2024|[Smoked salmon pasta #422](https://github.com/jcallaghan/The-Cookbook/issues/422)|
 |Fri 05-Apr 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
 |Sun 07-Apr 2024|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
+|Tue 09-Apr 2024|[One Pan Lemon Pepper Shrimp Orzo #659](https://github.com/jcallaghan/The-Cookbook/issues/659)|
 
 ## 🛒 Shopping List
 
@@ -76,4 +77,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Garam masala, Garlic cloves, Olive oil, Salt, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 04-04-2024 10:23:00._
+_This shopping list was generated at 04-04-2024 10:33:45._
