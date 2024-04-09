@@ -21,77 +21,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6380ee9f-96af-473f-8a8f-5ff8bba3b03a
-DTSTAMP:20240404T203609
-DTSTART:20240404T180000
-DTEND:20240404T200000
-SUMMARY:Smoked salmon pasta #422 for dinner
-DESCRIPTION:Smoked salmon pasta #422 - https://github.com/jcallaghan/The-Cookbook/issues/422
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:bada473e-9a77-463c-bac1-ed08dc547958
-DTSTAMP:20240404T203610
-DTSTART:20240405T180000
-DTEND:20240405T200000
-SUMMARY:Blackened Chicken with loaded Hummus #605 for dinner
-DESCRIPTION:Blackened Chicken with loaded Hummus #605 - https://github.com/jcallaghan/The-Cookbook/issues/605
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:e6b8c325-77e6-42e6-b7fa-83c6b076446c
-DTSTAMP:20240404T203611
-DTSTART:20240406T180000
-DTEND:20240406T200000
-SUMMARY:Chicken Tikka Masala #647 for dinner
-DESCRIPTION:Chicken Tikka Masala #647 - https://github.com/jcallaghan/The-Cookbook/issues/647
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:f3bcef74-895c-40ea-82ca-5758e9b93023
-DTSTAMP:20240404T203612
-DTSTART:20240407T180000
-DTEND:20240407T200000
-SUMMARY:Steak and ale pie #315 for dinner
-DESCRIPTION:Steak and ale pie #315 - https://github.com/jcallaghan/The-Cookbook/issues/315
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:c1bf3768-73ac-472c-ae5e-cb327169fa54
-DTSTAMP:20240404T203613
-DTSTART:20240408T180000
-DTEND:20240408T200000
-SUMMARY:Greek Chicken Salad Bowl  #660 for dinner
-DESCRIPTION:Greek Chicken Salad Bowl  #660 - https://github.com/jcallaghan/The-Cookbook/issues/660
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:9f3d23b1-44d9-4e49-b240-afea2441aed4
-DTSTAMP:20240404T203613
+UID:5adc5689-3311-4c5d-8a70-2ea2af2e78d0
+DTSTAMP:20240409T172955
 DTSTART:20240409T180000
 DTEND:20240409T200000
-SUMMARY:Creamy Garlic Prawn and Spinach Pasta
-https://mumslounge.com.au/lifestyle/food/creamy-garlic-prawn-pasta-bacon-spinach-recipe/ and One Pan Lemon Pepper Shrimp Orzo #659 for dinner
-DESCRIPTION:Note: Creamy Garlic Prawn and Spinach Pasta
-https://mumslounge.com.au/lifestyle/food/creamy-garlic-prawn-pasta-bacon-spinach-recipe/
-One Pan Lemon Pepper Shrimp Orzo #659 - https://github.com/jcallaghan/The-Cookbook/issues/659
+SUMMARY:One Pan Lemon Pepper Shrimp Orzo #659 for dinner
+DESCRIPTION:One Pan Lemon Pepper Shrimp Orzo #659 - https://github.com/jcallaghan/The-Cookbook/issues/659
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:0bea1df5-b6e4-4162-81bf-2f630fb1661b
-DTSTAMP:20240404T203614
+UID:5c28abab-9997-423c-91e3-b31ad81ea31b
+DTSTAMP:20240409T172955
 DTSTART:20240410T180000
 DTEND:20240410T200000
 SUMMARY:Honey Garlic Chicken Fried Rice #662 for dinner
@@ -101,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:36aaf86c-3dad-4a63-bee6-064c77ae24ed
-DTSTAMP:20240404T203615
+UID:deeef303-416a-487d-8b58-eb7faa231ef6
+DTSTAMP:20240409T172956
 DTSTART:20240411T180000
 DTEND:20240411T200000
 SUMMARY:Brown butter fish #582 for dinner
