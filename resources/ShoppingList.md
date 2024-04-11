@@ -12,7 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Lasagne  #128](https://github.com/jcallaghan/The-Cookbook/issues/128)|
 |Tue 16-Apr 2024|[Burrata pasta salad #644](https://github.com/jcallaghan/The-Cookbook/issues/644)|
 |Wed 17-Apr 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
-|Thu 18-Apr 2024|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
+|Sat 20-Apr 2024|[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
 
 ## 🛒 Shopping List
 
@@ -103,4 +103,4 @@ The following items have not been added to the shopping list as they are likey i
 Bay leaf, Butter, Cloves, Dried oregano, Flour, Garam masala, Garlic cloves, Olive oil, Salt, Seasoning, Tomato puree, Tomato purée, Turmeric, Vegetable oil and Worcestershire sauce.
 
 
-_This shopping list was generated at 11-04-2024 21:10:04._
+_This shopping list was generated at 11-04-2024 21:14:29._
