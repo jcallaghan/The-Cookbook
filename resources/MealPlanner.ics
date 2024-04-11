@@ -21,34 +21,13 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5adc5689-3311-4c5d-8a70-2ea2af2e78d0
-DTSTAMP:20240409T172955
-DTSTART:20240409T180000
-DTEND:20240409T200000
-SUMMARY:One Pan Lemon Pepper Shrimp Orzo #659 for dinner
-DESCRIPTION:One Pan Lemon Pepper Shrimp Orzo #659 - https://github.com/jcallaghan/The-Cookbook/issues/659
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:5c28abab-9997-423c-91e3-b31ad81ea31b
-DTSTAMP:20240409T172955
-DTSTART:20240410T180000
-DTEND:20240410T200000
-SUMMARY:Honey Garlic Chicken Fried Rice #662 for dinner
-DESCRIPTION:Honey Garlic Chicken Fried Rice #662 - https://github.com/jcallaghan/The-Cookbook/issues/662
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:deeef303-416a-487d-8b58-eb7faa231ef6
-DTSTAMP:20240409T172956
-DTSTART:20240411T180000
-DTEND:20240411T200000
-SUMMARY:Brown butter fish #582 for dinner
-DESCRIPTION:Brown butter fish #582 - https://github.com/jcallaghan/The-Cookbook/issues/582
+UID:9f215fd9-1908-4b30-9a8d-c9cbffec224f
+DTSTAMP:20240411T121619
+DTSTART:20240416T180000
+DTEND:20240416T200000
+SUMMARY:Burrata pasta salad #644 and Chicken Tikka Masala #647 for dinner
+DESCRIPTION:Burrata pasta salad #644 - https://github.com/jcallaghan/The-Cookbook/issues/644
+Chicken Tikka Masala #647 - https://github.com/jcallaghan/The-Cookbook/issues/647
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
