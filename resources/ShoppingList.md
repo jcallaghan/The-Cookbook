@@ -91,6 +91,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Chicken chow mein https://www.instagram.com/reel/C49VT4OugBr
 1. Satay Chicken Tenders https://www.instagram.com/reel/C5ag357NJdD
+1. Fish chowder https://www.instagram.com/p/C5GHgNatlYs/
 1. Lamb shoulder
 
 ## 🏪 Pantry Ingredients
@@ -100,4 +101,4 @@ The following items have not been added to the shopping list as they are likey i
 Bay leaf, Butter, Cloves, Dried oregano, Flour, Garam masala, Garlic cloves, Olive oil, Salt, Seasoning, Tomato puree, Tomato purée, Turmeric, Vegetable oil and Worcestershire sauce.
 
 
-_This shopping list was generated at 11-04-2024 12:20:24._
+_This shopping list was generated at 11-04-2024 12:23:53._
