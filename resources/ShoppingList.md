@@ -9,7 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Tue 16-Apr 2024|[Burrata pasta salad #644](https://github.com/jcallaghan/The-Cookbook/issues/644)|
-||[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
+|Wed 17-Apr 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
 
 ## 🛒 Shopping List
 
@@ -58,4 +58,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Garam masala, Garlic cloves, Salt, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 11-04-2024 12:16:19._
+_This shopping list was generated at 11-04-2024 12:16:51._
