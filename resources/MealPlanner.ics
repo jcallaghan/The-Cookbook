@@ -21,13 +21,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9f215fd9-1908-4b30-9a8d-c9cbffec224f
-DTSTAMP:20240411T121619
+UID:e4507174-be4d-4d4a-8d21-6c95e63883a5
+DTSTAMP:20240411T121706
 DTSTART:20240416T180000
 DTEND:20240416T200000
-SUMMARY:Burrata pasta salad #644 and Chicken Tikka Masala #647 for dinner
+SUMMARY:Burrata pasta salad #644 for dinner
 DESCRIPTION:Burrata pasta salad #644 - https://github.com/jcallaghan/The-Cookbook/issues/644
-Chicken Tikka Masala #647 - https://github.com/jcallaghan/The-Cookbook/issues/647
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3e8defc7-a4c0-4757-99ef-4230670ba5e0
+DTSTAMP:20240411T121707
+DTSTART:20240417T180000
+DTEND:20240417T200000
+SUMMARY:Chicken Tikka Masala #647 for dinner
+DESCRIPTION:Chicken Tikka Masala #647 - https://github.com/jcallaghan/The-Cookbook/issues/647
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
