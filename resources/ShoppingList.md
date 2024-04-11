@@ -66,6 +66,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Satay Chicken Tenders
+1. Lamb shoulder
 
 ## 🏪 Pantry Ingredients
 
@@ -74,4 +75,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Garam masala, Garlic cloves, Salt, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 11-04-2024 12:17:48._
+_This shopping list was generated at 11-04-2024 12:18:18._
