@@ -14,6 +14,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 22-Apr 2024|[Garlic Chicken #663](https://github.com/jcallaghan/The-Cookbook/issues/663)|
 ||[Crispy Smashed Potato Salad #638](https://github.com/jcallaghan/The-Cookbook/issues/638)|
 |Tue 23-Apr 2024|[Mediterranean chicken traybake #575](https://github.com/jcallaghan/The-Cookbook/issues/575)|
+|Wed 24-Apr 2024|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
 |Thu 25-Apr 2024|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
 ||[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 
@@ -58,4 +59,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Dried basil, Dried oregano, Olive oil, Seasoning, Tomato puree, Tomato purée and Tomatoes.
 
 
-_This shopping list was generated at 18-04-2024 19:25:19._
+_This shopping list was generated at 18-04-2024 19:27:06._
