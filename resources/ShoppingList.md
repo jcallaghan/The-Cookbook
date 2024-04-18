@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Sat 20-Apr 2024|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
+|Mon 22-Apr 2024|[Crispy Smashed Potato Salad #638](https://github.com/jcallaghan/The-Cookbook/issues/638)|
 ||[Chicken Schnitzel  #256](https://github.com/jcallaghan/The-Cookbook/issues/256)|
 |Tue 23-Apr 2024|[Mediterranean chicken traybake #575](https://github.com/jcallaghan/The-Cookbook/issues/575)|
 |Thu 25-Apr 2024|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
@@ -57,4 +58,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Dried oregano, Olive oil, Seasoning, Tomato puree and Tomatoes.
 
 
-_This shopping list was generated at 18-04-2024 19:16:27._
+_This shopping list was generated at 18-04-2024 19:18:00._
