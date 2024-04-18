@@ -21,19 +21,20 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4bc21af0-23de-434b-b5c9-afc45a9965d9
-DTSTAMP:20240418T191117
+UID:df6eb82a-d5e2-4808-a885-be3d8d20c843
+DTSTAMP:20240418T191333
 DTSTART:20240420T180000
 DTEND:20240420T200000
-SUMMARY:Chicken Schnitzel  #256 for dinner
-DESCRIPTION:Chicken Schnitzel  #256 - https://github.com/jcallaghan/The-Cookbook/issues/256
+SUMMARY:Spaghetti  Bolognese #264 and Chicken Schnitzel  #256 for dinner
+DESCRIPTION:Spaghetti  Bolognese #264 - https://github.com/jcallaghan/The-Cookbook/issues/264
+Chicken Schnitzel  #256 - https://github.com/jcallaghan/The-Cookbook/issues/256
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf0700af-c615-4886-81c6-faba879a5195
-DTSTAMP:20240418T191117
+UID:7b6ecb20-d453-40da-bd9e-ff99ddc75554
+DTSTAMP:20240418T191334
 DTSTART:20240421T180000
 DTEND:20240421T200000
 SUMMARY:Lamb shoulder for dinner
