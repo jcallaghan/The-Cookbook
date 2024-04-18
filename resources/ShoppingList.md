@@ -15,6 +15,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Crispy Smashed Potato Salad #638](https://github.com/jcallaghan/The-Cookbook/issues/638)|
 |Tue 23-Apr 2024|[Mediterranean chicken traybake #575](https://github.com/jcallaghan/The-Cookbook/issues/575)|
 |Thu 25-Apr 2024|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
+||[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 
 ## 🛒 Shopping List
 
@@ -26,17 +27,24 @@ This shopping list has been automatically generated with the ingredients from th
 |[Can tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20tomatoes)|1|
 |[Chicken thighs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20thighs)|300g|
 |[Cloves garlic chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic%20chopped)|3|
+|[Cook time: 20 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2020%20minutes)||
 |[Cook time: 45 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cook%20time:%2045%20minutes)||
+|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|2|
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)|1|
+|[Garlic covers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20covers)|2|
 |[Grated pecorino romano or parmesan cheese for serving optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grated%20pecorino%20romano%20or%20parmesan%20cheese%20for%20serving%20optional)||
 |[Italian mozzarella](https://www.sainsburys.co.uk/gol-ui/SearchResults/Italian%20mozzarella)|125g|
-|[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|450g|
-|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
+|[Minced beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/Minced%20beef)|450g + 500g|
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|½|
+|[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)||
 |[Peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Peppers)|1|
+|[Prep time: 10 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%2010%20minutes)||
 |[Prep time: 5 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prep%20time:%205%20minutes)||
-|[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1/2|
+|[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
 |[Serves: 2](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%202)||
+|[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spaghetti)||
+|[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
 |[Total time: 50 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2050%20minutes)||
 
 ## 🗒️ Notes
@@ -47,7 +55,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
 
-Cloves, Dried oregano, Olive oil, Seasoning, Tomato puree and Tomatoes.
+Cloves, Dried basil, Dried oregano, Olive oil, Seasoning, Tomato puree, Tomato purée and Tomatoes.
 
 
-_This shopping list was generated at 18-04-2024 19:24:49._
+_This shopping list was generated at 18-04-2024 19:25:19._
