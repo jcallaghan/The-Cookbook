@@ -28,6 +28,4 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Satay Chicken Tenders https://www.instagram.com/reel/C5ag357NJdD
-1. Fish chowder https://www.instagram.com/p/C5GHgNatlYs/
 1. Lamb shoulder
