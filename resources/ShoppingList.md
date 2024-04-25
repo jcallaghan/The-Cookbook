@@ -42,7 +42,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. Nigella chips and steak
+1. IG chips and steak
 1. Take-out
 1. Lamb shoulder
 
@@ -53,4 +53,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Dried basil, Dried oregano, Salt, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 25-04-2024 21:24:03._
+_This shopping list was generated at 25-04-2024 21:24:30._
