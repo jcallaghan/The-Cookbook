@@ -8,8 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 25-Apr 2024|[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
-||[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
+|Tue 30-Apr 2024|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
+||[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
 
 ## 🛒 Shopping List
 
@@ -33,4 +33,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 25-04-2024 18:03:00._
+_This shopping list was generated at 25-04-2024 21:12:24._
