@@ -21,81 +21,13 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d72d8a46-f4bb-4aa2-b4e0-ead901c32844
-DTSTAMP:20240418T192849
-DTSTART:20240419T180000
-DTEND:20240419T200000
-SUMMARY:Smash burgers #270 and Smash burger #52 for dinner
-DESCRIPTION:Smash burgers #270 - https://github.com/jcallaghan/The-Cookbook/issues/270
-Smash burger #52 - https://github.com/jcallaghan/The-Cookbook/issues/52
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:a395fa38-d4d3-4ad5-acb9-51771b469bc9
-DTSTAMP:20240418T192850
-DTSTART:20240420T180000
-DTEND:20240420T200000
-SUMMARY:Spaghetti  Bolognese #264 for dinner
-DESCRIPTION:Spaghetti  Bolognese #264 - https://github.com/jcallaghan/The-Cookbook/issues/264
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:b730895e-e7b6-4ea1-b277-747d910163a0
-DTSTAMP:20240418T192850
-DTSTART:20240421T180000
-DTEND:20240421T200000
-SUMMARY:Lamb shoulder for dinner
-DESCRIPTION:Note: Lamb shoulder
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:e50c94d3-dfe2-40c7-afbb-537d2e7b7aa2
-DTSTAMP:20240418T192851
-DTSTART:20240422T180000
-DTEND:20240422T200000
-SUMMARY:Garlic Chicken #663 and Crispy Smashed Potato Salad #638 for dinner
-DESCRIPTION:Garlic Chicken #663 - https://github.com/jcallaghan/The-Cookbook/issues/663
-Crispy Smashed Potato Salad #638 - https://github.com/jcallaghan/The-Cookbook/issues/638
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:136a865c-f806-4f33-9e3b-e2c4c589a32f
-DTSTAMP:20240418T192852
-DTSTART:20240423T180000
-DTEND:20240423T200000
-SUMMARY:Mediterranean chicken traybake #575 for dinner
-DESCRIPTION:Mediterranean chicken traybake #575 - https://github.com/jcallaghan/The-Cookbook/issues/575
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:9244b513-6a9e-431b-9622-7beb05f95fb9
-DTSTAMP:20240418T192853
-DTSTART:20240424T180000
-DTEND:20240424T200000
-SUMMARY:Brown butter fish #582 for dinner
-DESCRIPTION:Brown butter fish #582 - https://github.com/jcallaghan/The-Cookbook/issues/582
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:da3e46d1-929f-4cde-81e6-fc9c0aba7438
-DTSTAMP:20240418T192854
-DTSTART:20240425T180000
-DTEND:20240425T200000
-SUMMARY:Garlicky Meatball Pasta Bake  #571 and Meatballs #59 for dinner
-DESCRIPTION:Garlicky Meatball Pasta Bake  #571 - https://github.com/jcallaghan/The-Cookbook/issues/571
-Meatballs #59 - https://github.com/jcallaghan/The-Cookbook/issues/59
+UID:c38fc840-461c-45a5-8340-e823556b57ee
+DTSTAMP:20240425T211221
+DTSTART:20240430T180000
+DTEND:20240430T200000
+SUMMARY:Meatballs #59 and Garlicky Meatball Pasta Bake  #571 for dinner
+DESCRIPTION:Meatballs #59 - https://github.com/jcallaghan/The-Cookbook/issues/59
+Garlicky Meatball Pasta Bake  #571 - https://github.com/jcallaghan/The-Cookbook/issues/571
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
