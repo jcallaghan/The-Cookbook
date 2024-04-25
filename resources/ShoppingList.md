@@ -26,6 +26,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Serves: 4](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serves:%204)||
 |[Total time: 30 minutes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Total%20time:%2030%20minutes)||
 
+## 🗒️ Notes
+
+1. Nigella chips and steak
+1. Take-out
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -33,4 +38,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 25-04-2024 21:12:24._
+_This shopping list was generated at 25-04-2024 21:13:16._
