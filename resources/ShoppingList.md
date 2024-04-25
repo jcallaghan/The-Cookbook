@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 30-Apr 2024|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 ||[Garlicky Meatball Pasta Bake  #571](https://github.com/jcallaghan/The-Cookbook/issues/571)|
 |Wed 01-May 2024|[Beef Pepper Rice #640](https://github.com/jcallaghan/The-Cookbook/issues/640)|
+|Thu 02-May 2024|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 
 ## 🛒 Shopping List
 
@@ -39,4 +40,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Seasoning and Tomato purée.
 
 
-_This shopping list was generated at 25-04-2024 21:13:57._
+_This shopping list was generated at 25-04-2024 21:14:56._
