@@ -27,6 +27,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[Vegetable stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20stock)|850ml|
 |[White peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20peppers)|2 tsp|
 
+## 🗒️ Notes
+
+1. Pizza
+1. BBQ/Smashies?
+1. Steak
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -34,4 +40,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter and Salt.
 
 
-_This shopping list was generated at 02-05-2024 18:02:58._
+_This shopping list was generated at 02-05-2024 19:18:13._
