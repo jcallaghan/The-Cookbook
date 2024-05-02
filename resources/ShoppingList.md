@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 02-May 2024|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 |Tue 07-May 2024|[Mini Toads in the Hole with Onion Gravy #462](https://github.com/jcallaghan/The-Cookbook/issues/462)|
 ||[Toad in the hole #349](https://github.com/jcallaghan/The-Cookbook/issues/349)|
+|Thu 09-May 2024|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 
 ## 🛒 Shopping List
 
@@ -62,4 +63,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Cooking oil, Flour, Plain flour, Salt, Smoked paprika and Sunflower oil.
 
 
-_This shopping list was generated at 02-05-2024 19:25:19._
+_This shopping list was generated at 02-05-2024 19:27:43._
