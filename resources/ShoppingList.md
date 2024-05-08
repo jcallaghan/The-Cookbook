@@ -13,5 +13,4 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. https://www.instagram.com/p/C53teAEt_Hp/
 1. Steak
