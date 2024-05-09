@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 12-May 2024|[Garlic Butter Tandoori Chicken Flatbread #661](https://github.com/jcallaghan/The-Cookbook/issues/661)|
 |Mon 13-May 2024|[Garlic Honey Crispy Chicken Rice Bowl #633](https://github.com/jcallaghan/The-Cookbook/issues/633)|
 ||[Honey Garlic Chicken Fried Rice #662](https://github.com/jcallaghan/The-Cookbook/issues/662)|
+||[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
 |Tue 14-May 2024|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
 |Wed 15-May 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Thu 16-May 2024|[Meat & Potato Pie #665](https://github.com/jcallaghan/The-Cookbook/issues/665)|
@@ -46,4 +47,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Dried oregano, Garlic cloves, Olive oil, Seasoning and Tomato puree.
 
 
-_This shopping list was generated at 09-05-2024 20:41:54._
+_This shopping list was generated at 09-05-2024 20:42:28._
