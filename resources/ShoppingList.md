@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 09-May 2024|[Pasta Salad #664](https://github.com/jcallaghan/The-Cookbook/issues/664)|
+|Sun 12-May 2024|[Garlic Butter Tandoori Chicken Flatbread #661](https://github.com/jcallaghan/The-Cookbook/issues/661)|
 |Tue 14-May 2024|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
 
 ## 🛒 Shopping List
@@ -34,4 +35,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried oregano, Olive oil, Seasoning and Tomato puree.
 
 
-_This shopping list was generated at 09-05-2024 20:26:46._
+_This shopping list was generated at 09-05-2024 20:35:34._
