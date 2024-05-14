@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 19-May 2024|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 |Mon 20-May 2024|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Tue 21-May 2024|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
+|Wed 22-May 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
 
 ## 🛒 Shopping List
 
@@ -49,4 +50,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Dried oregano, Olive oil, Salt, Seasoning and Tomato puree.
 
 
-_This shopping list was generated at 14-05-2024 14:40:09._
+_This shopping list was generated at 14-05-2024 14:40:55._
