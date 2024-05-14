@@ -42,6 +42,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Steak
 1. ~
+1. Coconut Chicken https://www.instagram.com/p/C4vvSYEo2q-/
 
 ## 🏪 Pantry Ingredients
 
@@ -50,4 +51,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Dried oregano, Olive oil, Salt, Seasoning and Tomato puree.
 
 
-_This shopping list was generated at 14-05-2024 14:40:55._
+_This shopping list was generated at 14-05-2024 14:41:36._
