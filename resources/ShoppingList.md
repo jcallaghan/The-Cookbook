@@ -1,6 +1,6 @@
 # Shopping List
 
-Tue 14-May 2024 - Fri 24-May 2024
+Thu 16-May 2024 - Sun 26-May 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 15-May 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Thu 16-May 2024|[Meat & Potato Pie #665](https://github.com/jcallaghan/The-Cookbook/issues/665)|
 |Sun 19-May 2024|[Granddads carrot soup #79](https://github.com/jcallaghan/The-Cookbook/issues/79)|
 |Mon 20-May 2024|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
@@ -51,4 +50,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Dried oregano, Olive oil, Salt, Seasoning and Tomato puree.
 
 
-_This shopping list was generated at 14-05-2024 14:41:36._
+_This shopping list was generated at 16-05-2024 18:02:55._
