@@ -1,6 +1,6 @@
 # Shopping List
 
-Tue 21-May 2024 - Fri 31-May 2024
+Thu 23-May 2024 - Sun 02-Jun 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 22-May 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
 |Thu 23-May 2024|[Spaghetti  Bolognese #264](https://github.com/jcallaghan/The-Cookbook/issues/264)|
 
 ## 🛒 Shopping List
@@ -23,10 +22,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
 |[Spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spaghetti)||
 
-## 🗒️ Notes
-
-1. Coconut Chicken https://www.instagram.com/p/C4vvSYEo2q-/
-
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -34,4 +29,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried oregano, Olive oil, Seasoning and Tomato puree.
 
 
-_This shopping list was generated at 21-05-2024 14:30:45._
+_This shopping list was generated at 23-05-2024 18:03:22._
