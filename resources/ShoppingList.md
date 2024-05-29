@@ -9,7 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Wed 29-May 2024|[Brie and chorizo #666](https://github.com/jcallaghan/The-Cookbook/issues/666)|
-|Fri 31-May 2024|[Chorizo panzanella #667](https://github.com/jcallaghan/The-Cookbook/issues/667)|
+|Fri 31-May 2024|[Hot Honey Halloumi & Avo Toast #668](https://github.com/jcallaghan/The-Cookbook/issues/668)|
+||[Chorizo panzanella #667](https://github.com/jcallaghan/The-Cookbook/issues/667)|
 ||[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 
 ## 🗒️ Notes
