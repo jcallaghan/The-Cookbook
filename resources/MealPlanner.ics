@@ -21,12 +21,13 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5beffe49-9c3e-4d1d-947b-f8b9151187a3
-DTSTAMP:20240529T160101
+UID:e689d626-910f-4169-88d8-81bb6834e65f
+DTSTAMP:20240529T160144
 DTSTART:20240531T180000
 DTEND:20240531T200000
-SUMMARY:Chorizo panzanella https://www.instagram.com/p/Ct-LaaJOZQF/ for dinner
+SUMMARY:Chorizo panzanella https://www.instagram.com/p/Ct-LaaJOZQF/ and Chow mein https://www.instagram.com/p/C53teAEt_Hp/ for dinner
 DESCRIPTION:Note: Chorizo panzanella https://www.instagram.com/p/Ct-LaaJOZQF/
+Note: Chow mein https://www.instagram.com/p/C53teAEt_Hp/
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
