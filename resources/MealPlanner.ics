@@ -21,13 +21,25 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e689d626-910f-4169-88d8-81bb6834e65f
-DTSTAMP:20240529T160144
+UID:79a3233c-f11e-4ee4-ab71-58f2c6e32ccd
+DTSTAMP:20240529T160258
+DTSTART:20240529T180000
+DTEND:20240529T200000
+SUMMARY:Brie and chorizo #666 for dinner
+DESCRIPTION:Brie and chorizo #666 - https://github.com/jcallaghan/The-Cookbook/issues/666
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4ef90e63-7390-4115-89f7-6d3294e40eb3
+DTSTAMP:20240529T160300
 DTSTART:20240531T180000
 DTEND:20240531T200000
-SUMMARY:Chorizo panzanella https://www.instagram.com/p/Ct-LaaJOZQF/ and Chow mein https://www.instagram.com/p/C53teAEt_Hp/ for dinner
-DESCRIPTION:Note: Chorizo panzanella https://www.instagram.com/p/Ct-LaaJOZQF/
-Note: Chow mein https://www.instagram.com/p/C53teAEt_Hp/
+SUMMARY:Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/, Chorizo panzanella #667 and Chicken Chow Mein #596 for dinner
+DESCRIPTION:Note: Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/
+Chorizo panzanella #667 - https://github.com/jcallaghan/The-Cookbook/issues/667
+Chicken Chow Mein #596 - https://github.com/jcallaghan/The-Cookbook/issues/596
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
