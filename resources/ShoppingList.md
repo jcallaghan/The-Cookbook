@@ -9,13 +9,13 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Sat 01-Jun 2024|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
-||[Gyros or Doner Kebab #654](https://github.com/jcallaghan/The-Cookbook/issues/654)|
-||[Gyros kebab #283](https://github.com/jcallaghan/The-Cookbook/issues/283)|
 |Sun 02-Jun 2024|[Air Fried Crispy Beef #420](https://github.com/jcallaghan/The-Cookbook/issues/420)|
 ||[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 ||[Meat & Potato Pie #665](https://github.com/jcallaghan/The-Cookbook/issues/665)|
 |Mon 03-Jun 2024|[Hot Honey Halloumi & Avo Toast #668](https://github.com/jcallaghan/The-Cookbook/issues/668)|
 |Fri 07-Jun 2024|[Chorizo panzanella #667](https://github.com/jcallaghan/The-Cookbook/issues/667)|
+|Sat 08-Jun 2024|[Gyros or Doner Kebab #654](https://github.com/jcallaghan/The-Cookbook/issues/654)|
+||[Gyros kebab #283](https://github.com/jcallaghan/The-Cookbook/issues/283)|
 
 ## 🛒 Shopping List
 
@@ -57,8 +57,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Dips, Pitta and Tapas
-1. Gyros 
-https://www.instagram.com/reel/C7jnyhEiUTk/
 1. Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/
 1. Caprese Pesto Chicken Wrap
 https://www.instagram.com/reel/C7hP7JmoQgM
@@ -66,6 +64,8 @@ https://www.instagram.com/reel/C7hP7JmoQgM
 https://www.instagram.com/reel/C7ebBr-IIF6
 1. Grilled Chicken Margherita
 https://www.instagram.com/reel/C7jUAZ_u5WX/
+1. Gyros 
+https://www.instagram.com/reel/C7jnyhEiUTk/
 
 ## 🏪 Pantry Ingredients
 
@@ -74,4 +74,4 @@ The following items have not been added to the shopping list as they are likey i
 Cornflour, Garlic cloves, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 30-05-2024 20:24:23._
+_This shopping list was generated at 30-05-2024 20:25:13._
