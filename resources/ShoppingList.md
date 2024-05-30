@@ -57,6 +57,8 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Dips, Pitta and Tapas
+1. Gyros 
+https://www.instagram.com/reel/C7jnyhEiUTk/
 1. Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/
 1. Caprese Pesto Chicken Wrap
 https://www.instagram.com/reel/C7hP7JmoQgM
@@ -72,4 +74,4 @@ The following items have not been added to the shopping list as they are likey i
 Cornflour, Garlic cloves, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 30-05-2024 20:23:21._
+_This shopping list was generated at 30-05-2024 20:24:23._
