@@ -21,16 +21,28 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:566ff97f-b6b5-4718-953d-e7cd893363d5
-DTSTAMP:20240530T090132
+UID:e597a83f-e2f4-49c7-9fbe-055e311af45d
+DTSTAMP:20240530T195721
 DTSTART:20240531T180000
 DTEND:20240531T200000
-SUMMARY:Dips and Pitta, Hot Honey Halloumi & Avo Toast #668, Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/, Chorizo panzanella #667 and Chicken Chow Mein #596 for dinner
-DESCRIPTION:Note: Dips and Pitta
+SUMMARY:Dips, Pitta and Tapas, Hot Honey Halloumi & Avo Toast #668, Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/, Chorizo panzanella #667 and Chicken Chow Mein #596 for dinner
+DESCRIPTION:Note: Dips, Pitta and Tapas
 Hot Honey Halloumi & Avo Toast #668 - https://github.com/jcallaghan/The-Cookbook/issues/668
 Note: Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/
 Chorizo panzanella #667 - https://github.com/jcallaghan/The-Cookbook/issues/667
 Chicken Chow Mein #596 - https://github.com/jcallaghan/The-Cookbook/issues/596
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:73f4a693-8587-4889-bb5b-f809f991fe8e
+DTSTAMP:20240530T195723
+DTSTART:20240602T180000
+DTEND:20240602T200000
+SUMMARY:Air Fried Crispy Beef #420 and Crispy beef with egg fried rice #102 for dinner
+DESCRIPTION:Air Fried Crispy Beef #420 - https://github.com/jcallaghan/The-Cookbook/issues/420
+Crispy beef with egg fried rice #102 - https://github.com/jcallaghan/The-Cookbook/issues/102
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
