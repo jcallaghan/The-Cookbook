@@ -10,8 +10,8 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Sat 01-Jun 2024|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 |Sun 02-Jun 2024|[Steak and ale pie #315](https://github.com/jcallaghan/The-Cookbook/issues/315)|
-|Fri 07-Jun 2024|[Chorizo panzanella #667](https://github.com/jcallaghan/The-Cookbook/issues/667)|
-||[Hot Honey Halloumi & Avo Toast #668](https://github.com/jcallaghan/The-Cookbook/issues/668)|
+|Mon 03-Jun 2024|[Chorizo panzanella #667](https://github.com/jcallaghan/The-Cookbook/issues/667)|
+|Fri 07-Jun 2024|[Hot Honey Halloumi & Avo Toast #668](https://github.com/jcallaghan/The-Cookbook/issues/668)|
 |Sat 08-Jun 2024|[Gyros or Doner Kebab #654](https://github.com/jcallaghan/The-Cookbook/issues/654)|
 ||[Gyros kebab #283](https://github.com/jcallaghan/The-Cookbook/issues/283)|
 
@@ -50,4 +50,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour and Tomato puree.
 
 
-_This shopping list was generated at 30-05-2024 20:36:39._
+_This shopping list was generated at 30-05-2024 20:38:40._
