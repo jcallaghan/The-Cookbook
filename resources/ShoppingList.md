@@ -10,7 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Fri 31-May 2024|[Hot Honey Halloumi & Avo Toast #668](https://github.com/jcallaghan/The-Cookbook/issues/668)|
 ||[Chorizo panzanella #667](https://github.com/jcallaghan/The-Cookbook/issues/667)|
-||[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
+|Sat 01-Jun 2024|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 |Sun 02-Jun 2024|[Air Fried Crispy Beef #420](https://github.com/jcallaghan/The-Cookbook/issues/420)|
 ||[Crispy beef with egg fried rice #102](https://github.com/jcallaghan/The-Cookbook/issues/102)|
 
@@ -63,4 +63,4 @@ The following items have not been added to the shopping list as they are likey i
 Cornflour, Garlic cloves, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 30-05-2024 19:57:26._
+_This shopping list was generated at 30-05-2024 20:14:30._
