@@ -11,6 +11,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 01-Jun 2024|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 |Sun 02-Jun 2024|[Steak and ale pie #315](https://github.com/jcallaghan/The-Cookbook/issues/315)|
 |Mon 03-Jun 2024|[Chorizo panzanella #667](https://github.com/jcallaghan/The-Cookbook/issues/667)|
+|Tue 04-Jun 2024|[Caprese Pesto Chicken Wrap #669](https://github.com/jcallaghan/The-Cookbook/issues/669)|
+|Wed 05-Jun 2024|[Harissa prawn pasta #670](https://github.com/jcallaghan/The-Cookbook/issues/670)|
 |Fri 07-Jun 2024|[Hot Honey Halloumi & Avo Toast #668](https://github.com/jcallaghan/The-Cookbook/issues/668)|
 |Sat 08-Jun 2024|[Gyros or Doner Kebab #654](https://github.com/jcallaghan/The-Cookbook/issues/654)|
 ||[Gyros kebab #283](https://github.com/jcallaghan/The-Cookbook/issues/283)|
@@ -34,10 +36,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Dips, Pitta and Tapas
 1. Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/
-1. Caprese Pesto Chicken Wrap
-https://www.instagram.com/reel/C7hP7JmoQgM
-1. Harissa prawn pasta
-https://www.instagram.com/reel/C7ebBr-IIF6
 1. Grilled Chicken Margherita
 https://www.instagram.com/reel/C7jUAZ_u5WX/
 1. Gyros 
@@ -50,4 +48,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter, Flour and Tomato puree.
 
 
-_This shopping list was generated at 30-05-2024 20:38:40._
+_This shopping list was generated at 30-05-2024 20:43:54._
