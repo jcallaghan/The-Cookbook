@@ -21,23 +21,13 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b5c0fc49-fbf0-452d-889b-1c976b0f56dd
-DTSTAMP:20240529T160413
-DTSTART:20240529T180000
-DTEND:20240529T200000
-SUMMARY:Brie and chorizo #666 for dinner
-DESCRIPTION:Brie and chorizo #666 - https://github.com/jcallaghan/The-Cookbook/issues/666
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:7b008673-dc25-4f4a-a29a-908fe26fa475
-DTSTAMP:20240529T160415
+UID:566ff97f-b6b5-4718-953d-e7cd893363d5
+DTSTAMP:20240530T090132
 DTSTART:20240531T180000
 DTEND:20240531T200000
-SUMMARY:Hot Honey Halloumi & Avo Toast #668, Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/, Chorizo panzanella #667 and Chicken Chow Mein #596 for dinner
-DESCRIPTION:Hot Honey Halloumi & Avo Toast #668 - https://github.com/jcallaghan/The-Cookbook/issues/668
+SUMMARY:Dips and Pitta, Hot Honey Halloumi & Avo Toast #668, Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/, Chorizo panzanella #667 and Chicken Chow Mein #596 for dinner
+DESCRIPTION:Note: Dips and Pitta
+Hot Honey Halloumi & Avo Toast #668 - https://github.com/jcallaghan/The-Cookbook/issues/668
 Note: Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/
 Chorizo panzanella #667 - https://github.com/jcallaghan/The-Cookbook/issues/667
 Chicken Chow Mein #596 - https://github.com/jcallaghan/The-Cookbook/issues/596
