@@ -62,6 +62,8 @@ This shopping list has been automatically generated with the ingredients from th
 https://www.instagram.com/reel/C7hP7JmoQgM
 1. Grilled Chicken Margherita
 https://www.instagram.com/reel/C7jUAZ_u5WX/
+1. Harissa prawn pasta
+https://www.instagram.com/reel/C7ebBr-IIF6
 
 ## 🏪 Pantry Ingredients
 
@@ -70,4 +72,4 @@ The following items have not been added to the shopping list as they are likey i
 Cornflour, Garlic cloves, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Vegetable oil.
 
 
-_This shopping list was generated at 30-05-2024 20:21:12._
+_This shopping list was generated at 30-05-2024 20:22:02._
