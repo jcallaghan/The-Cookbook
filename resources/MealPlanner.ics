@@ -21,28 +21,48 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e597a83f-e2f4-49c7-9fbe-055e311af45d
-DTSTAMP:20240530T195721
+UID:97ee0cca-1183-4b74-af31-81b4c9124cf7
+DTSTAMP:20240530T201433
 DTSTART:20240531T180000
 DTEND:20240531T200000
-SUMMARY:Dips, Pitta and Tapas, Hot Honey Halloumi & Avo Toast #668, Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/, Chorizo panzanella #667 and Chicken Chow Mein #596 for dinner
+SUMMARY:Dips, Pitta and Tapas and Chorizo panzanella #667 for dinner
 DESCRIPTION:Note: Dips, Pitta and Tapas
-Hot Honey Halloumi & Avo Toast #668 - https://github.com/jcallaghan/The-Cookbook/issues/668
-Note: Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/
 Chorizo panzanella #667 - https://github.com/jcallaghan/The-Cookbook/issues/667
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f85636da-3528-4f06-acba-00dfe3f93af2
+DTSTAMP:20240530T201434
+DTSTART:20240601T180000
+DTEND:20240601T200000
+SUMMARY:Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/ and Chicken Chow Mein #596 for dinner
+DESCRIPTION:Note: Chow Mein as per https://www.instagram.com/p/C53teAEt_Hp/
 Chicken Chow Mein #596 - https://github.com/jcallaghan/The-Cookbook/issues/596
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:73f4a693-8587-4889-bb5b-f809f991fe8e
-DTSTAMP:20240530T195723
+UID:3bca7485-5449-4f77-9749-a8aa836f99cf
+DTSTAMP:20240530T201435
 DTSTART:20240602T180000
 DTEND:20240602T200000
 SUMMARY:Air Fried Crispy Beef #420 and Crispy beef with egg fried rice #102 for dinner
 DESCRIPTION:Air Fried Crispy Beef #420 - https://github.com/jcallaghan/The-Cookbook/issues/420
 Crispy beef with egg fried rice #102 - https://github.com/jcallaghan/The-Cookbook/issues/102
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fb7c8fec-46f7-4575-984b-e3d9c52ae11e
+DTSTAMP:20240530T201436
+DTSTART:20240603T180000
+DTEND:20240603T200000
+SUMMARY:Hot Honey Halloumi & Avo Toast #668 for dinner
+DESCRIPTION:Hot Honey Halloumi & Avo Toast #668 - https://github.com/jcallaghan/The-Cookbook/issues/668
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
