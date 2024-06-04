@@ -19,6 +19,8 @@ This shopping list has been automatically generated with the ingredients from th
 ||[BBQ Halloumi #231](https://github.com/jcallaghan/The-Cookbook/issues/231)|
 ||[BBQ chicken kebabs #13](https://github.com/jcallaghan/The-Cookbook/issues/13)|
 ||[Salt Block #632](https://github.com/jcallaghan/The-Cookbook/issues/632)|
+||[Biscoff Traybake #487](https://github.com/jcallaghan/The-Cookbook/issues/487)|
+||[Caprese salad - tomato mozzarella basil #37](https://github.com/jcallaghan/The-Cookbook/issues/37)|
 
 ## 🛒 Shopping List
 
@@ -45,4 +47,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic powder, Sea salt, Sesame oil, Sesame seeds and Soy sauce.
 
 
-_This shopping list was generated at 04-06-2024 08:29:54._
+_This shopping list was generated at 04-06-2024 08:30:39._
