@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c8706f08-0644-4019-b708-cb37d9fd7ff7
-DTSTAMP:20240604T083009
+UID:4fcffb70-f744-47e9-9224-32638034e25c
+DTSTAMP:20240604T083059
 DTSTART:20240604T180000
 DTEND:20240604T200000
 SUMMARY:Chorizo panzanella #667 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a2ef74fd-562f-4eed-b5e0-cb1309cf7fb8
-DTSTAMP:20240604T083010
+UID:5074c1d9-8baa-45d6-9b87-aa6cc39fb4e2
+DTSTAMP:20240604T083100
 DTSTART:20240605T180000
 DTEND:20240605T200000
 SUMMARY:Harissa prawn pasta #670 for dinner
@@ -43,8 +43,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:10bdef27-2e5f-4328-af70-a6e77264e654
-DTSTAMP:20240604T083011
+UID:5e31ffa3-18a6-4231-acd3-9ab36d098c85
+DTSTAMP:20240604T083101
 DTSTART:20240606T180000
 DTEND:20240606T200000
 SUMMARY:Grilled Chicken Margherita
@@ -56,8 +56,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ec8dc474-05a9-47c1-9d00-d9af7b4ebd94
-DTSTAMP:20240604T083012
+UID:d836205b-b26a-4ba9-8db6-d48546907229
+DTSTAMP:20240604T083101
 DTSTART:20240607T180000
 DTEND:20240607T200000
 SUMMARY:Hot Honey Halloumi & Avo Toast #668 for dinner
@@ -67,8 +67,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:04932831-dcd4-4c52-8dc2-391760615771
-DTSTAMP:20240604T083013
+UID:332f7c06-0d3c-49b1-8d71-7b85d52f3436
+DTSTAMP:20240604T083103
 DTSTART:20240608T180000
 DTEND:20240608T200000
 SUMMARY:Gyros 
@@ -82,11 +82,11 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c69488b1-dc66-4fbf-acc5-e967cffa3dd1
-DTSTAMP:20240604T083018
+UID:d82b7c15-1291-45d3-b883-22bb23c8deb5
+DTSTAMP:20240604T083109
 DTSTART:20240614T180000
 DTEND:20240614T200000
-SUMMARY:Birthday BBQ 2023 #534, BBQ Asparagus #511, BBQ Sweetcorn #515, BBQ Halloumi #231, BBQ chicken kebabs #13, Salt Block #632 and Biscoff Traybake #487 for dinner
+SUMMARY:Birthday BBQ 2023 #534, BBQ Asparagus #511, BBQ Sweetcorn #515, BBQ Halloumi #231, BBQ chicken kebabs #13, Salt Block #632, Biscoff Traybake #487, Caprese salad - tomato mozzarella basil #37 and Hot dogs #529 for dinner
 DESCRIPTION:Birthday BBQ 2023 #534 - https://github.com/jcallaghan/The-Cookbook/issues/534
 BBQ Asparagus #511 - https://github.com/jcallaghan/The-Cookbook/issues/511
 BBQ Sweetcorn #515 - https://github.com/jcallaghan/The-Cookbook/issues/515
@@ -94,6 +94,8 @@ BBQ Halloumi #231 - https://github.com/jcallaghan/The-Cookbook/issues/231
 BBQ chicken kebabs #13 - https://github.com/jcallaghan/The-Cookbook/issues/13
 Salt Block #632 - https://github.com/jcallaghan/The-Cookbook/issues/632
 Biscoff Traybake #487 - https://github.com/jcallaghan/The-Cookbook/issues/487
+Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
+Hot dogs #529 - https://github.com/jcallaghan/The-Cookbook/issues/529
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
