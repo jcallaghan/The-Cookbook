@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:053cd301-9030-45e6-a05d-35d492c91573
-DTSTAMP:20240606T195357
+UID:df4c567c-6467-49a7-8227-a721997a2e7b
+DTSTAMP:20240606T195428
 DTSTART:20240607T180000
 DTEND:20240607T200000
 SUMMARY:Hot Honey Halloumi & Avo Toast #668 for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6c623dd1-0634-497f-a836-9affdf0deff2
-DTSTAMP:20240606T195359
+UID:3136e132-be05-4d7c-9bb5-974ccc266a5c
+DTSTAMP:20240606T195430
 DTSTART:20240608T180000
 DTEND:20240608T200000
 SUMMARY:Gyros 
@@ -47,8 +47,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8661af54-88ea-4352-80c4-aa2de36e4991
-DTSTAMP:20240606T195359
+UID:5cacd026-320f-4565-ba28-c0a3c7d37b12
+DTSTAMP:20240606T195430
 DTSTART:20240609T180000
 DTEND:20240609T200000
 SUMMARY:Elote Corn Chicken Salad
@@ -60,8 +60,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:82cf3929-16ff-404d-85f8-4824acf0fe88
-DTSTAMP:20240606T195400
+UID:ee147b35-850a-49c4-acd2-74ef5ddfd681
+DTSTAMP:20240606T195431
 DTSTART:20240610T180000
 DTEND:20240610T200000
 SUMMARY:Crispy Chicken Rice Salad #657 and Halloumi Carbonara
@@ -74,8 +74,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:43d78808-f972-4f25-ad04-fe8d344e7529
-DTSTAMP:20240606T195401
+UID:ad3b93e1-e5fc-498f-ba34-bb5e607695d9
+DTSTAMP:20240606T195432
 DTSTART:20240612T180000
 DTEND:20240612T200000
 SUMMARY:Harissa prawn pasta #670 for dinner
@@ -85,8 +85,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:97191911-5fac-4b48-920a-4e0f018a2b49
-DTSTAMP:20240606T195401
+UID:cd9bfc53-f3a5-4621-85c2-6014fe14d10f
+DTSTAMP:20240606T195432
 DTSTART:20240613T180000
 DTEND:20240613T200000
 SUMMARY:Grilled Chicken Margherita
@@ -98,17 +98,16 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b668162d-4e27-4717-a806-56fe27669907
-DTSTAMP:20240606T195406
+UID:63516f0b-d339-44ac-8afe-6f21a54c6d21
+DTSTAMP:20240606T195436
 DTSTART:20240614T180000
 DTEND:20240614T200000
-SUMMARY:Birthday BBQ 2023 #534, BBQ Asparagus #511, BBQ Sweetcorn #515, BBQ Halloumi #231, BBQ chicken kebabs #13, Salt Block #632, Caprese salad - tomato mozzarella basil #37, Hot dogs #529, Scones and clotted cream #514, Biscoff Traybake #487 and Carrot Cake Cupcakes #536 for dinner
+SUMMARY:Birthday BBQ 2023 #534, BBQ Asparagus #511, BBQ Sweetcorn #515, BBQ Halloumi #231, BBQ chicken kebabs #13, Caprese salad - tomato mozzarella basil #37, Hot dogs #529, Scones and clotted cream #514, Biscoff Traybake #487 and Carrot Cake Cupcakes #536 for dinner
 DESCRIPTION:Birthday BBQ 2023 #534 - https://github.com/jcallaghan/The-Cookbook/issues/534
 BBQ Asparagus #511 - https://github.com/jcallaghan/The-Cookbook/issues/511
 BBQ Sweetcorn #515 - https://github.com/jcallaghan/The-Cookbook/issues/515
 BBQ Halloumi #231 - https://github.com/jcallaghan/The-Cookbook/issues/231
 BBQ chicken kebabs #13 - https://github.com/jcallaghan/The-Cookbook/issues/13
-Salt Block #632 - https://github.com/jcallaghan/The-Cookbook/issues/632
 Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
 Hot dogs #529 - https://github.com/jcallaghan/The-Cookbook/issues/529
 Scones and clotted cream #514 - https://github.com/jcallaghan/The-Cookbook/issues/514
