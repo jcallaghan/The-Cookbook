@@ -10,7 +10,6 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Thu 13-Jun 2024|[Grilled Chicken Margherita #673](https://github.com/jcallaghan/The-Cookbook/issues/673)|
 |Sat 15-Jun 2024|[Charred onion & whipped feta flatbreads #290](https://github.com/jcallaghan/The-Cookbook/issues/290)|
-||[Whipped Feta with Spiced Chickepeas  #674](https://github.com/jcallaghan/The-Cookbook/issues/674)|
 |Sun 16-Jun 2024|[Air Fried Crispy Beef #420](https://github.com/jcallaghan/The-Cookbook/issues/420)|
 ||[Beef roast #282](https://github.com/jcallaghan/The-Cookbook/issues/282)|
 |Mon 17-Jun 2024|[Asparagus and Chorizo Salad #672](https://github.com/jcallaghan/The-Cookbook/issues/672)|
@@ -90,4 +89,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Garam masala, Garlic cloves, Olive oil, Salt, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 13-06-2024 21:35:09._
+_This shopping list was generated at 13-06-2024 21:36:49._
