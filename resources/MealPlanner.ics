@@ -21,100 +21,14 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20bd1fe7-ad45-4ca1-85c5-7518aab885ac
-DTSTAMP:20240606T212220
-DTSTART:20240607T180000
-DTEND:20240607T200000
-SUMMARY:Hot Honey Halloumi & Avo Toast #668 for dinner
-DESCRIPTION:Hot Honey Halloumi & Avo Toast #668 - https://github.com/jcallaghan/The-Cookbook/issues/668
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:428db9f0-e46f-444c-ab85-b60800c7a405
-DTSTAMP:20240606T212221
-DTSTART:20240608T180000
-DTEND:20240608T200000
-SUMMARY:Greek take-out for dinner
-DESCRIPTION:Note: Greek take-out
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:5e624dfc-5fc8-4cfe-8d3f-2ec1dac2df7b
-DTSTAMP:20240606T212222
-DTSTART:20240609T180000
-DTEND:20240609T200000
-SUMMARY:Coconut curry #101 for dinner
-DESCRIPTION:Coconut curry #101 - https://github.com/jcallaghan/The-Cookbook/issues/101
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:280eb443-ec42-49b4-b009-4db00a0bfbd5
-DTSTAMP:20240606T212222
-DTSTART:20240610T180000
-DTEND:20240610T200000
-SUMMARY:Crispy Chicken Rice Salad #657 for dinner
-DESCRIPTION:Crispy Chicken Rice Salad #657 - https://github.com/jcallaghan/The-Cookbook/issues/657
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:1fdde685-5a47-4a73-b11f-94471cdb1969
-DTSTAMP:20240606T212223
-DTSTART:20240611T180000
-DTEND:20240611T200000
-SUMMARY:Halloumi Carbonara #671 for dinner
-DESCRIPTION:Halloumi Carbonara #671 - https://github.com/jcallaghan/The-Cookbook/issues/671
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:83571a85-15cf-460c-b94a-0f22e2a982d0
-DTSTAMP:20240606T212224
-DTSTART:20240612T180000
-DTEND:20240612T200000
-SUMMARY:Harissa prawn pasta #670 for dinner
-DESCRIPTION:Harissa prawn pasta #670 - https://github.com/jcallaghan/The-Cookbook/issues/670
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:b67adf09-3d77-48b8-b36f-812684e6588f
-DTSTAMP:20240606T212224
+UID:547b1a55-fde5-4b67-b7f3-d75c49834fb2
+DTSTAMP:20240613T211508
 DTSTART:20240613T180000
 DTEND:20240613T200000
 SUMMARY:Grilled Chicken Margherita
 https://www.instagram.com/reel/C7jUAZ_u5WX/ for dinner
 DESCRIPTION:Note: Grilled Chicken Margherita
 https://www.instagram.com/reel/C7jUAZ_u5WX/
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:7dcb9d6c-18c6-4d06-ab39-5f17f981a369
-DTSTAMP:20240606T212228
-DTSTART:20240614T180000
-DTEND:20240614T200000
-SUMMARY:Birthday BBQ 2023 #534, BBQ Asparagus #511, BBQ Sweetcorn #515, BBQ Halloumi #231, BBQ chicken kebabs #13, Caprese salad - tomato mozzarella basil #37, Hot dogs #529, Scones and clotted cream #514, Biscoff Traybake #487 and Carrot Cake Cupcakes #536 for dinner
-DESCRIPTION:Birthday BBQ 2023 #534 - https://github.com/jcallaghan/The-Cookbook/issues/534
-BBQ Asparagus #511 - https://github.com/jcallaghan/The-Cookbook/issues/511
-BBQ Sweetcorn #515 - https://github.com/jcallaghan/The-Cookbook/issues/515
-BBQ Halloumi #231 - https://github.com/jcallaghan/The-Cookbook/issues/231
-BBQ chicken kebabs #13 - https://github.com/jcallaghan/The-Cookbook/issues/13
-Caprese salad - tomato mozzarella basil #37 - https://github.com/jcallaghan/The-Cookbook/issues/37
-Hot dogs #529 - https://github.com/jcallaghan/The-Cookbook/issues/529
-Scones and clotted cream #514 - https://github.com/jcallaghan/The-Cookbook/issues/514
-Biscoff Traybake #487 - https://github.com/jcallaghan/The-Cookbook/issues/487
-Carrot Cake Cupcakes #536 - https://github.com/jcallaghan/The-Cookbook/issues/536
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
