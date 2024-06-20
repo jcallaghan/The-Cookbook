@@ -1,6 +1,6 @@
 # Shopping List
 
-Wed 19-Jun 2024 - Sat 29-Jun 2024
+Thu 20-Jun 2024 - Sun 30-Jun 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,7 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Wed 19-Jun 2024|[Greek-inspired Chicken Bowl #675](https://github.com/jcallaghan/The-Cookbook/issues/675)|
 |Thu 20-Jun 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
 
 ## 🛒 Shopping List
@@ -49,4 +48,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Garam masala, Garlic cloves, Salt, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 19-06-2024 21:26:10._
+_This shopping list was generated at 20-06-2024 18:03:53._
