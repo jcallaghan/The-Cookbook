@@ -21,14 +21,25 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2755fbdf-4fc2-4285-87bf-b3d9a1a8821b
-DTSTAMP:20240620T202140
+UID:d10a3418-db7f-45cc-a02d-02acb2c8a116
+DTSTAMP:20240620T202209
 DTSTART:20240621T180000
 DTEND:20240621T200000
 SUMMARY:Margherita pizza #235, Pepperoni pizza  #251 and Black pudding pizza #246 for dinner
 DESCRIPTION:Margherita pizza #235 - https://github.com/jcallaghan/The-Cookbook/issues/235
 Pepperoni pizza  #251 - https://github.com/jcallaghan/The-Cookbook/issues/251
 Black pudding pizza #246 - https://github.com/jcallaghan/The-Cookbook/issues/246
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d9a81980-5c45-4c05-910e-27fe6a0117d0
+DTSTAMP:20240620T202210
+DTSTART:20240623T180000
+DTEND:20240623T200000
+SUMMARY:Fungi or mushroom pizza #241 for dinner
+DESCRIPTION:Fungi or mushroom pizza #241 - https://github.com/jcallaghan/The-Cookbook/issues/241
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
