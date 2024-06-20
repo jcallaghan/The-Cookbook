@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Pepperoni pizza  #251](https://github.com/jcallaghan/The-Cookbook/issues/251)|
 ||[Black pudding pizza #246](https://github.com/jcallaghan/The-Cookbook/issues/246)|
 |Sun 23-Jun 2024|[Fungi or mushroom pizza #241](https://github.com/jcallaghan/The-Cookbook/issues/241)|
+|Mon 24-Jun 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
 
 ## 🛒 Shopping List
 
@@ -29,4 +30,4 @@ The following items have not been added to the shopping list as they are likey i
 O, l, i, v, e,  , o, i and l.
 
 
-_This shopping list was generated at 20-06-2024 20:22:07._
+_This shopping list was generated at 20-06-2024 20:23:05._
