@@ -15,6 +15,9 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 23-Jun 2024|[Fungi or mushroom pizza #241](https://github.com/jcallaghan/The-Cookbook/issues/241)|
 ||[Tomato spring onion salad #99](https://github.com/jcallaghan/The-Cookbook/issues/99)|
 |Mon 24-Jun 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
+|Tue 25-Jun 2024|[Brie and chorizo #666](https://github.com/jcallaghan/The-Cookbook/issues/666)|
+||[Asparagus and Chorizo Salad #672](https://github.com/jcallaghan/The-Cookbook/issues/672)|
+|Wed 26-Jun 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Thu 27-Jun 2024|[Chicken Katsu curry #148](https://github.com/jcallaghan/The-Cookbook/issues/148)|
 
 ## 🛒 Shopping List
@@ -65,4 +68,4 @@ The following items have not been added to the shopping list as they are likey i
 Bay leaf, Chicken stock, Curry powder, Garam masala, Garlic cloves, Olive oil, Plain flour, Salt, Sea salt, Seasoning, Soy sauce, Sunflower oil, Turmeric powder and Vegetable oil.
 
 
-_This shopping list was generated at 20-06-2024 20:26:31._
+_This shopping list was generated at 20-06-2024 20:28:10._
