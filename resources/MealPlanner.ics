@@ -21,23 +21,14 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:292f1d48-5932-4d6f-99fc-8cf0a5322bd0
-DTSTAMP:20240619T212607
-DTSTART:20240619T180000
-DTEND:20240619T200000
-SUMMARY:Greek-inspired Chicken Bowl #675 for dinner
-DESCRIPTION:Greek-inspired Chicken Bowl #675 - https://github.com/jcallaghan/The-Cookbook/issues/675
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fee534fc-ef9c-44eb-b906-796e9e57e982
-DTSTAMP:20240619T212608
-DTSTART:20240620T180000
-DTEND:20240620T200000
-SUMMARY:Chicken Tikka Masala #647 for dinner
-DESCRIPTION:Chicken Tikka Masala #647 - https://github.com/jcallaghan/The-Cookbook/issues/647
+UID:2755fbdf-4fc2-4285-87bf-b3d9a1a8821b
+DTSTAMP:20240620T202140
+DTSTART:20240621T180000
+DTEND:20240621T200000
+SUMMARY:Margherita pizza #235, Pepperoni pizza  #251 and Black pudding pizza #246 for dinner
+DESCRIPTION:Margherita pizza #235 - https://github.com/jcallaghan/The-Cookbook/issues/235
+Pepperoni pizza  #251 - https://github.com/jcallaghan/The-Cookbook/issues/251
+Black pudding pizza #246 - https://github.com/jcallaghan/The-Cookbook/issues/246
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
