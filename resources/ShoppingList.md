@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Sun 07-Jul 2024|[Burrata pasta salad #644](https://github.com/jcallaghan/The-Cookbook/issues/644)|
+|Mon 08-Jul 2024|[Greek-inspired Chicken Bowl #675](https://github.com/jcallaghan/The-Cookbook/issues/675)|
 
 ## 🛒 Shopping List
 
