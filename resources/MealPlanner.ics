@@ -21,81 +21,12 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e5755e0e-88f4-4db1-8de1-049446bb361f
-DTSTAMP:20240620T204917
-DTSTART:20240621T180000
-DTEND:20240621T200000
-SUMMARY:Margherita pizza #235, Pepperoni pizza  #251 and Black pudding pizza #246 for dinner
-DESCRIPTION:Margherita pizza #235 - https://github.com/jcallaghan/The-Cookbook/issues/235
-Pepperoni pizza  #251 - https://github.com/jcallaghan/The-Cookbook/issues/251
-Black pudding pizza #246 - https://github.com/jcallaghan/The-Cookbook/issues/246
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ea9fc6ec-c827-4e17-8d61-d8fb7c6ba45b
-DTSTAMP:20240620T204918
-DTSTART:20240622T180000
-DTEND:20240622T200000
-SUMMARY:Tandoori chicken #261 for dinner
-DESCRIPTION:Tandoori chicken #261 - https://github.com/jcallaghan/The-Cookbook/issues/261
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:f2ac2395-4809-41f9-ad90-84f1c4d52342
-DTSTAMP:20240620T204919
-DTSTART:20240623T180000
-DTEND:20240623T200000
-SUMMARY:Fungi or mushroom pizza #241 and Tomato spring onion salad #99 for dinner
-DESCRIPTION:Fungi or mushroom pizza #241 - https://github.com/jcallaghan/The-Cookbook/issues/241
-Tomato spring onion salad #99 - https://github.com/jcallaghan/The-Cookbook/issues/99
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:4ce515cd-2ed6-4330-9040-99196de88a68
-DTSTAMP:20240620T204920
-DTSTART:20240624T180000
-DTEND:20240624T200000
-SUMMARY:Crispy Chicken Rice Salad #657 for dinner
-DESCRIPTION:Crispy Chicken Rice Salad #657 - https://github.com/jcallaghan/The-Cookbook/issues/657
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:d82a2c6e-f582-4582-b9d5-b039458c9117
-DTSTAMP:20240620T204920
-DTSTART:20240625T180000
-DTEND:20240625T200000
-SUMMARY:Asparagus and Chorizo Salad #672 for dinner
-DESCRIPTION:Asparagus and Chorizo Salad #672 - https://github.com/jcallaghan/The-Cookbook/issues/672
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:45c7ca75-5787-4718-aa30-7f14001ec336
-DTSTAMP:20240620T204921
-DTSTART:20240626T180000
-DTEND:20240626T200000
-SUMMARY:Grilled salmon fillet pasta salad #100 for dinner
-DESCRIPTION:Grilled salmon fillet pasta salad #100 - https://github.com/jcallaghan/The-Cookbook/issues/100
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:984521f7-a5f3-4c8f-8d65-5595192c0370
-DTSTAMP:20240620T204922
-DTSTART:20240627T180000
-DTEND:20240627T200000
-SUMMARY:Chicken Katsu curry #148 for dinner
-DESCRIPTION:Chicken Katsu curry #148 - https://github.com/jcallaghan/The-Cookbook/issues/148
+UID:759f9417-2a54-4ccf-929c-f2a66f26ec48
+DTSTAMP:20240706T083314
+DTSTART:20240707T180000
+DTEND:20240707T200000
+SUMMARY:Burrata pasta salad #644 for dinner
+DESCRIPTION:Burrata pasta salad #644 - https://github.com/jcallaghan/The-Cookbook/issues/644
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
