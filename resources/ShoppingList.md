@@ -1,6 +1,6 @@
 # Shopping List
 
-Sat 06-Jul 2024 - Tue 16-Jul 2024
+Sun 07-Jul 2024 - Wed 17-Jul 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -10,6 +10,8 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Sun 07-Jul 2024|[Burrata pasta salad #644](https://github.com/jcallaghan/The-Cookbook/issues/644)|
 |Mon 08-Jul 2024|[Greek-inspired Chicken Bowl #675](https://github.com/jcallaghan/The-Cookbook/issues/675)|
+|Tue 09-Jul 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
+|Thu 11-Jul 2024|[Crispy Chicken Caeser Wrap #676](https://github.com/jcallaghan/The-Cookbook/issues/676)|
 
 ## 🛒 Shopping List
 
