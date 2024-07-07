@@ -8,9 +8,10 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Sun 07-Jul 2024|[Burrata pasta salad #644](https://github.com/jcallaghan/The-Cookbook/issues/644)|
-|Mon 08-Jul 2024|[Greek-inspired Chicken Bowl #675](https://github.com/jcallaghan/The-Cookbook/issues/675)|
-|Tue 09-Jul 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
+|Sun 07-Jul 2024|[Greek-inspired Chicken Bowl #675](https://github.com/jcallaghan/The-Cookbook/issues/675)|
+|Mon 08-Jul 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
+|Tue 09-Jul 2024|[Burrata pasta salad #644](https://github.com/jcallaghan/The-Cookbook/issues/644)|
+|Wed 10-Jul 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Thu 11-Jul 2024|[Crispy Chicken Caeser Wrap #676](https://github.com/jcallaghan/The-Cookbook/issues/676)|
 
 ## 🛒 Shopping List
