@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 11-Jul 2024 - Sun 21-Jul 2024
+Thu 11-Jul 2024 - Tue 23-Jul 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -18,7 +18,8 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Asparagus and Chorizo Salad #672](https://github.com/jcallaghan/The-Cookbook/issues/672)|
 |Wed 17-Jul 2024|[Creamy chipotle parmesan steak loaded potatoes #677](https://github.com/jcallaghan/The-Cookbook/issues/677)|
 |Thu 18-Jul 2024|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
-|Fri 19-Jul 2024|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
+|Mon 22-Jul 2024|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
+|Tue 23-Jul 2024|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
 
 ## 🛒 Shopping List
 
@@ -61,4 +62,4 @@ The following items have not been added to the shopping list as they are likey i
 Salt, Seasoning and Water.
 
 
-_This shopping list was generated at 11-07-2024 20:18:09._
+_This shopping list was generated at 11-07-2024 20:18:54._
