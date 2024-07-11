@@ -21,19 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:31da5f9e-559c-4275-ab10-68cbac955557
-DTSTAMP:20240711T201127
-DTSTART:20240711T180000
-DTEND:20240711T200000
-SUMMARY:Crispy Chicken Rice Salad #657 for dinner
-DESCRIPTION:Crispy Chicken Rice Salad #657 - https://github.com/jcallaghan/The-Cookbook/issues/657
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:3dbec953-fcae-4d9f-80d4-e8370f441c65
-DTSTAMP:20240711T201127
+UID:544b616a-5985-48ac-b293-a8a313e3f253
+DTSTAMP:20240711T201306
 DTSTART:20240712T180000
 DTEND:20240712T200000
 SUMMARY:F&C for dinner
@@ -43,8 +32,20 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:330800e0-b1e9-4ff5-9764-142238bf31cc
-DTSTAMP:20240711T201130
+UID:ca7c4154-581c-4cd7-bc0f-c9eff63708f4
+DTSTAMP:20240711T201307
+DTSTART:20240713T180000
+DTEND:20240713T200000
+SUMMARY:Crispy Chicken Rice Salad #657 and Tziki & Pitta for dinner
+DESCRIPTION:Crispy Chicken Rice Salad #657 - https://github.com/jcallaghan/The-Cookbook/issues/657
+Note: Tziki & Pitta
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8a0986cf-c961-4e53-b295-ff1010d7c8de
+DTSTAMP:20240711T201309
 DTSTART:20240714T180000
 DTEND:20240714T200000
 SUMMARY:Chilli con carne #397, Chilli con carne #319, Loaded Nachos #440 and Nachos #20 for dinner
@@ -52,6 +53,29 @@ DESCRIPTION:Chilli con carne #397 - https://github.com/jcallaghan/The-Cookbook/i
 Chilli con carne #319 - https://github.com/jcallaghan/The-Cookbook/issues/319
 Loaded Nachos #440 - https://github.com/jcallaghan/The-Cookbook/issues/440
 Nachos #20 - https://github.com/jcallaghan/The-Cookbook/issues/20
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3a44e22c-ec4c-4d27-82f8-55a3b29acbf3
+DTSTAMP:20240711T201311
+DTSTART:20240716T180000
+DTEND:20240716T200000
+SUMMARY:Hot Honey Halloumi & Avo Toast #668 and Asparagus and Chorizo Salad #672 for dinner
+DESCRIPTION:Hot Honey Halloumi & Avo Toast #668 - https://github.com/jcallaghan/The-Cookbook/issues/668
+Asparagus and Chorizo Salad #672 - https://github.com/jcallaghan/The-Cookbook/issues/672
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a445f73d-fd76-4540-b0bd-99f46626d16c
+DTSTAMP:20240711T201313
+DTSTART:20240719T180000
+DTEND:20240719T200000
+SUMMARY:Crab pasta salad or sandwich filler #9 for dinner
+DESCRIPTION:Crab pasta salad or sandwich filler #9 - https://github.com/jcallaghan/The-Cookbook/issues/9
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
