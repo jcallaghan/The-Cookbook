@@ -8,14 +8,13 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
+|Fri 12-Jul 2024|[Asparagus and Chorizo Salad #672](https://github.com/jcallaghan/The-Cookbook/issues/672)|
 |Sat 13-Jul 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
-|Sun 14-Jul 2024|[Chilli con carne #397](https://github.com/jcallaghan/The-Cookbook/issues/397)|
-||[Chilli con carne #319](https://github.com/jcallaghan/The-Cookbook/issues/319)|
+|Sun 14-Jul 2024|[Chilli con carne #319](https://github.com/jcallaghan/The-Cookbook/issues/319)|
 ||[Loaded Nachos #440](https://github.com/jcallaghan/The-Cookbook/issues/440)|
 ||[Nachos #20](https://github.com/jcallaghan/The-Cookbook/issues/20)|
 |Mon 15-Jul 2024|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
-|Tue 16-Jul 2024|[Hot Honey Halloumi & Avo Toast #668](https://github.com/jcallaghan/The-Cookbook/issues/668)|
-||[Asparagus and Chorizo Salad #672](https://github.com/jcallaghan/The-Cookbook/issues/672)|
+|Tue 16-Jul 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Wed 17-Jul 2024|[Creamy chipotle parmesan steak loaded potatoes #677](https://github.com/jcallaghan/The-Cookbook/issues/677)|
 |Thu 18-Jul 2024|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
 |Mon 22-Jul 2024|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
@@ -52,7 +51,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
-1. F&C
 1. Tziki & Pitta
 
 ## 🏪 Pantry Ingredients
@@ -62,4 +60,4 @@ The following items have not been added to the shopping list as they are likey i
 Salt, Seasoning and Water.
 
 
-_This shopping list was generated at 11-07-2024 20:19:20._
+_This shopping list was generated at 11-07-2024 20:42:06._
