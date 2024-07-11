@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Chilli con carne #319](https://github.com/jcallaghan/The-Cookbook/issues/319)|
 ||[Loaded Nachos #440](https://github.com/jcallaghan/The-Cookbook/issues/440)|
 ||[Nachos #20](https://github.com/jcallaghan/The-Cookbook/issues/20)|
+|Mon 15-Jul 2024|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 |Tue 16-Jul 2024|[Hot Honey Halloumi & Avo Toast #668](https://github.com/jcallaghan/The-Cookbook/issues/668)|
 ||[Asparagus and Chorizo Salad #672](https://github.com/jcallaghan/The-Cookbook/issues/672)|
 |Wed 17-Jul 2024|[Creamy chipotle parmesan steak loaded potatoes #677](https://github.com/jcallaghan/The-Cookbook/issues/677)|
@@ -60,4 +61,4 @@ The following items have not been added to the shopping list as they are likey i
 Salt, Seasoning and Water.
 
 
-_This shopping list was generated at 11-07-2024 20:17:29._
+_This shopping list was generated at 11-07-2024 20:18:09._
