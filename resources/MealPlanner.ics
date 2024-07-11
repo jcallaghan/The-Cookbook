@@ -21,34 +21,26 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3e4649c4-15de-4e69-8245-0f2fea018ac1
-DTSTAMP:20240709T121911
-DTSTART:20240709T180000
-DTEND:20240709T200000
-SUMMARY:Crispy Chicken Caeser Wrap #676 for dinner
-DESCRIPTION:Crispy Chicken Caeser Wrap #676 - https://github.com/jcallaghan/The-Cookbook/issues/676
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:604ce4b5-a231-40e2-9cd5-53162b48700d
-DTSTAMP:20240709T121912
-DTSTART:20240710T180000
-DTEND:20240710T200000
-SUMMARY:Grilled salmon fillet pasta salad #100 for dinner
-DESCRIPTION:Grilled salmon fillet pasta salad #100 - https://github.com/jcallaghan/The-Cookbook/issues/100
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:5f97b551-47fa-4d1f-90ab-b5c29b6f490e
-DTSTAMP:20240709T121913
+UID:38835570-b66c-44a1-9677-7531c2d34960
+DTSTAMP:20240711T201042
 DTSTART:20240711T180000
 DTEND:20240711T200000
 SUMMARY:Crispy Chicken Rice Salad #657 for dinner
 DESCRIPTION:Crispy Chicken Rice Salad #657 - https://github.com/jcallaghan/The-Cookbook/issues/657
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:260c0d32-2241-4034-86ca-6ec4b1945592
+DTSTAMP:20240711T201045
+DTSTART:20240714T180000
+DTEND:20240714T200000
+SUMMARY:Chilli con carne #397, Chilli con carne #319, Loaded Nachos #440 and Nachos #20 for dinner
+DESCRIPTION:Chilli con carne #397 - https://github.com/jcallaghan/The-Cookbook/issues/397
+Chilli con carne #319 - https://github.com/jcallaghan/The-Cookbook/issues/319
+Loaded Nachos #440 - https://github.com/jcallaghan/The-Cookbook/issues/440
+Nachos #20 - https://github.com/jcallaghan/The-Cookbook/issues/20
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
