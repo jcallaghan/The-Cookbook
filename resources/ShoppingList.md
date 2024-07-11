@@ -36,6 +36,27 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. F&C
 1. Tziki & Pitta
+1. Creamy chipotle parmesan steak loaded potatoes 
+https://www.instagram.com/reel/C7MCofyIPmB
+
+Ingredients (serves 2):
+200g rump steak
+500g golden potatoes peeled and diced into cubes
+Tsp garlic granules
+Tsp smoked paprika
+Tsp dried parsley
+Salt
+Pepper
+Heaped tsp garlic puree
+Red onion finely diced
+Tsp Italian herb seasoning
+Tsp chipotle paste
+Crumbled beef stock cube
+150ml reduced fat cream
+24g parmesan grated
+50ml water
+A few sprigs of fresh parsley chopped
+
 
 ## 🏪 Pantry Ingredients
 
@@ -44,4 +65,4 @@ The following items have not been added to the shopping list as they are likey i
 S, e, a, s, o, n, i, n and g.
 
 
-_This shopping list was generated at 11-07-2024 20:13:47._
+_This shopping list was generated at 11-07-2024 20:15:27._
