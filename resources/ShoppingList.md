@@ -9,3 +9,4 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 11-Jul 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
+|Sun 14-Jul 2024|[Chilli con carne #397](https://github.com/jcallaghan/The-Cookbook/issues/397)|
