@@ -21,8 +21,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b912df93-de9f-4cf4-99b5-788e8879160f
-DTSTAMP:20240711T201336
+UID:7649183c-a728-44b8-acd3-11207bf1d232
+DTSTAMP:20240711T201522
 DTSTART:20240712T180000
 DTEND:20240712T200000
 SUMMARY:F&C for dinner
@@ -32,8 +32,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:17c13c34-86e1-433a-9e3c-98166914b593
-DTSTAMP:20240711T201337
+UID:42efbf08-bb73-4532-9082-6336076be702
+DTSTAMP:20240711T201523
 DTSTART:20240713T180000
 DTEND:20240713T200000
 SUMMARY:Crispy Chicken Rice Salad #657 and Tziki & Pitta for dinner
@@ -44,8 +44,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1f86fe78-a776-4163-aa18-0313a5d06839
-DTSTAMP:20240711T201339
+UID:e0bb27ac-6073-4ff6-9c56-184b15637f16
+DTSTAMP:20240711T201525
 DTSTART:20240714T180000
 DTEND:20240714T200000
 SUMMARY:Chilli con carne #397, Chilli con carne #319, Loaded Nachos #440 and Nachos #20 for dinner
@@ -58,8 +58,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8854cb13-0dc4-4be9-b19c-134a9ad095a0
-DTSTAMP:20240711T201341
+UID:5636fa30-6d7e-4a3f-8197-77bc2ae0471e
+DTSTAMP:20240711T201526
 DTSTART:20240716T180000
 DTEND:20240716T200000
 SUMMARY:Hot Honey Halloumi & Avo Toast #668 and Asparagus and Chorizo Salad #672 for dinner
@@ -70,8 +70,59 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c647f0c3-00af-4f6a-a89c-755fa7f4b851
-DTSTAMP:20240711T201342
+UID:96583e10-a385-45be-a5ac-038ee3364ad8
+DTSTAMP:20240711T201527
+DTSTART:20240717T180000
+DTEND:20240717T200000
+SUMMARY:Creamy chipotle parmesan steak loaded potatoes 
+https://www.instagram.com/reel/C7MCofyIPmB
+
+Ingredients (serves 2):
+200g rump steak
+500g golden potatoes peeled and diced into cubes
+Tsp garlic granules
+Tsp smoked paprika
+Tsp dried parsley
+Salt
+Pepper
+Heaped tsp garlic puree
+Red onion finely diced
+Tsp Italian herb seasoning
+Tsp chipotle paste
+Crumbled beef stock cube
+150ml reduced fat cream
+24g parmesan grated
+50ml water
+A few sprigs of fresh parsley chopped
+ for dinner
+DESCRIPTION:Note: Creamy chipotle parmesan steak loaded potatoes 
+https://www.instagram.com/reel/C7MCofyIPmB
+
+Ingredients (serves 2):
+200g rump steak
+500g golden potatoes peeled and diced into cubes
+Tsp garlic granules
+Tsp smoked paprika
+Tsp dried parsley
+Salt
+Pepper
+Heaped tsp garlic puree
+Red onion finely diced
+Tsp Italian herb seasoning
+Tsp chipotle paste
+Crumbled beef stock cube
+150ml reduced fat cream
+24g parmesan grated
+50ml water
+A few sprigs of fresh parsley chopped
+
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0646fa99-96ff-41a3-adde-fc302f466d40
+DTSTAMP:20240711T201528
 DTSTART:20240719T180000
 DTEND:20240719T200000
 SUMMARY:Crab pasta salad or sandwich filler #9 for dinner
