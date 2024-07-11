@@ -13,3 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Chilli con carne #319](https://github.com/jcallaghan/The-Cookbook/issues/319)|
 ||[Loaded Nachos #440](https://github.com/jcallaghan/The-Cookbook/issues/440)|
 ||[Nachos #20](https://github.com/jcallaghan/The-Cookbook/issues/20)|
+
+## 🗒️ Notes
+
+1. F&C
