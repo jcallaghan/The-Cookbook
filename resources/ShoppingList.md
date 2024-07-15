@@ -8,8 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Mon 15-Jul 2024|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
-|Tue 16-Jul 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
+|Mon 15-Jul 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
+|Tue 16-Jul 2024|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 |Wed 17-Jul 2024|[Creamy chipotle parmesan steak loaded potatoes #677](https://github.com/jcallaghan/The-Cookbook/issues/677)|
 |Thu 18-Jul 2024|[Shepherd's pie or Cottage pie #215](https://github.com/jcallaghan/The-Cookbook/issues/215)|
 |Sun 21-Jul 2024|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
@@ -72,4 +72,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic cloves, Olive oil, Salt, Seasoning and Water.
 
 
-_This shopping list was generated at 15-07-2024 10:50:02._
+_This shopping list was generated at 15-07-2024 10:50:27._
