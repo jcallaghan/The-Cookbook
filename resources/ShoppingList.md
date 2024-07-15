@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 11-Jul 2024 - Tue 23-Jul 2024
+Mon 15-Jul 2024 - Thu 25-Jul 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,11 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Fri 12-Jul 2024|[Asparagus and Chorizo Salad #672](https://github.com/jcallaghan/The-Cookbook/issues/672)|
-|Sat 13-Jul 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
-|Sun 14-Jul 2024|[Chilli con carne #319](https://github.com/jcallaghan/The-Cookbook/issues/319)|
-||[Loaded Nachos #440](https://github.com/jcallaghan/The-Cookbook/issues/440)|
-||[Nachos #20](https://github.com/jcallaghan/The-Cookbook/issues/20)|
 |Mon 15-Jul 2024|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 |Tue 16-Jul 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Wed 17-Jul 2024|[Creamy chipotle parmesan steak loaded potatoes #677](https://github.com/jcallaghan/The-Cookbook/issues/677)|
@@ -70,10 +65,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[X 400g tinned chickpeas](https://www.sainsburys.co.uk/gol-ui/SearchResults/X%20400g%20tinned%20chickpeas)|1|
 |[Zest of 1 lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Zest%20of%201%20lemon)||
 
-## 🗒️ Notes
-
-1. Tziki & Pitta
-
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -81,4 +72,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic cloves, Olive oil, Salt, Seasoning and Water.
 
 
-_This shopping list was generated at 11-07-2024 20:44:19._
+_This shopping list was generated at 15-07-2024 10:50:02._
