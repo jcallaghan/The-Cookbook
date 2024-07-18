@@ -9,13 +9,13 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Sat 20-Jul 2024|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
-|Sun 21-Jul 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
-||[Creamy chipotle parmesan steak loaded potatoes #677](https://github.com/jcallaghan/The-Cookbook/issues/677)|
+|Sun 21-Jul 2024|[Creamy chipotle parmesan steak loaded potatoes #677](https://github.com/jcallaghan/The-Cookbook/issues/677)|
 |Mon 22-Jul 2024|[Chicken Parmesan #678](https://github.com/jcallaghan/The-Cookbook/issues/678)|
 |Tue 23-Jul 2024|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
-|Wed 24-Jul 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
+|Wed 24-Jul 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
 |Thu 25-Jul 2024|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
 |Fri 26-Jul 2024|[Asparagus and Chorizo Salad #672](https://github.com/jcallaghan/The-Cookbook/issues/672)|
+|Sun 28-Jul 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
 
 ## 🛒 Shopping List
 
@@ -103,4 +103,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Garam masala, Garlic cloves, Olive oil, Salt, Seasoning, Tomato purée, Turmeric, Vegetable oil and Water.
 
 
-_This shopping list was generated at 18-07-2024 20:49:20._
+_This shopping list was generated at 18-07-2024 20:50:14._
