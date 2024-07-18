@@ -8,7 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Sun 21-Jul 2024|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
+|Sat 20-Jul 2024|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
 |Mon 22-Jul 2024|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 |Tue 23-Jul 2024|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
 
@@ -54,4 +54,4 @@ The following items have not been added to the shopping list as they are likey i
 Garlic cloves, Olive oil and Seasoning.
 
 
-_This shopping list was generated at 18-07-2024 18:04:19._
+_This shopping list was generated at 18-07-2024 20:25:31._
