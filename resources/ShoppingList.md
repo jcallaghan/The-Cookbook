@@ -10,9 +10,11 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Sat 20-Jul 2024|[Blackened Chicken with loaded Hummus #605](https://github.com/jcallaghan/The-Cookbook/issues/605)|
 |Sun 21-Jul 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
+||[Asparagus and Chorizo Salad #672](https://github.com/jcallaghan/The-Cookbook/issues/672)|
 |Mon 22-Jul 2024|[Pesto chicken pasta #137](https://github.com/jcallaghan/The-Cookbook/issues/137)|
 |Tue 23-Jul 2024|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
 |Wed 24-Jul 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
+|Thu 25-Jul 2024|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
 
 ## 🛒 Shopping List
 
@@ -78,6 +80,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. BBQ
+1. Garlic Butter Chicken https://www.instagram.com/p/C4q1wIzPA_7/
 
 ## 🏪 Pantry Ingredients
 
@@ -86,4 +89,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Garam masala, Garlic cloves, Olive oil, Salt, Seasoning, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 18-07-2024 20:35:17._
+_This shopping list was generated at 18-07-2024 20:46:01._
