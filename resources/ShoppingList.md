@@ -95,7 +95,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. BBQ
-1. Garlic Butter Chicken https://www.instagram.com/p/C4q1wIzPA_7/
 
 ## 🏪 Pantry Ingredients
 
@@ -104,4 +103,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Garam masala, Garlic cloves, Olive oil, Salt, Seasoning, Tomato purée, Turmeric, Vegetable oil and Water.
 
 
-_This shopping list was generated at 18-07-2024 20:48:48._
+_This shopping list was generated at 18-07-2024 20:49:20._
