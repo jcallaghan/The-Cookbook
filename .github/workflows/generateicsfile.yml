@@ -45,11 +45,11 @@ jobs:
       
     - name: Upload Files
       id: upload
-      uses: danhendrickson/sftp-transfer-action@v1.23
+      uses: wearesection/sftp-action@v1.0.0
       with:
-        server: ${{ secrets.WPE_HOSTNAME }}
+        host: ${{ secrets.WPE_HOSTNAME }}
         port: ${{ secrets.WPE_PORT }}
-        user: ${{ secrets.WPE_USERNAME }}
-        pass: ${{ secrets.WPE_PASSWORD }}
-        local-path: ${{ env.ICS_PATH }} 
-        remote-path: ""
+        username: ${{ secrets.WPE_USERNAME }}
+        passname: ${{ secrets.WPE_PASSWORD }}
+        localPath: ${{ env.ICS_PATH }} 
+        remotePath: "./"
