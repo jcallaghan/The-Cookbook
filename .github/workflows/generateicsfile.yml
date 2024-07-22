@@ -49,7 +49,7 @@ jobs:
       with:
         remote-host: ${{ secrets.WPE_HOSTNAME }}
         remote-port: ${{ secrets.WPE_PORT }}
-        remote-username: ${{ secrets.WPE_USERNAME }}
+        remote-user: ${{ secrets.WPE_USERNAME }}
         remote-password: ${{ secrets.WPE_PASSWORD }}
         local-path: ${{ env.ICS_PATH }} 
         remote-path: ""
