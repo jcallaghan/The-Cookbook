@@ -50,12 +50,10 @@ jobs:
       
     - name: Upload Files
       id: upload
-      uses:  milanmk/actions-file-deployer@1.14
+      uses:  JamsRepos/SFTP-Deploy-Action@v2.1
       with:
-        remote-protocol: 'sftp'
-        remote-host: ${{ secrets.WPE_HOSTNAME }}
-        remote-port: ${{ secrets.WPE_PORT }}
-        remote-user: ${{ secrets.WPE_USERNAME }}
-        remote-password: ${{ secrets.WPE_PASSWORD }}
-        local-path: "./${{ github.workspace }}/resources/MealPlanner.ics"
-        remote-path: "/"
+        server: ${{ secrets.WPE_HOSTNAME }}
+        port: ${{ secrets.WPE_PORT }}
+        username: ${{ secrets.WPE_USERNAME }}
+        password: ${{ secrets.WPE_PASSWORD }}
+        local_path: ${{ env.ICS_PATH }}
