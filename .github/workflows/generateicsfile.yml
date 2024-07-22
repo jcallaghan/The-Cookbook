@@ -58,5 +58,4 @@ jobs:
         remote-user: ${{ secrets.WPE_USERNAME }}
         remote-password: ${{ secrets.WPE_PASSWORD }}
         local-path: ${{ env.ICS_PATH }}   
-        sync: full
-        ftp-options: 'set cmd:fail-exit true'
+        remote-path: "./"
