@@ -45,12 +45,11 @@ jobs:
       
     - name: Upload Files
       id: upload
-      uses: wangyucode/sftp-upload-action@v2.0.2
+      uses:  milanmk/actions-file-deployer@1.14
       with:
-        host: ${{ secrets.WPE_HOSTNAME }}
-        port: ${{ secrets.WPE_PORT }}
-        username: ${{ secrets.WPE_USERNAME }}
-        password: ${{ secrets.WPE_PASSWORD }}
-        localDir: ${{ env.ICS_PATH }} 
-        remoteDir: "/"
-        exclude: "wp-includes/*,wp-content/*"
+        remote-host: ${{ secrets.WPE_HOSTNAME }}
+        remote-port: ${{ secrets.WPE_PORT }}
+        remote-username: ${{ secrets.WPE_USERNAME }}
+        remote-password: ${{ secrets.WPE_PASSWORD }}
+        local-path: ${{ env.ICS_PATH }} 
+        remote-path: ""
