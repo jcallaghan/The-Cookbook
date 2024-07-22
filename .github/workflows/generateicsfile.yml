@@ -7,6 +7,11 @@ concurrency:
 
 on:
   workflow_dispatch:
+    inputs:
+      sync:
+        description: "File synchronization"
+        required: true
+        default: "full"
 #   schedule:
 #     - cron: '1 0 * * *'
   project_card: 
@@ -47,8 +52,11 @@ jobs:
       id: upload
       uses:  milanmk/actions-file-deployer@1.14
       with:
+        remote-protocol: 'sftp'
         remote-host: ${{ secrets.WPE_HOSTNAME }}
         remote-port: ${{ secrets.WPE_PORT }}
         remote-user: ${{ secrets.WPE_USERNAME }}
         remote-password: ${{ secrets.WPE_PASSWORD }}
-        local-path: ${{ env.ICS_PATH }} 
+        local-path: ${{ env.ICS_PATH }}   
+        sync: full
+        ftp-options: 'set cmd:fail-exit true'
