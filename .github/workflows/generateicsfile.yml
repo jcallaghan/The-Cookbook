@@ -45,7 +45,7 @@ jobs:
       
     - name: Upload Files
       id: upload
-      uses: wearesection/sftp-action@v1.0.0
+      uses: wearesection/sftp-action@v1.0.1
       with:
         host: ${{ secrets.WPE_HOSTNAME }}
         port: ${{ secrets.WPE_PORT }}
