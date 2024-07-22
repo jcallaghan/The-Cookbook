@@ -57,5 +57,3 @@ jobs:
         remote-port: ${{ secrets.WPE_PORT }}
         remote-user: ${{ secrets.WPE_USERNAME }}
         remote-password: ${{ secrets.WPE_PASSWORD }}
-        local-path: ${{ env.ICS_PATH }}   
-        remote-path: "."
