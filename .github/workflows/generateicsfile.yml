@@ -53,6 +53,6 @@ jobs:
       uses: wpengine/github-action-wpe-site-deploy@v3
       with:
         WPE_SSHG_KEY_PRIVATE: ${{ secrets.WPE_SSHG_KEY_PRIVATE }}
-        WPE_ENV: <your_install_name_here>
+        WPE_ENV: "jamescallaghan"
         SRC_PATH: ${{ env.ICS_PATH }}
         REMOTE_PATH: "."
