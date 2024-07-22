@@ -50,10 +50,9 @@ jobs:
       
     - name: Upload Files
       id: upload
-      uses:  JamsRepos/SFTP-Deploy-Action@v2.1
+      uses: wpengine/github-action-wpe-site-deploy@v3
       with:
-        server: ${{ secrets.WPE_HOSTNAME }}
-        port: ${{ secrets.WPE_PORT }}
-        username: ${{ secrets.WPE_USERNAME }}
-        ssh_password: ${{ secrets.WPE_PASSWORD }}
-        local_path: ${{ env.ICS_PATH }}
+        WPE_SSHG_KEY_PRIVATE: ${{ secrets.WPE_SSHG_KEY_PRIVATE }}
+        WPE_ENV: <your_install_name_here>
+        SRC_PATH: ${{ env.ICS_PATH }}
+        REMOTE_PATH: "."
