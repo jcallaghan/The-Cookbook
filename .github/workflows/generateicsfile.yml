@@ -39,14 +39,17 @@ jobs:
       run: python .github/scripts/generateics.py
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}    
-       
+
+    - name: Transfer Status
+      run: echo "Transfer Status - ${{ steps.connect.outputs.transferStatus }}"
+      
     - name: Upload Files
       id: upload
-      uses: Creepios/sftp-action@v1.0.5
+      uses: danhendrickson/sftp-transfer-action@v1.23
       with:
-        host: ${{ secrets.WPE_HOSTNAME }}
+        server: ${{ secrets.WPE_HOSTNAME }}
         port: ${{ secrets.WPE_PORT }}
-        username: ${{ secrets.WPE_USERNAME }}
-        password: ${{ secrets.WPE_PASSWORD }}
-        localPath: ${{ env.ICS_PATH }} 
-        remotePath: ""
+        user: ${{ secrets.WPE_USERNAME }}
+        pass: ${{ secrets.WPE_PASSWORD }}
+        local-path: ${{ env.ICS_PATH }} 
+        remote-path: ""
