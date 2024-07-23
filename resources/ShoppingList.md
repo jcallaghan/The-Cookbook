@@ -1,6 +1,6 @@
 # Shopping List
 
-Mon 22-Jul 2024 - Thu 01-Aug 2024
+Tue 23-Jul 2024 - Fri 02-Aug 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,12 +8,11 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Mon 22-Jul 2024|[Chicken Parmesan #678](https://github.com/jcallaghan/The-Cookbook/issues/678)|
 |Tue 23-Jul 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
 |Wed 24-Jul 2024|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
 |Thu 25-Jul 2024|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
 |Fri 26-Jul 2024|[Asparagus and Chorizo Salad #672](https://github.com/jcallaghan/The-Cookbook/issues/672)|
-|Sun 28-Jul 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
+|Tue 30-Jul 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
 
 ## 🛒 Shopping List
 
@@ -56,6 +55,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Small handful fresh coriander leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20handful%20fresh%20coriander%20leaves)||
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tsp|
 
+## 🗒️ Notes
+
+1. Take-out
+1. M&S Steak
+
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -63,4 +67,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Garam masala, Garlic cloves, Salt, Seasoning, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 22-07-2024 16:51:57._
+_This shopping list was generated at 23-07-2024 08:56:33._
