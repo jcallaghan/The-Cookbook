@@ -9,8 +9,6 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Sun 28-Jul 2024|[Asparagus and Chorizo Salad #672](https://github.com/jcallaghan/The-Cookbook/issues/672)|
-||[Brie and chorizo #666](https://github.com/jcallaghan/The-Cookbook/issues/666)|
-||[Pan-fried scallops, puree and chorizo #623](https://github.com/jcallaghan/The-Cookbook/issues/623)|
 |Mon 29-Jul 2024|[Chicken Parmesan #678](https://github.com/jcallaghan/The-Cookbook/issues/678)|
 |Tue 30-Jul 2024|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
 |Wed 31-Jul 2024|[Brown butter fish #582](https://github.com/jcallaghan/The-Cookbook/issues/582)|
@@ -51,4 +49,4 @@ The following items have not been added to the shopping list as they are likey i
 Butter and Seasoning.
 
 
-_This shopping list was generated at 25-07-2024 20:40:16._
+_This shopping list was generated at 25-07-2024 20:41:28._
