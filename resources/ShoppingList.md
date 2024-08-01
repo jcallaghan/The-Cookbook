@@ -23,3 +23,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Pine nuts (roasted)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pine%20nuts%20(roasted))|50g|
 |[Some sundried tomatoes (diced)🍅](https://www.sainsburys.co.uk/gol-ui/SearchResults/Some%20sundried%20tomatoes%20(diced)🍅)||
 |[Tomatoes (diced)🍅](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomatoes%20(diced)🍅)|100g|
+
+## 🗒️ Notes
+
+1. Chicken pie and potatoes
