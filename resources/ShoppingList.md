@@ -27,3 +27,4 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Chicken pie and potatoes
+1. BBQ
