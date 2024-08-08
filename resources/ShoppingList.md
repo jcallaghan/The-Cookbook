@@ -14,6 +14,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[Rotisserie chicken #17](https://github.com/jcallaghan/The-Cookbook/issues/17)|
 |Mon 12-Aug 2024|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 ||[Chicken stir fry #443](https://github.com/jcallaghan/The-Cookbook/issues/443)|
+|Tue 13-Aug 2024|[Hot Honey Feta Crispy Chicken Linguine #679](https://github.com/jcallaghan/The-Cookbook/issues/679)|
 |Wed 14-Aug 2024|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
 
 ## 🛒 Shopping List
@@ -57,4 +58,4 @@ The following items have not been added to the shopping list as they are likey i
 Salt, Seasoning and Water.
 
 
-_This shopping list was generated at 08-08-2024 20:06:08._
+_This shopping list was generated at 08-08-2024 20:17:06._
