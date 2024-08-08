@@ -21,34 +21,15 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:34171047-6900-4a80-8e73-0bbae7dcea49
-DTSTAMP:20240804T173259
-DTSTART:20240804T180000
-DTEND:20240804T200000
-SUMMARY:Chicken Kebab #643 for dinner
-DESCRIPTION:Chicken Kebab #643 - https://github.com/jcallaghan/The-Cookbook/issues/643
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:13fc7dad-f4f7-430f-a12b-9b40f83468f8
-DTSTAMP:20240804T173300
-DTSTART:20240805T180000
-DTEND:20240805T200000
-SUMMARY:Crispy Chicken Rice Salad #657 for dinner
-DESCRIPTION:Crispy Chicken Rice Salad #657 - https://github.com/jcallaghan/The-Cookbook/issues/657
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:4d218b5e-3f11-41a2-9370-51ba15590ace
-DTSTAMP:20240804T173302
-DTSTART:20240807T180000
-DTEND:20240807T200000
-SUMMARY:Grilled Salmon with Greek Salad #25 for dinner
-DESCRIPTION:Grilled Salmon with Greek Salad #25 - https://github.com/jcallaghan/The-Cookbook/issues/25
+UID:0e11d026-153b-4eb5-bb6e-600dd8e6400e
+DTSTAMP:20240808T114742
+DTSTART:20240810T180000
+DTEND:20240810T200000
+SUMMARY:Burgers + Kebabs, Beef short ribs #172, BBQ Sweetcorn #515 and Rotisserie chicken #17 for dinner
+DESCRIPTION:Note: Burgers + Kebabs
+Beef short ribs #172 - https://github.com/jcallaghan/The-Cookbook/issues/172
+BBQ Sweetcorn #515 - https://github.com/jcallaghan/The-Cookbook/issues/515
+Rotisserie chicken #17 - https://github.com/jcallaghan/The-Cookbook/issues/17
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
