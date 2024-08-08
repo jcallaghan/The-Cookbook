@@ -32,6 +32,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 ## 🗒️ Notes
 
+1. Steak / pie?
 1. Burgers + Kebabs
 
 ## 🏪 Pantry Ingredients
@@ -41,4 +42,4 @@ The following items have not been added to the shopping list as they are likey i
 S, e, a, s, o, n, i, n and g.
 
 
-_This shopping list was generated at 08-08-2024 20:02:28._
+_This shopping list was generated at 08-08-2024 20:03:06._
