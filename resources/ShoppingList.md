@@ -12,10 +12,10 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 10-Aug 2024|[Beef short ribs #172](https://github.com/jcallaghan/The-Cookbook/issues/172)|
 ||[BBQ Sweetcorn #515](https://github.com/jcallaghan/The-Cookbook/issues/515)|
 ||[Rotisserie chicken #17](https://github.com/jcallaghan/The-Cookbook/issues/17)|
+|Sun 11-Aug 2024|[Hot Honey Feta Crispy Chicken Linguine #679](https://github.com/jcallaghan/The-Cookbook/issues/679)|
 |Mon 12-Aug 2024|[Chicken Chow Mein #596](https://github.com/jcallaghan/The-Cookbook/issues/596)|
 ||[Chicken stir fry #443](https://github.com/jcallaghan/The-Cookbook/issues/443)|
-|Tue 13-Aug 2024|[Hot Honey Feta Crispy Chicken Linguine #679](https://github.com/jcallaghan/The-Cookbook/issues/679)|
-|Wed 14-Aug 2024|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
+|Tue 13-Aug 2024|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
 
 ## 🛒 Shopping List
 
@@ -49,7 +49,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Burgers + Kebabs
-1. Soup?
 1. Butchers Meatballs
 
 ## 🏪 Pantry Ingredients
@@ -59,4 +58,4 @@ The following items have not been added to the shopping list as they are likey i
 Salt, Seasoning and Water.
 
 
-_This shopping list was generated at 08-08-2024 20:17:33._
+_This shopping list was generated at 08-08-2024 20:26:39._
