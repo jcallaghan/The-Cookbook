@@ -50,6 +50,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Burgers + Kebabs
 1. Soup?
+1. Butchers Meatballs
 
 ## 🏪 Pantry Ingredients
 
@@ -58,4 +59,4 @@ The following items have not been added to the shopping list as they are likey i
 Salt, Seasoning and Water.
 
 
-_This shopping list was generated at 08-08-2024 20:17:06._
+_This shopping list was generated at 08-08-2024 20:17:33._
