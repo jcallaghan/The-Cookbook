@@ -40,6 +40,7 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Pasta pesto salad
+1. Chicken pasta salad
 
 ## 🏪 Pantry Ingredients
 
@@ -48,4 +49,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Garlic powder, Sea salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Tomato purée.
 
 
-_This shopping list was generated at 15-08-2024 20:30:49._
+_This shopping list was generated at 15-08-2024 20:34:07._
