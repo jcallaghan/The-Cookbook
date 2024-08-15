@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[BBQ Halloumi #231](https://github.com/jcallaghan/The-Cookbook/issues/231)|
 ||[BBQ chicken kebabs #13](https://github.com/jcallaghan/The-Cookbook/issues/13)|
 ||[BBQ Asparagus #511](https://github.com/jcallaghan/The-Cookbook/issues/511)|
+|Sun 18-Aug 2024|[Pileći pilav (chicken rice) #392](https://github.com/jcallaghan/The-Cookbook/issues/392)|
 |Mon 19-Aug 2024|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 |Tue 20-Aug 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Wed 21-Aug 2024|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
@@ -51,4 +52,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Garlic powder, Sea salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Tomato purée.
 
 
-_This shopping list was generated at 15-08-2024 20:35:43._
+_This shopping list was generated at 15-08-2024 20:36:10._
