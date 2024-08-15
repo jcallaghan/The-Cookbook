@@ -21,12 +21,13 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:031048b9-9e05-4209-9a4e-2b5104e33f7a
-DTSTAMP:20240815T202949
+UID:b91766d5-be20-4464-9c07-52713c61b32e
+DTSTAMP:20240815T203024
 DTSTART:20240817T180000
 DTEND:20240817T200000
-SUMMARY:Pasta pesto salad, BBQ Sweetcorn #515, BBQ Halloumi #231, BBQ chicken kebabs #13 and BBQ Asparagus #511 for dinner
-DESCRIPTION:Note: Pasta pesto salad
+SUMMARY:Birthday BBQ 2023 #534, Pasta pesto salad, BBQ Sweetcorn #515, BBQ Halloumi #231, BBQ chicken kebabs #13 and BBQ Asparagus #511 for dinner
+DESCRIPTION:Birthday BBQ 2023 #534 - https://github.com/jcallaghan/The-Cookbook/issues/534
+Note: Pasta pesto salad
 BBQ Sweetcorn #515 - https://github.com/jcallaghan/The-Cookbook/issues/515
 BBQ Halloumi #231 - https://github.com/jcallaghan/The-Cookbook/issues/231
 BBQ chicken kebabs #13 - https://github.com/jcallaghan/The-Cookbook/issues/13
@@ -36,8 +37,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:bd285b74-1f0f-4c28-b26a-41af17394e65
-DTSTAMP:20240815T202951
+UID:53b902c8-98d5-4c34-a417-12567633680c
+DTSTAMP:20240815T203025
 DTSTART:20240819T180000
 DTEND:20240819T200000
 SUMMARY:Meatballs #59 for dinner
