@@ -8,7 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Sat 17-Aug 2024|[BBQ Sweetcorn #515](https://github.com/jcallaghan/The-Cookbook/issues/515)|
+|Sat 17-Aug 2024|[Birthday BBQ 2023 #534](https://github.com/jcallaghan/The-Cookbook/issues/534)|
+||[BBQ Sweetcorn #515](https://github.com/jcallaghan/The-Cookbook/issues/515)|
 ||[BBQ Halloumi #231](https://github.com/jcallaghan/The-Cookbook/issues/231)|
 ||[BBQ chicken kebabs #13](https://github.com/jcallaghan/The-Cookbook/issues/13)|
 ||[BBQ Asparagus #511](https://github.com/jcallaghan/The-Cookbook/issues/511)|
@@ -46,4 +47,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Garlic powder, Sea salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Tomato purée.
 
 
-_This shopping list was generated at 15-08-2024 20:29:49._
+_This shopping list was generated at 15-08-2024 20:30:16._
