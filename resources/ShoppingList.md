@@ -14,6 +14,7 @@ This shopping list has been automatically generated with the ingredients from th
 ||[BBQ chicken kebabs #13](https://github.com/jcallaghan/The-Cookbook/issues/13)|
 ||[BBQ Asparagus #511](https://github.com/jcallaghan/The-Cookbook/issues/511)|
 |Mon 19-Aug 2024|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
+|Wed 21-Aug 2024|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
 
 ## 🛒 Shopping List
 
@@ -47,4 +48,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Garlic powder, Sea salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Tomato purée.
 
 
-_This shopping list was generated at 15-08-2024 20:30:16._
+_This shopping list was generated at 15-08-2024 20:30:49._
