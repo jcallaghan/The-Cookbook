@@ -21,71 +21,25 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f66b0e69-e461-43b2-9edf-e2f0589a9f1f
-DTSTAMP:20240808T202634
-DTSTART:20240809T180000
-DTEND:20240809T200000
-SUMMARY:Creamy chipotle parmesan steak loaded potatoes #677 for dinner
-DESCRIPTION:Creamy chipotle parmesan steak loaded potatoes #677 - https://github.com/jcallaghan/The-Cookbook/issues/677
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:05d77936-4e4e-46d0-bba5-fb85817580ed
-DTSTAMP:20240808T202636
-DTSTART:20240810T180000
-DTEND:20240810T200000
-SUMMARY:Burgers + Kebabs, Beef short ribs #172, BBQ Sweetcorn #515 and Rotisserie chicken #17 for dinner
-DESCRIPTION:Note: Burgers + Kebabs
-Beef short ribs #172 - https://github.com/jcallaghan/The-Cookbook/issues/172
+UID:0e11b12c-c970-4177-a059-eef378088599
+DTSTAMP:20240815T202919
+DTSTART:20240817T180000
+DTEND:20240817T200000
+SUMMARY:Pasta pesto salad, BBQ Sweetcorn #515 and BBQ Halloumi #231 for dinner
+DESCRIPTION:Note: Pasta pesto salad
 BBQ Sweetcorn #515 - https://github.com/jcallaghan/The-Cookbook/issues/515
-Rotisserie chicken #17 - https://github.com/jcallaghan/The-Cookbook/issues/17
+BBQ Halloumi #231 - https://github.com/jcallaghan/The-Cookbook/issues/231
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f7a5766e-1d7b-4e6e-a0bc-b55ec905c989
-DTSTAMP:20240808T202637
-DTSTART:20240811T180000
-DTEND:20240811T200000
-SUMMARY:Hot Honey Feta Crispy Chicken Linguine #679 for dinner
-DESCRIPTION:Hot Honey Feta Crispy Chicken Linguine #679 - https://github.com/jcallaghan/The-Cookbook/issues/679
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:3498de2c-0804-4050-bbe4-45f57baf51db
-DTSTAMP:20240808T202639
-DTSTART:20240812T180000
-DTEND:20240812T200000
-SUMMARY:Chicken Chow Mein #596 and Chicken stir fry #443 for dinner
-DESCRIPTION:Chicken Chow Mein #596 - https://github.com/jcallaghan/The-Cookbook/issues/596
-Chicken stir fry #443 - https://github.com/jcallaghan/The-Cookbook/issues/443
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:2b0fd460-68b1-44eb-8856-9ebb7b953058
-DTSTAMP:20240808T202640
-DTSTART:20240813T180000
-DTEND:20240813T200000
-SUMMARY:Crab pasta salad or sandwich filler #9 for dinner
-DESCRIPTION:Crab pasta salad or sandwich filler #9 - https://github.com/jcallaghan/The-Cookbook/issues/9
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:7848df67-ffd7-4a23-9a98-2a27ba19a131
-DTSTAMP:20240808T202641
-DTSTART:20240815T180000
-DTEND:20240815T200000
-SUMMARY:Butchers Meatballs for dinner
-DESCRIPTION:Note: Butchers Meatballs
+UID:62833f9a-a9d8-4609-bb81-7ee020c03f02
+DTSTAMP:20240815T202920
+DTSTART:20240819T180000
+DTEND:20240819T200000
+SUMMARY:Meatballs #59 for dinner
+DESCRIPTION:Meatballs #59 - https://github.com/jcallaghan/The-Cookbook/issues/59
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
