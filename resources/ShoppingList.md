@@ -17,6 +17,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 19-Aug 2024|[Meatballs #59](https://github.com/jcallaghan/The-Cookbook/issues/59)|
 |Tue 20-Aug 2024|[Grilled salmon fillet pasta salad #100](https://github.com/jcallaghan/The-Cookbook/issues/100)|
 |Wed 21-Aug 2024|[Butter chicken curry #353](https://github.com/jcallaghan/The-Cookbook/issues/353)|
+|Thu 22-Aug 2024|[Chicken pasta salad #680](https://github.com/jcallaghan/The-Cookbook/issues/680)|
 
 ## 🛒 Shopping List
 
@@ -43,7 +44,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 1. Fishcake / pie?
 1. Pasta pesto salad
-1. Chicken pasta salad
 
 ## 🏪 Pantry Ingredients
 
@@ -52,4 +52,4 @@ The following items have not been added to the shopping list as they are likey i
 Dried basil, Dried oregano, Garlic powder, Sea salt, Seasoning, Sesame oil, Sesame seeds, Soy sauce and Tomato purée.
 
 
-_This shopping list was generated at 15-08-2024 20:36:10._
+_This shopping list was generated at 15-08-2024 21:00:16._
