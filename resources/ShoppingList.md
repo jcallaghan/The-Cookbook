@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 22-Aug 2024|[Chicken pasta salad #680](https://github.com/jcallaghan/The-Cookbook/issues/680)|
+|Sun 25-Aug 2024|[Garlic Noodles with Prawns #682](https://github.com/jcallaghan/The-Cookbook/issues/682)|
 |Mon 26-Aug 2024|[Chicken feta pasta with cherry tomatoes #681](https://github.com/jcallaghan/The-Cookbook/issues/681)|
 |Tue 27-Aug 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
 |Wed 28-Aug 2024|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
@@ -58,7 +59,6 @@ This shopping list has been automatically generated with the ingredients from th
 ## 🗒️ Notes
 
 1. Twenty Stories
-1. Garlic Noodles with Prawns
 
 ## 🏪 Pantry Ingredients
 
@@ -67,4 +67,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Garam masala, Garlic cloves, Salt, Seasoning, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 22-08-2024 20:39:54._
+_This shopping list was generated at 22-08-2024 20:40:22._
