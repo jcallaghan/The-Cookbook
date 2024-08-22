@@ -9,9 +9,10 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Thu 22-Aug 2024|[Chicken pasta salad #680](https://github.com/jcallaghan/The-Cookbook/issues/680)|
-|Sun 25-Aug 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
 |Mon 26-Aug 2024|[Chicken feta pasta with cherry tomatoes #681](https://github.com/jcallaghan/The-Cookbook/issues/681)|
+|Tue 27-Aug 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
 |Wed 28-Aug 2024|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
+|Thu 29-Aug 2024|[Chicken Tikka Masala #647](https://github.com/jcallaghan/The-Cookbook/issues/647)|
 
 ## 🛒 Shopping List
 
@@ -65,4 +66,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Garam masala, Garlic cloves, Salt, Seasoning, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 22-08-2024 20:37:02._
+_This shopping list was generated at 22-08-2024 20:37:56._
