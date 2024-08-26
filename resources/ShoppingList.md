@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 22-Aug 2024 - Sun 01-Sep 2024
+Mon 26-Aug 2024 - Thu 05-Sep 2024
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,9 +8,6 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 22-Aug 2024|[Chicken pasta salad #680](https://github.com/jcallaghan/The-Cookbook/issues/680)|
-|Fri 23-Aug 2024|[Grilled Salmon with Greek Salad #25](https://github.com/jcallaghan/The-Cookbook/issues/25)|
-|Sun 25-Aug 2024|[Garlic Noodles with Prawns #682](https://github.com/jcallaghan/The-Cookbook/issues/682)|
 |Mon 26-Aug 2024|[Chicken feta pasta with cherry tomatoes #681](https://github.com/jcallaghan/The-Cookbook/issues/681)|
 |Tue 27-Aug 2024|[Crispy Chicken Rice Salad #657](https://github.com/jcallaghan/The-Cookbook/issues/657)|
 |Wed 28-Aug 2024|[Crab pasta salad or sandwich filler #9](https://github.com/jcallaghan/The-Cookbook/issues/9)|
@@ -57,10 +54,6 @@ This shopping list has been automatically generated with the ingredients from th
 |[Small handful fresh coriander leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20handful%20fresh%20coriander%20leaves)||
 |[Sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sugar)|1 tsp|
 
-## 🗒️ Notes
-
-1. Twenty Stories
-
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are likey in the pantry already.
@@ -68,4 +61,4 @@ The following items have not been added to the shopping list as they are likey i
 Cloves, Garam masala, Garlic cloves, Salt, Seasoning, Tomato purée, Turmeric and Vegetable oil.
 
 
-_This shopping list was generated at 22-08-2024 20:41:22._
+_This shopping list was generated at 26-08-2024 13:29:33._
