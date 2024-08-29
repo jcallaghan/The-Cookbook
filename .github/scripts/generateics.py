@@ -1,119 +1,83 @@
-from github import Github
-from datetime import datetime, timedelta
+
+import requests
 import os
 import json
-import uuid
 
-columnsToIgnore = ["Meal Planner Queue", "Pantry"]  # Columns to ignore in the project
-project_name = "Meal Planner 📅"
-project_id = 7
+GITHUB_API_URL = "https://api.github.com/graphql"
+PROJECT_NAME = "Meal Planner 📅"
+COLUMNS_TO_IGNORE = ["Meal Planner Queue", "Pantry"]
+
+def run_query(query, headers):
+    request = requests.post(GITHUB_API_URL, json={'query': query}, headers=headers)
+    if request.status_code == 200:
+        return request.json()
+    else:
+        raise Exception(f"Query failed with status code {request.status_code}. Response: {request.text}")
+
+def get_project_id(headers, repo_name):
+    query = f'''
+    query {{
+      repository(owner: "{repo_name.split('/')[0]}", name: "{repo_name.split('/')[1]}") {{
+        projectsV2(first: 100) {{
+          nodes {{
+            id
+            title
+          }}
+        }}
+      }}
+    }}
+    '''
+    result = run_query(query, headers)
+    projects = result["data"]["repository"]["projectsV2"]["nodes"]
+    for project in projects:
+        if PROJECT_NAME.lower() in project["title"].lower():
+            return project["id"]
+    return None
+
+def get_project_items(headers, project_id):
+    query = f'''
+    query {{
+      node(id: "{project_id}") {{
+        ... on ProjectV2 {{
+          items(first: 100) {{
+            nodes {{
+              id
+              title: fieldValueByName(name: "Title") {{
+                ... on ProjectV2ItemFieldValueText {{
+                  text
+                }}
+              }}
+              status: fieldValueByName(name: "Status") {{
+                ... on ProjectV2ItemFieldValueText {{
+                  text
+                }}
+              }}
+            }}
+          }}
+        }}
+      }}
+    }}
+    '''
+    result = run_query(query, headers)
+    return result["data"]["node"]["items"]["nodes"]
 
 def main():
-    cardsfound = hasrecipes = False
-    commitmsgemoji = "🧑🏼‍🍳 "
-    icsfilepath = "resources/MealPlanner.ics"
-    icsevents = icsevent = project = contents = ""
-
-    # Ensure you have the context set correctly in the environment
     context_dict = json.loads(os.getenv("CONTEXT_GITHUB"))
-    g = Github(context_dict["token"])
+    token = context_dict["token"]
     repo = context_dict["repository"]
-    repo = g.get_repo(repo)
 
-    project = None
-    for repoProject in repo.get_projects():
-        if repoProject.id == project_id:
-            project = repoProject
-            print("Found project: " + project.name + " (" + str(repoProject.id) + ")")
-            break
+    headers = {"Authorization": f"Bearer {token}"}
 
-    if not project:
-        print(f"Project with ID {project_id} not found. Check the project ID is correct and exists in repository.")
-        quit()
+    project_id = get_project_id(headers, repo)
+    if not project_id:
+        print(f"Project '{PROJECT_NAME}' not found.")
+        return
 
-    for column in project.get_columns():
-        if column.name not in columnsToIgnore:
-            recipes = []
-            recipesdetail = []
-            hasrecipes = False
-            cardsfound = True
-            for card in column.get_cards():
-                if card.note:
-                    recipetitle = card.note
-                    recipemore = "Note: " + card.note
-                    hasrecipes = True
-                else:
-                    issue = repo.get_issue(int(card.content_url.split('/')[-1]))
-                    recipetitle = issue.title + " #" + str(issue.number)
-                    recipemore = issue.title + " #" + str(issue.number) + " - " + issue.html_url
-                    hasrecipes = True
+    items = get_project_items(headers, project_id)
+    for item in items:
+        title = item['title']['text'] if item['title'] else "No Title"
+        status = item['status']['text'] if item['status'] else "No Status"
+        print(f"Item: {title} - Status: {status}")
 
-                recipes.append(recipetitle)
-                recipesdetail.append(recipemore)
-
-            if hasrecipes:
-                icseventtitle = ", ".join(recipes[:-1]) + " and " + recipes[-1] if len(recipes) > 1 else recipes[0]
-                icseventbody = "\n".join(recipesdetail)
-
-                print("- " + icseventtitle)
-
-                icstodaydate = datetime.today().strftime("%Y%m%dT%H%M%S")
-                icseventdate = datetime.strptime(column.name, "%a %d-%b %Y").strftime("%Y%m%d")
-
-                icsevent = (f"BEGIN:VEVENT\n"
-                            f"UID:{uuid.uuid4()}\n"
-                            f"DTSTAMP:{icstodaydate}\n"
-                            f"DTSTART:{icseventdate}T180000\n"
-                            f"DTEND:{icseventdate}T200000\n"
-                            f"SUMMARY:{icseventtitle} for dinner\n"
-                            f"DESCRIPTION:{icseventbody}\n"
-                            f"SEQUENCE:0\n"
-                            f"LOCATION:\n"
-                            f"TRANSP:TRANSPARENT\n"
-                            f"END:VEVENT\n")
-
-                icsevents += icsevent
-
-    if icsevent and cardsfound:
-        icsfilecontent = (f"BEGIN:VCALENDAR\n"
-                          f"PRODID://James Callaghan\n"
-                          f"VERSION:2.0\n"
-                          f"X-WR-CALNAME:Meal Planner\n"
-                          f"REFRESH-INTERVAL;VALUE=DURATION:P30M\n"
-                          f"BEGIN:VTIMEZONE\n"
-                          f"TZID:Europe/London\n"
-                          f"BEGIN:DAYLIGHT\n"
-                          f"TZOFFSETFROM:+0000\n"
-                          f"TZOFFSETTO:+0100\n"
-                          f"TZNAME:BST\n"
-                          f"DTSTART:19700329T010000\n"
-                          f"RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU\n"
-                          f"END:DAYLIGHT\n"
-                          f"BEGIN:STANDARD\n"
-                          f"TZOFFSETFROM:+0100\n"
-                          f"TZOFFSETTO:+0000\n"
-                          f"TZNAME:GMT\n"
-                          f"DTSTART:19701025T020000\n"
-                          f"RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU\n"
-                          f"END:STANDARD\n"
-                          f"END:VTIMEZONE\n"
-                          f"{icsevents}"
-                          f"END:VCALENDAR")
-
-        try:
-            contents = repo.get_contents(icsfilepath, ref="main")
-        except:
-            print("ICS file doesn't exist.")
-        
-        if not contents:
-            repo.create_file(icsfilepath, commitmsgemoji + "Created " + icsfilepath, icsfilecontent, branch="main")
-            print(icsfilepath + " created.")
-        else:
-            repo.update_file(icsfilepath, commitmsgemoji + "Updated " + icsfilepath, icsfilecontent, contents.sha, branch="main")
-            print(icsfilepath + " updated.")           
-
-    if not cardsfound:
-        print("No cards were found to generate an ICS file.")
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
