@@ -6,6 +6,7 @@ import uuid
 
 columnsToIgnore = ["Meal Planner Queue", "Pantry"]  # Columns to ignore in the project
 project_name = "Meal Planner 📅"
+project_id = 7
 
 def main():
     cardsfound = hasrecipes = False
@@ -19,13 +20,15 @@ def main():
     repo = context_dict["repository"]
     repo = g.get_repo(repo)
 
+    project = None
     for repoProject in repo.get_projects():
-        if project_name.lower() in (repoProject.name).lower():
+        if repoProject.id == project_id:
             project = repoProject
             print("Found project: " + project.name + " (" + str(repoProject.id) + ")")
+            break
 
-    if project == "":
-        print(f"Project {project_name.lower()} not found. Check project name is correct and exists in repository.")
+    if not project:
+        print(f"Project with ID {project_id} not found. Check the project ID is correct and exists in repository.")
         quit()
 
     for column in project.get_columns():
