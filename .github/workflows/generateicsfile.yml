@@ -25,6 +25,7 @@ jobs:
     name: Run python scripts
     runs-on: ubuntu-latest
     env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       ICS_PATH: ${{ github.workspace }}/resources/MealPlanner.ics
       
     steps:
@@ -38,7 +39,7 @@ jobs:
         python-version: 3.9    
 
     - name: Install Python dependencies
-      run: pip install -Uq PyGithub
+      run: pip install -Uq requests PyGithub
       
     - name: Generate ICS file
       run: python .github/scripts/generateics.py
