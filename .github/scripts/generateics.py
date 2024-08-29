@@ -5,13 +5,10 @@ import json
 import uuid
 from github import Github
 
-# Parse the CONTEXT_GITHUB environment variable
-context_github = json.loads(os.getenv("CONTEXT_GITHUB", "{}"))
-
-# Get the token from the parsed context
-token = context_github.get("token")
+# Get the token from environment variables
+token = os.getenv("GITHUB_TOKEN")
 if not token:
-    print("GitHub token not found in CONTEXT_GITHUB. Please set it in the .env file or as an environment variable.")
+    print("GitHub token not found. Please set it in the .env file or as an environment variable.")
     exit(1)
 
 # Initialize GitHub object
@@ -30,7 +27,7 @@ def is_valid_date(date_str):
 def main():
     cardsfound = hasrecipes = False
     commitmsgemoji = "🧑🏼‍🍳 "
-    icsfilepath = "resources/MealPlanner.ics"
+    icsfilepath = os.getenv("ICS_PATH", "resources/MealPlanner.ics")
     icsevents = icsevent = project = contents = ""
 
     # Define the GraphQL query to get the project
@@ -89,6 +86,12 @@ def main():
     if response.status_code == 200:
         data = response.json()
         projects = data['data']['viewer']['projectsV2']['nodes']
+        
+        # Debugging output: print the names of the projects retrieved
+        print("Projects retrieved from GitHub:")
+        for proj in projects:
+            print(f" - {proj['title']} ({proj['id']})")
+        
         for proj in projects:
             if project_name.lower() in proj['title'].lower():
                 project = proj
