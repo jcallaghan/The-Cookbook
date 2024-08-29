@@ -4,7 +4,7 @@ import os
 import json
 
 GITHUB_API_URL = "https://api.github.com/graphql"
-PROJECT_NAME = "Meal Planner 📅"
+PROJECT_NAME = "Meal Planner"
 COLUMNS_TO_IGNORE = ["Meal Planner Queue", "Pantry"]
 
 def run_query(query, headers):
@@ -30,6 +30,7 @@ def get_project_id(headers, repo_name):
     result = run_query(query, headers)
     projects = result["data"]["repository"]["projectsV2"]["nodes"]
     for project in projects:
+        print(f"Found project: {project['title']} with ID: {project['id']}")
         if PROJECT_NAME.lower() in project["title"].lower():
             return project["id"]
     return None
