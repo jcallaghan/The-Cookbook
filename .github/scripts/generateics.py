@@ -3,6 +3,7 @@ import requests
 from datetime import datetime
 import json
 import uuid
+from github import Github
 
 # Parse the CONTEXT_GITHUB environment variable
 context_github = json.loads(os.getenv("CONTEXT_GITHUB", "{}"))
