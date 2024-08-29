@@ -1,39 +1,46 @@
-
 import requests
 import os
 import json
+import re
 
 GITHUB_API_URL = "https://api.github.com/graphql"
 PROJECT_NAME = "Meal Planner"
 COLUMNS_TO_IGNORE = ["Meal Planner Queue", "Pantry"]
 
-def run_query(query, headers):
-    request = requests.post(GITHUB_API_URL, json={'query': query}, headers=headers)
-    if request.status_code == 200:
-        return request.json()
-    else:
-        raise Exception(f"Query failed with status code {request.status_code}. Response: {request.text}")
+def normalize_string(input_str):
+    # Remove special characters and make the string lowercase
+    return re.sub(r'[^a-zA-Z0-9 ]', '', input_str).strip().lower()
 
-def get_project_id(headers, repo_name):
-    query = f'''
-    query {{
-      repository(owner: "{repo_name.split('/')[0]}", name: "{repo_name.split('/')[1]}") {{
-        projectsV2(first: 100) {{
-          nodes {{
+def run_query(query, headers):
+    response = requests.post(GITHUB_API_URL, json={'query': query}, headers=headers)
+    if response.status_code == 200:
+        return response.json()
+    else:
+        raise Exception(f"Query failed with status code {response.status_code}. Response: {response.text}")
+
+def get_project_id(headers):
+    query = '''
+    query {
+      viewer {
+        projectsV2(first: 100) {
+          nodes {
             id
             title
-          }}
-        }}
-      }}
-    }}
+          }
+        }
+      }
+    }
     '''
     result = run_query(query, headers)
-    projects = result["data"]["repository"]["projectsV2"]["nodes"]
+    projects = result["data"]["viewer"]["projectsV2"]["nodes"]
     
-    print("Projects found in the repository:")
+    normalized_project_name = normalize_string(PROJECT_NAME)
+    
+    print("Projects found in the account:")
     for project in projects:
-        print(f" - {project['title']}")
-        if PROJECT_NAME.lower() in project["title"].lower():
+        normalized_title = normalize_string(project["title"])
+        print(f" - {project['title']} (Normalized: {normalized_title}, ID: {project['id']})")
+        if normalized_project_name in normalized_title:
             return project["id"]
     return None
 
@@ -65,13 +72,21 @@ def get_project_items(headers, project_id):
     return result["data"]["node"]["items"]["nodes"]
 
 def main():
-    context_dict = json.loads(os.getenv("CONTEXT_GITHUB"))
-    token = context_dict["token"]
-    repo = context_dict["repository"]
-
+    # Ensure the CONTEXT_GITHUB environment variable is set correctly
+    context_json = os.getenv("CONTEXT_GITHUB")
+    if not context_json:
+        print("Error: CONTEXT_GITHUB environment variable is not set.")
+        return
+    
+    context_dict = json.loads(context_json)
+    token = context_dict.get("token")
+    if not token:
+        print("Error: GitHub token not found in CONTEXT_GITHUB.")
+        return
+    
     headers = {"Authorization": f"Bearer {token}"}
 
-    project_id = get_project_id(headers, repo)
+    project_id = get_project_id(headers)
     if not project_id:
         print(f"Project '{PROJECT_NAME}' not found.")
         return
