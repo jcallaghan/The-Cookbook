@@ -29,8 +29,10 @@ def get_project_id(headers, repo_name):
     '''
     result = run_query(query, headers)
     projects = result["data"]["repository"]["projectsV2"]["nodes"]
+    
+    print("Projects found in the repository:")
     for project in projects:
-        print(f"Found project: {project['title']} with ID: {project['id']}")
+        print(f" - {project['title']}")
         if PROJECT_NAME.lower() in project["title"].lower():
             return project["id"]
     return None
