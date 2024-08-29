@@ -4,11 +4,17 @@ from datetime import datetime
 import json
 import uuid
 
-# Get the token from environment variables
-token = json.loads(os.getenv("CONTEXT_GITHUB"))
+# Parse the CONTEXT_GITHUB environment variable
+context_github = json.loads(os.getenv("CONTEXT_GITHUB", "{}"))
+
+# Get the token from the parsed context
+token = context_github.get("token")
 if not token:
-    print("GitHub token not found. Please set it in the .env file.")
+    print("GitHub token not found in CONTEXT_GITHUB. Please set it in the .env file or as an environment variable.")
     exit(1)
+
+# Initialize GitHub object
+g = Github(token)
 
 columnsToIgnore = ["Queue", "Pantry"]  # Columns to ignore in the project
 project_name = "Meal Planner"
