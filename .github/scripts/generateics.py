@@ -3,13 +3,9 @@ import requests
 from datetime import datetime
 import json
 import uuid
-from dotenv import load_dotenv
-
-# Load environment variables from .env file
-load_dotenv()
 
 # Get the token from environment variables
-token = os.getenv("GITHUB_TOKEN")
+token = json.loads(os.getenv("CONTEXT_GITHUB"))
 if not token:
     print("GitHub token not found. Please set it in the .env file.")
     exit(1)
