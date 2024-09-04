@@ -18,14 +18,23 @@ jobs:
 
       - name: Checkout repository
         uses: actions/checkout@main
-
+        
       - name: Set up date variables
         id: set_dates
         run: |
           echo "n_days=${{ github.event.inputs.days }}" >> $GITHUB_ENV
           for i in $(seq 0 $n_days); do
-            date_name=$(date -d "+${i} day" +"%a %d-%b %Y")
+            date_name=$(date -d "+${i} day" +"%a %d-%b-%Y")  # Make sure to use correct format
             echo "day_$i=$date_name" >> $GITHUB_ENV
+          done
+        env:
+          n_days: 14
+
+      - name: Log created dates
+        run: |
+          for i in $(seq 0 $n_days); do
+            date_name=$(eval echo "\$day_$i")
+            echo "Prepared date: $date_name"
           done
 
       - name: Create status options in GitHub Project
@@ -40,7 +49,7 @@ jobs:
             graphql_query='mutation {
               updateProjectV2Field(
                 input: {
-                  projectId: "${PROJECT_ID}"
+                  projectId: "'$PROJECT_ID'"
                   fieldId: "128914728"
                   name: "Status"
                   options: [
@@ -58,10 +67,25 @@ jobs:
               }
             }'
 
+            # Log the GraphQL query
+            echo "GraphQL query: $graphql_query"
+
             # Make the API call to create the status option
-            curl -X POST \
+            response=$(curl -X POST \
               -H "Authorization: bearer $GITHUB_TOKEN" \
               -H "Content-Type: application/json" \
               -d '{"query":"'"$graphql_query"'"}' \
-              https://api.github.com/graphql
+              https://api.github.com/graphql)
+
+            # Log the response from the GitHub API
+            echo "API response: $response"
+
+            # Check for errors in the response
+            if echo "$response" | grep -q '"errors"'; then
+              echo "Error encountered when creating option for: $date_name"
+              echo "$response"
+            else
+              echo "Successfully created status option for: $date_name"
+            fi
+
           done
