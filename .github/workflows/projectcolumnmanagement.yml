@@ -41,7 +41,7 @@ jobs:
               updateProjectV2Field(
                 input: {
                   projectId: "${PROJECT_ID}"
-                  fieldId: "YOUR_FIELD_ID"
+                  fieldId: "128914728"
                   name: "Status"
                   options: [
                     { name: "'$date_name'" }
