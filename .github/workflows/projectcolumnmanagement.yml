@@ -27,24 +27,24 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: jcallaghan
-          PROJECT_ID: "PVT_kwHOAHGtNM4Am6Y8"
+          PROJECT_NUMBER: 7
         run: |
-          # Fetch the project details using the known project ID
+          # Fetch the project details using the known project number
           gh api graphql -f query='
-            query($username: String!, $projectId: ID!) {
+            query($username: String!, $projectNumber: Int!) {
               user(login: $username) {
-                projectV2(id: $projectId) {
+                projectV2(number: $projectNumber) {
                   id
                   title
                 }
               }
-            }' -f username=$USERNAME -f projectId=$PROJECT_ID > project_details.json
+            }' -f username=$USERNAME -f projectNumber=$PROJECT_NUMBER > project_details.json
           
           # Extract and print the project title
           PROJECT_TITLE=$(jq -r '.data.user.projectV2.title' project_details.json)
           
           if [ -z "$PROJECT_TITLE" ]; then
-            echo "Project with ID '$PROJECT_ID' not found."
+            echo "Project with number '$PROJECT_NUMBER' not found."
             exit 1
           fi
 
