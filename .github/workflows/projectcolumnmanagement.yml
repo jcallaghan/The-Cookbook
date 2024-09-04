@@ -21,32 +21,41 @@ jobs:
       - name: Set up GitHub CLI
         run: sudo apt-get install gh
 
-      - name: Get project node ID
+      - name: Get project node ID by title
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the built-in token
-          USERNAME: jcallaghan  # Your GitHub username
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: jcallaghan
+          PROJECT_TITLE: "Meal Planner 📅"  
         run: |
-          # Fetch the project node ID using the project number (7 in this case)
+          # Fetch all projects for the user and filter by title
           gh api graphql -f query='
-            query {
-              user(login: "jcallaghan") {
-                projectV2(number: 7) {
-                  id
+            query($username: String!) {
+              user(login: $username) {
+                projectsV2(first: 100) {
+                  nodes {
+                    id
+                    title
+                  }
                 }
               }
-            }' > project_node_id.json
+            }' -f username=$USERNAME > user_projects.json
           
-          # Extract the project node ID
-          PROJECT_ID=$(jq -r '.data.user.projectV2.id' project_node_id.json)
+          # Extract the project node ID for the project titled "Meal Planner 📅"
+          PROJECT_ID=$(jq -r --arg title "$PROJECT_TITLE" '.data.user.projectsV2.nodes[] | select(.title == $title) | .id' user_projects.json)
+          
+          if [ -z "$PROJECT_ID" ]; then
+            echo "Project with title '$PROJECT_TITLE' not found."
+            exit 1
+          fi
+
           echo "Project Node ID: $PROJECT_ID"
 
       - name: Create and remove columns
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: jcallaghan  # Your GitHub username
         run: |
           # Use the retrieved project ID for managing columns
-          PROJECT_ID=$(jq -r '.data.user.projectV2.id' project_node_id.json)
+          PROJECT_ID=$(jq -r --arg title "Meal Planner 📅" '.data.user.projectsV2.nodes[] | select(.title == $title) | .id' user_projects.json)
 
           # Fetch existing columns (fields) in the project
           gh api graphql -f query='
