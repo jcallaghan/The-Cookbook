@@ -15,119 +15,53 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check-out repository
-        uses: actions/checkout@v4
 
-      - name: Set up GitHub CLI
-        run: sudo apt-get install gh
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-
-
-      - name: Set environment variables
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: jcallaghan
-          PROJECT_NUMBER: 7
+      - name: Set up date variables
+        id: set_dates
         run: |
-          # Fetch the project details using the known project number
-          gh api graphql -f query='
-            query($username: String!, $projectNumber: Int!) {
-              user(login: $username) {
-                projectV2(number: $projectNumber) {
-                  id
-                  title
-                }
-              }
-            }' -f username=$USERNAME -f projectNumber=$PROJECT_NUMBER > project_details.json
-          
-          # Extract and print the project title
-          PROJECT_TITLE=$(jq -r '.data.user.projectV2.title' project_details.json)
-          
-          if [ -z "$PROJECT_TITLE" ]; then
-            echo "Project with number '$PROJECT_NUMBER' not found."
-            exit 1
-          fi
-
-          echo "Project Title: $PROJECT_TITLE"
-
-      - name: Create and remove columns
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          # Use the retrieved project ID for managing columns
-          PROJECT_ID=$(jq -r --arg title "Meal Planner 📅" '.data.user.projectsV2.nodes[] | select(.title == $title) | .id' user_projects.json)
-
-          # Fetch existing columns (fields) in the project
-          gh api graphql -f query='
-            query($projectId: ID!) {
-              node(id: $projectId) {
-                ... on ProjectV2 {
-                  fields(first: 100) {
-                    nodes {
-                      ... on ProjectV2Field {
-                        id
-                        name
-                      }
-                      ... on ProjectV2SingleSelectField {
-                        id
-                        name
-                      }
-                    }
-                  }
-                }
-              }
-            }' -f projectId=$PROJECT_ID > project_fields.json
-          
-          # Parse the existing columns
-          jq -r '.data.node.fields.nodes[] | .name' project_fields.json > existing_columns.txt
-
-          # Define columns to ignore (non-date columns)
-          echo -e "No Status\nQueue\nPantry" > ignore_columns.txt
-
-          # Calculate today's date and generate new column names for the next 14 days
-          today=$(date +'%a %d-%b %Y')
-          for i in {1..14}; do
-            column_date=$(date -d "+$i day" +'%a %d-%b %Y')
-            echo $column_date >> new_columns.txt
+          echo "n_days=${{ github.event.inputs.days }}" >> $GITHUB_ENV
+          for i in $(seq 0 $n_days); do
+            date_name=$(date -d "+${i} day" +"%a %d-%b %Y")
+            echo "day_$i=$date_name" >> $GITHUB_ENV
           done
 
-          # Create new columns if they don't already exist
-          while IFS= read -r column_date; do
-            if ! grep -Fxq "$column_date" existing_columns.txt; then
-              echo "Creating new column: $column_date"
-              gh api graphql -f query='
-                mutation($projectId: ID!, $name: String!) {
-                  createProjectV2Field(input: {projectId: $projectId, name: $name}) {
-                    projectV2Field {
-                      id
-                    }
+      - name: Create status options in GitHub Project
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROJECT_ID: "PVT_kwHOAHGtNM4Am6Y8"
+        run: |
+          for i in $(seq 0 $n_days); do
+            date_name=$(eval echo "\$day_$i")
+            echo "Creating status option for: $date_name"
+
+            graphql_query='mutation {
+              updateProjectV2Field(
+                input: {
+                  projectId: "${PROJECT_ID}"
+                  fieldId: "YOUR_FIELD_ID"
+                  name: "Status"
+                  options: [
+                    { name: "'$date_name'" }
+                  ]
+                }
+              ) {
+                projectV2Field {
+                  id
+                  name
+                  options {
+                    name
                   }
-                }' -f projectId=$PROJECT_ID -f name="$column_date"
-            fi
-          done < new_columns.txt
+                }
+              }
+            }'
 
-          # Remove old date-based columns (older than 5 days)
-          today_epoch=$(date +%s)
-          cutoff_epoch=$(date -d "-5 days" +%s)
-
-          while IFS= read -r column_name; do
-            # Skip non-date columns
-            if grep -Fxq "$column_name" ignore_columns.txt; then
-              continue
-            fi
-
-            # Parse the date and convert to epoch
-            column_epoch=$(date -d "$column_name" +%s 2>/dev/null || echo "")
-
-            # Remove column if older than the cutoff
-            if [ "$column_epoch" != "" ] && [ $column_epoch -lt $cutoff_epoch ]; then
-              echo "Removing old column: $column_name"
-              column_id=$(jq -r --arg name "$column_name" '.data.node.fields.nodes[] | select(.name == $name) | .id' project_fields.json)
-              gh api graphql -f query='
-                mutation($fieldId: ID!) {
-                  deleteProjectV2Field(input: {fieldId: $fieldId}) {
-                    clientMutationId
-                  }
-                }' -f fieldId=$column_id
-            fi
-          done < existing_columns.txt
+            # Make the API call to create the status option
+            curl -X POST \
+              -H "Authorization: bearer $GITHUB_TOKEN" \
+              -H "Content-Type: application/json" \
+              -d '{"query":"'"$graphql_query"'"}' \
+              https://api.github.com/graphql
+          done
