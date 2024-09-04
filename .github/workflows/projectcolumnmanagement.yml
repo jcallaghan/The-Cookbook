@@ -1,14 +1,13 @@
 name: Project Column Management
 
-# Ensure that only one workflow runs at a time for a specific reference
 concurrency: 
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
 on:
-  workflow_dispatch:  # Allows manual triggering of the workflow
+  workflow_dispatch:
   schedule:
-    - cron: '1 0 * * *'  # Run daily at 00:01 UTC
+    - cron: '1 0 * * *'
 
 jobs:
   manage_columns:
@@ -25,8 +24,8 @@ jobs:
       - name: Create and remove columns
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PROJECT_NUMBER: 7
-          USERNAME: jcallaghan
+          PROJECT_NUMBER: 7 
+          USERNAME: jcallaghan 
         run: |
           # Get the current project ID and columns
           gh api graphql -f query='
@@ -36,8 +35,14 @@ jobs:
                   id
                   fields(first: 100) {
                     nodes {
-                      id
-                      name
+                      ... on ProjectV2Field {
+                        id
+                        name
+                      }
+                      ... on ProjectV2SingleSelectField {
+                        id
+                        name
+                      }
                     }
                   }
                 }
