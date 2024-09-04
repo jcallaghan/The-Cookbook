@@ -27,7 +27,7 @@ jobs:
           PROJECT_NUMBER: 7
           USERNAME: jcallaghan
         run: |
-          # Get the current project ID and columns
+          # Get the current project ID and columns for the user
           gh api graphql -f query='
             query($username: String!, $projectNumber: Int!) {
               user(login: $username) {
