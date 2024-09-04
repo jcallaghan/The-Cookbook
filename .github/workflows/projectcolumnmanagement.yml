@@ -1,40 +1,101 @@
-name: Project column management
+name: Project Column Management
 
-# https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#concurrency
+# Ensure that only one workflow runs at a time for a specific reference
 concurrency: 
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
-  
+
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # Allows manual triggering of the workflow
   schedule:
-    - cron: '1 0 * * *'
- 
+    - cron: '1 0 * * *'  # Run daily at 00:01 UTC
+
 jobs:
-
-  build:
-    name: Run python script
+  manage_columns:
+    name: Manage project columns
     runs-on: ubuntu-latest
-    
+
     steps:
+      - name: Check-out repository
+        uses: actions/checkout@v4
 
-    - name: Check-out repository
-      uses: actions/checkout@v4
+      - name: Set up GitHub CLI
+        run: sudo apt-get install gh
 
-    - name: Set up Python 3.9
-      uses: actions/setup-python@v5
-      with:
-        python-version: 3.9    
+      - name: Create and remove columns
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROJECT_NUMBER: 7
+          USERNAME: jcallaghan
+        run: |
+          # Get the current project ID and columns
+          gh api graphql -f query='
+            query($username: String!, $projectNumber: Int!) {
+              user(login: $username) {
+                projectV2(number: $projectNumber) {
+                  id
+                  fields(first: 100) {
+                    nodes {
+                      id
+                      name
+                    }
+                  }
+                }
+              }
+            }' -f username=$USERNAME -F projectNumber=$PROJECT_NUMBER > project_data.json
+          
+          PROJECT_ID=$(jq -r '.data.user.projectV2.id' project_data.json)
 
-    - name: Install Python dependencies
-      run: pip install -Uq PyGithub
-      
-    - name: Remove past columns and their cards
-      run: python .github/scripts/removepastprojectcolumns.py
-      env:
-        CONTEXT_GITHUB: ${{ toJson(github) }}
-        
-    - name: Create future columns
-      run: python .github/scripts/createprojectcolumns.py
-      env:
-        CONTEXT_GITHUB: ${{ toJson(github) }}
+          # Parse the existing columns
+          jq -r '.data.user.projectV2.fields.nodes[] | .name' project_data.json > existing_columns.txt
+          
+          # Define columns to ignore (non-date columns)
+          echo -e "No Status\nQueue\nPantry" > ignore_columns.txt
+
+          # Calculate today's date and generate new column names for the next 14 days
+          today=$(date +'%a %d-%b %Y')
+          for i in {1..14}; do
+            column_date=$(date -d "+$i day" +'%a %d-%b %Y')
+            echo $column_date >> new_columns.txt
+          done
+
+          # Create new columns if they don't already exist
+          while IFS= read -r column_date; do
+            if ! grep -Fxq "$column_date" existing_columns.txt; then
+              echo "Creating new column: $column_date"
+              gh api graphql -f query='
+                mutation($projectId: ID!, $name: String!) {
+                  createProjectV2Field(input: {projectId: $projectId, name: $name}) {
+                    projectV2Field {
+                      id
+                    }
+                  }
+                }' -f projectId=$PROJECT_ID -f name="$column_date"
+            fi
+          done < new_columns.txt
+
+          # Remove old date-based columns (older than 5 days)
+          today_epoch=$(date +%s)
+          cutoff_epoch=$(date -d "-5 days" +%s)
+
+          while IFS= read -r column_name; do
+            # Skip non-date columns
+            if grep -Fxq "$column_name" ignore_columns.txt; then
+              continue
+            fi
+
+            # Parse the date and convert to epoch
+            column_epoch=$(date -d "$column_name" +%s 2>/dev/null || echo "")
+
+            # Remove column if older than the cutoff
+            if [ "$column_epoch" != "" ] && [ $column_epoch -lt $cutoff_epoch ]; then
+              echo "Removing old column: $column_name"
+              column_id=$(jq -r --arg name "$column_name" '.data.user.projectV2.fields.nodes[] | select(.name == $name) | .id' project_data.json)
+              gh api graphql -f query='
+                mutation($fieldId: ID!) {
+                  deleteProjectV2Field(input: {fieldId: $fieldId}) {
+                    clientMutationId
+                  }
+                }' -f fieldId=$column_id
+            fi
+          done < existing_columns.txt
