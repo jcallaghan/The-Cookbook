@@ -21,34 +21,34 @@ jobs:
       - name: Set up GitHub CLI
         run: sudo apt-get install gh
 
-      - name: Get project node ID by title
+
+
+      - name: Set environment variables
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: jcallaghan
-          PROJECT_TITLE: "Meal Planner 📅"  
+          PROJECT_ID: "PVT_kwHOAHGtNM4Am6Y8"
         run: |
-          # Fetch all projects for the user and filter by title
+          # Fetch the project details using the known project ID
           gh api graphql -f query='
-            query($username: String!) {
+            query($username: String!, $projectId: ID!) {
               user(login: $username) {
-                projectsV2(first: 100) {
-                  nodes {
-                    id
-                    title
-                  }
+                projectV2(id: $projectId) {
+                  id
+                  title
                 }
               }
-            }' -f username=$USERNAME > user_projects.json
+            }' -f username=$USERNAME -f projectId=$PROJECT_ID > project_details.json
           
-          # Extract the project node ID for the project titled "Meal Planner 📅"
-          PROJECT_ID=$(jq -r --arg title "$PROJECT_TITLE" '.data.user.projectsV2.nodes[] | select(.title == $title) | .id' user_projects.json)
+          # Extract and print the project title
+          PROJECT_TITLE=$(jq -r '.data.user.projectV2.title' project_details.json)
           
-          if [ -z "$PROJECT_ID" ]; then
-            echo "Project with title '$PROJECT_TITLE' not found."
+          if [ -z "$PROJECT_TITLE" ]; then
+            echo "Project with ID '$PROJECT_ID' not found."
             exit 1
           fi
 
-          echo "Project Node ID: $PROJECT_ID"
+          echo "Project Title: $PROJECT_TITLE"
 
       - name: Create and remove columns
         env:
