@@ -21,18 +21,38 @@ jobs:
       - name: Set up GitHub CLI
         run: sudo apt-get install gh
 
+      - name: Get project node ID
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the built-in token
+          USERNAME: jcallaghan  # Your GitHub username
+        run: |
+          # Fetch the project node ID using the project number (7 in this case)
+          gh api graphql -f query='
+            query {
+              user(login: "jcallaghan") {
+                projectV2(number: 7) {
+                  id
+                }
+              }
+            }' > project_node_id.json
+          
+          # Extract the project node ID
+          PROJECT_ID=$(jq -r '.data.user.projectV2.id' project_node_id.json)
+          echo "Project Node ID: $PROJECT_ID"
+
       - name: Create and remove columns
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PROJECT_NUMBER: 7
-          USERNAME: jcallaghan
+          USERNAME: jcallaghan  # Your GitHub username
         run: |
-          # Get the current project ID and columns for the user
+          # Use the retrieved project ID for managing columns
+          PROJECT_ID=$(jq -r '.data.user.projectV2.id' project_node_id.json)
+
+          # Fetch existing columns (fields) in the project
           gh api graphql -f query='
-            query($username: String!, $projectNumber: Int!) {
-              user(login: $username) {
-                projectV2(number: $projectNumber) {
-                  id
+            query($projectId: ID!) {
+              node(id: $projectId) {
+                ... on ProjectV2 {
                   fields(first: 100) {
                     nodes {
                       ... on ProjectV2Field {
@@ -47,13 +67,11 @@ jobs:
                   }
                 }
               }
-            }' -f username=$USERNAME -F projectNumber=$PROJECT_NUMBER > project_data.json
+            }' -f projectId=$PROJECT_ID > project_fields.json
           
-          PROJECT_ID=$(jq -r '.data.user.projectV2.id' project_data.json)
-
           # Parse the existing columns
-          jq -r '.data.user.projectV2.fields.nodes[] | .name' project_data.json > existing_columns.txt
-          
+          jq -r '.data.node.fields.nodes[] | .name' project_fields.json > existing_columns.txt
+
           # Define columns to ignore (non-date columns)
           echo -e "No Status\nQueue\nPantry" > ignore_columns.txt
 
@@ -95,7 +113,7 @@ jobs:
             # Remove column if older than the cutoff
             if [ "$column_epoch" != "" ] && [ $column_epoch -lt $cutoff_epoch ]; then
               echo "Removing old column: $column_name"
-              column_id=$(jq -r --arg name "$column_name" '.data.user.projectV2.fields.nodes[] | select(.name == $name) | .id' project_data.json)
+              column_id=$(jq -r --arg name "$column_name" '.data.node.fields.nodes[] | select(.name == $name) | .id' project_fields.json)
               gh api graphql -f query='
                 mutation($fieldId: ID!) {
                   deleteProjectV2Field(input: {fieldId: $fieldId}) {
