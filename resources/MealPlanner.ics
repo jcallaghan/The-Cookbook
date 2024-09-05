@@ -20,26 +20,149 @@ DTSTART:19701025T020000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+
 BEGIN:VEVENT
-UID:85eef1bf-858b-419b-97b3-f4153f88b892
-DTSTAMP:20240827T162048
-DTSTART:20240827T180000
-DTEND:20240827T200000
-SUMMARY:Crispy Chicken Rice Salad #657 for dinner
-DESCRIPTION:Crispy Chicken Rice Salad #657 - https://github.com/jcallaghan/The-Cookbook/issues/657
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
+    UID: f5652b85-5a54-459b-ae27-e8751d1fde64
+    DTSTAMP: 20240905T105425
+    DTSTART: 20240902T180000
+    DTEND: 20240902T200000
+    SUMMARY: Butter chicken curry #353 for dinner
+    DESCRIPTION: Butter chicken curry #353 - https://github.com/jcallaghan/The-Cookbook/issues/353
+    SEQUENCE: 0
+    LOCATION: 
+    TRANSP: TRANSPARENT
 END:VEVENT
+
 BEGIN:VEVENT
-UID:8b580793-296b-48d0-af8d-e3f8e7e1a413
-DTSTAMP:20240827T162049
-DTSTART:20240828T180000
-DTEND:20240828T200000
-SUMMARY:Crab pasta salad or sandwich filler #9 for dinner
-DESCRIPTION:Crab pasta salad or sandwich filler #9 - https://github.com/jcallaghan/The-Cookbook/issues/9
-SEQUENCE:0
-LOCATION:
-TRANSP:TRANSPARENT
+    UID: c09ac547-5a41-4fe1-b4d0-366bf1c263e2
+    DTSTAMP: 20240905T105425
+    DTSTART: 20240904T180000
+    DTEND: 20240904T200000
+    SUMMARY: Creamy smoked salmon pasta #1 for dinner
+    DESCRIPTION: Creamy smoked salmon pasta #1 - https://github.com/jcallaghan/The-Cookbook/issues/1
+    SEQUENCE: 0
+    LOCATION: 
+    TRANSP: TRANSPARENT
 END:VEVENT
+
+BEGIN:VEVENT
+    UID: f6360f9e-505c-44be-bf0f-d493d14cf169
+    DTSTAMP: 20240905T105425
+    DTSTART: 20240905T180000
+    DTEND: 20240905T200000
+    SUMMARY: Crab pasta salad or sandwich filler #9 for dinner
+    DESCRIPTION: Crab pasta salad or sandwich filler #9 - https://github.com/jcallaghan/The-Cookbook/issues/9
+    SEQUENCE: 0
+    LOCATION: 
+    TRANSP: TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+    UID: cec30cb3-99e1-4b8e-9be5-7a2fa93b2da8
+    DTSTAMP: 20240905T105425
+    DTSTART: 20240906T180000
+    DTEND: 20240906T200000
+    SUMMARY: Zinger Burger Fakeaway for dinner
+    DESCRIPTION: Zinger Burger Fakeaway - https://www.instagram.com/reel/C8T0sGjS3pA/
+    SEQUENCE: 0
+    LOCATION: 
+    TRANSP: TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+    UID: d09c7ccb-18f6-4419-8ad0-a33c3a4f1a0b
+    DTSTAMP: 20240905T105425
+    DTSTART: 20240907T180000
+    DTEND: 20240907T200000
+    SUMMARY: Chilli con carne #319 for dinner
+    DESCRIPTION: Chilli con carne #319 - https://github.com/jcallaghan/The-Cookbook/issues/319
+    SEQUENCE: 0
+    LOCATION: 
+    TRANSP: TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+    UID: dbb26945-75a3-4346-b4f1-50d56fc2c019
+    DTSTAMP: 20240905T105425
+    DTSTART: 20240907T180000
+    DTEND: 20240907T200000
+    SUMMARY: Loaded Nachos #440 for dinner
+    DESCRIPTION: Loaded Nachos #440 - https://github.com/jcallaghan/The-Cookbook/issues/440
+    SEQUENCE: 0
+    LOCATION: 
+    TRANSP: TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+    UID: 6d32fa5f-d1d1-4d09-a69f-12abfaa52666
+    DTSTAMP: 20240905T105425
+    DTSTART: 20240909T180000
+    DTEND: 20240909T200000
+    SUMMARY: Pesto tagliatelle with sea bass #177 for dinner
+    DESCRIPTION: Pesto tagliatelle with sea bass #177 - https://github.com/jcallaghan/The-Cookbook/issues/177
+    SEQUENCE: 0
+    LOCATION: 
+    TRANSP: TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+    UID: 832abb57-d474-4416-9769-91a7872e7bd6
+    DTSTAMP: 20240905T105425
+    DTSTART: 20240910T180000
+    DTEND: 20240910T200000
+    SUMMARY: Chicken supreme #154 for dinner
+    DESCRIPTION: Chicken supreme #154 - https://github.com/jcallaghan/The-Cookbook/issues/154
+    SEQUENCE: 0
+    LOCATION: 
+    TRANSP: TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+    UID: 528d110a-7454-4884-965d-daf30c4fb512
+    DTSTAMP: 20240905T105425
+    DTSTART: 20240910T180000
+    DTEND: 20240910T200000
+    SUMMARY: Mash potato #280 for dinner
+    DESCRIPTION: Mash potato #280 - https://github.com/jcallaghan/The-Cookbook/issues/280
+    SEQUENCE: 0
+    LOCATION: 
+    TRANSP: TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+    UID: e1b13856-0f67-4fc4-85ff-d2e8e6e35557
+    DTSTAMP: 20240905T105425
+    DTSTART: 20240911T180000
+    DTEND: 20240911T200000
+    SUMMARY: Chicken Schnitzel #256 for dinner
+    DESCRIPTION: Chicken Schnitzel #256 - https://github.com/jcallaghan/The-Cookbook/issues/256
+    SEQUENCE: 0
+    LOCATION: 
+    TRANSP: TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+    UID: 4f3d8d39-be8a-4c83-9000-0afcacf7d70e
+    DTSTAMP: 20240905T105425
+    DTSTART: 20240911T180000
+    DTEND: 20240911T200000
+    SUMMARY: Crispy Smashed Potato Salad #638 for dinner
+    DESCRIPTION: Crispy Smashed Potato Salad #638 - https://github.com/jcallaghan/The-Cookbook/issues/638
+    SEQUENCE: 0
+    LOCATION: 
+    TRANSP: TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+    UID: bf5ddf0c-dd83-45f7-b31c-fb729ac2274d
+    DTSTAMP: 20240905T105425
+    DTSTART: 20240912T180000
+    DTEND: 20240912T200000
+    SUMMARY: Sausage Traybake #683 for dinner
+    DESCRIPTION: Sausage Traybake #683 - https://github.com/jcallaghan/The-Cookbook/issues/683
+    SEQUENCE: 0
+    LOCATION: 
+    TRANSP: TRANSPARENT
+END:VEVENT
+
 END:VCALENDAR
