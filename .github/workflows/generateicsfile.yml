@@ -33,25 +33,25 @@ jobs:
     - name: Check-out repository
       uses: actions/checkout@v4
 
-    - name: Set up Python 3.9
-      if: false
-      uses: actions/setup-python@v5
-      with:
-        python-version: 3.9    
+    # - name: Set up Python 3.9
+    #   if: false
+    #   uses: actions/setup-python@v5
+    #   with:
+    #     python-version: 3.9    
 
-    - name: Install Python dependencies
-      if: false
-      run: pip install -Uq requests PyGithub
+    # - name: Install Python dependencies
+    #   if: false
+    #   run: pip install -Uq requests PyGithub
       
-    - name: Generate ICS file
-      if: false
-      run: python .github/scripts/generateics.py
-      env:
-        CONTEXT_GITHUB: ${{ toJson(github) }}    
+    # - name: Generate ICS file
+    #   if: false
+    #   run: python .github/scripts/generateics.py
+    #   env:
+    #     CONTEXT_GITHUB: ${{ toJson(github) }}    
 
-    - name: Transfer Status
-      if: false
-      run: echo "Transfer Status - ${{ steps.connect.outputs.transferStatus }}"
+    # - name: Transfer Status
+    #   if: false
+    #   run: echo "Transfer Status - ${{ steps.connect.outputs.transferStatus }}"
       
     - name: Upload Files
       id: upload
