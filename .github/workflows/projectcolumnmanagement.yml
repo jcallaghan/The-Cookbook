@@ -1,6 +1,9 @@
 name: Project Column Management
 
+<<<<<<< HEAD
 # Ensure that only one workflow runs at a time for a specific reference
+=======
+>>>>>>> 7db5f14df424c604e8b81c7452bb66e313f3ccae
 concurrency: 
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
@@ -8,7 +11,11 @@ concurrency:
 on:
   workflow_dispatch:  # Allows manual triggering of the workflow
   schedule:
+<<<<<<< HEAD
     - cron: '1 0 * * *'  # Run daily at 00:01 UTC
+=======
+    - cron: '1 0 * * *'  # Runs daily at 00:01 UTC
+>>>>>>> 7db5f14df424c604e8b81c7452bb66e313f3ccae
 
 jobs:
   manage_columns:
@@ -19,6 +26,7 @@ jobs:
       - name: Check-out repository
         uses: actions/checkout@v4
 
+<<<<<<< HEAD
       - name: Set up GitHub CLI
         run: sudo apt-get install gh
 
@@ -99,3 +107,78 @@ jobs:
                 }' -f fieldId=$column_id
             fi
           done < existing_columns.txt
+=======
+      - name: Checkout repository
+        uses: actions/checkout@main
+        
+      - name: Set up date variables
+        id: set_dates
+        run: |
+          echo "n_days=${{ github.event.inputs.days }}" >> $GITHUB_ENV
+          for i in $(seq 0 $n_days); do
+            date_name=$(date -d "+${i} day" +"%a %d-%b-%Y")  # Make sure to use correct format
+            echo "day_$i=$date_name" >> $GITHUB_ENV
+          done
+        env:
+          n_days: 14
+
+      - name: Log created dates
+        run: |
+          for i in $(seq 0 $n_days); do
+            date_name=$(eval echo "\$day_$i")
+            echo "Prepared date: $date_name"
+          done
+
+      - name: Create status options in GitHub Project
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROJECT_ID: "PVT_kwHOAHGtNM4Am6Y8"
+        run: |
+          for i in $(seq 0 $n_days); do
+            date_name=$(eval echo "\$day_$i")
+            echo "Creating status option for: $date_name"
+
+            graphql_query='mutation {
+              updateProjectV2Field(
+                input: {
+                  projectId: "'$PROJECT_ID'"
+                  fieldId: "128914728"
+                  name: "Status"
+                  options: [
+                    { name: "'$date_name'" }
+                  ]
+                }
+              ) {
+                projectV2Field {
+                  id
+                  name
+                  options {
+                    name
+                  }
+                }
+              }
+            }'
+
+            # Log the GraphQL query
+            echo "GraphQL query: $graphql_query"
+
+            # Make the API call to create the status option
+            response=$(curl -X POST \
+              -H "Authorization: bearer $GITHUB_TOKEN" \
+              -H "Content-Type: application/json" \
+              -d '{"query":"'"$graphql_query"'"}' \
+              https://api.github.com/graphql)
+
+            # Log the response from the GitHub API
+            echo "API response: $response"
+
+            # Check for errors in the response
+            if echo "$response" | grep -q '"errors"'; then
+              echo "Error encountered when creating option for: $date_name"
+              echo "$response"
+            else
+              echo "Successfully created status option for: $date_name"
+            fi
+
+          done
+>>>>>>> 7db5f14df424c604e8b81c7452bb66e313f3ccae
