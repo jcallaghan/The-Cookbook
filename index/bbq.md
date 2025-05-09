@@ -6,7 +6,7 @@ There are 47 bbq recipes in the cookbook.
 |-|------|------|-------|------|
 | B||||
 ||[511](https://github.com/jcallaghan/The-Cookbook/issues/511)|[BBQ Asparagus](https://github.com/jcallaghan/The-Cookbook/issues/511)| |Style / BBQ<br>Meal / Side Dish|
-||[231](https://github.com/jcallaghan/The-Cookbook/issues/231)|[BBQ Halloumi](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/bbq-halloumi.md)| |Style / Vegetarian<br>Style / BBQ<br>Meal / Appetiser<br>Meal / Side Dish<br>Ingredient / Cheese 🧀<br>⚙ Needs Pictures ✅<br>⚙ Published|
+||[231](https://github.com/jcallaghan/The-Cookbook/issues/231)|[BBQ Halloumi](https://github.com/jcallaghan/The-Cookbook/issues/231)| |Style / Vegetarian<br>Style / BBQ<br>Meal / Appetiser<br>Meal / Side Dish<br>Ingredient / Cheese 🧀<br>⚙ Needs Pictures ✅<br>⚙ Published|
 ||[515](https://github.com/jcallaghan/The-Cookbook/issues/515)|[BBQ Sweetcorn](https://github.com/jcallaghan/The-Cookbook/issues/515)| |Style / BBQ|
 ||[222](https://github.com/jcallaghan/The-Cookbook/issues/222)|[BBQ Trout](https://github.com/jcallaghan/The-Cookbook/issues/222)| |Style / BBQ|
 ||[13](https://github.com/jcallaghan/The-Cookbook/issues/13)|[BBQ chicken kebabs](https://github.com/jcallaghan/The-Cookbook/issues/13)| |Style / BBQ<br>Favourite 🥰<br>Favourite 🥰 / Jas|
@@ -63,4 +63,4 @@ There are 47 bbq recipes in the cookbook.
 | 🧅||||
 ||[537](https://github.com/jcallaghan/The-Cookbook/issues/537)|[🧅➕🥔🟰🧼 BBQ Grill Clean & Non-Stick Trick](https://github.com/jcallaghan/The-Cookbook/issues/537)| |Style / BBQ<br>Resources / Tips & Tricks|
 
-_This index was automatically generated at 08-05-2025 00:31:14 using a custom Python script and GitHub Action._
+_This index was automatically generated at 09-05-2025 00:30:26 using a custom Python script and GitHub Action._
