@@ -58,9 +58,9 @@ There are 48 pasta recipes in the cookbook.
 ||[418](https://github.com/jcallaghan/The-Cookbook/issues/418)|[Stuffed pasta shells](https://github.com/jcallaghan/The-Cookbook/issues/418)| |Style / Pasta 🍝<br>Ingredient / Meat / Beef|
 | T||||
 ||[60](https://github.com/jcallaghan/The-Cookbook/issues/60)|[Tagliatelle with broccoli, cauliflower and blue cheese](https://github.com/jcallaghan/The-Cookbook/issues/60)| |Style / Pasta 🍝<br>Style / Vegetarian<br>ℹ️ Quick & Easy<br>Meal / Main<br>Ingredient / Cheese 🧀<br>ℹ️ One Pot Wonder 💪<br>⚙ Published|
-||[297](https://github.com/jcallaghan/The-Cookbook/issues/297)|[Tomato pasta](https://github.com/jcallaghan/The-Cookbook/issues/297)| |Style / Pasta 🍝<br>Style / Vegetarian<br>ℹ️ Quick & Easy<br>Meal / Main<br>⚙ Needs Pictures ✅<br>⚙ Published|
+||[297](https://github.com/jcallaghan/The-Cookbook/issues/297)|[Tomato pasta](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/tomato-pasta.md)| |Style / Pasta 🍝<br>Style / Vegetarian<br>ℹ️ Quick & Easy<br>Meal / Main<br>⚙ Needs Pictures ✅<br>⚙ Published|
 ||[394](https://github.com/jcallaghan/The-Cookbook/issues/394)|[Tomato, garlic and prawn pasta](https://github.com/jcallaghan/The-Cookbook/issues/394)| |Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Ingredient / Fish 🐟 / Prawn<br>ℹ️ Quick & Easy<br>Favourite 🥰 / James<br>Meal / Main<br>⚙ Published<br>Travel Memories|
 | V||||
 ||[383](https://github.com/jcallaghan/The-Cookbook/issues/383)|[Vayia Shrimp Pasta](https://github.com/jcallaghan/The-Cookbook/issues/383)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Food Memories|
 
-_This index was automatically generated at 13-05-2025 00:31:06 using a custom Python script and GitHub Action._
+_This index was automatically generated at 14-05-2025 00:31:56 using a custom Python script and GitHub Action._
