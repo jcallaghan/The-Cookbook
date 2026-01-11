@@ -10,7 +10,7 @@ There are 48 pasta recipes in the cookbook.
 ||[465](https://github.com/jcallaghan/The-Cookbook/issues/465)|[Braised Beef Tortelloni with Truffle Butter](https://github.com/jcallaghan/The-Cookbook/issues/465)| |Style / Pasta 🍝<br>Ingredient / Meat / Beef<br>Jas Shares|
 ||[85](https://github.com/jcallaghan/The-Cookbook/issues/85)|[Bryan's Spaghetti Carbonara](https://github.com/jcallaghan/The-Cookbook/issues/85)| |Style / Pasta 🍝<br>Ingredient / Meat / Pork<br>ℹ️ Quick & Easy<br>ℹ️ One Pot Wonder 💪<br>ℹ️ Friends Recipes 🥰<br>⚙ Needs Pictures ✅|
 ||[644](https://github.com/jcallaghan/The-Cookbook/issues/644)|[Burrata pasta salad](https://github.com/jcallaghan/The-Cookbook/issues/644)| |Style / Pasta 🍝<br>Favourite 🥰 / Jas<br>Favourite 🥰 / James<br>Ingredient / Cheese 🧀<br>Style / Salad|
-||[112](https://github.com/jcallaghan/The-Cookbook/issues/112)|[Béchamel sauce](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/béchamel-sauce.md)| |Style / Pasta 🍝<br>Ingredient / Cheese 🧀<br>⚙ Needs Pictures Updating ✅<br>Style / Classic<br>Style / Sauce<br>⚙ Published|
+||[112](https://github.com/jcallaghan/The-Cookbook/issues/112)|[Béchamel sauce](https://github.com/jcallaghan/The-Cookbook/issues/112)| |Style / Pasta 🍝<br>Ingredient / Cheese 🧀<br>⚙ Needs Pictures Updating ✅<br>Style / Classic<br>Style / Sauce<br>⚙ Published|
 | C||||
 ||[359](https://github.com/jcallaghan/The-Cookbook/issues/359)|[Cacio e Peppe](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/cacio-e-peppe.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/cacio-e-peppe-1.jpg' alt='Cacio e Peppe' width='200'/>|Style / Pasta 🍝<br>Style / Vegetarian<br>Meal / Main<br>Ingredient / Cheese 🧀<br>Style / Italian 🇮🇹<br>Chef 🧑🏼‍🍳 / Alex<br>⚙ Published|
 ||[494](https://github.com/jcallaghan/The-Cookbook/issues/494)|[Cajun Shrimp Alfredo](https://github.com/jcallaghan/The-Cookbook/issues/494)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Jas Shares|
@@ -63,4 +63,4 @@ There are 48 pasta recipes in the cookbook.
 | V||||
 ||[383](https://github.com/jcallaghan/The-Cookbook/issues/383)|[Vayia Shrimp Pasta](https://github.com/jcallaghan/The-Cookbook/issues/383)| |Style / Pasta 🍝<br>Ingredient / Fish 🐟 / Prawn<br>Meal / Main<br>⚙ Needs Writing-up ✅<br>⚙ Needs Pictures ✅<br>Food Memories|
 
-_This index was automatically generated at 10-01-2026 00:35:28 using a custom Python script and GitHub Action._
+_This index was automatically generated at 11-01-2026 00:39:54 using a custom Python script and GitHub Action._
