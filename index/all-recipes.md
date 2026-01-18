@@ -82,8 +82,8 @@ There are 66 all recipes recipes in the cookbook.
 | W||||
 ||[546](https://github.com/jcallaghan/The-Cookbook/issues/546)|[Warm salmon, beetroot & freekeh salad](https://github.com/jcallaghan/The-Cookbook/issues/546)| |Ingredient / Fish 🐟 / Salmon<br>Style / Health Food<br>Style / Salad<br>⚙ Published|
 ||[310](https://github.com/jcallaghan/The-Cookbook/issues/310)|[Whiskey Sour](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/whiskey-sour.md)| |Drink / Cocktail 🍸<br>Favourite 🥰 / James<br>Ingredient / Egg<br>Drink / Whiskey<br>Drink / Cocktail Cards Index<br>⚙ Published|
-||[447](https://github.com/jcallaghan/The-Cookbook/issues/447)|[Whisky Haggis sauce](https://github.com/jcallaghan/The-Cookbook/issues/447)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/whisky-haggis-sauce-1.jpg' alt='Whisky Haggis sauce' width='200'/>|Style / Sauce<br>Drink / Whiskey<br>⚙ Published<br>Style / Scottish|
+||[447](https://github.com/jcallaghan/The-Cookbook/issues/447)|[Whisky Haggis sauce](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/whisky-haggis-sauce.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/whisky-haggis-sauce-1.jpg' alt='Whisky Haggis sauce' width='200'/>|Style / Sauce<br>Drink / Whiskey<br>⚙ Published<br>Style / Scottish|
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 17-01-2026 00:32:36 using a custom Python script and GitHub Action._
+_This index was automatically generated at 18-01-2026 00:37:09 using a custom Python script and GitHub Action._
