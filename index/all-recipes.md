@@ -5,7 +5,7 @@ There are 66 all recipes recipes in the cookbook.
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
 | B||||
-||[231](https://github.com/jcallaghan/The-Cookbook/issues/231)|[BBQ Halloumi](https://github.com/jcallaghan/The-Cookbook/issues/231)| |Style / Vegetarian<br>Style / BBQ<br>Meal / Appetiser<br>Meal / Side Dish<br>Ingredient / Cheese 🧀<br>⚙ Needs Pictures ✅<br>⚙ Published|
+||[231](https://github.com/jcallaghan/The-Cookbook/issues/231)|[BBQ Halloumi](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/bbq-halloumi.md)| |Style / Vegetarian<br>Style / BBQ<br>Meal / Appetiser<br>Meal / Side Dish<br>Ingredient / Cheese 🧀<br>⚙ Needs Pictures ✅<br>⚙ Published|
 ||[165](https://github.com/jcallaghan/The-Cookbook/issues/165)|[Banana Milkshake](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/banana-milkshake.md)| |Favourite 🥰 / Jas<br>Ingredient / Fruit 🍓 🍌<br>Drink / Milkshake 🥛🍶<br>⚙ Needs Pictures ✅<br>⚙ Published|
 ||[8](https://github.com/jcallaghan/The-Cookbook/issues/8)|[Beef Stroganoff](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/beef-stroganoff.md)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/beef-stroganoff-1.jpg' alt='Beef Stroganoff' width='200'/>|Ingredient / Meat / Beef<br>Favourite 🥰 / Jas<br>Ingredient / Steak<br>Meal / Main<br>⚙ Needs Pictures ✅<br>Ingredient / Vegetable / Mushroom 🍄<br>⚙ Published|
 ||[268](https://github.com/jcallaghan/The-Cookbook/issues/268)|[Beef and Guinness stew](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/beef-and-guinness-stew.md)| |Ingredient / Meat / Beef<br>Meal / Main<br>ℹ️ One Pot Wonder 💪<br>ℹ️ Friends Recipes 🥰<br>Style / Stew<br>⚙ Published|
@@ -86,4 +86,4 @@ There are 66 all recipes recipes in the cookbook.
 | Y||||
 ||[294](https://github.com/jcallaghan/The-Cookbook/issues/294)|[Yorkshire puddings](https://github.com/jcallaghan/The-Cookbook/blob/main/recipes/yorkshire-puddings.md)| |Meal / Side Dish<br>Style / Roast<br>⚙ Needs Pictures ✅<br>ℹ️ Make ahead of time ⏰<br>⚙ Published|
 
-_This index was automatically generated at 15-10-2026 03:40:19 using a custom Python script and GitHub Action._
+_This index was automatically generated at 16-10-2026 03:37:02 using a custom Python script and GitHub Action._
